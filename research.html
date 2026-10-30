@@ -2,106 +2,281 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Новости и исследования РС — Мир РС</title>
-<style>
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial,sans-serif;background:#f4f7fa;color:#263746;line-height:1.7}
-header{background:#174b65;color:white;padding:25px 20px}
-header h1{margin:0;color:white}
-.container{max-width:1000px;margin:auto;padding:0 20px}
-nav{background:#103b51;padding:12px 20px}
-nav a{color:white;text-decoration:none}
-main{padding:35px 0 55px}
-h1,h2{color:#174b65}
-.card{background:white;padding:24px;margin:20px 0;border-radius:9px;box-shadow:0 2px 9px #193b5012}
-.notice{background:#fff8e8;border-left:4px solid #d6a33b;padding:17px;margin-top:25px}
-footer{background:#174b65;color:white;text-align:center;padding:22px}
-footer a{color:white}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Исследования — Мир РС</title>
+  <meta name="description" content="Научные публикации и исследования рассеянного склероза.">
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f7fb;
+      color: #263445;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #174b75;
+      color: white;
+      padding: 28px 20px;
+      text-align: center;
+    }
+
+    header h1 { margin: 0 0 8px; }
+
+    nav {
+      background: #103957;
+      padding: 12px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 18px;
+    }
+
+    .intro, .article, .controls {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 18px;
+      box-shadow: 0 2px 8px #0000000d;
+    }
+
+    .controls input, .controls select {
+      width: 100%;
+      padding: 12px;
+      margin: 7px 0 14px;
+      border: 1px solid #cbd5df;
+      border-radius: 6px;
+      font-size: 16px;
+      background: white;
+    }
+
+    .article h3 {
+      margin-top: 0;
+      color: #174b75;
+    }
+
+    .meta {
+      color: #687787;
+      font-size: 14px;
+    }
+
+    .category {
+      display: inline-block;
+      background: #e6f0f8;
+      color: #174b75;
+      padding: 4px 9px;
+      border-radius: 5px;
+      font-size: 13px;
+      margin: 3px 4px 3px 0;
+    }
+
+    .article a {
+      color: #1769aa;
+      font-weight: bold;
+    }
+
+    .status {
+      padding: 18px;
+      background: white;
+      border-radius: 8px;
+      margin-bottom: 18px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #687787;
+    }
+  </style>
 </head>
+
 <body>
 
 <header>
-<div class="container">
-<h1>Мир РС</h1>
-<p>Информационный портал о рассеянном склерозе</p>
-</div>
+  <h1>Мир РС</h1>
+  <p>Научные исследования рассеянного склероза</p>
 </header>
 
 <nav>
-<div class="container">
-<a href="index.html">← Главная страница</a>
-</div>
+  <a href="index.html">Главная</a>
+  <a href="treatment.html">Лечение</a>
+  <a href="forms.html">Формы РС</a>
+  <a href="symptoms.html">Симптомы</a>
+  <a href="life.html">Жизнь с РС</a>
+  <a href="research.html">Исследования</a>
 </nav>
 
-<main class="container">
-<h1>Новости и научные исследования</h1>
+<main>
 
-<div class="card">
-<p>Научные исследования помогают лучше понимать механизмы рассеянного склероза, разрабатывать новые методы лечения и искать способы восстановления функций нервной системы.</p>
-<p>В этом разделе мы будем собирать результаты исследований, клинических испытаний и важные новости медицинской науки.</p>
-</div>
+  <section class="intro">
+    <h2>Научные публикации</h2>
+    <p>
+      Здесь собраны научные публикации о рассеянном склерозе,
+      полученные из международной базы PubMed.
+      Можно искать исследования по названию и тематике.
+    </p>
+    <p class="meta">
+      Источник: National Library of Medicine (PubMed).
+      Названия публикаций приводятся на языке оригинала.
+    </p>
+  </section>
 
-<section class="card">
-<h2>1. Новые методы лечения</h2>
-<p>Исследователи изучают новые подходы к воздействию на иммунную систему, включая новые лекарственные молекулы и способы доставки препаратов.</p>
-<p>Особое внимание уделяется эффективности лечения, безопасности и возможности замедления накопления инвалидизации.</p>
-</section>
+  <section class="controls">
+    <label for="search"><strong>Поиск публикаций</strong></label>
+    <input id="search" type="search"
+      placeholder="Введите слова из названия исследования">
 
-<section class="card">
-<h2>2. Прогрессирующий рассеянный склероз</h2>
-<p>Одно из важных направлений современной науки — поиск способов воздействия на механизмы прогрессирования заболевания, которые могут сохраняться даже при отсутствии явных обострений.</p>
-<p>Изучаются хроническое воспаление в центральной нервной системе, повреждение нервных волокон и механизмы нейродегенерации.</p>
-</section>
+    <label for="category"><strong>Тематическая категория</strong></label>
+    <select id="category">
+      <option value="">Все категории</option>
+    </select>
+  </section>
 
-<section class="card">
-<h2>3. Восстановление миелина</h2>
-<p>Миелин — защитная оболочка нервных волокон, которая помогает проводить нервные сигналы.</p>
-<p>Ремелинизация — процесс восстановления миелиновой оболочки. Учёные исследуют вещества и клеточные механизмы, которые потенциально могут стимулировать этот процесс.</p>
-<p>Пока большинство таких подходов остаётся предметом исследований, а не стандартным методом лечения РС.</p>
-</section>
-
-<section class="card">
-<h2>4. Нейропротекция</h2>
-<p>Нейропротекция — направление исследований, цель которого заключается в защите нервных клеток и их отростков от повреждения.</p>
-<p>Это особенно важно при изучении прогрессирующих форм РС.</p>
-</section>
-
-<section class="card">
-<h2>5. Клинические испытания</h2>
-<p>Клинические испытания позволяют оценивать новые методы лечения с участием добровольцев.</p>
-<p>Результаты исследований проходят несколько этапов проверки. Положительный результат раннего исследования ещё не означает, что препарат станет доступен для обычного лечения.</p>
-</section>
-
-<section class="card">
-<h2>6. Где искать научную информацию?</h2>
-<ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">PubMed</a> — база медицинских научных публикаций.</li>
-<li><a href="https://www.nice.org.uk/" target="_blank" rel="noopener">NICE</a> — рекомендации и оценка медицинских технологий.</li>
-<li><a href="https://www.nationalmssociety.org/" target="_blank" rel="noopener">National MS Society</a> — информация о РС и научных исследованиях.</li>
-<li><a href="https://www.mssociety.org.uk/" target="_blank" rel="noopener">MS Society UK</a> — материалы о заболевании и исследованиях.</li>
-<li><a href="https://clinicaltrials.gov/" target="_blank" rel="noopener">ClinicalTrials.gov</a> — международный реестр клинических исследований.</li>
-</ul>
-</section>
-
-<section class="card">
-<h2>Как мы будем публиковать новости?</h2>
-<p>Планируется автоматический поиск новых публикаций, отбор материалов по теме рассеянного склероза, подготовка русскоязычных обзоров и размещение ссылок на первоисточники.</p>
-<p>Каждая новость должна содержать дату публикации, ссылку на оригинал, описание метода исследования и результаты. Экспериментальные результаты будут отделяться от доказанных методов лечения.</p>
-</section>
-
-<div class="notice">
-<strong>Важно:</strong> научное исследование не всегда означает доказанную эффективность лечения. Информация на этой странице не является медицинской рекомендацией.
-</div>
+  <div id="status" class="status">Загружаем публикации...</div>
+  <section id="articles"></section>
 
 </main>
 
 <footer>
-<p>© Мир РС — информационный портал</p>
-<p><a href="index.html">На главную</a></p>
+  Мир РС — информационный проект о рассеянном склерозе
 </footer>
+
+<script>
+const articlesElement = document.getElementById("articles");
+const statusElement = document.getElementById("status");
+const searchElement = document.getElementById("search");
+const categoryElement = document.getElementById("category");
+
+let publications = [];
+
+function createTextElement(tag, text, className) {
+  const element = document.createElement(tag);
+  element.textContent = text || "";
+  if (className) element.className = className;
+  return element;
+}
+
+function renderArticles() {
+  const search = searchElement.value.toLowerCase().trim();
+  const selectedCategory = categoryElement.value;
+
+  const filtered = publications.filter(article => {
+    const matchesSearch =
+      (article.title || "").toLowerCase().includes(search);
+
+    const matchesCategory =
+      !selectedCategory ||
+      (article.categories || []).includes(selectedCategory);
+
+    return matchesSearch && matchesCategory;
+  });
+
+  articlesElement.replaceChildren();
+
+  if (filtered.length === 0) {
+    articlesElement.appendChild(
+      createTextElement("p", "Публикации не найдены.", "status")
+    );
+    return;
+  }
+
+  filtered.forEach(article => {
+    const card = document.createElement("article");
+    card.className = "article";
+
+    card.appendChild(createTextElement("h3", article.title));
+
+    card.appendChild(createTextElement(
+      "p",
+      "Дата: " + (article.date || "не указана") +
+      " | Журнал: " + (article.journal || "не указан"),
+      "meta"
+    ));
+
+    if (article.authors && article.authors.length) {
+      card.appendChild(createTextElement(
+        "p",
+        "Авторы: " + article.authors.join(", "),
+        "meta"
+      ));
+    }
+
+    const categories = document.createElement("div");
+
+    (article.categories || []).forEach(name => {
+      categories.appendChild(
+        createTextElement("span", name, "category")
+      );
+    });
+
+    card.appendChild(categories);
+
+    const link = document.createElement("a");
+    link.href = article.url;
+    link.textContent = "Читать публикацию в PubMed";
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+
+    card.appendChild(document.createElement("p")).appendChild(link);
+    articlesElement.appendChild(card);
+  });
+
+  statusElement.textContent =
+    "Показано публикаций: " + filtered.length +
+    " из " + publications.length;
+}
+
+async function loadPublications() {
+  try {
+    const response = await fetch("data/pubmed.json");
+
+    if (!response.ok) {
+      throw new Error("Не удалось загрузить архив публикаций.");
+    }
+
+    publications = await response.json();
+
+    const categories = new Set();
+
+    publications.forEach(article => {
+      (article.categories || []).forEach(category => {
+        categories.add(category);
+      });
+    });
+
+    [...categories].sort().forEach(category => {
+      const option = document.createElement("option");
+      option.value = category;
+      option.textContent = category;
+      categoryElement.appendChild(option);
+    });
+
+    renderArticles();
+
+  } catch (error) {
+    statusElement.textContent =
+      "Ошибка загрузки публикаций. Попробуйте обновить страницу позже.";
+    console.error(error);
+  }
+}
+
+searchElement.addEventListener("input", renderArticles);
+categoryElement.addEventListener("change", renderArticles);
+
+loadPublications();
+</script>
 
 </body>
 </html>
