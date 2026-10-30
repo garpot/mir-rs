@@ -12,38 +12,42 @@ DATA_FILE = Path("data/pubmed.json")
 # Темы и ключевые слова для предварительной классификации
 CATEGORIES = {
     "Лечение и препараты": [
-        "treatment", "therapy", "therapeutic", "drug",
+        "randomized trial", "clinical trial",
+        "efficacy", "therapeutic effect",
         "ocrelizumab", "ofatumumab", "rituximab",
-        "dimethyl fumarate", "disease-modifying"
+        "dimethyl fumarate", "disease-modifying therapy"
     ],
     "Симптомы и прогрессирование": [
-        "progression", "disability", "fatigue", "spasticity",
-        "pain", "cognitive", "symptom", "relapse"
+        "progression", "disability", "fatigue",
+        "spasticity", "pain", "cognitive impairment",
+        "symptom", "relapse"
     ],
     "Ремиелинизация и восстановление": [
-        "remyelination", "myelin repair", "neuroprotection",
-        "axon", "neuroregeneration"
+        "remyelination", "myelin repair",
+        "neuroprotection", "axon regeneration",
+        "neuroregeneration"
     ],
     "Диагностика и биомаркеры": [
-        "diagnosis", "diagnostic", "biomarker", "neurofilament",
-        "mcdonald criteria", "magnetic resonance", "mri"
+        "diagnosis", "diagnostic", "biomarker",
+        "neurofilament", "mcdonald criteria",
+        "magnetic resonance imaging", "mri"
     ],
     "Реабилитация и мобильность": [
-        "rehabilitation", "exercise", "physical activity",
-        "mobility", "balance", "stretching", "physiotherapy",
-        "wheelchair"
+        "rehabilitation", "physical activity",
+        "mobility", "balance training",
+        "physiotherapy", "wheelchair"
     ],
     "Причины и механизмы РС": [
-        "epstein-barr", "ebv", "genetic", "immune",
-        "immunology", "inflammation", "microbiome",
-        "pathogenesis", "risk factor"
+        "epstein-barr", "ebv", "genetic",
+        "immunology", "inflammation",
+        "microbiome", "pathogenesis", "risk factor"
     ],
     "Безопасность лечения": [
-        "safety", "adverse event", "side effect",
-        "infection", "pharmacovigilance"
+        "adverse event", "side effect",
+        "infection risk", "safety profile",
+        "pharmacovigilance"
     ],
 }
-
 
 def classify_article(title, abstract):
     text = f"{title} {abstract}".lower()
