@@ -1,5 +1,6 @@
 
 import json
+import xml.etree.ElementTree as ET
 import os
 import urllib.parse
 import urllib.request
@@ -76,6 +77,32 @@ else:
 
 records = {item["pmid"]: item for item in old_data}
 
+root = ET.fromstring(abstracts_xml)
+
+abstracts = {}
+
+for article in root.findall(".//PubmedArticle"):
+    pmid_element = article.find(".//PMID")
+
+    if pmid_element is None:
+        continue
+
+    pmid = pmid_element.text
+
+    abstract_parts = []
+
+    for part in article.findall(".//Abstract/AbstractText"):
+        text = "".join(part.itertext()).strip()
+
+        if text:
+            label = part.attrib.get("Label", "")
+            if label:
+                abstract_parts.append(f"{label}: {text}")
+            else:
+                abstract_parts.append(text)
+
+    abstracts[pmid] = " ".join(abstract_parts)
+    
 for pmid in ids:
     item = summary_data["result"].get(pmid)
 
@@ -87,14 +114,15 @@ for pmid in ids:
         for author in item.get("authors", [])[:5]
     ]
 
-    records[pmid] = {
-        "pmid": pmid,
-        "title": item.get("title", ""),
-        "date": item.get("pubdate", ""),
-        "journal": item.get("fulljournalname", ""),
-        "authors": authors,
-        "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
-    }
+records[pmid] = {
+    "pmid": pmid,
+    "title": item.get("title", ""),
+    "date": item.get("pubdate", ""),
+    "journal": item.get("fulljournalname", ""),
+    "authors": authors,
+    "abstract": abstracts.get(pmid, ""),
+    "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+}
 
 result = list(records.values())
 result.sort(key=lambda x: x["date"], reverse=True)
