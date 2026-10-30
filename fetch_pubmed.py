@@ -11,7 +11,17 @@ DATA_FILE = Path("data/pubmed.json")
 # Ищем новые публикации о рассеянном склерозе
 params = {
     "db": "pubmed",
-    "term": '"multiple sclerosis"[Title/Abstract]',
+    "term": (
+        '"multiple sclerosis"[Title/Abstract] '
+        'AND ('
+        'treatment[Title/Abstract] OR therapy[Title/Abstract] '
+        'OR progression[Title/Abstract] OR diagnosis[Title/Abstract] '
+        'OR rehabilitation[Title/Abstract] OR symptoms[Title/Abstract] '
+        'OR fatigue[Title/Abstract] OR disability[Title/Abstract] '
+        'OR remyelination[Title/Abstract] OR clinical trial[Title/Abstract] '
+        'OR "disease modifying"[Title/Abstract]'
+        ')'
+    ),
     "datetype": "pdat",
     "reldate": "30",
     "sort": "date",
