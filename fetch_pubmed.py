@@ -55,6 +55,18 @@ url = BASE + "esummary.fcgi?" + urllib.parse.urlencode(summary_params)
 with urllib.request.urlopen(url, timeout=30) as response:
     summary_data = json.loads(response.read())
 
+fetch_params = {
+    "db": "pubmed",
+    "id": ",".join(ids),
+    "rettype": "abstract",
+    "retmode": "xml"
+}
+
+url = BASE + "efetch.fcgi?" + urllib.parse.urlencode(fetch_params)
+
+with urllib.request.urlopen(url, timeout=30) as response:
+    abstracts_xml = response.read().decode("utf-8")
+    
 DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 if DATA_FILE.exists():
