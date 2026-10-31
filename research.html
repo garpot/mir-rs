@@ -357,6 +357,13 @@ function renderTrials() {
     return matchesSearch && matchesStatus;
   });
 
+  // Сортировка: недавно обновлённые исследования идут первыми.
+  filtered.sort((a, b) => {
+    const dateA = Date.parse(a.last_update || "") || 0;
+    const dateB = Date.parse(b.last_update || "") || 0;
+    return dateB - dateA;
+  });
+
   trialsElement.replaceChildren();
 
   if (filtered.length === 0) {
