@@ -351,6 +351,43 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42960454/"
   },
   {
+    "pmid": "42963036",
+    "title": "Effect of Electrical Stimulation on Remyelination in Preclinical Models of Multiple Sclerosis: A Systematic Review.",
+    "date": "2026 Oct 30",
+    "journal": "Progress in neurobiology",
+    "authors": [
+      "Alderei A",
+      "Bhamidimarri PM",
+      "Pitsalidis C",
+      "Yousef AF",
+      "Safar HA"
+    ],
+    "abstract": "BACKGROUND: Different types of electrical stimulations (ES), transcranial direct current stimulation (tDCS), vagus nerve stimulation (VNS), and peripheral nerve stimulation (PNS) have emerged as neuromodulatory treatments to promote remyelination in multiple sclerosis (MS). Although preclinical evidence continues to accumulate, a systematic review assessing the effect of ES on remyelination across MS-relevant models has not been undertaken. METHODS: PubMed-MEDLINE, Embase, and Scopus databases were systematically searched up to January 2026 for in vivo studies investigating ES in demyelinating animal models. Two reviewers independently extracted data on study design, stimulation parameters, and quantitative measures of myelin integrity, including visual evoked potential (VEP) latency, and histological myelin content outcomes. Risk of bias was assessed using SYRCLE's tool. RESULTS: Six eligible studies met the inclusion criteria, comprising EAE, cuprizone, and lysolecithin lesion models. Across these studies, ES was associated with improvements in indices of remyelination, evidenced by reduced VEP latency, and increased myelin protein expression. Effects of tDCS depended on polarity and timing, with anodal stimulation supporting oligodendrocyte maturation during recovery and cathodal stimulation attenuating glial activation during inflammation. VNS promoted remyelination through anti-inflammatory and trophic signaling, and PNS supported spinal remyelination via peripheral to central neuroimmune modulation. CONCLUSION: Limited but convergent preclinical evidence suggests ES may enhance remyelination by modulating neuronal and inflammatory pathways. However, standardized protocols of stimulation and multimodal imaging studies are needed for clinical translation in MS.",
+    "categories": [
+      "Ремиелинизация и восстановление",
+      "Причины и механизмы РС"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963036/"
+  },
+  {
+    "pmid": "42961681",
+    "title": "Subcutaneous panniculitis-like T cell lymphoma in a patient with multiple sclerosis during anti-CD20 therapy: a case report.",
+    "date": "2026 Oct 30",
+    "journal": "Journal of neurology",
+    "authors": [
+      "Amati F",
+      "Chiapparino C",
+      "Franco G",
+      "Frisone G",
+      "Ardito B"
+    ],
+    "abstract": "",
+    "categories": [
+      "Другие исследования"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961681/"
+  },
+  {
     "pmid": "42930633",
     "title": "Blood Cell Imaging Analysis for Multiple Sclerosis Classification Using Leave-One-Subject-Out Study with Deep Neural Networks.",
     "date": "2026 Oct 3",
@@ -730,6 +767,41 @@
       "Диагностика и биомаркеры"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42929234/"
+  },
+  {
+    "pmid": "42962632",
+    "title": "Multiple sclerosis burden: global versus MENA region (1990 to 2023), with mortality projections to 2050: A pairwise GBD analysis.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Aljabr MN",
+      "Almushiqh OA",
+      "Alsaud RS",
+      "Alhoody EA",
+      "Alanazi AK"
+    ],
+    "abstract": "INTRODUCTION: Multiple sclerosis (MS) burden is rising in the Middle East and North Africa (MENA), a region long considered low-prevalence. This study compared MS mortality, incidence, and prevalence between MENA and global populations from 1990 to 2023. METHODS: GBD 2023 age-standardized mortality (ASMR), incidence (ASIR), and prevalence (ASPR) rates for 21 MENA countries and globally were analyzed with joinpoint regression, comparing average annual percentage changes (AAPC) with z-tests adjusted for MENA's inclusion in the global estimate. Death counts were decomposed into population growth, ageing, and ASMR change, and country trends were stratified by income group and subregion. RESULTS: Global ASMR declined from 0.23 to 0.21 per 100,000 (AAPC -0.28%), whereas MENA ASMR rose from 0.14 to 0.24 (AAPC +1.67%; p < 0.001 versus global), although its GBD uncertainty interval included zero. Global deaths rose 97% through population growth (+52%) and ageing (+42%) despite a 9% ASMR decline; MENA deaths rose 376% through population growth (+99%), ageing (+40%), and rising ASMR (+71%). MENA incidence (AAPC +0.33% vs -0.03%) and prevalence (+0.54% vs +0.26%) outpaced global rates, and female mortality in MENA outpaced male mortality (+2.22% vs +0.97%). Country trends did not differ by income group or subregion. By 2050, mortality was projected to fall 26.3% globally against 10.5% in MENA. CONCLUSIONS: Age-standardized MS incidence and prevalence are rising in MENA, more so in females, while global trends remain largely stable. Rising deaths in both populations largely reflect population growth and ageing. MS registries, disease-modifying therapy access, and neurorehabilitation investment are needed.",
+    "categories": [
+      "Лечение и препараты",
+      "Реабилитация и мобильность"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962632/"
+  },
+  {
+    "pmid": "42962630",
+    "title": "The role of comorbidities in comprehensive healthcare utilization among people with multiple sclerosis.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Neto LO",
+      "Turner AP",
+      "Gromisch ES"
+    ],
+    "abstract": "BACKGROUND: Many people with multiple sclerosis (PwMS) live with comorbid conditions, which may contribute to more complex healthcare needs. While there have been several studies on their associations with increased hospitalizations and emergency visits, there has been limited investigation into other aspects of care (e.g., imaging) or composite indices have been used rather than individual conditions. OBJECTIVE: To determine If comorbidities in PwMS are associated with utilization of a wider range of healthcare services and which specific comorbid conditions are linked to those services. METHODS: Participants (n = 185) were PwMS who completed a series of questionnaires about their comorbidities and healthcare utilization over the prior 12 months as part of a larger study. Regression models were used to evaluate the relationships between healthcare utilization and specific comorbidities, controlling for age, gender, race, education, and annual income. RESULTS: PwMS with a comorbidity had higher utilization of several services, including more healthcare provider visits (p < 0.001), particularly with primary care (p = .041) and mental health providers (p = .003), unique providers seen (p < 0.001), active medications (p < .001), MRIs (p = .008), X-rays (p = .031), inpatient hospital stays (p = .038), and elective surgeries (p = .035). Several comorbidities, including anxiety, sleep apnea, autoimmune thyroid disease, and irritable bowel syndrome, were most frequently associated with increased service use. CONCLUSIONS: These findings expand upon the previous literature, demonstrating that comorbidities are associated with greater utilization of a wide range of services and the complex needs of PwMS living with multiple chronic conditions.",
+    "categories": [
+      "Диагностика и биомаркеры"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962630/"
   },
   {
     "pmid": "42927851",
@@ -1462,6 +1534,24 @@
     "categories": [
       "Причины и механизмы РС"
     ]
+  },
+  {
+    "pmid": "42962631",
+    "title": "Depressive symptoms and CSF markers of B-cell activation in multiple sclerosis.",
+    "date": "2026 Oct 18",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Di Sabatino E",
+      "Sperandei S",
+      "Cinesi G",
+      "Brachelente G",
+      "Quattrucci L"
+    ],
+    "abstract": "BACKGROUND: Psychiatric symptoms in people with multiple sclerosis (pwMS) may be considered as a biologically driven manifestation of the disease. B-cell activation is reliably reflected in cerebrospinal fluid (CSF) by means of oligoclonal bands (OCBs) and the kappa free light chain (κ-FLC) index. OBJECTIVE: We retrospectively explored the relationship of CSF OCBs and κ-FLC index with psychiatric symptoms in a consecutive series of newly diagnosed pwMS. RESULTS: Both OCB positivity and a κ-FLC index ≥3.3 were significantly associated with higher depressive symptoms scores. Multivariate analyses confirmed the association for OCB positivity and a borderline association for a κ-FLC index ≥3.3. CONCLUSIONS: Our findings support the need to systematically assess psychiatric symptoms in MS as a biologically based component of the disease.",
+    "categories": [
+      "Симптомы и прогрессирование"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962631/"
   },
   {
     "pmid": "42941573",
