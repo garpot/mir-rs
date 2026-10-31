@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Исследования — Мир РС</title>
-  <meta name="description" content="Научные публикации и исследования рассеянного склероза.">
+  <meta name="description" content="Научные публикации и клинические исследования рассеянного склероза.">
+
   <style>
     * { box-sizing: border-box; }
 
@@ -38,13 +39,15 @@
       margin: 0 10px;
     }
 
+    nav a:hover { text-decoration: underline; }
+
     main {
       max-width: 1000px;
       margin: 30px auto;
       padding: 0 18px;
     }
 
-    .intro, .article, .controls {
+    .intro, .article, .controls, .status {
       background: white;
       border-radius: 10px;
       padding: 20px;
@@ -87,17 +90,26 @@
       font-weight: bold;
     }
 
-    .status {
-      padding: 18px;
-      background: white;
-      border-radius: 8px;
-      margin-bottom: 18px;
+    .section-title {
+      color: #174b75;
+      margin: 35px 0 12px;
+    }
+
+    .description {
+      white-space: pre-line;
     }
 
     footer {
       text-align: center;
       padding: 25px;
       color: #687787;
+    }
+
+    @media (max-width: 600px) {
+      nav a {
+        display: inline-block;
+        margin: 5px 7px;
+      }
     }
   </style>
 </head>
@@ -121,22 +133,29 @@
 <main>
 
   <section class="intro">
-    <h2>Научные публикации</h2>
+    <h2>Научные исследования рассеянного склероза</h2>
     <p>
-      Здесь собраны научные публикации о рассеянном склерозе,
-      полученные из международной базы PubMed.
-      Можно искать исследования по названию и тематике.
+      На этой странице собраны научные публикации и клинические
+      исследования, связанные с рассеянным склерозом.
     </p>
     <p class="meta">
-      Источник: National Library of Medicine (PubMed).
-      Названия публикаций приводятся на языке оригинала.
+      Источники: PubMed — National Library of Medicine;
+      ClinicalTrials.gov — база клинических исследований США.
+      Названия исследований приводятся на языке оригинала.
+    </p>
+    <p class="meta">
+      Информация носит ознакомительный характер.
+      Наличие исследования в базе не означает, что его метод
+      лечения доказал эффективность или получил одобрение.
     </p>
   </section>
+
+  <h2 class="section-title">Научные публикации</h2>
 
   <section class="controls">
     <label for="search"><strong>Поиск публикаций</strong></label>
     <input id="search" type="search"
-      placeholder="Введите слова из названия исследования">
+      placeholder="Введите слова из названия">
 
     <label for="category"><strong>Тематическая категория</strong></label>
     <select id="category">
@@ -144,8 +163,28 @@
     </select>
   </section>
 
-  <div id="status" class="status">Загружаем публикации...</div>
+  <div id="pubmed-status" class="status">
+    Загружаем публикации...
+  </div>
   <section id="articles"></section>
+
+  <h2 class="section-title">Клинические исследования</h2>
+
+  <section class="controls">
+    <label for="trial-search"><strong>Поиск клинических исследований</strong></label>
+    <input id="trial-search" type="search"
+      placeholder="Название, препарат или заболевание">
+
+    <label for="trial-status-filter"><strong>Статус исследования</strong></label>
+    <select id="trial-status-filter">
+      <option value="">Все статусы</option>
+    </select>
+  </section>
+
+  <div id="trials-status" class="status">
+    Загружаем клинические исследования...
+  </div>
+  <section id="trials"></section>
 
 </main>
 
@@ -155,11 +194,17 @@
 
 <script>
 const articlesElement = document.getElementById("articles");
-const statusElement = document.getElementById("status");
+const pubmedStatus = document.getElementById("pubmed-status");
 const searchElement = document.getElementById("search");
 const categoryElement = document.getElementById("category");
 
+const trialsElement = document.getElementById("trials");
+const trialsStatus = document.getElementById("trials-status");
+const trialSearch = document.getElementById("trial-search");
+const trialStatusFilter = document.getElementById("trial-status-filter");
+
 let publications = [];
+let clinicalTrials = [];
 
 function createTextElement(tag, text, className) {
   const element = document.createElement(tag);
@@ -167,6 +212,24 @@ function createTextElement(tag, text, className) {
   if (className) element.className = className;
   return element;
 }
+
+function addLink(container, url, text) {
+  if (!url) return;
+
+  const link = document.createElement("a");
+  link.href = url;
+  link.textContent = text;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+
+  const paragraph = document.createElement("p");
+  paragraph.appendChild(link);
+  container.appendChild(paragraph);
+}
+
+// ------------------------------
+// PUBMED
+// ------------------------------
 
 function renderArticles() {
   const search = searchElement.value.toLowerCase().trim();
@@ -189,7 +252,6 @@ function renderArticles() {
     articlesElement.appendChild(
       createTextElement("p", "Публикации не найдены.", "status")
     );
-    return;
   }
 
   filtered.forEach(article => {
@@ -223,17 +285,11 @@ function renderArticles() {
 
     card.appendChild(categories);
 
-    const link = document.createElement("a");
-    link.href = article.url;
-    link.textContent = "Читать публикацию в PubMed";
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-
-    card.appendChild(document.createElement("p")).appendChild(link);
+    addLink(card, article.url, "Читать публикацию в PubMed");
     articlesElement.appendChild(card);
   });
 
-  statusElement.textContent =
+  pubmedStatus.textContent =
     "Показано публикаций: " + filtered.length +
     " из " + publications.length;
 }
@@ -247,6 +303,10 @@ async function loadPublications() {
     }
 
     publications = await response.json();
+
+    if (!Array.isArray(publications)) {
+      throw new Error("Неверный формат архива публикаций.");
+    }
 
     const categories = new Set();
 
@@ -266,16 +326,160 @@ async function loadPublications() {
     renderArticles();
 
   } catch (error) {
-    statusElement.textContent =
-      "Ошибка загрузки публикаций. Попробуйте обновить страницу позже.";
+    pubmedStatus.textContent =
+      "Не удалось загрузить публикации. Попробуйте обновить страницу.";
     console.error(error);
   }
 }
 
+// ------------------------------
+// CLINICALTRIALS.GOV
+// ------------------------------
+
+function renderTrials() {
+  const search = trialSearch.value.toLowerCase().trim();
+  const selectedStatus = trialStatusFilter.value;
+
+  const filtered = clinicalTrials.filter(trial => {
+    const searchableText = [
+      trial.title,
+      trial.nct_id,
+      trial.summary,
+      ...(trial.interventions || []),
+      ...(trial.conditions || [])
+    ].join(" ").toLowerCase();
+
+    const matchesSearch = searchableText.includes(search);
+
+    const matchesStatus =
+      !selectedStatus || trial.status === selectedStatus;
+
+    return matchesSearch && matchesStatus;
+  });
+
+  trialsElement.replaceChildren();
+
+  if (filtered.length === 0) {
+    trialsElement.appendChild(
+      createTextElement(
+        "p",
+        "Клинические исследования не найдены.",
+        "status"
+      )
+    );
+  }
+
+  filtered.forEach(trial => {
+    const card = document.createElement("article");
+    card.className = "article";
+
+    card.appendChild(createTextElement("h3", trial.title));
+
+    card.appendChild(createTextElement(
+      "p",
+      "Номер исследования: " + (trial.nct_id || "не указан"),
+      "meta"
+    ));
+
+    card.appendChild(createTextElement(
+      "p",
+      "Статус: " + (trial.status || "не указан") +
+      " | Фаза: " + (trial.phase || "не указана"),
+      "meta"
+    ));
+
+    card.appendChild(createTextElement(
+      "p",
+      "Тип исследования: " + (trial.study_type || "не указан"),
+      "meta"
+    ));
+
+    card.appendChild(createTextElement(
+      "p",
+      "Начало: " + (trial.start_date || "не указано") +
+      " | Последнее обновление: " +
+      (trial.last_update || "не указано"),
+      "meta"
+    ));
+
+    if (trial.interventions && trial.interventions.length) {
+      card.appendChild(createTextElement(
+        "p",
+        "Препараты и вмешательства: " +
+        trial.interventions.join(", ")
+      ));
+    }
+
+    if (trial.summary) {
+      card.appendChild(createTextElement(
+        "p",
+        trial.summary,
+        "description"
+      ));
+    }
+
+    addLink(
+      card,
+      trial.url,
+      "Подробнее на ClinicalTrials.gov"
+    );
+
+    trialsElement.appendChild(card);
+  });
+
+  trialsStatus.textContent =
+    "Показано исследований: " + filtered.length +
+    " из " + clinicalTrials.length;
+}
+
+async function loadClinicalTrials() {
+  try {
+    const response = await fetch("data/clinicaltrials.json");
+
+    if (!response.ok) {
+      throw new Error("Не удалось загрузить архив клинических исследований.");
+    }
+
+    clinicalTrials = await response.json();
+
+    if (!Array.isArray(clinicalTrials)) {
+      throw new Error("Неверный формат архива клинических исследований.");
+    }
+
+    const statuses = new Set();
+
+    clinicalTrials.forEach(trial => {
+      if (trial.status) statuses.add(trial.status);
+    });
+
+    [...statuses].sort().forEach(status => {
+      const option = document.createElement("option");
+      option.value = status;
+      option.textContent = status;
+      trialStatusFilter.appendChild(option);
+    });
+
+    renderTrials();
+
+  } catch (error) {
+    trialsStatus.textContent =
+      "Не удалось загрузить клинические исследования. Попробуйте обновить страницу.";
+    console.error(error);
+  }
+}
+
+// ------------------------------
+// EVENTS
+// ------------------------------
+
 searchElement.addEventListener("input", renderArticles);
 categoryElement.addEventListener("change", renderArticles);
 
+trialSearch.addEventListener("input", renderTrials);
+trialStatusFilter.addEventListener("change", renderTrials);
+
 loadPublications();
+loadClinicalTrials();
 </script>
 
 </body>
