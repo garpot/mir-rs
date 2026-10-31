@@ -1,7 +1,6 @@
 
 import json
 import os
-import re
 import time
 import urllib.parse
 import urllib.request
@@ -312,6 +311,15 @@ def collect_clinical_trials():
                 "conditions", []
             )
 
+            # Настоящая дата последнего обновления записи
+            last_update = (
+                status.get(
+                    "studyLastUpdatePostDateStruct", {}
+                ).get("date", "")
+                or status.get("studyLastUpdatePostDate", "")
+                or status.get("studyLastUpdateSubmitDate", "")
+            )
+
             records[nct_id] = {
                 "nct_id": nct_id,
                 "title": title,
@@ -325,9 +333,7 @@ def collect_clinical_trials():
                 "start_date": status.get(
                     "startDateStruct", {}
                 ).get("date", ""),
-                "last_update": status.get(
-                    "studyFirstPostDateStruct", {}
-                ).get("date", ""),
+                "last_update": last_update,
                 "interventions": interventions,
                 "conditions": conditions,
                 "summary": summary,
