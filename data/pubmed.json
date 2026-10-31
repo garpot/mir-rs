@@ -295,6 +295,39 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42939703/"
   },
   {
+    "pmid": "42963855",
+    "title": "Unveiling Asymptomatic Atrioventricular Reciprocating Tachycardia in a Patient With Wolff-Parkinson-White Syndrome and Multiple Sclerosis.",
+    "date": "2026 Oct 31",
+    "journal": "The American journal of case reports",
+    "authors": [
+      "Gerlt D",
+      "Patel R",
+      "Mogg M",
+      "Bruggemann J",
+      "Olafiranye O"
+    ],
+    "abstract": "BACKGROUND Intermittent accessory pathway conduction can obscure the electrocardiographic diagnosis of Wolff-Parkinson-White (WPW) syndrome on resting electrocardiograms (ECGs). Furthermore, sensory disruptions characteristic of multiple sclerosis (MS) can blunt symptom perception, masking potentially life-threatening hemodynamic instability. CASE REPORT A 54-year-old woman with secondary-progressive MS (SPMS) was admitted for a complicated urinary tract infection. The admitting ECG demonstrated sinus tachycardia without preexcitation. Telemetry subsequently revealed narrow-complex tachycardia at 220 beats per minute (BPM) with concurrent hypotension. Despite hemodynamic instability, the patient explicitly denied palpitations, chest pain, or presyncope. She had discontinued fingolimod several years earlier because of palpitations, a detail retrospectively suggestive of an accessory pathway. Review of records identified historical ECGs with intermittent delta waves and short PR intervals, confirming the presence of an accessory pathway with intermittent antegrade conduction. A 12-lead ECG during the acute event confirmed orthodromic atrioventricular reciprocating tachycardia (AVRT). The patient underwent successful synchronized cardioversion followed by radiofrequency ablation of a left-sided anterolateral accessory pathway via electrophysiological study (EPS). CONCLUSIONS This case illustrates the \"ECG dilemma\" of intermittent preexcitation, in which the absence of delta waves on a resting tracing does not exclude accessory pathway-mediated tachycardia. It further highlights that patients with neuro-modulating diseases, such as MS, may lack classical \"alarm\" symptoms for arrhythmia due to progressive autonomic and sensory dysfunction. Clinicians must maintain a high index of suspicion for concealed arrhythmias in this population, as neurological impairment can dissociate hemodynamic instability from subjective symptom perception. Objective monitoring with telemetry is essential to prevent adverse outcomes in this vulnerable population.",
+    "categories": [
+      "Симптомы и прогрессирование",
+      "Диагностика и биомаркеры"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963855/"
+  },
+  {
+    "pmid": "42963434",
+    "title": "Host genomic context determines the direction of an oracle-predicted sequence effect: a composition-preserving CpG intervention in Enformer and Borzoi.",
+    "date": "2026 Oct 31",
+    "journal": "Functional & integrative genomics",
+    "authors": [
+      "Uysal SA"
+    ],
+    "abstract": "Sequence-to-function models are increasingly used as oracles to score designed regulatory elements, on the untested assumption that an effect measured at one locus holds at another. Taking chromatin and host loci from multiple sclerosis risk regions, we kept four questions apart: sequence realism, transfer of discrimination, edit stability, calibration. A sixth-order Markov chain reproduced the cell-type-specific motif enrichment a trained transformer missed, despite its lower held-out likelihood. Scores differ in level between loci far more than between inserts at one locus, yet inserts selected by an Enformer-derived index kept 85% of their advantage at four unseen loci. Once GC was matched, however, the index separated peak-derived from inaccessible sequence at none of 12 hosts, and from random sequence in opposite directions at different hosts. Placing identical inserts and an identical CpG edit at 24 host loci, the effect varied far beyond sampling noise on host identity alone ([Formula: see text]), unpredicted by 18 host properties. It survives scoring only the bins the insert occupies ([Formula: see text], and across 200 loci), so is no artefact of aggregation; the apparent host dominance, however, falls from 25-fold to 3-fold under that localised score, and the one locus positive under the whole-window score reverses under it. Borzoi reproduced the heterogeneity but not its amplitude, and the objective did not predict lentiMPRA activity. For these two oracles and this edit, the size of a predicted effect depends on where it is measured, and its direction at any one locus is not robust.",
+    "categories": [
+      "Другие исследования"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963434/"
+  },
+  {
     "pmid": "42957749",
     "title": "Transcription factor EB as a novel target for dimethyl fumarate to restore endothelial function in diabetes.",
     "date": "2026 Oct 30",
@@ -2458,5 +2491,25 @@
     "categories": [
       "Причины и механизмы РС"
     ]
+  },
+  {
+    "pmid": "42964061",
+    "title": "Targeting TLR4 alleviates the progression of experimental autoimmune encephalomyelitis by regulating central resident cells and Th1/Th17 cell differentiation.",
+    "date": "2026",
+    "journal": "Frontiers in immunology",
+    "authors": [
+      "Du E",
+      "Lei K",
+      "Deng W",
+      "Yang S",
+      "Liu Y"
+    ],
+    "abstract": "Multiple sclerosis (MS) is an autoimmune demyelinating disease characterized by neuroinflammation. Toll-like receptor 4 (TLR4) is a receptor for damage-associated molecular patterns, such as high-mobility group box 1 (HMGB1) and plays a role in innate immunity. However, its precise role and cellular dynamics in MS pathogenesis are unclear. Using the experimental autoimmune encephalomyelitis (EAE) model, we mapped the expression dynamics of TLR4 and found that in the spinal cords, the cell type associated with the disease shifted from neurons to activated glia. To establish causality, we subjected TLR4 -/- mice to EAE and observed significantly attenuated disease severity, reduced demyelination, and preserved neuronal integrity, alongside suppressed microglial and astrocytic activation. Furthermore, TLR4 deficiency was not merely dampening CNS-localized inflammation but was also associated with suppressed peripheral MOG35-55-specific Th1/Th17 effector responses, as evidenced by reduced production of IFN-γ and IL-17A in lymphoid organs, together with reduced TNF-α, as well as diminished expression of the Th1/Th17 lineage-defining transcription factors T-bet and RORγt in the spinal cord infiltrates. This suggests that TLR4 plays a key role in EAE pathology by connecting peripheral Th1/Th17 differentiation with central glial inflammatory responses. Critically, to translate these findings, we evaluated the small-molecule TLR4 antagonist TAK-242. While prophylactic administration was effective, therapeutic dosing initiated after disease onset still significantly alleviated clinical scores and delayed progression, highlighting its potential for clinical intervention. Overall, our results demonstrate that targeting TLR4 simultaneously curtails pathogenic T-cell differentiation and local neuroinflammation, establishing TLR4 as a dual-action therapeutic target for MS.",
+    "categories": [
+      "Симптомы и прогрессирование",
+      "Реабилитация и мобильность",
+      "Причины и механизмы РС"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964061/"
   }
 ]
