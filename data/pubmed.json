@@ -46,6 +46,35 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956320/"
   },
   {
+    "pmid": "42965793",
+    "title": "Cuprizone-Induced Demyelination and Remyelination Models of Multiple Sclerosis.",
+    "date": "2027",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "authors": [
+      "Summers BS",
+      "Mace JW",
+      "Calabresi PA",
+      "Gharagozloo M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is marked by central nervous system inflammation, demyelination, and neuronal injury, leading to cumulative neurological deficits. Despite reducing relapse rates, current therapies have limited impact on slowing disability accumulation in progressive forms of MS and do not directly promote remyelination. The cuprizone model is one of the most widely used demyelination models for studying oligodendrocyte death, myelin loss, and spontaneous remyelination. Remyelination is often impaired in MS lesions, and because cuprizone-induced demyelination often recovers quickly, it does not model inflammation-mediated inhibition of remyelination. Therefore, cuprizone can be combined with adoptive transfer of activated myelin-specific CD4⁺ T cells at the onset of spontaneous repair, and this combination model is referred to as the adoptive transfer-cuprizone (ATCup) paradigm, which recapitulates the immune-mediated suppression of remyelination seen in MS. This chapter provides detailed protocols for the cuprizone and ATCup paradigms, including immune cell generation and transfer, tissue processing, and quantitative histology. These models enable mechanistic studies of demyelination and repair and facilitate testing of drugs that protect oligodendrocytes and promote remyelination.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965793/"
+  },
+  {
+    "pmid": "42965791",
+    "title": "Myelinating Co-Cultures with CNS-Derived Axons and Analysis of Myelin Formation with Live Imaging.",
+    "date": "2027",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "authors": [
+      "Dehtiarov O",
+      "Carvalho ED",
+      "Bradley Zuchero J"
+    ],
+    "abstract": "Myelin is a lipid-rich insulating membrane that enables rapid and precise signal conduction along nerve fibers. Loss or damage of myelin is a hallmark of demyelinating diseases such as multiple sclerosis, underscoring the need for experimental systems that reveal how myelin is formed and maintained. Here we describe a neuron-oligodendrocyte co-culture method amenable to live-cell imaging of CNS myelination, with particular emphasis on generating a highly purified axonal substrate. Retinal ganglion cells (RGCs; the excitatory neurons whose highly myelinated axons project through the optic nerve to the brain) are isolated from rat retinas and purified by immunopanning to deplete other retinal cell types (e.g., glia and other types of neurons), yielding a highly pure population of CNS neurons suitable for myelination assays. Purified RGCs are maintained in culture to allow robust axonal outgrowth, after which oligodendrocyte lineage cells are added (typically 14-21 days after neuronal plating). Within ~6 days of co-culture, oligodendrocyte-axon interactions and axonal ensheathment are readily detectable and can be followed longitudinally by time-lapse microscopy. The system is compatible with fluorescent reporters and indicators, enabling correlation of myelin sheath initiation and growth with subcellular events such as calcium dynamics and regulated exocytosis. Overall, this method provides a scalable, experimentally tractable platform for mechanistic perturbations and comparative studies of CNS myelination.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965791/"
+  },
+  {
     "pmid": "42939314",
     "title": "Gyroscopic Radiosurgery for Trigeminal Neuralgia: Results of a Retrospective Series of >50 Patients.",
     "date": "2026 Sep 30",
@@ -176,6 +205,29 @@
     "abstract": "",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42943211/"
+  },
+  {
+    "pmid": "42966339",
+    "title": "Cognitive resilience and improvements in health-related quality of life over 4 years in people with relapsing multiple sclerosis treated with cladribine tablets: Results from the CLARIFY-MS Extension study.",
+    "date": "2026 Sep 20",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Lechner-Scott J",
+      "Langdon D",
+      "Brochet B",
+      "Solari A",
+      "Havrdova EK",
+      "Patti F",
+      "Smyk A",
+      "Danten M",
+      "Nolting A",
+      "Montalban X",
+      "Selmaj K",
+      "CLARIFY-MS Extension Study investigators"
+    ],
+    "abstract": "The initial 2-year phase 4 CLARIFY-MS Parent study demonstrated improvements in health-related quality of life (HRQoL) and preserved cognitive function in cladribine tablets (CladT)-treated people with highly active relapsing multiple sclerosis (RMS). To report 4-year data on cognitive function, HRQoL, other efficacy and safety outcomes from CLARIFY-MS Extension. No additional CladT treatment was protocolled during Extension (as per approved EU label). The primary endpoint was the proportion of participants with no or minimal decline in cognitive function at Month (M) 48 after initial dose versus Parent study baseline. HRQoL, and other efficacy and safety outcomes of CladT were also assessed. Overall, 68.6% of the participants (n = 192/280) showed no or minimal decline in cognitive function at M48 versus Parent study baseline. Significant improvements in Multiple Sclerosis Quality of Life-54 scores were observed over 48 months. The beneficial effect of CladT on relapses, radiological activity and disability progression observed in the Parent study were sustained during Extension. No unexpected safety signals were detected. CLARIFY-MS Extension demonstrated sustained benefits of CladT on cognitive function and HRQoL in people with highly active RMS for ≤4 years after the initial dose. The 4-year follow-up of the BICAMS battery indicated resilience across different aspects of cognition with CladT. The durable and multidimensional effects of CladT on key efficacy outcomes observed during the 2-year treatment-period of the Parent study were confirmed over the treatment-free Years 3-4 of Extension. The existing safety profile of CladT was confirmed over 4 years. CLARIFY-MS Extension study: URL: https://clinicaltrials.gov/study/NCT04776213; clinicaltrials.gov Identifier: NCT04776213.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966339/"
   },
   {
     "pmid": "42953805",
@@ -513,6 +565,85 @@
     "abstract": "Sequence-to-function models are increasingly used as oracles to score designed regulatory elements, on the untested assumption that an effect measured at one locus holds at another. Taking chromatin and host loci from multiple sclerosis risk regions, we kept four questions apart: sequence realism, transfer of discrimination, edit stability, calibration. A sixth-order Markov chain reproduced the cell-type-specific motif enrichment a trained transformer missed, despite its lower held-out likelihood. Scores differ in level between loci far more than between inserts at one locus, yet inserts selected by an Enformer-derived index kept 85% of their advantage at four unseen loci. Once GC was matched, however, the index separated peak-derived from inaccessible sequence at none of 12 hosts, and from random sequence in opposite directions at different hosts. Placing identical inserts and an identical CpG edit at 24 host loci, the effect varied far beyond sampling noise on host identity alone ([Formula: see text]), unpredicted by 18 host properties. It survives scoring only the bins the insert occupies ([Formula: see text], and across 200 loci), so is no artefact of aggregation; the apparent host dominance, however, falls from 25-fold to 3-fold under that localised score, and the one locus positive under the whole-window score reverses under it. Borzoi reproduced the heterogeneity but not its amplitude, and the objective did not predict lentiMPRA activity. For these two oracles and this edit, the size of a predicted effect depends on where it is measured, and its direction at any one locus is not robust.",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42963434/"
+  },
+  {
+    "pmid": "42965785",
+    "title": "Pathophysiology of Neuropathic Pain in Multiple Sclerosis: a Review.",
+    "date": "2026 Oct 31",
+    "journal": "Molecular neurobiology",
+    "authors": [
+      "Baiamonte L",
+      "Aridon P",
+      "Bellante G",
+      "Ragonese P",
+      "Salemi G"
+    ],
+    "abstract": "Neuropathic pain is one of the most relevant symptoms in multiple sclerosis (MS) and is a key contributor to the impaired quality of life in this disease. A better understanding of MS-related neuropathic pain is needed to develop new drugs and improve the use of available ones. In this review, we cover existing knowledge on the pathophysiology of neuropathic pain in patients with MS. Our current understanding of this disorder stems from studies conducted on MS, other diseases responsible for neuropathic pain, and animal models of demyelinating disorders, like experimental autoimmune encephalomyelitis. Responsible mechanisms are complex and can act at different levels. At the molecular and cellular scale, neuronal hyperexcitability is the main driver of neuropathic pain; it is the final consequence of other interacting events taking place on the cell membrane and in the intracellular and extracellular environment. Impairment of inhibitory neurotransmission further enhances hyperexcitability. Functional alterations of complex neuronal networks can be observed at higher levels, showing that modifications of the dynamic pain connectome play a relevant role in the pathogenesis of pain. Moreover, in recent years a distinction has been drawn between neuropathic and nociplastic pain; the consequences of this new classification on pathophysiological models of MS-related neuropathic pain are not still fully understood and deserve future attention.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965785/"
+  },
+  {
+    "pmid": "42965692",
+    "title": "ESR Essentials: susceptibility-weighted imaging-practice recommendations by the European Society for Magnetic Resonance in Medicine and Biology.",
+    "date": "2026 Oct 31",
+    "journal": "European radiology",
+    "authors": [
+      "Parillo M",
+      "Deistung A",
+      "Vaccarino F",
+      "Shmueli K",
+      "Quattrocchi CC",
+      "Rovira À"
+    ],
+    "abstract": "Susceptibility-weighted imaging (SWI) is a high-resolution 3D gradient-echo (GRE) magnetic resonance imaging (MRI) technique that combines magnitude and phase information to increase sensitivity to blood products, iron, calcification, thrombus, and venous structures. In routine practice, SWI should be interpreted together with source magnitude images, filtered phase images, processed SWI images, and minimum-intensity projection (minIP) images, keeping in mind blooming and other artefacts, as well as vendor-dependent phase conventions. Its most established role is in brain MRI, particularly in: suspected cerebral amyloid angiopathy; baseline and follow-up assessment of amyloid-related imaging abnormalities with haemosiderin deposition (ARIA-H) during anti-amyloid therapy; traumatic brain injury; multiple sclerosis work-up, when assessment of the central vein sign or paramagnetic rim lesions is clinically relevant; neuro-oncology; and vascular malformations. Overall, these constitute the core recommended brain scenarios for SWI supported by moderate to high levels of evidence. Outside neuroradiology (e.g., musculoskeletal, abdominal, breast, pelvic, and cardiac imaging), SWI remains promising but less standardised and should currently be reserved for selected problem-solving indications. KEY POINTS: SWI should be acquired as a high-resolution 3D GRE sequence and interpreted together with source magnitude images, filtered phase images, and post-processed minIP images, keeping in mind blooming and other artefacts, as well as vendor-specific phase conventions. SWI should be included in brain MRI protocols when haemorrhagic or microvascular susceptibility findings are expected to affect diagnosis or management, especially in cerebral amyloid angiopathy, anti-amyloid therapy monitoring, traumatic brain injury, and neuro-oncology or multiple sclerosis work-up. Outside neuroradiology, SWI can be used as a targeted problem-solving adjunct rather than as a routine sequence.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965692/"
+  },
+  {
+    "pmid": "42965380",
+    "title": "Writer's Cramp: A Presenting Symptom of Demyelinating Disease.",
+    "date": "2026 Oct 31",
+    "journal": "Movement disorders clinical practice",
+    "authors": [
+      "Pasupula M",
+      "Das A",
+      "Tripathi M",
+      "Garg A",
+      "Elavarasi A"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965380/"
+  },
+  {
+    "pmid": "42965342",
+    "title": "Clinical approach to balance intensity in people with multiple sclerosis: clinical judgment versus the Balance Intensity Tool for Exercise - an inter-rater agreement and reliability study.",
+    "date": "2026 Oct 31",
+    "journal": "Physiotherapy theory and practice",
+    "authors": [
+      "Callesen J",
+      "Wallin A",
+      "Johansson S",
+      "Brincks JK"
+    ],
+    "abstract": "Balance training is essential for enhancing stability in people with multiple sclerosis (PwMS). However, guidance on exercise intensity remains vague and largely relies on clinical judgment as standardized assessment methods are absent. This study introduces and evaluates the Balance Intensity Tool for Exercise (BITE), a standardized method for assessment of balance intensity based on observable errors, and compares it with traditional clinical judgment. Sixty-one PwMS, recruited from physiotherapy clinics and social networks, performed two balance tasks: line-walking and tandem-stance. The tasks were videorecorded for subsequent intensity assessment. Intensity was rated using (1) BITE, where three assessors measured the percentage of time with observable errors as a measure of intensity, and (2) clinical judgment, where three experienced physiotherapists scored intensity on a 0-100 scale. Balance capacity was measured with the Mini-BESTest. BITE assessors and clinicians were blinded to each other's ratings. Inter-rater agreement, reliability, and measurement error were evaluated using Bland-Altman analysis with 95% Limits of Agreement (LoA), Intra-class Correlation Coefficient (ICC Intensities measured by BITE were consistently lower than clinical judgment (line-walking median: 36% vs. 74%; tandem-stance median: 23% vs. 53%). BITE demonstrated excellent inter‑rater reliability (ICC BITE provides a quantifiable method to describe balance exercise intensity in PwMS based on the time of observed performance errors. BITE demonstrated excellent inter-rater reliability and inter-rater agreement, with LoA ≤ 20%, while clinical judgment exhibited wider LoA. Further research should explore its applicability in other populations with impaired balance.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965342/"
+  },
+  {
+    "pmid": "42965313",
+    "title": "Affordability and relative economic burden of multiple sclerosis biologics in South America: a cross-country analysis of prices, purchasing power and regulatory access.",
+    "date": "2026 Oct 31",
+    "journal": "Expert review of pharmacoeconomics & outcomes research",
+    "authors": [
+      "Madeira da Silva Oliveira P",
+      "de Mello Vianna CM",
+      "Gil Lopez AJ",
+      "Bittencourt Gonzalez Mosegui G"
+    ],
+    "abstract": "High-cost biological therapies for multiple sclerosis (MS) may have lower nominal prices in middle-income countries yet impose greater burden relative to local purchasing capacity. We compared regulatory availability, price transparency and relative economic burden. We analyzed alemtuzumab, interferon beta-1a, natalizumab and ocrelizumab in Brazil, Colombia, Peru and the United States. Prices were compared in nominal US dollars, purchasing power parity-adjusted international dollars and against minimum wages. Defined daily doses supported standardized comparisons; regimen-based costs used reference dosing schedules. Outcomes included historical marketing authorization, observable prices, wage-based affordability and annual acquisition cost relative to gross domestic product per capita. Historical marketing authorization was documented in all 16 medicine-country combinations (100%), and observable prices were identified in 14 (87.5%). None of the 14 assessable combinations met the adapted regimen-based affordability criterion. Under primary price scenarios, monthly-equivalent burden ranged from 27.2 calendar-day equivalents of statutory minimum-wage income for interferon beta-1a in Peru to 326.2 for alemtuzumab in Brazil. Although US nominal prices were generally highest, purchasing-power and wage adjustment altered country rankings. Historical marketing authorization and lower nominal prices did not imply economic accessibility. Cross-country assessments should integrate purchasing power, wages and regimen-based acquisition costs.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965313/"
   },
   {
     "pmid": "42957749",
@@ -980,6 +1111,24 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42945427/"
   },
   {
+    "pmid": "42966340",
+    "title": "Fumarate-induced lymphopenia in multiple sclerosis: A retrospective analysis.",
+    "date": "2026 Oct 27",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Selwa KE",
+      "Sharba LE",
+      "Gupta-Gardner P",
+      "Janney CA",
+      "Johnson DJ",
+      "Braley TJ",
+      "Romeo AR"
+    ],
+    "abstract": "Lymphopenia is an expected side effect of fumarate-based multiple sclerosis (MS) disease modifying therapies. Although ≤5% of participants in fumarate clinical trials experienced grade 2-3 lymphopenia, real-world observation suggests higher incidence (Gold et al., 2012, 2020). Beyond increased age, consensus regarding risk factors for lymphopenia is lacking. This retrospective chart review evaluated incidence and severity of lymphopenia among 274 patients treated with fumarates and examined associations between fumarate-associated lymphopenia and clinical variables with univariate and multivariate analyses. Ninety (32.8%) patients developed grade ≥2 lymphopenia while on treatment. Absolute lymphocyte count (ALC) dropped by an average of 46% (SD 0.27) from baseline. Older age upon fumarate initiation was significantly associated with grade ≥2 lymphopenia (1.048 (95% CI=1.023, 1.074), p=0.0001). Other variables significantly associated with grade ≥2 lymphopenia included co-administration of dalfampridine (3.283 (95% CI=1.347, 8.003), p=0.0089). These associations were maintained in multivariate analysis. Among those who developed grade ≥2 lymphopenia, ALC recovered to ≥1.0 K/mL in 61%, with average time of 22 months (SD 23) after treatment discontinuation. In this real-world clinical cohort, fumarate-associated lymphopenia incidence exceeds published estimates. Our findings support age as a risk factor and reveal unexpected associations between lymphopenia and co-use of dalfampridine that require further study.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966340/"
+  },
+  {
     "pmid": "42934485",
     "title": "Disease-modifying interventions in psychiatry.",
     "date": "2026 Oct 26",
@@ -1069,6 +1218,96 @@
     "abstract": "Many people with multiple sclerosis (PwMS) live with comorbid conditions, which may contribute to more complex healthcare needs. While there have been several studies on their associations with increased hospitalizations and emergency visits, there has been limited investigation into other aspects of care (e.g., imaging) or composite indices have been used rather than individual conditions. To determine If comorbidities in PwMS are associated with utilization of a wider range of healthcare services and which specific comorbid conditions are linked to those services. Participants (n = 185) were PwMS who completed a series of questionnaires about their comorbidities and healthcare utilization over the prior 12 months as part of a larger study. Regression models were used to evaluate the relationships between healthcare utilization and specific comorbidities, controlling for age, gender, race, education, and annual income. PwMS with a comorbidity had higher utilization of several services, including more healthcare provider visits (p < 0.001), particularly with primary care (p = .041) and mental health providers (p = .003), unique providers seen (p < 0.001), active medications (p < .001), MRIs (p = .008), X-rays (p = .031), inpatient hospital stays (p = .038), and elective surgeries (p = .035). Several comorbidities, including anxiety, sleep apnea, autoimmune thyroid disease, and irritable bowel syndrome, were most frequently associated with increased service use. These findings expand upon the previous literature, demonstrating that comorbidities are associated with greater utilization of a wide range of services and the complex needs of PwMS living with multiple chronic conditions.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42962630/"
+  },
+  {
+    "pmid": "42966341",
+    "title": "Higher fitness levels associate with higher brain volume and lower lesion volume in youth with Multiple Sclerosis.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Naggar IE",
+      "Stephens S",
+      "Wagner M",
+      "Vidarsson L",
+      "Ertl-Wagner B",
+      "Yeh EA"
+    ],
+    "abstract": "To determine relationships between cardiorespiratory fitness (CRF) and brain volumetrics in youth with Multiple Sclerosis (MS). Cardiopulmonary exercise testing, physical activity (PA) metrics and MRI lesion/brain volumetrics were obtained on youth with MS (n = 33; 26F; median age 16.5years; IQR 1.91). Pearsons' correlations were used to assess the relationships between lesion/brain volume, cardiorespiratory fitness and physical activity. We found associations between: (1) higher lesion volume and lower workload-max z-scores (r=-0.35, p = 0.04); (2) whole brain and thalamic volumes and VO Higher CRF, but not PA levels, were associated with lower lesion volumes and greater whole brain, thalamic and dentate gyrus volume in youth with MS. Future studies using longitudinal and interventional designs are needed to establish the directionality of these relationships.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966341/"
+  },
+  {
+    "pmid": "42966338",
+    "title": "Multiple sclerosis and concomitant rheumatologic diseases: prevalence and management.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Ermurat S",
+      "Seferoğlu M",
+      "Sıvacı AÖ"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune demyelinating disease of the central nervous system that shares several immunological and genetic pathways with systemic autoimmune disorders. The clinical significance of rheumatologic autoantibody positivity and its impact on treatment decisions in MS remains unclear. This study aimed to determine the prevalence of rheumatologic autoantibody positivity and confirmed rheumatologic diseases in MS patients, evaluate the progression from isolated autoantibody positivity to clinically defined rheumatologic disease, and compare treatment patterns between patients with MS and concomitant rheumatologic disease (MS-Plus) and those with isolated MS. In this hybrid retrospective-prospective study, patients diagnosed with MS according to the 2017 McDonald criteria and followed at a tertiary MS center between October 2021 and August 2026 were evaluated. Demographic, clinical, and laboratory data, including rheumatologic autoantibody profiles, were collected. Patients were categorized as MS-Plus, isolated MS, or asymptomatic autoantibody-positive. Disease-modifying therapies (DMTs) were classified according to efficacy level. Among 588 MS patients, 54 (9.2%) had concomitant rheumatologic disease, most commonly Sjögren syndrome (25.9%). ANA positivity was the most frequently detected autoantibody (9.1%). Only three patients with isolated autoantibody positivity developed a rheumatologic disease during follow-up. High-efficacy DMT use was significantly lower in MS-Plus patients compared with isolated MS (22.2%vs. 42.3%, p = 0.005). Rheumatologic comorbidity is not uncommon in MS and may influence therapeutic decision-making. Although autoantibody positivity is relatively frequent, progression to overt rheumatologic disease appears rare.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966338/"
+  },
+  {
+    "pmid": "42966337",
+    "title": "Low-fat diet reduces fatigue and alters serum metabolomic pathways in people with multiple sclerosis: a sub-study of a randomized controlled trial.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Yadav V",
+      "Kelley L",
+      "Young E",
+      "Garcia-Garcia C",
+      "Lane M",
+      "Adams C",
+      "Hollen C",
+      "Fryman A",
+      "Vong C",
+      "Orban A",
+      "Horgan A",
+      "Jordan J",
+      "Koeller DM",
+      "Karstens L",
+      "Madugundi P",
+      "Khan A",
+      "Srikanth P",
+      "Yildiz S"
+    ],
+    "abstract": "Fatigue is one of the most common and disabling symptoms of multiple sclerosis (MS). Dietary interventions have shown promise for fatigue reduction, but the metabolic mechanisms remain unclear. We investigated the effects of a low-fat diet on fatigue and serum metabolomic pathways in people with MS, focusing on lipid and amino-acid metabolism. This exploratory analysis used data from a 16-week, two-arm, randomized controlled trial in people with MS comparing a low-fat diet (intervention) with a waitlist (control) group that continued their usual diet. Serum metabolites and fatigue (Modified Fatigue Impact Scale, MFIS) were measured at baseline and week 16. Additional outcomes included dietary composition, adherence, body composition, and cardiometabolic biomarkers. Spearman rank correlations were used to examine associations between MFIS scores and individual metabolites. Metabolites were then grouped into biochemical super-pathways and sub-pathways for pathway-level summary. Group-level percentage changes in metabolites were also calculated. Twenty-seven participants (16 intervention, 11 control) with complete data were included. Of the 986 metabolites detected, changes in MFIS scores were correlated to shifts in fatty acid (e.g., octadecenedioylcarnitine, cis-4-decenoate) and amino acid (e.g., phenol sulfate, phenylpyruvate) pathways. Over the 16-week study, several lipids decreased in the intervention group but increased in controls, consistent with modulation of mitochondrial fatty acid β-oxidation. To our knowledge, this is the first study to explore the impact of a low-fat diet on serum metabolomic pathways in people with MS. These preliminary exploratory findings suggest that diet-induced modulation of lipid and amino acid metabolism may contribute to fatigue changes. The small sample size and inter-individual variability warrant cautious interpretation; replication in larger, adequately powered trials is needed. ClinicalTrials.gov identifier: NCT03322982.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966337/"
+  },
+  {
+    "pmid": "42966336",
+    "title": "Gut microbiome and physical activity in paediatric-onset multiple sclerosis.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Stephens S",
+      "Da Silva T",
+      "Zhu F",
+      "Arnold DL",
+      "Banwell B",
+      "Bar-Or A",
+      "Bernstein CN",
+      "Bonner C",
+      "Graham M",
+      "Knox N",
+      "O'Mahony J",
+      "Marrie RA",
+      "Mirza AI",
+      "Van Domselaar G",
+      "Waubant E",
+      "Zhao Y",
+      "Tremlett H",
+      "Yeh EA",
+      "Canadian Demyelinating Disease Network"
+    ],
+    "abstract": "To examine associations between physical activity (PA) and gut microbiome diversity and composition in youth with pediatric onset multiple sclerosis (POMS) versus monophasic demyelinating syndromes (mono-ADS) and unaffected controls (UC), and to compare active versus inactive POMS. Thirty-seven youth with POMS, 40 mono-ADS, and 36 UC from the Canadian Pediatric Demyelinating Disorders Study were included. Stool samples underwent 16S rRNA sequencing. PA was assessed using the Godin Leisure-Time Exercise Questionnaire and analyzed as continuous (total PA, moderate and vigorous PA, strenuous PA) and binary (active vs. inactive) variables. Alpha diversity (Shannon, Simpson, Chao1) and beta diversity (UniFrac, Bray-Curtis) were assessed using permutation-based linear regression and PERMANOVA, adjusting for age, sex, and BMI. LEfSe identified differentially abundant taxa, and Spearman correlations assessed associations with PA. No differences in alpha diversity were observed. In POMS, total PA showed modest associations with UniFrac beta diversity (R²≈0.04-0.05, p≈0.08; FDR p=0.13), but not Bray-Curtis. Inactive POMS had lower Firmicutes and higher Bacteroidetes, with enrichment of Bifidobacterium, Escherichia-Shigella, and Lactobacillus, whereas active POMS showed higher Firmicutes (e.g., Roseburia, Lachnospiraceae); Bifidobacterium was ∼4-fold higher in inactive POMS. These patterns were not observed in controls or mono-ADS. Firmicutes positively correlated with PA intensity, while Actinobacteria, Bacteroidetes, and Bifidobacterium were inversely correlated INTERPRETATION: PA-microbiome associations appear unique in POMS demonstrated by specific compositional patterns. These findings should be confirmed in larger cohorts with objective measures of physical activity and more comprehensive assessment of potential confounding factors.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966336/"
   },
   {
     "pmid": "42927851",
@@ -2522,6 +2761,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42953425/"
   },
   {
+    "pmid": "42965998",
+    "title": "Mesenchymal stromal cells for progressive multiple sclerosis: current evidence and translational challenges.",
+    "date": "2026 Jun 12",
+    "journal": "Cytotherapy",
+    "authors": [
+      "Michel L",
+      "Rio L",
+      "Tarte K"
+    ],
+    "abstract": "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system (CNS) characterized by demyelinating lesions leading to cumulative and irreversible neurological damage. In the progressive form of MS (PMS), pathogenic mechanisms are multifaceted, involving both compartmentalized inflammation and neurodegeneration. Owing to their immunomodulatory and trophic properties, mesenchymal stromal cells (MSC) have emerged as a promising therapeutic strategy for this patient population. To review the relevant immunomodulatory and neuroprotective mechanisms of MSC demonstrated in vitro, summarize preclinical and clinical evidence regarding MSC safety and efficacy in experimental autoimmune encephalomyelitis (EAE) murine model and in MS, and discuss key challenges hindering clinical translation. MSC display combined immunomodulatory and neuroprotective properties that are particularly relevant in MS. They induce sustained immune reprogramming of T cells, B cells, and myeloid cells, through paracrine signaling, extracellular vesicle release, metabolic modulation, and efferocytosis of apoptotic cells. These effects are influenced by the local microenvironment, MSC tissue source, manufacturing processes, and route of administration. Beyond immune regulation, MSC promote CNS repair by secreting neurotrophic and angiogenic factors and through mitochondrial transfer. In chronic EAE models, MSC consistently reduce disease severity, mitigate CNS inflammation, and promote neuroprotection, with enhanced efficacy following intrathecal or intraventricular administration. Early-phase clinical trials in PMS have demonstrated a favorable safety profile but inconsistent efficacy, likely reflecting substantial heterogeneity in study design, cell products, dosing regimens, and administration routes. Nevertheless, emerging evidence suggests that repeated intrathecal administration and improved patient stratification may optimize therapeutic outcomes. MSC-based therapies represent a potentially valuable avenue for PMS. However, their clinical benefit remains to be firmly established, pending well-designed trials addressing product standardization, optimized delivery approaches, and the use of robust, clinically meaningful endpoints.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965998/"
+  },
+  {
     "pmid": "42946860",
     "title": "Deciphering the mechanistic landscape of notch signaling in autoimmune pathogenesis.",
     "date": "2026 Jul 31",
@@ -3163,5 +3416,58 @@
     "abstract": "Professor Zelig Eshhar, a colleague, collaborator, and dear friend, is known worldwide as the visionary who laid the foundations for chimeric antigen receptor (CAR)-T cell therapy, a breakthrough that transformed cancer immunotherapy. Long before this revolutionary achievement, however, Zelig profoundly influenced research at the Weizmann Institute of Science by introducing the then state-of-the-art hybridoma technology for the generation of monoclonal antibodies (mAbs), which he brought directly from the oven of Nobel laureates Georges KÃ¶hler and CÃ©sar Milstein. Through his expertise and the dedication of his legendary team, Tova Waks, his indispensable partner for 55 years, Orith Gigi-Leitner, and Sara Barak, this technology rapidly became an invaluable resource for investigators throughout the Institute. My collaboration with Zelig during the 1980s led to the generation of monoclonal antibodies against a series of biologically important proteins, including interferons, other cytokines, their soluble receptors, the unique IL-18 Binding Protein (IL-18BP), and, years later, glutamate oxaloacetate transaminase 1 (GOT1). These antibodies proved to be remarkably versatile research tools, suitable for neutralization, affinity chromatography, immunoassays, flow cytometry, immunoblotting, and numerous other applications. Most importantly, they enabled the affinity purification of in-house corresponding recombinant cytokines. The antibodies proved far more than analytical reagents. They became indispensable tools for both basic research and translational medicine. Together, these unique reagents formed the foundation of a ligand-affinity strategy that led to the discovery of previously unknown cytokine receptors and binding proteins. Those include the type I interferon receptor, the second TNF receptor (TBPII), and the unexpected IL-18 Binding Protein. These discoveries not only advanced our understanding of cytokine biology but also paved the way for therapeutics such as RebifŴ, EnbrelŴ, RemicadeŴ and Tadekinig alfaTM, used in the treatment of autoimmune, inflammatory, and genetic diseases, such as multiple sclerosis, rheumatoid arthritis and Crohn's disease. While our scientific paths diverged in 1989, Zelig's toward the revolutionary concept of chimeric antigen receptors and mine toward cytokine receptors and binding proteins, they ultimately converged again as TNF and IL-18BP antagonists found applications in enhancement of CAR-T therapy and in management of potential inflammatory complications associated with this therapy. This chapter stands as a testament to Zelig's vision in introducing and advancing monoclonal antibody technology at the Weizmann Institute.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42962190/"
+  },
+  {
+    "pmid": "42964993",
+    "title": "Photobiomodulation as a regulator of neuroinflammation: mechanistic insights and therapeutic potential in brain disorders.",
+    "date": "2026",
+    "journal": "Frontiers in neurology",
+    "authors": [
+      "Blivet G",
+      "Bertrand C",
+      "Brauge D",
+      "Delrieu J",
+      "Touchon J"
+    ],
+    "abstract": "Brain disorders, including neurodegenerative, neuropsychiatric, and cerebrovascular diseases, represent a growing global health challenge contributing to disability and mortality worldwide. Although these conditions differ in etiology and clinical presentation, accumulating evidence identifies neuroinflammation as a shared pathological mechanism. Involving microglial activation, astrocytic reactivity, cytokine dysregulation, oxidative stress, mitochondrial dysfunction, and blood-brain barrier disruption, it contributes to synaptic dysfunction, neuronal loss, and disease progression, yet therapeutic strategies targeting these processes remain limited. Photobiomodulation (PBM), the therapeutic application of low-intensity red to near-infrared light, has emerged as a neurotechnology capable of modulating biological pathways relevant to neuroinflammation. Preclinical studies suggest that PBM may influence mitochondrial activity through cytochrome c oxidase-mediated mechanisms, enhancing cellular metabolism while regulating reactive oxygen species, inflammatory signaling pathways, and tissue homeostasis. Through these effects, PBM may attenuate neuroinflammatory responses, regulate glial activation, and support neuroprotective processes across multiple neurological models. This narrative review examines evidence supporting neuroinflammation as a common denominator across major brain disorders and explores the biological rationale for PBM as a therapeutic strategy. It summarizes the cellular and molecular basis of PBM, its effects on neuroinflammatory pathways, and preclinical and clinical findings across brain disease models. Preclinical findings consistently support a multi-target anti-inflammatory effect, whereas clinical investigation remains at an early stage, with encouraging results in Alzheimer's disease and multiple sclerosis but mainly negative data on primary outcomes in Parkinson's disease and major depressive disorder. Further research is needed to optimize treatment parameters, clarify mechanisms of action, and determine clinical efficacy across disease contexts.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964993/"
+  },
+  {
+    "pmid": "42964802",
+    "title": "A Case of Treatment-Refractory Tumefactive Multiple Sclerosis Mimicking Brain Abscess.",
+    "date": "2026",
+    "journal": "Case reports in neurological medicine",
+    "authors": [
+      "Patel P",
+      "Ehrhardt H",
+      "Augh D",
+      "Matsuda K",
+      "Sharma K"
+    ],
+    "abstract": "A 47-year-old female presented with one week of left facial numbness following recent dental extractions. Initial brain magnetic resonance imaging (MRI) with and without contrast revealed a contrast-enhancing lesion in the right parieto-occipital lobe with mild diffusion restriction and surrounding vasogenic edema, as well as smaller enhancing lesions in the right frontal and parietal lobes. Empiric intravenous (IV) antibiotic treatment was started due to a high concern for odontogenic brain abscesses. Despite antibiotic treatment, repeat brain MRI revealed new contrast-enhancing lesions in the left pons and cerebellar peduncle, suggesting that infection was unlikely and antibiotics were discontinued. The differential diagnosis broadened to neoplastic, inflammatory, and demyelinating pathologies. A brain biopsy of the right occipital lobe lesion was pursued for a definitive diagnosis. Following the brain biopsy, the patient received five days of IV methylprednisolone 1 g daily, followed by a two-week oral prednisone taper with clinical improvement. Brain biopsy subsequently demonstrated macrophages, reactive lymphocytosis, and astrogliosis with loss of myelin, confirming the diagnosis of tumefactive multiple sclerosis (TMS). Over the subsequent two years, she experienced recurrent flares of TMS with new demyelinating lesions despite disease-modifying therapy (DMT) with ocrelizumab, resulting in progressive disability accrual. Upon transition to natalizumab, disease remission was achieved. This case highlights the diagnostic challenges of TMS as it may radiographically resemble odontogenic brain abscesses, particularly in the setting of recent dental infections. Brain biopsy may be required when neuroimaging and cerebrospinal fluid findings are inconclusive. This case also suggests that natalizumab may be considered in selected treatment-refractory cases, although further evidence is needed.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964802/"
+  },
+  {
+    "pmid": "42964793",
+    "title": "Agreement and longitudinal repeatability of established brain volumetry pipelines across healthy controls, multiple sclerosis, and Alzheimer's disease.",
+    "date": "2026",
+    "journal": "Frontiers in neuroscience",
+    "authors": [
+      "Šišić N",
+      "Barakovic M",
+      "Edde M",
+      "Théberge A",
+      "Beaudoin AM",
+      "Dumbia M",
+      "Lapointe E",
+      "Descoteaux M",
+      "Magon S",
+      "Gobbi S"
+    ],
+    "abstract": "Brain volume estimates are increasingly used as longitudinal endpoints in neuroimaging studies and clinical trials, but outputs from different segmentation pipelines may not be interchangeable. In this study, we performed a version-specific comparison of six established brain segmentation pipelines across healthy controls (HC; FreeSurfer v6, FreeSurfer v7.2, SAMSEG, FastSurfer v1, SIENAX/SIENA-XL, and CAT12 were evaluated. The primary aims were to quantify systematic offsets and inter-pipeline agreement in normalized baseline volume estimates, assess within-pipeline repeatability and longitudinal change-from-baseline concordance, and determine whether longitudinal processing reduced variability relative to cross-sectional processing. Gray matter, white matter, hippocampus, and thalamus were selected and normalized to intracranial volume. Agreement was assessed using intraclass correlation coefficients, while longitudinal change was evaluated using mixed-effects models and repeatability metrics. Baseline volume estimates differed significantly across pipelines in 11 of 12 cohort-by-tissue comparisons (FDR-adjusted Together, these findings show that systematic offset, absolute agreement, longitudinal change magnitude, and short-interval repeatability represent distinct properties of volumetric pipelines and vary by tissue, cohort, and processing mode. Longitudinal processing reduced variability but not uniformly, highlighting pipeline- and tissue-dependent differences relevant to the interpretation of longitudinal volumetric measurements.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964793/"
   }
 ]
