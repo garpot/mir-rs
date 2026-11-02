@@ -71,22 +71,37 @@
     }
 
     .hero {
-      background: #292a3d;
-      padding: 55px 20px;
+      position: relative;
+      min-height: 360px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       text-align: center;
+      padding: 65px 20px;
+      background:
+        linear-gradient(90deg, rgba(27, 28, 43, 0.94), rgba(27, 28, 43, 0.68)),
+        url("https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png");
+      background-size: cover;
+      background-position: center 40%;
       border-bottom: 1px solid #3a3b50;
+    }
+
+    .hero-content {
+      max-width: 850px;
+      position: relative;
+      z-index: 1;
     }
 
     .hero h1 {
       color: #ffffff;
-      font-size: 34px;
+      font-size: 36px;
       margin: 0 0 15px;
     }
 
     .hero p {
       max-width: 750px;
       margin: auto;
-      color: #c5c6d3;
+      color: #e0e1eb;
       font-size: 18px;
     }
 
@@ -103,21 +118,35 @@
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 18px;
+      gap: 20px;
     }
 
     .card {
       background: #303146;
-      padding: 25px;
-      border-radius: 5px;
+      padding: 0;
+      border-radius: 7px;
       border: 1px solid #414258;
-      box-shadow: 0 3px 10px #00000020;
-      transition: border-color 0.2s, transform 0.2s;
+      box-shadow: 0 4px 14px #00000030;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
     }
 
     .card:hover {
-      border-color: #ffad00;
+      border-color: #686982;
       transform: translateY(-3px);
+      box-shadow: 0 5px 18px #00000040;
+    }
+
+    .card-image {
+      width: 100%;
+      height: 175px;
+      object-fit: cover;
+      display: block;
+      background: #292a3c;
+    }
+
+    .card-content {
+      padding: 22px 24px 24px;
     }
 
     .card h3 {
@@ -146,6 +175,7 @@
       margin-top: 30px;
       padding: 20px;
       background: #303146;
+      border: 1px solid #414258;
       border-left: 4px solid #ffad00;
       border-radius: 4px;
       color: #d1d2dc;
@@ -153,6 +183,18 @@
 
     .notice strong {
       color: #ffb323;
+    }
+
+    .image-sources {
+      margin-top: 22px;
+      color: #9294a9;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .image-sources a {
+      color: #b8bac9;
+      text-decoration: underline;
     }
 
     footer {
@@ -178,6 +220,7 @@
       }
 
       .hero {
+        min-height: 300px;
         padding: 40px 15px;
       }
 
@@ -197,6 +240,14 @@
         padding-left: 15px;
         padding-right: 15px;
       }
+
+      .card-image {
+        height: 190px;
+      }
+
+      .card-content {
+        padding: 18px;
+      }
     }
   </style>
 </head>
@@ -213,6 +264,7 @@
   <nav>
     <div class="container">
       <a href="index.html">Главная</a>
+      <a href="what-is-ms.html">Что такое РС</a>
       <a href="treatment.html">Лечение</a>
       <a href="new-treatments.html">Новые препараты и перспективные методы лечения</a>
       <a href="forms.html">Формы РС</a>
@@ -224,7 +276,7 @@
   </nav>
 
   <section class="hero">
-    <div class="container">
+    <div class="hero-content">
       <h1>Рассеянный склероз: знания помогают</h1>
       <p>
         Понятная и актуальная информация о заболевании,
@@ -241,57 +293,105 @@
     <div class="grid">
 
       <section class="card" id="treatment">
-        <h3>Лечение РС</h3>
-        <p>
-          Препараты, изменяющие течение заболевания,
-          принципы терапии и современные подходы к лечению.
-        </p>
-        <p><a href="treatment.html">Подробнее →</a></p>
+        <img
+          class="card-image"
+          src="https://images.ctfassets.net/yixw23k2v6vo/1dgUldg41mKBFT6e9e6g6P/3400237042258f6d234a827cbdd31c01/large-GettyImages-1501184003-3000x2000.jpg"
+          alt="Медицинская реабилитация"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Лечение РС</h3>
+          <p>
+            Препараты, изменяющие течение заболевания,
+            принципы терапии и современные подходы к лечению.
+          </p>
+          <p><a href="treatment.html">Подробнее →</a></p>
+        </div>
       </section>
 
       <section class="card" id="forms">
-        <h3>Формы заболевания</h3>
-        <p>
-          Ремиттирующий, вторично-прогрессирующий
-          и первично-прогрессирующий рассеянный склероз.
-        </p>
-        <p><a href="forms.html">Подробнее →</a></p>
+        <img
+          class="card-image"
+          src="https://cdn.futura-sciences.com/sources/images/d%C3%A9my%C3%A9linisation.jpeg"
+          alt="Сравнение здорового и повреждённого миелина"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Формы заболевания</h3>
+          <p>
+            Ремиттирующий, вторично-прогрессирующий
+            и первично-прогрессирующий рассеянный склероз.
+          </p>
+          <p><a href="forms.html">Подробнее →</a></p>
+        </div>
       </section>
 
       <section class="card" id="symptoms">
-        <h3>Симптомы</h3>
-        <p>
-          Усталость, нарушения движения, спастичность,
-          боль, чувствительность и другие проявления РС.
-        </p>
-        <p><a href="symptoms.html">Подробнее →</a></p>
+        <img
+          class="card-image"
+          src="https://static.wixstatic.com/media/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png/v1/fill/w_1000%2Ch_571%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png"
+          alt="МРТ головного мозга с очагами рассеянного склероза"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Симптомы</h3>
+          <p>
+            Усталость, нарушения движения, спастичность,
+            боль, чувствительность и другие проявления РС.
+          </p>
+          <p><a href="symptoms.html">Подробнее →</a></p>
+        </div>
       </section>
 
       <section class="card" id="life">
-        <h3>Жизнь с РС</h3>
-        <p>
-          Реабилитация, мобильность, адаптация быта
-          и повседневная поддержка.
-        </p>
-        <p><a href="life.html">Подробнее →</a></p>
+        <img
+          class="card-image"
+          src="https://www.msplus.org.au/_next/image?q=75&url=https%3A%2F%2Fassets.msplus.org.au%2Fassets%2Fuploads%2Fmain%2FMS-PLUS-17.12.24-468.jpg&w=3840"
+          alt="Занятие по восстановлению ходьбы"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Жизнь с РС</h3>
+          <p>
+            Реабилитация, мобильность, адаптация быта
+            и повседневная поддержка.
+          </p>
+          <p><a href="life.html">Подробнее →</a></p>
+        </div>
       </section>
 
       <section class="card" id="research">
-        <h3>Новости и исследования</h3>
-        <p>
-          Новые научные публикации, клинические исследования
-          и перспективы терапии.
-        </p>
-        <p><a href="research.html">Подробнее →</a></p>
+        <img
+          class="card-image"
+          src="https://www.timeshighereducation.com/cms-academic/sites/default/files/styles/profile_gallery_image/public/2024-08/4%5B1%5D.jpg?itok=ymG6qONy"
+          alt="Учёные проводят исследования в лаборатории"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Новости и исследования</h3>
+          <p>
+            Новые научные публикации, клинические исследования
+            и перспективы терапии.
+          </p>
+          <p><a href="research.html">Подробнее →</a></p>
+        </div>
       </section>
 
       <section class="card">
-        <h3>Что такое рассеянный склероз?</h3>
-        <p>
-          Что происходит с нервной системой, почему возникает РС,
-          как проявляется заболевание и как его лечат.
-        </p>
-        <p><a href="what-is-ms.html">Читать статью →</a></p>
+        <img
+          class="card-image"
+          src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
+          alt="МРТ головного мозга при рассеянном склерозе"
+          loading="lazy"
+        >
+        <div class="card-content">
+          <h3>Что такое рассеянный склероз?</h3>
+          <p>
+            Что происходит с нервной системой, почему возникает РС,
+            как проявляется заболевание и как его лечат.
+          </p>
+          <p><a href="what-is-ms.html">Читать статью →</a></p>
+        </div>
       </section>
 
     </div>
@@ -301,6 +401,16 @@
       материалы сайта предназначены для информирования
       и не заменяют консультацию квалифицированного
       медицинского специалиста.
+    </div>
+
+    <div class="image-sources">
+      Изображения на странице:
+      <a href="https://commons.wikimedia.org/wiki/File:MSMRI.png" target="_blank" rel="noopener">Wikimedia Commons</a>,
+      <a href="https://www.healthcentral.com/condition/multiple-sclerosis/ms-physical-therapy" target="_blank" rel="noopener">HealthCentral</a>,
+      <a href="https://www.futura-sciences.com/" target="_blank" rel="noopener">Futura Sciences</a>,
+      <a href="https://www.msplus.org.au/" target="_blank" rel="noopener">MS Plus</a>,
+      <a href="https://www.timeshighereducation.com/" target="_blank" rel="noopener">Times Higher Education</a>.
+      Перед постоянным использованием изображений проверь условия лицензии каждого источника.
     </div>
 
   </main>
