@@ -137,12 +137,33 @@
       box-shadow: 0 5px 18px #00000040;
     }
 
+    /* Вся карточка теперь является ссылкой */
+
+    .card-link {
+      display: block;
+      height: 100%;
+      color: inherit;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .card-link:focus-visible {
+      outline: 3px solid #ffad00;
+      outline-offset: -4px;
+      border-radius: 7px;
+    }
+
     .card-image {
       width: 100%;
       height: 175px;
       object-fit: cover;
       display: block;
       background: #292a3c;
+      transition: transform 0.25s;
+    }
+
+    .card:hover .card-image {
+      transform: scale(1.03);
     }
 
     .card-content {
@@ -160,13 +181,12 @@
       font-size: 15px;
     }
 
-    .card a {
+    .card .more-link {
       color: #ffb323;
-      text-decoration: none;
       font-weight: bold;
     }
 
-    .card a:hover {
+    .card-link:hover .more-link {
       color: #ffd16b;
       text-decoration: underline;
     }
@@ -293,105 +313,117 @@
     <div class="grid">
 
       <section class="card" id="treatment">
-        <img
-          class="card-image"
-          src="https://images.ctfassets.net/yixw23k2v6vo/1dgUldg41mKBFT6e9e6g6P/3400237042258f6d234a827cbdd31c01/large-GettyImages-1501184003-3000x2000.jpg"
-          alt="Медицинская реабилитация"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Лечение РС</h3>
-          <p>
-            Препараты, изменяющие течение заболевания,
-            принципы терапии и современные подходы к лечению.
-          </p>
-          <p><a href="treatment.html">Подробнее →</a></p>
-        </div>
+        <a class="card-link" href="treatment.html">
+          <img
+            class="card-image"
+            src="https://images.ctfassets.net/yixw23k2v6vo/1dgUldg41mKBFT6e9e6g6P/3400237042258f6d234a827cbdd31c01/large-GettyImages-1501184003-3000x2000.jpg"
+            alt="Медицинская реабилитация"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Лечение РС</h3>
+            <p>
+              Препараты, изменяющие течение заболевания,
+              принципы терапии и современные подходы к лечению.
+            </p>
+            <p class="more-link">Подробнее →</p>
+          </div>
+        </a>
       </section>
 
       <section class="card" id="forms">
-        <img
-          class="card-image"
-          src="https://cdn.futura-sciences.com/sources/images/d%C3%A9my%C3%A9linisation.jpeg"
-          alt="Сравнение здорового и повреждённого миелина"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Формы заболевания</h3>
-          <p>
-            Ремиттирующий, вторично-прогрессирующий
-            и первично-прогрессирующий рассеянный склероз.
-          </p>
-          <p><a href="forms.html">Подробнее →</a></p>
-        </div>
+        <a class="card-link" href="forms.html">
+          <img
+            class="card-image"
+            src="https://cdn.futura-sciences.com/sources/images/d%C3%A9my%C3%A9linisation.jpeg"
+            alt="Сравнение здорового и повреждённого миелина"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Формы заболевания</h3>
+            <p>
+              Ремиттирующий, вторично-прогрессирующий
+              и первично-прогрессирующий рассеянный склероз.
+            </p>
+            <p class="more-link">Подробнее →</p>
+          </div>
+        </a>
       </section>
 
       <section class="card" id="symptoms">
-        <img
-          class="card-image"
-          src="https://static.wixstatic.com/media/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png/v1/fill/w_1000%2Ch_571%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png"
-          alt="МРТ головного мозга с очагами рассеянного склероза"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Симптомы</h3>
-          <p>
-            Усталость, нарушения движения, спастичность,
-            боль, чувствительность и другие проявления РС.
-          </p>
-          <p><a href="symptoms.html">Подробнее →</a></p>
-        </div>
+        <a class="card-link" href="symptoms.html">
+          <img
+            class="card-image"
+            src="https://static.wixstatic.com/media/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png/v1/fill/w_1000%2Ch_571%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/5e229a_2ec04bf2995c4b009c3795b146a08fcd~mv2.png"
+            alt="МРТ головного мозга с очагами рассеянного склероза"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Симптомы</h3>
+            <p>
+              Усталость, нарушения движения, спастичность,
+              боль, чувствительность и другие проявления РС.
+            </p>
+            <p class="more-link">Подробнее →</p>
+          </div>
+        </a>
       </section>
 
       <section class="card" id="life">
-        <img
-          class="card-image"
-          src="https://www.msplus.org.au/_next/image?q=75&url=https%3A%2F%2Fassets.msplus.org.au%2Fassets%2Fuploads%2Fmain%2FMS-PLUS-17.12.24-468.jpg&w=3840"
-          alt="Занятие по восстановлению ходьбы"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Жизнь с РС</h3>
-          <p>
-            Реабилитация, мобильность, адаптация быта
-            и повседневная поддержка.
-          </p>
-          <p><a href="life.html">Подробнее →</a></p>
-        </div>
+        <a class="card-link" href="life.html">
+          <img
+            class="card-image"
+            src="https://www.msplus.org.au/_next/image?q=75&url=https%3A%2F%2Fassets.msplus.org.au%2Fassets%2Fuploads%2Fmain%2FMS-PLUS-17.12.24-468.jpg&w=3840"
+            alt="Занятие по восстановлению ходьбы"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Жизнь с РС</h3>
+            <p>
+              Реабилитация, мобильность, адаптация быта
+              и повседневная поддержка.
+            </p>
+            <p class="more-link">Подробнее →</p>
+          </div>
+        </a>
       </section>
 
       <section class="card" id="research">
-        <img
-          class="card-image"
-          src="https://www.timeshighereducation.com/cms-academic/sites/default/files/styles/profile_gallery_image/public/2024-08/4%5B1%5D.jpg?itok=ymG6qONy"
-          alt="Учёные проводят исследования в лаборатории"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Новости и исследования</h3>
-          <p>
-            Новые научные публикации, клинические исследования
-            и перспективы терапии.
-          </p>
-          <p><a href="research.html">Подробнее →</a></p>
-        </div>
+        <a class="card-link" href="research.html">
+          <img
+            class="card-image"
+            src="https://www.timeshighereducation.com/cms-academic/sites/default/files/styles/profile_gallery_image/public/2024-08/4%5B1%5D.jpg?itok=ymG6qONy"
+            alt="Учёные проводят исследования в лаборатории"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Новости и исследования</h3>
+            <p>
+              Новые научные публикации, клинические исследования
+              и перспективы терапии.
+            </p>
+            <p class="more-link">Подробнее →</p>
+          </div>
+        </a>
       </section>
 
-      <section class="card">
-        <img
-          class="card-image"
-          src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
-          alt="МРТ головного мозга при рассеянном склерозе"
-          loading="lazy"
-        >
-        <div class="card-content">
-          <h3>Что такое рассеянный склероз?</h3>
-          <p>
-            Что происходит с нервной системой, почему возникает РС,
-            как проявляется заболевание и как его лечат.
-          </p>
-          <p><a href="what-is-ms.html">Читать статью →</a></p>
-        </div>
+      <section class="card" id="what-is-ms">
+        <a class="card-link" href="what-is-ms.html">
+          <img
+            class="card-image"
+            src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
+            alt="МРТ головного мозга при рассеянном склерозе"
+            loading="lazy"
+          >
+          <div class="card-content">
+            <h3>Что такое рассеянный склероз?</h3>
+            <p>
+              Что происходит с нервной системой, почему возникает РС,
+              как проявляется заболевание и как его лечат.
+            </p>
+            <p class="more-link">Читать статью →</p>
+          </div>
+        </a>
       </section>
 
     </div>
