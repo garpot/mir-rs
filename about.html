@@ -3,62 +3,186 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#222334">
   <meta name="description" content="О проекте Мир РС — независимом информационном портале о рассеянном склерозе.">
   <title>О проекте — Мир РС</title>
+
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      color: #263746;
-      background: #f4f7fa;
+      color: #e8e9f0;
+      background: #222334;
       line-height: 1.7;
     }
+
     header {
-      background: #174b65;
-      color: white;
-      padding: 28px 20px;
-    }
-    .container { max-width: 900px; margin: auto; padding: 0 20px; }
-    .brand { font-size: 32px; font-weight: bold; }
-    .tagline { color: #d8eaf1; margin-top: 5px; }
-    nav {
-      background: #103b51;
-      padding: 12px 20px;
-    }
-    nav .container { display: flex; flex-wrap: wrap; gap: 22px; }
-    nav a { color: white; text-decoration: none; }
-    nav a:hover { text-decoration: underline; }
-    main { padding: 35px 0 55px; }
-    h1, h2 { color: #174b65; }
-    .content {
-      background: white;
-      padding: 28px;
-      border-radius: 10px;
-      box-shadow: 0 2px 9px #193b5012;
-    }
-    .notice {
-      margin-top: 25px;
-      padding: 18px;
-      background: #fff8e8;
-      border-left: 4px solid #d6a33b;
-      border-radius: 5px;
-    }
-    footer {
-      background: #174b65;
+      background: #1b1c2b;
       color: white;
       padding: 25px 20px;
+      border-bottom: 1px solid #38394e;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .brand {
+      font-size: 32px;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    .tagline {
+      color: #aeb0c5;
+      margin-top: 5px;
+      font-size: 14px;
+    }
+
+    nav {
+      background: #292a3c;
+      padding: 12px 20px;
+      border-bottom: 1px solid #3a3b50;
+    }
+
+    nav .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 22px;
+    }
+
+    nav a {
+      color: #e4e5ec;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      transition: color 0.2s;
+    }
+
+    nav a:hover {
+      color: #ffad00;
+    }
+
+    main {
+      padding: 35px 0 55px;
+    }
+
+    h1 {
+      color: #fff;
+      font-size: 30px;
+    }
+
+    h2 {
+      color: #ffb323;
+      font-size: 22px;
+      margin-top: 28px;
+    }
+
+    .content {
+      background: #303146;
+      border: 1px solid #414258;
+      padding: 28px;
+      border-radius: 7px;
+      box-shadow: 0 4px 14px #00000030;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .content:hover {
+      border-color: #686982;
+      box-shadow: 0 5px 18px #00000040;
+    }
+
+    .content p,
+    .content li {
+      color: #c7c8d4;
+    }
+
+    .content li {
+      margin-bottom: 7px;
+    }
+
+    .content a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    .content a:hover {
+      color: #ffd17a;
+      text-decoration: underline;
+    }
+
+    .notice {
+      margin-top: 25px;
+      padding: 20px;
+      background: #303146;
+      border: 1px solid #414258;
+      border-left: 4px solid #ffad00;
+      border-radius: 5px;
+      color: #d1d2dc;
+    }
+
+    .notice strong {
+      color: #ffb323;
+    }
+
+    footer {
+      background: #1b1c2b;
+      color: #b8bac9;
+      padding: 22px 20px;
       text-align: center;
+      border-top: 1px solid #38394e;
+    }
+
+    footer a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 0 15px;
+      }
+
+      .brand {
+        font-size: 27px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .content {
+        padding: 18px;
+      }
+
+      nav .container {
+        gap: 12px 18px;
+      }
     }
   </style>
 </head>
+
 <body>
 
 <header>
   <div class="container">
-    <div class="brand">Мир РС</div>
-    <div class="tagline">Информационный портал о рассеянном склерозе</div>
+    <h1 class="brand">Мир РС</h1>
+    <div class="tagline">Русскоязычный информационный портал о рассеянном склерозе</div>
   </div>
 </header>
 
@@ -66,10 +190,12 @@
   <div class="container">
     <a href="index.html">Главная</a>
     <a href="treatment.html">Лечение</a>
+    <a href="new-treatments.html">Новые препараты</a>
     <a href="forms.html">Формы РС</a>
     <a href="symptoms.html">Симптомы</a>
     <a href="life.html">Жизнь с РС</a>
     <a href="research.html">Исследования</a>
+    <a href="about.html">О проекте</a>
   </div>
 </nav>
 
@@ -134,6 +260,7 @@
 <footer>
   <p><strong>Мир РС</strong></p>
   <p>Информация, исследования и поддержка для русскоязычного сообщества</p>
+  <p><a href="index.html">На главную</a></p>
 </footer>
 
 </body>
