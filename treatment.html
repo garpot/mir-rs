@@ -89,9 +89,9 @@
       background: #303146;
       padding: 24px;
       margin: 20px 0;
-      border-radius: 5px;
+      border-radius: 7px;
       border: 1px solid #414258;
-      box-shadow: 0 3px 10px #00000020;
+      box-shadow: 0 4px 14px #00000030;
     }
 
     .intro p,
@@ -108,12 +108,45 @@
       margin-bottom: 7px;
     }
 
+    .medical-figure {
+      max-width: 680px;
+      margin: 25px auto;
+      text-align: center;
+    }
+
+    .medical-figure img {
+      display: block;
+      width: 100%;
+      max-height: 430px;
+      object-fit: contain;
+      background: #ffffff;
+      border-radius: 6px;
+      padding: 8px;
+    }
+
+    .medical-figure figcaption {
+      color: #aeb0c5;
+      font-size: 13px;
+      line-height: 1.5;
+      margin-top: 9px;
+    }
+
+    .medical-figure figcaption a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    .medical-figure figcaption a:hover {
+      text-decoration: underline;
+    }
+
     .notice {
       background: #303146;
+      border: 1px solid #414258;
       border-left: 4px solid #ffad00;
       padding: 20px;
       margin-top: 30px;
-      border-radius: 4px;
+      border-radius: 5px;
       color: #d1d2dc;
     }
 
@@ -164,6 +197,10 @@
       nav .container {
         gap: 12px 18px;
       }
+
+      .medical-figure {
+        margin: 20px auto;
+      }
     }
   </style>
 </head>
@@ -180,6 +217,7 @@
 <nav>
   <div class="container">
     <a href="index.html">Главная</a>
+    <a href="what-is-ms.html">Что такое РС</a>
     <a href="treatment.html">Лечение</a>
     <a href="new-treatments.html">Новые препараты и перспективные методы лечения</a>
     <a href="forms.html">Формы РС</a>
@@ -221,6 +259,19 @@
       <li>Препараты, воздействующие на B-лимфоциты.</li>
       <li>Другие иммуномодулирующие и иммуносупрессивные препараты.</li>
     </ul>
+
+    <figure class="medical-figure">
+      <img
+        src="https://commons.wikimedia.org/wiki/Special:FilePath/Myelin%20sheath%20damage%20in%20multiple%20sclerosis.svg"
+        alt="Сравнение нормального нервного волокна и нервного волокна с повреждённой миелиновой оболочкой"
+        loading="lazy">
+      <figcaption>
+        Повреждение миелиновой оболочки при рассеянном склерозе.
+        Иллюстрация: Mjeltsch,
+        <a href="https://commons.wikimedia.org/wiki/File:Myelin_sheath_damage_in_multiple_sclerosis.svg" target="_blank" rel="noopener">Wikimedia Commons</a>,
+        лицензия CC BY-SA 4.0.
+      </figcaption>
+    </figure>
   </section>
 
   <section class="article">
@@ -247,6 +298,19 @@
       При выборе лечения важно учитывать наличие активности заболевания,
       результаты МРТ и индивидуальную клиническую картину.
     </p>
+
+    <figure class="medical-figure">
+      <img
+        src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
+        alt="МРТ головного мозга с изменениями, характерными для рассеянного склероза"
+        loading="lazy">
+      <figcaption>
+        Пример МРТ головного мозга при рассеянном склерозе.
+        Автор: James Heilman, MD,
+        <a href="https://commons.wikimedia.org/wiki/File:MSMRI.png" target="_blank" rel="noopener">Wikimedia Commons</a>,
+        лицензия CC BY-SA 4.0.
+      </figcaption>
+    </figure>
   </section>
 
   <section class="article">
@@ -266,6 +330,19 @@
       ускорить восстановление после некоторых обострений,
       но не являются способом остановить долгосрочное прогрессирование.
     </p>
+
+    <figure class="medical-figure">
+      <img
+        src="https://commons.wikimedia.org/wiki/Special:FilePath/Infusion%20Set%2001.jpg"
+        alt="Медицинская инфузионная система"
+        loading="lazy">
+      <figcaption>
+        Инфузионная система — оборудование, используемое для внутривенного введения растворов и препаратов.
+        Автор: AfroBrazilian,
+        <a href="https://commons.wikimedia.org/wiki/File:Infusion_Set_01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>,
+        лицензия CC BY-SA 3.0.
+      </figcaption>
+    </figure>
   </section>
 
   <section class="article">
