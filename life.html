@@ -5,6 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#222334">
+<meta name="description" content="Повседневная жизнь с рассеянным склерозом: реабилитация, мобильность, питание, сон и адаптация дома.">
 <title>Жизнь с рассеянным склерозом — Мир РС</title>
 
 <style>
@@ -105,6 +106,32 @@ h2 {
   color: #c7c8d4;
 }
 
+.medical-figure {
+  max-width: 720px;
+  margin: 25px auto;
+  text-align: center;
+}
+
+.diagram {
+  background: #ffffff;
+  border-radius: 7px;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.medical-figure figcaption {
+  color: #aeb0c5;
+  font-size: 13px;
+  line-height: 1.5;
+  margin-top: 9px;
+}
+
 .notice {
   background: #303146;
   border: 1px solid #414258;
@@ -160,6 +187,10 @@ footer a:hover {
   nav .container {
     gap: 12px 18px;
   }
+
+  .diagram {
+    padding: 8px;
+  }
 }
 </style>
 </head>
@@ -176,6 +207,7 @@ footer a:hover {
 <nav>
   <div class="container">
     <a href="index.html">Главная</a>
+    <a href="what-is-ms.html">Что такое РС</a>
     <a href="treatment.html">Лечение</a>
     <a href="new-treatments.html">Новые препараты</a>
     <a href="forms.html">Формы РС</a>
@@ -198,12 +230,77 @@ footer a:hover {
   <h2>1. Реабилитация и физическая активность</h2>
   <p>Реабилитация направлена на поддержание двигательных функций, равновесия, координации и самостоятельности.</p>
   <p>Программа должна учитывать индивидуальные возможности, утомляемость, состояние суставов и риск падений. Её желательно составлять вместе с физиотерапевтом, знакомым с РС.</p>
+
+  <figure class="medical-figure">
+    <div class="diagram">
+      <svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rehab-title">
+        <title id="rehab-title">Реабилитация и физическая активность</title>
+        <rect width="700" height="300" fill="#ffffff"/>
+        <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#263044">Реабилитация при РС</text>
+
+        <!-- Человек -->
+        <circle cx="340" cy="85" r="27" fill="#e8b58c" stroke="#8b6b56" stroke-width="2"/>
+        <path d="M340 115 L340 205" stroke="#3978a8" stroke-width="19" stroke-linecap="round"/>
+        <path d="M340 135 L280 180 L250 225" fill="none" stroke="#3978a8" stroke-width="14" stroke-linecap="round"/>
+        <path d="M340 135 L400 180 L435 225" fill="none" stroke="#3978a8" stroke-width="14" stroke-linecap="round"/>
+        <path d="M340 205 L300 270" stroke="#263044" stroke-width="16" stroke-linecap="round"/>
+        <path d="M340 205 L390 270" stroke="#263044" stroke-width="16" stroke-linecap="round"/>
+
+        <!-- Поручень -->
+        <path d="M460 105 L460 265 M460 105 L515 105" stroke="#8b929d" stroke-width="8" fill="none" stroke-linecap="round"/>
+        <path d="M460 265 L490 265" stroke="#8b929d" stroke-width="7"/>
+
+        <g fill="#333333" font-size="14">
+          <text x="75" y="100">Равновесие</text>
+          <path d="M170 105 L280 155" stroke="#29966b" stroke-width="2" fill="none"/>
+          <text x="515" y="160">Поддержка</text>
+          <path d="M510 165 L465 180" stroke="#29966b" stroke-width="2" fill="none"/>
+          <text x="350" y="292" text-anchor="middle" font-size="13">Индивидуально подобранная программа</text>
+        </g>
+      </svg>
+    </div>
+    <figcaption>Схематическая иллюстрация реабилитации и тренировки двигательных функций.</figcaption>
+  </figure>
 </section>
 
 <section class="card">
   <h2>2. Ходьба и средства мобильности</h2>
   <p>Трости, ходунки, роллаторы и инвалидные коляски могут помогать безопасно передвигаться и экономить силы.</p>
   <p>Использование коляски не означает отказ от реабилитации. Иногда это способ сохранить энергию и возможность участвовать в повседневной жизни.</p>
+
+  <figure class="medical-figure">
+    <div class="diagram">
+      <svg viewBox="0 0 700 290" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mobility-title">
+        <title id="mobility-title">Средства мобильности при РС</title>
+        <rect width="700" height="290" fill="#ffffff"/>
+        <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#263044">Средства мобильности</text>
+
+        <!-- Трость -->
+        <path d="M125 90 L125 215" stroke="#8b633e" stroke-width="9" stroke-linecap="round"/>
+        <path d="M125 90 C125 65 165 65 165 90" stroke="#8b633e" stroke-width="9" fill="none" stroke-linecap="round"/>
+
+        <!-- Ходунок -->
+        <path d="M290 80 L270 220 M390 80 L410 220 M270 80 L390 80 M270 220 L410 220"
+        stroke="#7793a9" stroke-width="8" fill="none" stroke-linecap="round"/>
+        <path d="M270 110 L390 110" stroke="#7793a9" stroke-width="7"/>
+
+        <!-- Коляска -->
+        <circle cx="535" cy="205" r="48" fill="none" stroke="#3978a8" stroke-width="8"/>
+        <circle cx="535" cy="205" r="7" fill="#3978a8"/>
+        <circle cx="625" cy="220" r="19" fill="none" stroke="#3978a8" stroke-width="7"/>
+        <path d="M535 205 L555 125 L610 125 L625 220 M555 125 L520 125"
+        stroke="#3978a8" stroke-width="8" fill="none" stroke-linecap="round"/>
+        <path d="M550 135 L590 135 L610 180 L555 180Z" fill="#8fb4ce"/>
+
+        <g fill="#333333" font-size="15" text-anchor="middle">
+          <text x="145" y="265">Трость</text>
+          <text x="340" y="265">Ходунок</text>
+          <text x="575" y="265">Коляска</text>
+        </g>
+      </svg>
+    </div>
+    <figcaption>Примеры средств, которые могут помогать при ограничении подвижности.</figcaption>
+  </figure>
 </section>
 
 <section class="card">
@@ -234,6 +331,42 @@ footer a:hover {
   <h2>7. Адаптация дома и независимость</h2>
   <p>Поручни, удобные сиденья, нескользящие поверхности, доступная ванная комната и правильно организованное пространство могут уменьшить риск падений.</p>
   <p>Адаптивные устройства помогают выполнять повседневные задачи с меньшими усилиями.</p>
+
+  <figure class="medical-figure">
+    <div class="diagram">
+      <svg viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="home-title">
+        <title id="home-title">Пример адаптации ванной комнаты</title>
+        <rect width="700" height="320" fill="#ffffff"/>
+        <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#263044">Адаптация жилого пространства</text>
+
+        <!-- Стены и пол -->
+        <path d="M90 70 L610 70 L610 260 L90 260Z" fill="#edf0f3" stroke="#9ba4af" stroke-width="3"/>
+        <path d="M90 210 L610 210" stroke="#c4cbd2" stroke-width="3"/>
+
+        <!-- Душевая -->
+        <path d="M110 85 L285 85 L285 210 L110 210Z" fill="#d7eaf3" stroke="#7793a9" stroke-width="3"/>
+        <path d="M130 110 L260 110" stroke="#7793a9" stroke-width="5"/>
+        <path d="M245 110 L245 145" stroke="#7793a9" stroke-width="5"/>
+        <path d="M145 170 L260 170" stroke="#29966b" stroke-width="8" stroke-linecap="round"/>
+
+        <!-- Поручень -->
+        <path d="M350 125 L350 185 L470 185" fill="none" stroke="#29966b" stroke-width="10" stroke-linecap="round"/>
+        <circle cx="350" cy="125" r="6" fill="#29966b"/>
+        <circle cx="470" cy="185" r="6" fill="#29966b"/>
+
+        <!-- Сиденье -->
+        <path d="M420 205 L530 205 L530 220 L420 220Z" fill="#8fb4ce" stroke="#3978a8" stroke-width="2"/>
+        <path d="M430 220 L430 250 M520 220 L520 250" stroke="#3978a8" stroke-width="6"/>
+
+        <g fill="#333333" font-size="14">
+          <text x="195" y="290" text-anchor="middle">Нескользящая поверхность</text>
+          <text x="410" y="105" text-anchor="middle">Поручень</text>
+          <text x="515" y="290" text-anchor="middle">Удобное сиденье</text>
+        </g>
+      </svg>
+    </div>
+    <figcaption>Схематический пример доступной ванной комнаты с поручнем, сиденьем и нескользящей поверхностью.</figcaption>
+  </figure>
 </section>
 
 <div class="notice">
