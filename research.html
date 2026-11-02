@@ -181,6 +181,46 @@
       color: #c7c8d4;
     }
 
+    /* Иллюстрации */
+
+    .medical-figure {
+      background: #303146;
+      border: 1px solid #414258;
+      border-radius: 7px;
+      padding: 22px;
+      margin: 25px 0;
+      text-align: center;
+      box-shadow: 0 4px 14px #00000030;
+    }
+
+    .medical-figure svg {
+      display: block;
+      width: 100%;
+      max-width: 650px;
+      height: auto;
+      margin: 0 auto;
+    }
+
+    .medical-figure figcaption {
+      color: #aeb0c5;
+      font-size: 14px;
+      margin-top: 12px;
+    }
+
+    .research-note {
+      background: #303146;
+      border: 1px solid #414258;
+      border-left: 4px solid #ffad00;
+      border-radius: 5px;
+      padding: 18px 20px;
+      margin: 25px 0;
+      color: #c7c8d4;
+    }
+
+    .research-note strong {
+      color: #ffb323;
+    }
+
     footer {
       background: #1b1c2b;
       text-align: center;
@@ -223,6 +263,10 @@
         padding: 18px;
       }
 
+      .medical-figure {
+        padding: 14px;
+      }
+
       nav .container {
         gap: 12px 18px;
       }
@@ -242,6 +286,7 @@
 <nav>
   <div class="container">
     <a href="index.html">Главная</a>
+    <a href="what-is-ms.html">Что такое РС</a>
     <a href="treatment.html">Лечение</a>
     <a href="new-treatments.html">Новые препараты</a>
     <a href="forms.html">Формы РС</a>
@@ -272,6 +317,80 @@
     </p>
   </section>
 
+  <figure class="medical-figure">
+    <svg viewBox="0 0 700 290" xmlns="http://www.w3.org/2000/svg"
+         role="img" aria-label="Схематическое изображение научного исследования нервной системы">
+      <rect x="10" y="10" width="680" height="270" rx="16"
+            fill="#292a3c" stroke="#505168" stroke-width="2"/>
+
+      <!-- Нейрон -->
+      <circle cx="180" cy="135" r="35"
+              fill="#ffb323" opacity="0.9"/>
+      <circle cx="180" cy="135" r="14"
+              fill="#303146"/>
+
+      <g stroke="#ffb323" stroke-width="6" fill="none"
+         stroke-linecap="round">
+        <path d="M180 100 L180 55 L145 30"/>
+        <path d="M180 100 L215 62 L245 48"/>
+        <path d="M145 30 L120 25"/>
+        <path d="M215 62 L225 28"/>
+        <path d="M145 170 L115 205 L85 210"/>
+        <path d="M180 170 L180 225 L155 250"/>
+        <path d="M215 165 L245 195 L275 198"/>
+      </g>
+
+      <!-- Аксон -->
+      <path d="M215 135 C270 135 295 135 345 135"
+            stroke="#ffb323" stroke-width="7" fill="none"
+            stroke-linecap="round"/>
+
+      <!-- Миелиновые сегменты -->
+      <g fill="#8b91c7" stroke="#b8bee9" stroke-width="2">
+        <rect x="245" y="117" width="32" height="36" rx="13"/>
+        <rect x="290" y="117" width="32" height="36" rx="13"/>
+      </g>
+
+      <!-- Сигнал -->
+      <g fill="#ffcb70">
+        <circle cx="355" cy="135" r="7"/>
+        <circle cx="385" cy="135" r="7"/>
+        <circle cx="415" cy="135" r="7"/>
+      </g>
+
+      <!-- Лабораторный микроскоп -->
+      <g stroke="#c7c8d4" stroke-width="9"
+         fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M515 65 L555 105"/>
+        <path d="M548 100 L515 135"/>
+        <path d="M515 135 L515 180"/>
+        <path d="M480 180 L555 180"/>
+        <path d="M485 180 L470 215 L565 215"/>
+        <path d="M520 65 L545 40"/>
+      </g>
+      <circle cx="515" cy="135" r="9" fill="#ffb323"/>
+      <path d="M480 235 H575" stroke="#ffb323"
+            stroke-width="7" stroke-linecap="round"/>
+
+      <text x="180" y="270" text-anchor="middle"
+            fill="#e8e9f0" font-size="16">Нейрон</text>
+      <text x="525" y="270" text-anchor="middle"
+            fill="#e8e9f0" font-size="16">Научное исследование</text>
+    </svg>
+    <figcaption>
+      Условная иллюстрация нервной клетки и научного изучения нервной системы.
+    </figcaption>
+  </figure>
+
+  <div class="research-note">
+    <strong>Зачем нужны исследования?</strong>
+    <p>
+      Учёные изучают механизмы развития рассеянного склероза,
+      ищут способы замедлить прогрессирование заболевания,
+      восстановить повреждённые нервные структуры и улучшить качество жизни.
+    </p>
+  </div>
+
   <h2 class="section-title">Научные публикации</h2>
 
   <section class="controls">
@@ -292,6 +411,67 @@
 
   <h2 class="section-title">Клинические исследования</h2>
 
+  <figure class="medical-figure">
+    <svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg"
+         role="img" aria-label="Схема основных этапов клинического исследования">
+      <rect x="10" y="10" width="680" height="240" rx="16"
+            fill="#292a3c" stroke="#505168" stroke-width="2"/>
+
+      <!-- Линия этапов -->
+      <path d="M105 105 H590"
+            stroke="#686982" stroke-width="5"
+            stroke-linecap="round"/>
+
+      <!-- Этап 1 -->
+      <circle cx="105" cy="105" r="35"
+              fill="#ffb323" stroke="#ffe0a0" stroke-width="3"/>
+      <text x="105" y="113" text-anchor="middle"
+            fill="#222334" font-size="23" font-weight="bold">I</text>
+      <text x="105" y="165" text-anchor="middle"
+            fill="#ffcb70" font-size="17" font-weight="bold">Фаза I</text>
+      <text x="105" y="190" text-anchor="middle"
+            fill="#c7c8d4" font-size="13">Безопасность</text>
+
+      <!-- Этап 2 -->
+      <circle cx="268" cy="105" r="35"
+              fill="#e5a83f" stroke="#ffe0a0" stroke-width="3"/>
+      <text x="268" y="113" text-anchor="middle"
+            fill="#222334" font-size="23" font-weight="bold">II</text>
+      <text x="268" y="165" text-anchor="middle"
+            fill="#ffcb70" font-size="17" font-weight="bold">Фаза II</text>
+      <text x="268" y="190" text-anchor="middle"
+            fill="#c7c8d4" font-size="13">Доза и эффект</text>
+
+      <!-- Этап 3 -->
+      <circle cx="431" cy="105" r="35"
+              fill="#b8a16d" stroke="#e8d7a9" stroke-width="3"/>
+      <text x="431" y="113" text-anchor="middle"
+            fill="#222334" font-size="23" font-weight="bold">III</text>
+      <text x="431" y="165" text-anchor="middle"
+            fill="#ffcb70" font-size="17" font-weight="bold">Фаза III</text>
+      <text x="431" y="190" text-anchor="middle"
+            fill="#c7c8d4" font-size="13">Подтверждение</text>
+
+      <!-- Этап 4 -->
+      <circle cx="594" cy="105" r="35"
+              fill="#8b91c7" stroke="#c4c8ef" stroke-width="3"/>
+      <text x="594" y="113" text-anchor="middle"
+            fill="#222334" font-size="23" font-weight="bold">IV</text>
+      <text x="594" y="165" text-anchor="middle"
+            fill="#c4c8ef" font-size="17" font-weight="bold">Фаза IV</text>
+      <text x="594" y="190" text-anchor="middle"
+            fill="#c7c8d4" font-size="13">Наблюдение</text>
+
+      <text x="350" y="225" text-anchor="middle"
+            fill="#aeb0c5" font-size="13">
+        Упрощённая схема: не каждое исследование проходит все фазы
+      </text>
+    </svg>
+    <figcaption>
+      Основные фазы клинических исследований лекарственных препаратов.
+    </figcaption>
+  </figure>
+
   <section class="controls">
     <label for="trial-search"><strong>Поиск клинических исследований</strong></label>
     <input id="trial-search" type="search"
@@ -307,6 +487,21 @@
     Загружаем клинические исследования...
   </div>
   <section id="trials"></section>
+
+  <div class="research-note">
+    <strong>Важно понимать:</strong>
+    <p>
+      Клиническое исследование может находиться на ранней стадии,
+      быть приостановлено или завершено без положительного результата.
+      Сам факт регистрации исследования не подтверждает эффективность
+      нового препарата.
+    </p>
+    <p>
+      Перед оценкой результатов важно учитывать фазу исследования,
+      количество участников, продолжительность наблюдения и опубликованные
+      результаты.
+    </p>
+  </div>
 
 </main>
 
