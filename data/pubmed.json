@@ -230,6 +230,27 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966339/"
   },
   {
+    "pmid": "42968611",
+    "title": "Multiple Sclerosis in Patients Over 50: Immunosenescence, Comorbidities, and the Role of Cladribine Tablets.",
+    "date": "2026 Sep 10",
+    "journal": "Current neuropharmacology",
+    "authors": [
+      "Lanzillo R",
+      "Battistini L",
+      "Buonomo AR",
+      "De Biase L",
+      "Menzella F",
+      "Persani L",
+      "Testa G",
+      "Albanese A",
+      "Inglese M",
+      "Patti F"
+    ],
+    "abstract": "The treatment of multiple sclerosis (MS) in older patients is complicated by the confluence of frailty, immunosenescence, and comorbidities. With advancing age, the immune system undergoes significant changes that progressively limit its ability to mount effective responses, with a reduction of naïve lymphocytes and the accumulation of senescent T and B cells. Additionally, elderly individuals with MS tend to have a higher burden of comorbidities, which can further complicate therapeutic decision-making. In the elderly MS population, the use of aggressive immunosuppressive strategies is associated with an increased risk of infections and reduced vaccine responsiveness, and may therefore pose additional risks as compared to the younger population. This narrative review explores how immunosenescence and comorbidities need to be taken into account when choosing the most appropriate treatment. Particular attention is given to immune reconstitution therapies (IRTs), with a focus on cladribine tablets (CladT), as a possible treatment strategy in this population. A targeted literature search was conducted in PubMed/MEDLINE to identify relevant studies published up to October 2025, using combinations of terms covering multiple sclerosis, aging, older adults, immunosenescence, frailty, comorbidities, disease-modifying therapies, and cladribine. The evidence was synthesized narratively, with particular attention to the level of evidence and its applicability to older or frail patients. CladT may represent one potential therapeutic option in selected patients, as the drug is characterized by transient immune suppression followed by immune recovery. This mechanism may enable disease control while limiting continuous exposure to treatment. Clinical trials and real-world data suggest that CladT has a generally manageable safety profile and may be effective in reducing relapse rates and disability progression across age groups, although evidence in older and frail populations remains limited. In older patients, therapeutic decisions should balance treatment efficacy against the heightened risks associated with immunosenescence, comorbidities, and frailty, rather than relying on chronological age alone. Within this framework, CladT - owing to its intermittent dosing and reduced continuous immunosuppression - may be relevant in selected patients, although direct evidence in older and frail populations remains limited. An individualized approach to MS treatment in older patients is required, integrating considerations related to immunosenescence, comorbidities, and frailty. In this context, CladT may be considered among the available therapeutic options in selected patients, although further evidence in older populations is needed.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968611/"
+  },
+  {
     "pmid": "42953805",
     "title": "The Prevalence of Schizophrenia and Bipolar Disorder in Multiple Sclerosis: A Systematic Review and Meta-Analysis.",
     "date": "2026 Sep",
@@ -2433,6 +2454,45 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956390/"
   },
   {
+    "pmid": "42969026",
+    "title": "Emergence of natalizumab anti-drug antibodies during extended interval dosing in a patient with multiple sclerosis: A case report.",
+    "date": "2026 Nov 2",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Gelissen LMY",
+      "van den Berg SPH",
+      "Dorlo TPC",
+      "Wolbink G",
+      "van Oosten BW",
+      "Killestein J",
+      "van Kempen ZLE",
+      "Rispens T"
+    ],
+    "abstract": "We present a natalizumab-treated patient with multiple sclerosis (MS) who developed neutralizing anti-drug antibodies (ADAs) after years of treatment following introduction of extended interval dosing (EID). To gain insight into how this sudden ADA development occurred. A pharmacokinetic model was used to evaluate the relation between natalizumab concentration and ADA production. EID from 4 to 6 weeks resulted in unexpectedly low natalizumab trough concentrations accompanied by increasing ADAs. Modeling suggested ADA production was stimulated by declining natalizumab concentrations. EID may result in increased ADA production, causing ADA-mediated clearance of natalizumab and risking new MS activity.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969026/"
+  },
+  {
+    "pmid": "42969020",
+    "title": "The role of microglia in remyelination: Mechanisms and therapeutic implications in multiple sclerosis.",
+    "date": "2026 Nov 2",
+    "journal": "Histology and histopathology",
+    "authors": [
+      "Xu K",
+      "Yin JJ",
+      "Wang K",
+      "Ji CX",
+      "Yin JZ",
+      "Ma D",
+      "Ma CG",
+      "Song LJ",
+      "Ding ZB"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic demyelinating disease of the central nervous system, accompanied by progressive neurological deficits. Current MS disease-modifying drugs mainly target peripheral immune cells and have demonstrated little efficacy for neuroprotection or remyelination. Growing evidence indicates that microglia play a critical dual role in demyelinating animal models and MS. In acute inflammatory phases, microglia adopt a pro-inflammatory phenotype, exacerbating demyelination and neural damage. But, as lesions evolve, these resident immune cells can transform into an anti-inflammatory state, promoting tissue repair and myelin regeneration. Despite the importance of microglia, the regulatory mechanism of this double-edged sword during demyelination and remyelination has not been fully elucidated. This review first provides an overview of the involvement of microglia in demyelination and remyelination, and how their functional evolution depends on disease stage, on the spatial location of the lesion and its microenvironment. Secondly, the interaction between microglia and astrocytes, monocyte-derived macrophages, T cells, and B cells is described, working together to balance the disrupted microenvironment, promote the formation, differentiation, and maturation of oligodendrocyte precursor cells, and ultimately achieve myelin protection and regeneration. We then organize the signaling pathways targeting microglia and remyelination, providing a theoretical basis for drug development. Finally, we present drugs or small-molecule compounds targeting signaling pathways for exploratory therapeutic research at different stages. In summary, this review highlights the importance of remyelination, microglial heterogeneity, the temporal nature of regulation, and the complexity of treatment. We also present some challenges and solutions for remyelination, providing valuable information for neurological recovery in MS patients.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969020/"
+  },
+  {
     "pmid": "42912865",
     "title": "Gray Matter Damage and Long-Term Disability, Cognitive Outcome, and Survival in Patients With Multiple Sclerosis.",
     "date": "2026 Nov 10",
@@ -2471,6 +2531,29 @@
     "abstract": "Multiple sclerosis (MS) is a chronic inflammatory autoimmune disease triggered by damage to the central nervous system (CNS). This CNS damage is caused by the attack of autoreactive T cells against the myelin sheath. Genetic and environmental factors contribute to the development of MS, and the condition causes serious disabilities and exerts substantial health burdens. Although various disease-modifying agents have been developed, they have critical limitations; hence, effective interventions are required. In this context, cell transplantation therapy using mesenchymal stem cells (MSCs), hematopoietic stem cells, neural precursors, neural stem cells, and induced pluripotent stem cells is considered a feasible alternative therapeutic approach. MSCs are adult stem cells that differentiate into multiple lineages and exert immunomodulatory, neuroprotective, and neuroregenerative effects. Therefore, MSCs are considered a promising treatment option for MS owing to their ease of isolation and low immunogenicity. This review summarizes the potential therapeutic benefits of the latest MSC-based approaches for MS treatment in animal models and humans. Furthermore, the review discusses the immunological role of MSCs and future directions for their applications.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42952209/"
+  },
+  {
+    "pmid": "42968545",
+    "title": "A Belgian study assessing relapsing multiple sclerosis activity through automated magnetic resonance imaging volumetry.",
+    "date": "2026 Nov 1",
+    "journal": "Neurodegenerative disease management",
+    "authors": [
+      "D'hooghe MB",
+      "Fockaert N",
+      "Glibert N",
+      "Elands S",
+      "Elosegi JA",
+      "Etxeberria Izal A",
+      "Ribbens A",
+      "Sima DM",
+      "Lefort C",
+      "Van Dam K",
+      "Jansen M",
+      "Maury E"
+    ],
+    "abstract": "This study assessed to what extent ico We retrospectively enrolled 111 RMS patients with two consecutive MRI scans at one year interval, without relapses, progression or radiological changes while remaining on stable therapy. MRI scans were analyzed by four radiologists acting independently, and by ico Radiologists' detection of lesion activity non-significantly increased from 6.8% to 8.6% (McNemar AI-assisted MRI volumetry may support radiologists to detect subclinical disease activity in patients characterized as having stable disease.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968545/"
   },
   {
     "pmid": "42936402",
@@ -3027,6 +3110,18 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42960203/"
   },
   {
+    "pmid": "42968057",
+    "title": "Mitochondrial Haplogroup U and multiple sclerosis risk in Arab and Near Eastern populations: a systematic review and meta-analysis.",
+    "date": "2026 Aug 5",
+    "journal": "BMC neurology",
+    "authors": [
+      "Shuaibu II"
+    ],
+    "abstract": "Multiple Sclerosis (MS) is an inflammatory neurodegenerative disease with incompletely understood aetiology beyond the HLA-DRB1 locus. Mitochondrial haplogroup U, prevalent in Middle Eastern and Near Eastern populations, encodes functional variants in NADH dehydrogenase subunits associated with elevated reactive oxygen species (ROS) production. A 2022 study (Al-Kafaji et al., PLoS ONE) reported a nominal association between haplogroup U and RRMS in Saudi Arab patients (OR 6.26; 95% CI 0.82-48.10) in a single, small (n = 47) cohort. We conducted a systematic review and meta-analysis to determine whether this signal is supported by independently verifiable case-control data from other Arab or Near Eastern populations. PRISMA 2020 systematic review. PubMed/MEDLINE was searched to 15 July 2026 using a concept-level strategy - (\"mitochondrial DNA\"[tiab] OR \"mtDNA\"[tiab] OR \"DNA, Mitochondrial\"[MeSH] OR \"Mitochondria\"[MeSH]) AND (\"haplogroup\"[tiab] OR \"haplogroups\"[tiab] OR \"haplotype\"[tiab]) AND (\"multiple sclerosis\"[tiab] OR \"Multiple Sclerosis\"[MeSH] OR \"demyelinating\"[tiab] OR \"RRMS\"[tiab]) - with no population terms applied at the search stage; population eligibility (Arab or Near Eastern cohort) was assessed during screening rather than baked into the search string, to maximise sensitivity. Eligible studies were case-control studies reporting mitochondrial haplogroup U frequency in MS cases versus healthy controls in an Arab or Near Eastern population, with data sufficient to construct a 2 × 2 table. Odds ratios were pooled using a fixed-effect inverse-variance model. The search identified 30 records. After screening and full-text assessment, two studies met full inclusion criteria for quantitative pooling: Al-Kafaji et al. [1] (Saudi Arabia, n = 47) and Hassani-Kumleh et al. [2] (Iran, n = 154); total pooled N = 201 (77 MS cases, 124 controls). The fixed-effect pooled OR was 4.11 (95% CI 1.25-13.55; p = 0.020), with no meaningful heterogeneity (I²=0%, Cochran's Q = 0.25, df = 1). Two further Near Eastern studies (Houshmand et al. [3]; Ghabaee et al. [4]) reported related but non-poolable data - haplogroup J association and a haplogroup U case-series prevalence without a control arm, respectively - and are discussed narratively. Across two independently verified Near Eastern case-control cohorts, mitochondrial haplogroup U is significantly associated with increased MS risk (pooled OR 4.11, 95% CI 1.25-13.55). The evidence base remains small, and the wide confidence interval reflects this. A larger, prospective, adequately powered study in Arab and Near Eastern MS cohorts is needed to confirm and refine this association.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968057/"
+  },
+  {
     "pmid": "42953422",
     "title": "Advanced age at onset is associated with distinct functional brain reorganization in multiple sclerosis.",
     "date": "2026",
@@ -3469,5 +3564,21 @@
     "abstract": "Brain volume estimates are increasingly used as longitudinal endpoints in neuroimaging studies and clinical trials, but outputs from different segmentation pipelines may not be interchangeable. In this study, we performed a version-specific comparison of six established brain segmentation pipelines across healthy controls (HC; FreeSurfer v6, FreeSurfer v7.2, SAMSEG, FastSurfer v1, SIENAX/SIENA-XL, and CAT12 were evaluated. The primary aims were to quantify systematic offsets and inter-pipeline agreement in normalized baseline volume estimates, assess within-pipeline repeatability and longitudinal change-from-baseline concordance, and determine whether longitudinal processing reduced variability relative to cross-sectional processing. Gray matter, white matter, hippocampus, and thalamus were selected and normalized to intracranial volume. Agreement was assessed using intraclass correlation coefficients, while longitudinal change was evaluated using mixed-effects models and repeatability metrics. Baseline volume estimates differed significantly across pipelines in 11 of 12 cohort-by-tissue comparisons (FDR-adjusted Together, these findings show that systematic offset, absolute agreement, longitudinal change magnitude, and short-interval repeatability represent distinct properties of volumetric pipelines and vary by tissue, cohort, and processing mode. Longitudinal processing reduced variability but not uniformly, highlighting pipeline- and tissue-dependent differences relevant to the interpretation of longitudinal volumetric measurements.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42964793/"
+  },
+  {
+    "pmid": "42967168",
+    "title": "The \"Invisible Killer\" of Neurodegeneration: Mitochondrial Dysfunction in Neurodegenerative Disorders, Mechanisms, Emerging Pathways and Therapeutic Strategies.",
+    "date": "2026",
+    "journal": "Journal of inflammation research",
+    "authors": [
+      "Cao S",
+      "Liu T",
+      "Cheng X",
+      "Tian X",
+      "Wei J"
+    ],
+    "abstract": "Neurodegenerative diseases such as Parkinson's disease (PD), Alzheimer's disease (AD), Huntington's disease (HD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS) place substantial burden on global public health. Mounting evidence identifies mitochondrial dysfunction as a central contributor to neuronal damage and progressive brain functional decline. As a narrative review, this work aims to dissect mitochondrial‑associated pathological features across these major neurodegenerative disorders, summarize under‑recognized emerging mechanisms, and highlight translational bottlenecks for mitochondrial‑targeted therapies. Mitochondria sustain neuronal survival by mediating oxidative‑phosphorylation‑driven energy production, biomolecule biosynthesis, calcium homeostasis, reactive oxygen species (ROS) metabolism, and apoptotic regulation. In PD, aggregated α‑synuclein (α‑syn) damages respiratory‑chain complex I, perturbs mitochondrial dynamics and blocks PINK1/Parkin‑dependent mitophagy. In AD, amyloid‑β together with hyper‑phosphorylated tau (p-Tau) impairs respiratory complex activity, axonal mitochondrial trafficking and mitophagic clearance. Mutant huntingtin induces multiple mitochondrial lesions in HD, while inflammation‑triggered oxidative stress secondarily compromises mitochondrial function in MS. Pathogenic mutations in ALS disrupt respiratory‑chain assembly, mitochondrial dynamics and mitophagy. Beyond classic mitochondrial defects including respiratory‑chain impairment, dynamic imbalance and defective mitophagy, emerging mechanisms such as mitocytosis, mitochondrial aminoacyl‑tRNA synthetase (mt‑aaRS) dysfunction and mitochondria‑associated membrane (MAM) disruption are discussed. Mitochondrial dysfunction drives neurodegeneration via energy exhaustion, aggravated oxidative stress, pathological protein aggregation and excessive neuronal apoptosis. We further recapitulate mitochondrial‑oriented therapeutic approaches including small‑molecule regulators, mitophagy activators, mitochondrial biogenesis promoters, gene‑editing strategies and mitochondrial transplantation. Notable translational obstacles remain, including limited blood‑brain‑barrier penetration of candidate drugs, narrow therapeutic time‑window post‑symptom onset, and prominent disease heterogeneity. By synthesizing basic experimental findings and pre‑clinical and clinical trial progress, this review provides updated insights into the pathogenesis of neurodegenerative diseases and facilitates the development of precise mitochondrial‑targeted therapeutic regimens.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42967168/"
   }
 ]
