@@ -145,6 +145,28 @@ h2 {
   text-decoration: underline;
 }
 
+.diagram {
+  max-width: 760px;
+  margin: 25px auto;
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+.diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.diagram figcaption {
+  color: #555;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 10px;
+}
+
 .notice {
   background: #303146;
   border: 1px solid #414258;
@@ -205,6 +227,10 @@ footer a:hover {
   .medical-figure {
     margin: 20px auto;
   }
+
+  .diagram {
+    padding: 8px;
+  }
 }
 </style>
 </head>
@@ -240,15 +266,74 @@ footer a:hover {
 <p>Рассеянный склероз (РС) — хроническое заболевание центральной нервной системы. Его течение может существенно различаться у разных людей.</p>
 <p>Для описания заболевания врачи используют несколько клинических форм. Они помогают характеризовать течение болезни, но не позволяют точно предсказать индивидуальное будущее пациента.</p>
 
-<figure class="medical-figure">
-<img
-  src="https://commons.wikimedia.org/wiki/Special:FilePath/Multiple%20sclerosis%20progression%20graph.svg"
-  alt="Схематическое изображение вариантов течения рассеянного склероза"
-  loading="lazy">
+<figure class="diagram">
+<svg viewBox="0 0 720 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="diagram-title diagram-desc">
+<title id="diagram-title">Схематическое сравнение течения разных форм РС</title>
+<desc id="diagram-desc">Условные графики ремиттирующего, вторично-прогрессирующего и первично-прогрессирующего рассеянного склероза.</desc>
+
+<rect x="0" y="0" width="720" height="390" fill="#ffffff"/>
+
+<text x="360" y="27" text-anchor="middle" font-size="19" font-weight="bold" fill="#222334">Варианты течения рассеянного склероза</text>
+
+<g stroke="#dddddd" stroke-width="1">
+<line x1="115" y1="75" x2="690" y2="75"/>
+<line x1="115" y1="165" x2="690" y2="165"/>
+<line x1="115" y1="255" x2="690" y2="255"/>
+</g>
+
+<g fill="#333333" font-size="14" font-weight="bold">
+<text x="105" y="112" text-anchor="end">RRMS</text>
+<text x="105" y="202" text-anchor="end">SPMS</text>
+<text x="105" y="292" text-anchor="end">PPMS</text>
+</g>
+
+<g stroke="#555555" stroke-width="1.5" fill="none">
+<line x1="115" y1="135" x2="690" y2="135"/>
+<line x1="115" y1="225" x2="690" y2="225"/>
+<line x1="115" y1="315" x2="690" y2="315"/>
+</g>
+
+<!-- RRMS -->
+<path d="M120 119
+L170 119 L190 88 L205 119
+L270 119 L290 92 L305 119
+L375 119 L395 84 L410 119
+L480 119 L500 96 L515 119
+L590 119 L610 88 L625 119
+L685 119"
+fill="none" stroke="#2784c7" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+<!-- SPMS -->
+<path d="M120 209
+L165 209 L185 179 L200 209
+L245 209 L265 183 L280 209
+C330 207 355 202 390 196
+S465 185 500 179
+S580 167 615 158
+S665 150 685 145"
+fill="none" stroke="#dc8b25" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+<!-- PPMS -->
+<path d="M120 299
+C200 295 245 288 300 279
+S405 264 460 254
+S570 236 625 222
+S665 213 685 205"
+fill="none" stroke="#29966b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+<g fill="#333333" font-size="13">
+<text x="115" y="350">Начало заболевания</text>
+<text x="690" y="350" text-anchor="end">Время</text>
+</g>
+
+<g font-size="12" fill="#444444">
+<text x="360" y="145" text-anchor="middle">Обострения и ремиссии</text>
+<text x="360" y="235" text-anchor="middle">Переход к постепенному прогрессированию</text>
+<text x="360" y="325" text-anchor="middle">Постепенное прогрессирование с начала</text>
+</g>
+</svg>
 <figcaption>
-Схематическое представление различных вариантов течения рассеянного склероза.
-<a href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=multiple%20sclerosis%20progression%20graph"
-   target="_blank" rel="noopener">Иллюстрации на Wikimedia Commons</a>.
+Условная иллюстрация клинических вариантов течения РС. Графики не отражают точную динамику заболевания у конкретного человека.
 </figcaption>
 </figure>
 </div>
