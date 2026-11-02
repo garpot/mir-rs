@@ -5,69 +5,209 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Новые препараты, клинические исследования и перспективные методы лечения рассеянного склероза.">
+  <meta name="theme-color" content="#222334">
   <title>Новые препараты и перспективные методы лечения — Мир РС</title>
+
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      color: #263746;
-      background: #f4f7fa;
+      background: #222334;
+      color: #e8e9f0;
       line-height: 1.7;
     }
+
     header {
-      background: #174b65;
+      background: #1b1c2b;
       color: white;
-      padding: 28px 20px;
+      padding: 22px 20px;
+      border-bottom: 1px solid #38394e;
     }
-    .container { max-width: 1000px; margin: auto; padding: 0 20px; }
-    .brand { font-size: 32px; font-weight: bold; }
-    .tagline { color: #d8eaf1; margin-top: 5px; }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .brand {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .tagline {
+      color: #aeb0c5;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+
     nav {
-      background: #103b51;
-      padding: 12px 20px;
+      background: #292a3c;
+      padding: 13px 20px;
+      border-bottom: 1px solid #3a3b50;
     }
-    nav .container { display: flex; flex-wrap: wrap; gap: 18px; }
-    nav a { color: white; text-decoration: none; }
-    nav a:hover { text-decoration: underline; }
-    main { padding: 35px 0 55px; }
-    h1, h2, h3 { color: #174b65; line-height: 1.3; }
-    h1 { font-size: 30px; }
-    .intro, .article, .notice {
-      background: white;
-      padding: 25px;
-      border-radius: 10px;
-      margin-bottom: 22px;
-      box-shadow: 0 2px 9px #193b5012;
+
+    nav .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 25px;
     }
+
+    nav a {
+      color: #e4e5ec;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ffad00;
+    }
+
+    main {
+      padding: 35px 0 55px;
+    }
+
+    h1 {
+      color: #ffffff;
+      font-size: 30px;
+      margin-bottom: 15px;
+      line-height: 1.3;
+    }
+
+    h2 {
+      color: #ffb323;
+      margin-top: 0;
+      font-size: 22px;
+    }
+
+    h3 {
+      color: #e6b85e;
+      font-size: 18px;
+      margin-top: 24px;
+    }
+
+    .intro,
+    .article {
+      background: #303146;
+      padding: 24px;
+      margin: 20px 0;
+      border-radius: 7px;
+      border: 1px solid #414258;
+      box-shadow: 0 4px 14px #00000030;
+      transition: border-color 0.25s ease,
+                  box-shadow 0.25s ease;
+    }
+
+    .intro:hover,
+    .article:hover {
+      border-color: #686982;
+      box-shadow: 0 5px 18px #00000040;
+    }
+
+    .intro p,
+    .article p {
+      color: #c7c8d4;
+    }
+
     .status {
       display: inline-block;
       padding: 5px 10px;
       border-radius: 5px;
-      background: #e5f1e8;
-      color: #245c35;
+      background: #354b42;
+      color: #a9dfb9;
       font-weight: bold;
       font-size: 14px;
+      margin-bottom: 12px;
     }
+
     .research {
-      background: #fff4df;
-      color: #76521b;
+      background: #51432d;
+      color: #ffd38a;
     }
+
     .notice {
-      background: #fff8e8;
-      border-left: 4px solid #d6a33b;
+      background: #303146;
+      border-left: 4px solid #ffad00;
+      padding: 20px;
+      margin-top: 30px;
+      border-radius: 4px;
+      color: #d1d2dc;
     }
-    a { color: #17617d; }
-    .date { color: #687985; font-size: 14px; }
+
+    .notice strong {
+      color: #ffb323;
+    }
+
+    a {
+      color: #ffb323;
+    }
+
+    a:hover {
+      color: #ffd477;
+    }
+
+    .date {
+      color: #aeb0c5;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
     footer {
-      background: #174b65;
-      color: white;
-      padding: 25px 20px;
+      background: #1b1c2b;
+      color: #b8bac9;
       text-align: center;
+      padding: 25px 20px;
+      border-top: 1px solid #38394e;
     }
-    footer p { margin: 5px; }
+
+    footer p {
+      margin: 5px;
+    }
+
+    footer a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+
+      .brand {
+        font-size: 27px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      h3 {
+        font-size: 17px;
+      }
+
+      .intro,
+      .article {
+        padding: 18px;
+      }
+
+      nav .container {
+        gap: 12px 18px;
+      }
+    }
   </style>
 </head>
+
 <body>
 
 <header>
@@ -290,6 +430,7 @@
 <footer>
   <p><strong>Мир РС</strong></p>
   <p>Информация, исследования и поддержка для русскоязычного сообщества</p>
+  <p><a href="index.html">На главную</a></p>
 </footer>
 
 </body>
