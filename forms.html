@@ -113,12 +113,45 @@ h2 {
   margin-bottom: 7px;
 }
 
+.medical-figure {
+  max-width: 720px;
+  margin: 25px auto;
+  text-align: center;
+}
+
+.medical-figure img {
+  display: block;
+  width: 100%;
+  max-height: 430px;
+  object-fit: contain;
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.medical-figure figcaption {
+  color: #aeb0c5;
+  font-size: 13px;
+  line-height: 1.5;
+  margin-top: 9px;
+}
+
+.medical-figure figcaption a {
+  color: #ffb323;
+  text-decoration: none;
+}
+
+.medical-figure figcaption a:hover {
+  text-decoration: underline;
+}
+
 .notice {
   background: #303146;
+  border: 1px solid #414258;
   border-left: 4px solid #ffad00;
   padding: 20px;
   margin-top: 30px;
-  border-radius: 4px;
+  border-radius: 5px;
   color: #d1d2dc;
 }
 
@@ -168,6 +201,10 @@ footer a:hover {
   nav .container {
     gap: 12px 18px;
   }
+
+  .medical-figure {
+    margin: 20px auto;
+  }
 }
 </style>
 </head>
@@ -184,6 +221,7 @@ footer a:hover {
 <nav>
 <div class="container">
 <a href="index.html">Главная</a>
+<a href="what-is-ms.html">Что такое РС</a>
 <a href="treatment.html">Лечение</a>
 <a href="new-treatments.html">Новые препараты</a>
 <a href="forms.html">Формы РС</a>
@@ -201,6 +239,18 @@ footer a:hover {
 <div class="card">
 <p>Рассеянный склероз (РС) — хроническое заболевание центральной нервной системы. Его течение может существенно различаться у разных людей.</p>
 <p>Для описания заболевания врачи используют несколько клинических форм. Они помогают характеризовать течение болезни, но не позволяют точно предсказать индивидуальное будущее пациента.</p>
+
+<figure class="medical-figure">
+<img
+  src="https://commons.wikimedia.org/wiki/Special:FilePath/Multiple%20sclerosis%20progression%20graph.svg"
+  alt="Схематическое изображение вариантов течения рассеянного склероза"
+  loading="lazy">
+<figcaption>
+Схематическое представление различных вариантов течения рассеянного склероза.
+<a href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=multiple%20sclerosis%20progression%20graph"
+   target="_blank" rel="noopener">Иллюстрации на Wikimedia Commons</a>.
+</figcaption>
+</figure>
 </div>
 
 <section class="card">
@@ -235,6 +285,20 @@ footer a:hover {
 <p>Активность заболевания обычно определяют по наличию обострений или новых признаков воспалительной активности на МРТ.</p>
 <p>Прогрессирование означает устойчивое нарастание инвалидизации, которое оценивают в динамике, в том числе с помощью неврологического осмотра и функциональных шкал.</p>
 <p>У человека может наблюдаться прогрессирование даже без явных обострений.</p>
+
+<figure class="medical-figure">
+<img
+  src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
+  alt="МРТ головного мозга при рассеянном склерозе"
+  loading="lazy">
+<figcaption>
+Пример МРТ головного мозга при рассеянном склерозе.
+Автор: James Heilman, MD,
+<a href="https://commons.wikimedia.org/wiki/File:MSMRI.png"
+   target="_blank" rel="noopener">Wikimedia Commons</a>,
+лицензия CC BY-SA 4.0.
+</figcaption>
+</figure>
 </section>
 
 <section class="card">
