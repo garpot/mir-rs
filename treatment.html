@@ -3,68 +3,195 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Современные методы лечения рассеянного склероза: DMT, терапия прогрессирующих форм, лечение обострений и симптомов.">
+  <meta name="theme-color" content="#222334">
   <title>Лечение рассеянного склероза — Мир РС</title>
+
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f4f7fa;
-      color: #263746;
+      background: #222334;
+      color: #e8e9f0;
       line-height: 1.7;
     }
+
     header {
-      background: #174b65;
+      background: #1b1c2b;
       color: white;
-      padding: 25px 20px;
+      padding: 22px 20px;
+      border-bottom: 1px solid #38394e;
     }
-    .container { max-width: 1000px; margin: auto; padding: 0 20px; }
-    header a { color: white; text-decoration: none; }
-    nav { background: #103b51; padding: 12px 20px; }
-    nav a { color: white; text-decoration: none; }
-    main { padding: 35px 0 55px; }
-    h1, h2, h3 { color: #174b65; }
-    header h1 { color: white; margin: 0; }
-    .intro, .article {
-      background: white;
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .brand {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .tagline {
+      color: #aeb0c5;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+
+    nav {
+      background: #292a3c;
+      padding: 13px 20px;
+      border-bottom: 1px solid #3a3b50;
+    }
+
+    nav .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 25px;
+    }
+
+    nav a {
+      color: #e4e5ec;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ffad00;
+    }
+
+    main {
+      padding: 35px 0 55px;
+    }
+
+    h1 {
+      color: #ffffff;
+      font-size: 30px;
+      margin-bottom: 25px;
+    }
+
+    h2 {
+      color: #ffb323;
+      margin-top: 0;
+      font-size: 22px;
+    }
+
+    .intro,
+    .article {
+      background: #303146;
       padding: 24px;
       margin: 20px 0;
-      border-radius: 9px;
-      box-shadow: 0 2px 9px #193b5012;
+      border-radius: 5px;
+      border: 1px solid #414258;
+      box-shadow: 0 3px 10px #00000020;
     }
-    .article h2 { margin-top: 0; }
+
+    .intro p,
+    .article p,
+    .article li {
+      color: #c7c8d4;
+    }
+
+    .article ul {
+      padding-left: 25px;
+    }
+
+    .article li {
+      margin-bottom: 7px;
+    }
+
     .notice {
-      background: #fff8e8;
-      border-left: 4px solid #d6a33b;
-      padding: 17px;
-      margin-top: 25px;
+      background: #303146;
+      border-left: 4px solid #ffad00;
+      padding: 20px;
+      margin-top: 30px;
+      border-radius: 4px;
+      color: #d1d2dc;
     }
+
+    .notice strong {
+      color: #ffb323;
+    }
+
     footer {
-      background: #174b65;
-      color: white;
+      background: #1b1c2b;
+      color: #b8bac9;
       text-align: center;
-      padding: 22px;
+      padding: 25px 20px;
+      border-top: 1px solid #38394e;
     }
-    footer a { color: white; }
+
+    footer a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+
+      .brand {
+        font-size: 27px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .intro,
+      .article {
+        padding: 18px;
+      }
+
+      nav .container {
+        gap: 12px 18px;
+      }
+    }
   </style>
 </head>
+
 <body>
 
 <header>
   <div class="container">
-    <h1>Мир РС</h1>
-    <p>Информационный портал о рассеянном склерозе</p>
+    <div class="brand">Мир РС</div>
+    <div class="tagline">Информационный портал о рассеянном склерозе</div>
   </div>
 </header>
 
 <nav>
   <div class="container">
-    <a href="index.html">← Главная страница</a>
+    <a href="index.html">Главная</a>
+    <a href="treatment.html">Лечение</a>
+    <a href="new-treatments.html">Новые препараты и перспективные методы лечения</a>
+    <a href="forms.html">Формы РС</a>
+    <a href="symptoms.html">Симптомы</a>
+    <a href="life.html">Жизнь с РС</a>
+    <a href="research.html">Исследования</a>
+    <a href="about.html">О проекте</a>
   </div>
 </nav>
 
 <main class="container">
+
   <h1>Лечение рассеянного склероза</h1>
 
   <div class="intro">
@@ -168,6 +295,11 @@
       Результаты лабораторных исследований, клинических испытаний
       и одобренные методы лечения необходимо рассматривать отдельно.
     </p>
+    <p>
+      <a href="new-treatments.html" style="color:#ffb323;">
+        Новые препараты и перспективные методы лечения →
+      </a>
+    </p>
   </section>
 
   <div class="notice">
@@ -176,10 +308,11 @@
     консультацию врача. Не начинайте, не отменяйте и не меняйте
     лечение самостоятельно.
   </div>
+
 </main>
 
 <footer>
-  <p>© Мир РС — информационный портал</p>
+  <p><strong>Мир РС</strong> — информационный портал</p>
   <p><a href="index.html">На главную</a></p>
 </footer>
 
