@@ -3,82 +3,154 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#222334">
   <title>Исследования — Мир РС</title>
   <meta name="description" content="Научные публикации и клинические исследования рассеянного склероза.">
 
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f4f7fb;
-      color: #263445;
-      line-height: 1.6;
+      background: #222334;
+      color: #e8e9f0;
+      line-height: 1.7;
     }
 
     header {
-      background: #174b75;
+      background: #1b1c2b;
       color: white;
-      padding: 28px 20px;
-      text-align: center;
+      padding: 25px 20px;
+      border-bottom: 1px solid #38394e;
     }
 
-    header h1 { margin: 0 0 8px; }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .brand {
+      margin: 0;
+      color: white;
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .tagline {
+      color: #aeb0c5;
+      font-size: 14px;
+      margin: 5px 0 0;
+    }
 
     nav {
-      background: #103957;
-      padding: 12px;
-      text-align: center;
+      background: #292a3c;
+      padding: 12px 20px;
+      border-bottom: 1px solid #3a3b50;
+    }
+
+    nav .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 22px;
     }
 
     nav a {
-      color: white;
+      color: #e4e5ec;
       text-decoration: none;
-      margin: 0 10px;
+      font-size: 14px;
+      font-weight: bold;
+      transition: color 0.2s;
     }
 
-    nav a:hover { text-decoration: underline; }
+    nav a:hover {
+      color: #ffad00;
+    }
 
     main {
-      max-width: 1000px;
+      max-width: 1100px;
       margin: 30px auto;
-      padding: 0 18px;
+      padding: 0 20px 40px;
     }
 
-    .intro, .article, .controls, .status {
-      background: white;
-      border-radius: 10px;
-      padding: 20px;
-      margin-bottom: 18px;
-      box-shadow: 0 2px 8px #0000000d;
+    h2 {
+      color: #ffb323;
+      font-size: 22px;
     }
 
-    .controls input, .controls select {
+    .intro,
+    .article,
+    .controls,
+    .status {
+      background: #303146;
+      border: 1px solid #414258;
+      border-radius: 7px;
+      padding: 24px;
+      margin: 20px 0;
+      box-shadow: 0 4px 14px #00000030;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .intro:hover,
+    .article:hover,
+    .controls:hover {
+      border-color: #686982;
+      box-shadow: 0 5px 18px #00000040;
+    }
+
+    .intro p,
+    .article p {
+      color: #c7c8d4;
+    }
+
+    .controls label {
+      display: block;
+      color: #e8e9f0;
+      margin-bottom: 5px;
+    }
+
+    .controls input,
+    .controls select {
       width: 100%;
       padding: 12px;
       margin: 7px 0 14px;
-      border: 1px solid #cbd5df;
+      border: 1px solid #505168;
       border-radius: 6px;
       font-size: 16px;
-      background: white;
+      background: #222334;
+      color: #e8e9f0;
+      outline: none;
+    }
+
+    .controls input:focus,
+    .controls select:focus {
+      border-color: #ffad00;
+    }
+
+    .controls input::placeholder {
+      color: #9294aa;
     }
 
     .article h3 {
       margin-top: 0;
-      color: #174b75;
+      color: #ffb323;
+      font-size: 20px;
     }
 
     .meta {
-      color: #687787;
+      color: #aeb0c5 !important;
       font-size: 14px;
     }
 
     .category {
       display: inline-block;
-      background: #e6f0f8;
-      color: #174b75;
+      background: #414258;
+      color: #ffcb70;
+      border: 1px solid #55566e;
       padding: 4px 9px;
       border-radius: 5px;
       font-size: 13px;
@@ -86,12 +158,18 @@
     }
 
     .article a {
-      color: #1769aa;
+      color: #ffb323;
       font-weight: bold;
+      text-decoration: none;
+    }
+
+    .article a:hover {
+      color: #ffd17a;
+      text-decoration: underline;
     }
 
     .section-title {
-      color: #174b75;
+      color: #ffb323;
       margin: 35px 0 12px;
     }
 
@@ -99,16 +177,54 @@
       white-space: pre-line;
     }
 
+    .status {
+      color: #c7c8d4;
+    }
+
     footer {
+      background: #1b1c2b;
       text-align: center;
-      padding: 25px;
-      color: #687787;
+      padding: 22px;
+      color: #b8bac9;
+      border-top: 1px solid #38394e;
+    }
+
+    footer a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
     }
 
     @media (max-width: 600px) {
-      nav a {
-        display: inline-block;
-        margin: 5px 7px;
+      .container {
+        padding: 0 15px;
+      }
+
+      main {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+
+      .brand {
+        font-size: 27px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .intro,
+      .article,
+      .controls,
+      .status {
+        padding: 18px;
+      }
+
+      nav .container {
+        gap: 12px 18px;
       }
     }
   </style>
@@ -117,17 +233,23 @@
 <body>
 
 <header>
-  <h1>Мир РС</h1>
-  <p>Научные исследования рассеянного склероза</p>
+  <div class="container">
+    <h1 class="brand">Мир РС</h1>
+    <p class="tagline">Русскоязычный информационный портал о рассеянном склерозе</p>
+  </div>
 </header>
 
 <nav>
-  <a href="index.html">Главная</a>
-  <a href="treatment.html">Лечение</a>
-  <a href="forms.html">Формы РС</a>
-  <a href="symptoms.html">Симптомы</a>
-  <a href="life.html">Жизнь с РС</a>
-  <a href="research.html">Исследования</a>
+  <div class="container">
+    <a href="index.html">Главная</a>
+    <a href="treatment.html">Лечение</a>
+    <a href="new-treatments.html">Новые препараты</a>
+    <a href="forms.html">Формы РС</a>
+    <a href="symptoms.html">Симптомы</a>
+    <a href="life.html">Жизнь с РС</a>
+    <a href="research.html">Исследования</a>
+    <a href="about.html">О проекте</a>
+  </div>
 </nav>
 
 <main>
@@ -189,7 +311,8 @@
 </main>
 
 <footer>
-  Мир РС — информационный проект о рассеянном склерозе
+  <p>© Мир РС — информационный портал</p>
+  <p><a href="index.html">На главную</a></p>
 </footer>
 
 <script>
