@@ -3,84 +3,227 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#222334">
 <title>Что такое рассеянный склероз — Мир РС</title>
 <meta name="description" content="Что такое рассеянный склероз, почему он возникает, как повреждается миелин и какие существуют формы заболевания.">
+
 <style>
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f4f7fb;
-  color: #263445;
-  line-height: 1.75;
+  background: #222334;
+  color: #e8e9f0;
+  line-height: 1.7;
 }
+
 header {
-  background: #174b75;
+  background: #1b1c2b;
   color: white;
-  text-align: center;
-  padding: 30px 18px;
+  padding: 25px 20px;
+  border-bottom: 1px solid #38394e;
 }
-header h1 { margin: 0 0 8px; }
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.brand {
+  margin: 0;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.tagline {
+  color: #aeb0c5;
+  font-size: 14px;
+  margin: 5px 0 0;
+}
+
 nav {
-  background: #103957;
-  padding: 13px;
-  text-align: center;
+  background: #292a3c;
+  padding: 12px 20px;
+  border-bottom: 1px solid #3a3b50;
 }
+
+nav .container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 22px;
+}
+
 nav a {
-  color: white;
+  color: #e4e5ec;
   text-decoration: none;
-  margin: 0 9px;
+  font-size: 14px;
+  font-weight: bold;
+  transition: color 0.2s;
 }
+
+nav a:hover {
+  color: #ffad00;
+}
+
 main {
-  max-width: 850px;
+  max-width: 1100px;
   margin: 30px auto;
-  padding: 0 18px;
+  padding: 0 20px 40px;
 }
+
 article {
-  background: white;
+  background: #303146;
+  border: 1px solid #414258;
   padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px #0000000d;
+  border-radius: 7px;
+  box-shadow: 0 4px 14px #00000030;
+  transition: border-color 0.2s, box-shadow 0.2s;
 }
-h2 { color: #174b75; margin-top: 32px; }
-h3 { color: #285d82; }
+
+article:hover {
+  border-color: #686982;
+  box-shadow: 0 5px 18px #00000040;
+}
+
+article h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+h2 {
+  color: #ffb323;
+  margin-top: 32px;
+  font-size: 22px;
+}
+
+h3 {
+  color: #ffcb70;
+  font-size: 19px;
+}
+
+article p,
+article li {
+  color: #c7c8d4;
+}
+
+article li {
+  margin-bottom: 7px;
+}
+
 .lead {
   font-size: 19px;
-  color: #45596d;
+  color: #e0e1eb;
 }
+
 .date {
-  color: #718096;
+  color: #aeb0c5;
   font-size: 14px;
 }
-a { color: #1769aa; }
-.note {
-  background: #eef5fa;
-  padding: 16px;
-  border-left: 4px solid #397da8;
-  margin: 22px 0;
+
+article a {
+  color: #ffb323;
+  text-decoration: none;
 }
+
+article a:hover {
+  color: #ffd17a;
+  text-decoration: underline;
+}
+
+.note {
+  background: #303146;
+  border: 1px solid #414258;
+  border-left: 4px solid #ffad00;
+  padding: 20px;
+  margin: 22px 0;
+  border-radius: 5px;
+  color: #d1d2dc;
+}
+
+.note strong {
+  color: #ffb323;
+}
+
 footer {
+  background: #1b1c2b;
   text-align: center;
-  padding: 25px;
-  color: #687787;
+  padding: 22px;
+  color: #b8bac9;
+  border-top: 1px solid #38394e;
+}
+
+footer a {
+  color: #ffb323;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .brand {
+    font-size: 27px;
+  }
+
+  article h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  article {
+    padding: 18px;
+  }
+
+  .lead {
+    font-size: 17px;
+  }
+
+  nav .container {
+    gap: 12px 18px;
+  }
 }
 </style>
 </head>
+
 <body>
 
 <header>
-<h1>Мир РС</h1>
-<p>Информационный проект о рассеянном склерозе</p>
+  <div class="container">
+    <h1 class="brand">Мир РС</h1>
+    <p class="tagline">Русскоязычный информационный портал о рассеянном склерозе</p>
+  </div>
 </header>
 
 <nav>
-<a href="index.html">Главная</a>
-<a href="treatment.html">Лечение</a>
-<a href="forms.html">Формы РС</a>
-<a href="symptoms.html">Симптомы</a>
-<a href="life.html">Жизнь с РС</a>
-<a href="research.html">Исследования</a>
+  <div class="container">
+    <a href="index.html">Главная</a>
+    <a href="what-is-ms.html">Что такое РС</a>
+    <a href="treatment.html">Лечение</a>
+    <a href="new-treatments.html">Новые препараты</a>
+    <a href="forms.html">Формы РС</a>
+    <a href="symptoms.html">Симптомы</a>
+    <a href="life.html">Жизнь с РС</a>
+    <a href="research.html">Исследования</a>
+    <a href="about.html">О проекте</a>
+  </div>
 </nav>
 
 <main>
@@ -416,7 +559,8 @@ target="_blank" rel="noopener noreferrer">PubMed — исследования в
 </main>
 
 <footer>
-Мир РС — информационный проект о рассеянном склерозе
+  <p>© Мир РС — информационный портал</p>
+  <p><a href="index.html">На главную</a></p>
 </footer>
 
 </body>
