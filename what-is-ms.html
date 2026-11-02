@@ -136,6 +136,38 @@ article a:hover {
   text-decoration: underline;
 }
 
+/* Медицинские иллюстрации */
+
+.medical-figure {
+  margin: 28px auto;
+  max-width: 780px;
+  padding: 15px;
+  background: #26283b;
+  border: 1px solid #414258;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.medical-figure img {
+  display: block;
+  width: 100%;
+  max-height: 520px;
+  object-fit: contain;
+  border-radius: 4px;
+  background: #ffffff;
+}
+
+.medical-figure figcaption {
+  margin-top: 12px;
+  color: #b8bac9;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.medical-figure figcaption a {
+  color: #ffb323;
+}
+
 .note {
   background: #303146;
   border: 1px solid #414258;
@@ -198,6 +230,11 @@ footer a:hover {
 
   nav .container {
     gap: 12px 18px;
+  }
+
+  .medical-figure {
+    padding: 9px;
+    margin: 22px auto;
   }
 }
 </style>
@@ -272,6 +309,23 @@ footer a:hover {
 по нервным волокнам.
 </p>
 
+<figure class="medical-figure">
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Myelin_sheath_damage_in_multiple_sclerosis.svg"
+    alt="Схематическое сравнение здорового нервного волокна и нервного волокна с повреждённым миелином при рассеянном склерозе"
+    loading="lazy"
+  >
+  <figcaption>
+    Сравнение нормального нервного волокна и волокна с повреждённой
+    миелиновой оболочкой.
+    <br>
+    Автор: Mjeltsch ·
+    <a href="https://commons.wikimedia.org/wiki/File:Myelin_sheath_damage_in_multiple_sclerosis.svg"
+       target="_blank" rel="noopener noreferrer">Wikimedia Commons</a> ·
+    Лицензия CC BY-SA 4.0.
+  </figcaption>
+</figure>
+
 <p>
 При рассеянном склерозе иммунная система повреждает миелин.
 В результате передача нервных сигналов может замедляться,
@@ -296,6 +350,22 @@ footer a:hover {
 Они могут располагаться в разных областях головного и спинного
 мозга, а также зрительных нервах.
 </p>
+
+<figure class="medical-figure">
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/MSMRI.png"
+    alt="Магнитно-резонансная томография головного мозга с изображением изменений, связанных с рассеянным склерозом"
+    loading="lazy"
+  >
+  <figcaption>
+    Пример изображения МРТ при рассеянном склерозе.
+    <br>
+    Автор: James Heilman, MD ·
+    <a href="https://commons.wikimedia.org/wiki/File:MSMRI.png"
+       target="_blank" rel="noopener noreferrer">Wikimedia Commons</a> ·
+    Лицензия CC BY-SA 4.0.
+  </figcaption>
+</figure>
 
 <p>
 Слово «рассеянный» указывает на то, что очаги могут находиться
