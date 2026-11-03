@@ -502,6 +502,41 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42930111/"
   },
   {
+    "pmid": "42971123",
+    "title": "Real-world evidence of diagnosis, treatment, and disease characteristics among Japanese patients with multiple sclerosis: The Multiple Sclerosis Epidemiological Retrospective Japan (MSERJ) study.",
+    "date": "2026 Oct 8",
+    "journal": "Journal of the neurological sciences",
+    "authors": [
+      "Isobe N",
+      "Fukazawa T",
+      "Tomizawa Y",
+      "Ohashi T",
+      "Shimizu Y",
+      "Sakurai K",
+      "Nishida Y",
+      "Chihara N",
+      "Nohara C",
+      "Sugimoto T",
+      "Shimizu F",
+      "Fukami Y",
+      "Niino M",
+      "Nakamura Y",
+      "Suzuki C",
+      "Mizuno M",
+      "Nakashima I",
+      "Okada K",
+      "Kawachi I",
+      "Sasagasako N",
+      "Tajiri R",
+      "Kanda M",
+      "Sato Y",
+      "Kira JI"
+    ],
+    "abstract": "Nationwide data for patients with multiple sclerosis (MS) in Japan, including the sequence of disease-modifying therapy (DMT), are limited. The MS Epidemiological Retrospective Japan (MSERJ) study examined disease characteristics and DMT patterns among Japanese patients with MS. This multicenter study conducted at 20 specialist MS centers examined retrospective data from patients with clinically or radiologically isolated syndrome (CIS/RIS), relapsing-remitting MS (RRMS), secondary progressive MS (SPMS), or primary progressive MS (PPMS) between June 2022 and May 2023. The primary endpoint was the annualized relapse rate (ARR) over 2 years. Of 842 patients, the number with RRMS, SPMS, PPMS, and CIS was 685 (81.4%), 77 (9.1%), 62 (7.4%), and six (0.7%), respectively. In RRMS patients, the ARR was 0.12; risk factors for increased ARR were younger age at onset, shorter MS duration, and shorter DMT duration; no DMT use at final visit was potentially associated, although significance was not consistently observed. Between 2011 and 2014 and 2020-2023, the median time from onset to diagnosis (6.2 vs 2.1 months; p < 0.001) and from diagnosis to first DMT (4.3 vs 1.4 months; p < 0.001) was shortened. The proportion of patients receiving DMT increased over time from 52.1% in 2011-2014 to 89.2% in 2020-2023, with rates for high-efficacy DMTs also increasing (from 1.4% to 31.7%). Japanese patients with MS treated at specialist MS centers had a relatively low ARR, with significantly shortened time to diagnosis and DMT initiation, and increased DMT usage rates over time, particularly high-efficacy DMTs.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971123/"
+  },
+  {
     "pmid": "42940068",
     "title": "A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis.",
     "date": "2026 Oct 6",
@@ -652,21 +687,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42965342/"
   },
   {
-    "pmid": "42965313",
-    "title": "Affordability and relative economic burden of multiple sclerosis biologics in South America: a cross-country analysis of prices, purchasing power and regulatory access.",
-    "date": "2026 Oct 31",
-    "journal": "Expert review of pharmacoeconomics & outcomes research",
-    "authors": [
-      "Madeira da Silva Oliveira P",
-      "de Mello Vianna CM",
-      "Gil Lopez AJ",
-      "Bittencourt Gonzalez Mosegui G"
-    ],
-    "abstract": "High-cost biological therapies for multiple sclerosis (MS) may have lower nominal prices in middle-income countries yet impose greater burden relative to local purchasing capacity. We compared regulatory availability, price transparency and relative economic burden. We analyzed alemtuzumab, interferon beta-1a, natalizumab and ocrelizumab in Brazil, Colombia, Peru and the United States. Prices were compared in nominal US dollars, purchasing power parity-adjusted international dollars and against minimum wages. Defined daily doses supported standardized comparisons; regimen-based costs used reference dosing schedules. Outcomes included historical marketing authorization, observable prices, wage-based affordability and annual acquisition cost relative to gross domestic product per capita. Historical marketing authorization was documented in all 16 medicine-country combinations (100%), and observable prices were identified in 14 (87.5%). None of the 14 assessable combinations met the adapted regimen-based affordability criterion. Under primary price scenarios, monthly-equivalent burden ranged from 27.2 calendar-day equivalents of statutory minimum-wage income for interferon beta-1a in Peru to 326.2 for alemtuzumab in Brazil. Although US nominal prices were generally highest, purchasing-power and wage adjustment altered country rankings. Historical marketing authorization and lower nominal prices did not imply economic accessibility. Cross-country assessments should integrate purchasing power, wages and regimen-based acquisition costs.",
-    "category": "Лечение и препараты",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42965313/"
-  },
-  {
     "pmid": "42957749",
     "title": "Transcription factor EB as a novel target for dimethyl fumarate to restore endothelial function in diabetes.",
     "date": "2026 Oct 30",
@@ -767,7 +787,7 @@
   },
   {
     "pmid": "42963036",
-    "title": "Effect of Electrical Stimulation on Remyelination in Preclinical Models of Multiple Sclerosis: A Systematic Review.",
+    "title": "Effect of electrical stimulation on remyelination in preclinical models of multiple sclerosis: A systematic review.",
     "date": "2026 Oct 30",
     "journal": "Progress in neurobiology",
     "authors": [
@@ -1838,6 +1858,19 @@
     ]
   },
   {
+    "pmid": "42973361",
+    "title": "Therapeutic Multifaceted Potential of Melatonin in Neurodegenerative Diseases: From Neuroprotective Mechanisms to Translational Promise.",
+    "date": "2026 Oct 21",
+    "journal": "Current medicinal chemistry",
+    "authors": [
+      "Roghani M",
+      "Taheri M"
+    ],
+    "abstract": "Neurodegenerative diseases, primarily characterized by progressive motor dysfunctions and debilitating memory impairments, have increasingly emerged as a major challenge in public health worldwide. The development of effective neuroprotective agents remains an urgent goal to halt the progression of neurodegenerative disorders. These agents target multiple interconnected pathological pathways, including neuroinflammation, mitochondrial dysfunction, autophagy dysregulation, apoptotic cell death, pathological protein aggregation, and sustained oxidative stress. Accumulating evidence from preclinical studies suggests that melatonin, a neurohormone synthesized by the pineal gland, possesses considerable neuroprotective potential. This effect is mediated by its ability to modulate various pathophysiological processes and intracellular signaling cascades that are commonly disrupted in neurodegenerative conditions. Melatonin's pleiotropic actions, including its potent antioxidant, anti-inflammatory, and anti-apoptotic properties, make it a promising candidate for therapeutic intervention. The present review provides a comprehensive overview of the therapeutic potential of melatonin across major neurodegenerative disorders, including Alzheimer's Disease (AD), Vascular Dementia (VD), Parkinson's Disease (PD), Multiple Sclerosis (MS), Traumatic Brain Injury (TBI), and Huntington's Disease (HD), with discussion of its roles and underlying mechanisms in each condition. Future research should prioritize well-designed clinical trials and improved formulation strategies to establish melatonin's efficacy and safety. By summarizing the current state of knowledge and identifying translational gaps, this review highlights both the therapeutic promise of melatonin and the critical steps needed to realize its potential in clinical practice.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973361/"
+  },
+  {
     "pmid": "42925577",
     "title": "Family planning in multiple sclerosis: An Australian perspective.",
     "date": "2026 Oct 20",
@@ -1869,6 +1902,32 @@
       "Симптомы и прогрессирование"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42933322/"
+  },
+  {
+    "pmid": "42970463",
+    "title": "Body Composition Findings During Weight Loss Observed in Fingolimod-Treated Relapsing-Remitting Multiple Sclerosis.",
+    "date": "2026 Oct 20",
+    "journal": "Clinical neuropharmacology",
+    "authors": [
+      "Can Usta N"
+    ],
+    "abstract": "Fingolimod is a sphingosine-1-phosphate receptor modulator widely used in the treatment of relapsing-remitting multiple sclerosis (RRMS). Clinically significant weight loss during fingolimod therapy has rarely been characterized in detail, particularly regarding body composition findings and the relative contribution of adipose tissue loss. We report a 54-year-old man with RRMS who developed progressive, unintentional weight loss during fingolimod therapy. Over ∼2 years, body weight decreased from 100 to 78 kg without appetite loss, dietary restriction, increased physical activity, or major lifestyle changes. Extensive multidisciplinary evaluation did not identify malignancy, chronic infection, gastrointestinal disease, endocrine abnormalities, or systemic inflammatory disorders. Multifrequency bioelectrical impedance analysis demonstrated low adipose tissue parameters with relative preservation of skeletal muscle mass and hydration status, suggesting that adipose tissue reduction represented a major component of the observed weight loss pattern. Body weight subsequently remained stable during additional clinical follow-up. This case describes progressive unintentional weight loss during fingolimod therapy in a patient with RRMS, with body composition findings suggesting predominant adipose tissue involvement. Although causality cannot be established from a single observation, the temporal association and exclusion of major alternative etiologies suggest a possible association that may merit further investigation. This report also highlights the potential value of body composition assessment in patients presenting with unexplained weight loss during fingolimod therapy.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970463/"
+  },
+  {
+    "pmid": "42970317",
+    "title": "Ceruloplasmin in Disorders of the Nervous System.",
+    "date": "2026 Oct 20",
+    "journal": "Aging and disease",
+    "authors": [
+      "Pourhadi M",
+      "LeWitt PA",
+      "Todi SV"
+    ],
+    "abstract": "Ceruloplasmin (Cp) is a multicopper ferroxidase that links copper handling, iron export, and redox homeostasis. Within the nervous system, these functions are critical because disruption of iron and copper balance can amplify oxidative stress, neuroinflammation, and neuronal vulnerability. Although Cp has long been studied as a circulating biomarker, most reports characterize it only by protein concentration, leaving its enzymatic and structural status comparatively unexplored. Here, we synthesize human literature on Cp across major neurological disorders, with attention to studies that assess Cp's ferroxidase activity, oxidation, fragmentation, and copper-binding state alongside its circulating levels. The evidence is by far most extensive in Alzheimer's and Parkinson's diseases, which together account for the majority of the reviewed literature: reduced ferroxidase activity, increased Cp oxidation, and altered non-Cp-bound copper are repeatedly linked to disease severity, regional iron accumulation, and biomarker-defined patient subgroups; in several studies, these alterations were independent of total Cp concentration. A smaller but growing body of evidence in amyotrophic lateral sclerosis, multiple sclerosis, essential tremor, and the cerebellar ataxias points to a related pattern of Cp-linked iron mishandling contributing to neuronal vulnerability. Preliminary findings from a few small studies in schizophrenia and a single study in obsessive-compulsive disorder further suggest that circulating Cp levels track systemic inflammatory and oxidative states in these conditions. From these investigations, a picture emerges where Cp's functional and structural integrity, rather than its abundance alone, is the more informative correlate of disease-relevant metal dyshomeostasis, most clearly demonstrated in Alzheimer's and Parkinson's diseases. Based on this body of work, we propose that future studies adopt combined assessments of Cp quantity and function to clarify disease-specific Cp signatures and to evaluate whether correcting Cp activity or copper/iron imbalance can improve outcomes.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970317/"
   },
   {
     "pmid": "42939778",
@@ -2421,6 +2480,35 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42927646/"
   },
   {
+    "pmid": "42973234",
+    "title": "CGRP levels in autoimmune diseases: a systematic review and meta-analysis of its potential role as a biomarker.",
+    "date": "2026 Nov 3",
+    "journal": "Biomarkers in medicine",
+    "authors": [
+      "Krzywinska E",
+      "Sobecki M",
+      "Kucharczyk MW"
+    ],
+    "abstract": "This systematic review and meta-analysis aimed to quantitatively evaluate calcitonin gene-related peptide (CGRP) concentrations across autoimmune diseases (psoriasis, rheumatoid arthritis, inflammatory bowel disease, multiple sclerosis) and assess its clinical utility as a neuro-immune biofluid biomarker. PRISMA-compliant meta-analyses using random-effects models calculated standardized mean differences (SMDs, Hedges' g) from major databases, evaluating circulating biofluids (serum/plasma; 10 studies, 16 cohorts) both overall across all selected autoimmune diseases and stratified by individual disease entities, separately from localized compartments. Primary synthesis of circulating biofluids (533 cases, 363 controls) showed significant systemic CGRP elevation in autoimmune conditions (SMD = 0.63, 95% CI: 0.46-0.80, Circulating CGRP is elevated across specific autoimmune pathologies, functioning as a dynamic indicator of active neuro-immune inflammation rather than a static universal marker. Clinical implementation requires prospective, longitudinal studies and standardized, isoform-specific quantification assays. CRD420261458044.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973234/"
+  },
+  {
+    "pmid": "42972164",
+    "title": "Stereotactic radiosurgery for bilateral trigeminal neuralgia: A systematic review and proposed framework for staged treatment.",
+    "date": "2026 Nov 3",
+    "journal": "Neurosurgical review",
+    "authors": [
+      "Duzkalir AH",
+      "Yildirim DC",
+      "Askeroglu MO",
+      "Peker S"
+    ],
+    "abstract": "Bilateral trigeminal neuralgia (BTN) is uncommon and surgically complex. Stereotactic radiosurgery (SRS) is a minimally invasive option for medically refractory BTN, although evidence remains sparse and heterogeneous. This systematic review evaluated the efficacy, durability, and toxicity of SRS in medically refractory BTN. It also synthesized the evidence into a practical staged-treatment framework. PubMed, Embase, Scopus, and the Cochrane Library were searched through October 11, 2026. Eligible studies reported BTN-specific SRS outcomes in adults, separately from unilateral cohorts. Two independent reviewers performed study selection, data extraction, and risk-of-bias assessment using adapted Newcastle-Ottawa and MINORS tools. Certainty of evidence was evaluated using a GRADE-informed approach. Owing to clinical heterogeneity and small samples, findings were synthesized narratively rather than by meta-analysis. Six reports met the inclusion criteria. Five described 88 BTN patients, including 54 SRS-treated patients across four reports. Of 91 nominally treated nerves, 67 were explicitly reported, and 24 were inferred from staged bilateral SRS in 12 patients. The sixth report described one BTN case without a complete subgroup denominator. Study-reported initial pain relief ranged from 71.4% to 100% across heterogeneous outcome definitions and analytical units. Pain recurrence was frequent, with durability varying markedly from 14 months to 1697 days in the sequential-onset series. Multiple sclerosis appeared associated with poorer outcomes and earlier recurrence, based on small subgroups. Repeat SRS achieved adequate pain relief in 10 of 11 retreated nerves (91%) in the largest cohort, with a median durability of 2.8 years. Sensory disturbance was the most common adverse event. One report described disabling bilateral numbness in a patient with prior bilateral ablative treatment. Anesthesia dolorosa incidence remains uncertain. SRS may provide early pain control in selected patients with medically refractory BTN, but bilateral sensory morbidity remains uncertain. Staged treatment was described in several reports, whereas bilateral treatment timing was unreported in one case. Certainty of evidence remains very low. Current evidence supports individualized decision-making focused on etiology, surgical fitness, first-side response, sensory toxicity, and cumulative bilateral trigeminal morbidity.Registration and Protocol: This systematic review was not registered in a prospective registry (e.g., PROSPERO). A protocol was developed a priori and is publicly available at https://doi.org/10.17605/OSF.IO/RBVNE.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972164/"
+  },
+  {
     "pmid": "42956390",
     "title": "Establishing Potosi Virus as a Human Pathogen: Fatal Neuroinvasive Disease in a B-Cell-Depleted Patient.",
     "date": "2026 Nov 24",
@@ -2452,6 +2540,21 @@
     "abstract": "To establish Potosi virus, a mosquito-borne member of the family Case report. A 37-year-old woman with multiple sclerosis on long-term rituximab developed rapidly progressive dementia. Serial MRI demonstrated progressive generalized atrophy. CSF showed transient, minimal lymphocytic pleocytosis. Extensive infectious, autoimmune, and prion evaluations were unrevealing, but CSF metagenomic sequencing detected all 3 genome segments for Potosi virus. Postmortem examination revealed diffuse meningoencephalitis with T-cell-predominant leptomeningeal and perivascular inflammation. Molecular analyses confirmed multiple nucleotide sequences with >99+% concordance with a known Potosi strain, with widespread viral infection confirmed by immunohistochemistry demonstrating intracellular and extracellular viral antigen. Electron microscopy demonstrated particles of a size consistent with the Potosi virus can cause fatal neuroinvasive disease in humans, as evidenced by convergent postmortem neuropathologic, molecular, and ultrastructural evidence. Chronic B-cell depletion may increase susceptibility to severe disease with arboviral infections, which may present without conventional CNS inflammatory markers. CSF metagenomic sequencing should be considered in immunocompromised patients with unexplained progressive neurologic decline.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956390/"
+  },
+  {
+    "pmid": "42965313",
+    "title": "Affordability and relative economic burden of multiple sclerosis biologics in South America: a cross-country analysis of prices, purchasing power and regulatory access.",
+    "date": "2026 Nov 2",
+    "journal": "Expert review of pharmacoeconomics & outcomes research",
+    "authors": [
+      "Madeira da Silva Oliveira P",
+      "de Mello Vianna CM",
+      "Gil Lopez AJ",
+      "Bittencourt Gonzalez Mosegui G"
+    ],
+    "abstract": "High-cost biological therapies for multiple sclerosis (MS) may have lower nominal prices in middle-income countries yet impose greater burden relative to local purchasing capacity. We compared regulatory availability, price transparency and relative economic burden. We analyzed alemtuzumab, interferon beta-1a, natalizumab and ocrelizumab in Brazil, Colombia, Peru and the United States. Prices were compared in nominal US dollars, purchasing power parity-adjusted international dollars and against minimum wages. Defined daily doses supported standardized comparisons; regimen-based costs used reference dosing schedules. Outcomes included historical marketing authorization, observable prices, wage-based affordability and annual acquisition cost relative to gross domestic product per capita. Historical marketing authorization was documented in all 16 medicine-country combinations (100%), and observable prices were identified in 14 (87.5%). None of the 14 assessable combinations met the adapted regimen-based affordability criterion. Under primary price scenarios, monthly-equivalent burden ranged from 27.2 calendar-day equivalents of statutory minimum-wage income for interferon beta-1a in Peru to 326.2 for alemtuzumab in Brazil. Although US nominal prices were generally highest, purchasing-power and wage adjustment altered country rankings. Historical marketing authorization and lower nominal prices did not imply economic accessibility. Cross-country assessments should integrate purchasing power, wages and regimen-based acquisition costs.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965313/"
   },
   {
     "pmid": "42969026",
@@ -2491,6 +2594,54 @@
     "abstract": "Multiple sclerosis (MS) is a chronic demyelinating disease of the central nervous system, accompanied by progressive neurological deficits. Current MS disease-modifying drugs mainly target peripheral immune cells and have demonstrated little efficacy for neuroprotection or remyelination. Growing evidence indicates that microglia play a critical dual role in demyelinating animal models and MS. In acute inflammatory phases, microglia adopt a pro-inflammatory phenotype, exacerbating demyelination and neural damage. But, as lesions evolve, these resident immune cells can transform into an anti-inflammatory state, promoting tissue repair and myelin regeneration. Despite the importance of microglia, the regulatory mechanism of this double-edged sword during demyelination and remyelination has not been fully elucidated. This review first provides an overview of the involvement of microglia in demyelination and remyelination, and how their functional evolution depends on disease stage, on the spatial location of the lesion and its microenvironment. Secondly, the interaction between microglia and astrocytes, monocyte-derived macrophages, T cells, and B cells is described, working together to balance the disrupted microenvironment, promote the formation, differentiation, and maturation of oligodendrocyte precursor cells, and ultimately achieve myelin protection and regeneration. We then organize the signaling pathways targeting microglia and remyelination, providing a theoretical basis for drug development. Finally, we present drugs or small-molecule compounds targeting signaling pathways for exploratory therapeutic research at different stages. In summary, this review highlights the importance of remyelination, microglial heterogeneity, the temporal nature of regulation, and the complexity of treatment. We also present some challenges and solutions for remyelination, providing valuable information for neurological recovery in MS patients.",
     "category": "Ремиелинизация и восстановление",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42969020/"
+  },
+  {
+    "pmid": "42971397",
+    "title": "Culturally adapted exercise training intervention for Hispanics/Latinos with multiple sclerosis: Study protocol for a hybrid type 1 implementation randomized controlled trial.",
+    "date": "2026 Nov 2",
+    "journal": "Contemporary clinical trials",
+    "authors": [
+      "Black NC",
+      "Castillo A",
+      "Motl RW",
+      "Salter A",
+      "Marquez DX",
+      "Fernández ME",
+      "Lin J",
+      "Flores V",
+      "Silveira SL"
+    ],
+    "abstract": "Hispanics with multiple sclerosis (MS) have worse walking mobility and health-related quality of life (QOL) than non-Hispanic white counterparts. Hispanics further receive less specialty care and have low physical activity rates. Exercise training can improve MS symptoms, including mobility and QOL, but there are few RCTs of exercise training programs in Hispanics with MS. The moVement for Advancing Mobility and Strength in MS (VAMOS-MS) study is a hybrid type 1 implementation randomized control trial that culturally adapts the Guidelines for Exercise in MS (GEMS) intervention for Hispanics with MS. The primary outcome is walking dysfunction, measured using the MSWS-12; the secondary outcome is Health-Related QOL (HRQOL), measured by the MSIS-29. Implementation outcomes include measures of Acceptability, Appropriateness, Feasibility, Adoption, and Sustainability. Exercise behavior will be measured using the Godin Leisure Time Exercise Questionnaire (GLTEQ). Following the baseline assessment, participants will be randomized to the 16-week GEMS exercise training condition or the 16-week waitlist control. Participants will receive materials, equipment, and coaching calls with a trained Community Health worker (CHW). Outcomes will be measured at baseline, 16 weeks, and 32 weeks. The data analysis will be conducted using the intent-to-treat principle, with linear mixed models including an interaction term between condition and time. Implementation outcomes will be analyzed using descriptive and qualitative methods. VAMOS-MS is a culturally adapted, home-based exercise training program for Hispanics with MS. It incorporates community feedback to inform the adaptation and implementation of an evidence-based exercise training program for scalability among Hispanics with MS.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971397/"
+  },
+  {
+    "pmid": "42970053",
+    "title": "Remibrutinib (Rhapsido(®)), a covalent Bruton's tyrosine kinase inhibitor approved for chronic spontaneous urticaria.",
+    "date": "2026 Nov 2",
+    "journal": "Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents",
+    "authors": [
+      "Abduweli A",
+      "Hu L"
+    ],
+    "abstract": "Remibrutinib (Rhapsido",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970053/"
+  },
+  {
+    "pmid": "42969159",
+    "title": "Evaluating healthcare professional-led physical activity promotion interventions for individuals with multiple sclerosis: a scoping review.",
+    "date": "2026 Nov 2",
+    "journal": "Disability and rehabilitation",
+    "authors": [
+      "Wilson KL",
+      "van der Linden ML",
+      "Bulley C",
+      "Learmonth YC"
+    ],
+    "abstract": "Identification and evaluation of the full range of components within complex interventions is critical to explaining their impact and informing clinical decision-making. Our aim is to identify physical activity promotion interventions suitable for implementation by healthcare professionals among individuals with multiple sclerosis, and to determine whether they meet current best-practice recommendations. We searched nine databases from inception up to May 2025. Articles were eligible if they included adults (≥18 years) with diagnosis of multiple sclerosis, evaluated interventions incorporating strategies to promote physical activity, reported outcomes of participation or its predictors, and identified healthcare professionals as deliverers. We identified 28 distinct interventions. Interventions showed limited alignment with existing recommendations regarding use of behavioural strategies, diversity of deliverers, theoretical underpinning, adherence to physical activity guidelines, range of activity options, and follow-up assessment. In contrast, alignment was stronger for duration and frequency of involvement, multimodal delivery, and inclusion of behaviour support components. While healthcare professional-led interventions represent a promising approach to promoting physical activity among individuals with multiple sclerosis, our component-level analysis reveals inconsistent alignment with best-practice recommendations, potentially undermining intervention impact. By clarifying where current interventions diverge from recommendations, we offer a framework to strengthen the design of future interventions.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969159/"
   },
   {
     "pmid": "42912865",
@@ -3120,6 +3271,19 @@
     "abstract": "Multiple Sclerosis (MS) is an inflammatory neurodegenerative disease with incompletely understood aetiology beyond the HLA-DRB1 locus. Mitochondrial haplogroup U, prevalent in Middle Eastern and Near Eastern populations, encodes functional variants in NADH dehydrogenase subunits associated with elevated reactive oxygen species (ROS) production. A 2022 study (Al-Kafaji et al., PLoS ONE) reported a nominal association between haplogroup U and RRMS in Saudi Arab patients (OR 6.26; 95% CI 0.82-48.10) in a single, small (n = 47) cohort. We conducted a systematic review and meta-analysis to determine whether this signal is supported by independently verifiable case-control data from other Arab or Near Eastern populations. PRISMA 2020 systematic review. PubMed/MEDLINE was searched to 15 July 2026 using a concept-level strategy - (\"mitochondrial DNA\"[tiab] OR \"mtDNA\"[tiab] OR \"DNA, Mitochondrial\"[MeSH] OR \"Mitochondria\"[MeSH]) AND (\"haplogroup\"[tiab] OR \"haplogroups\"[tiab] OR \"haplotype\"[tiab]) AND (\"multiple sclerosis\"[tiab] OR \"Multiple Sclerosis\"[MeSH] OR \"demyelinating\"[tiab] OR \"RRMS\"[tiab]) - with no population terms applied at the search stage; population eligibility (Arab or Near Eastern cohort) was assessed during screening rather than baked into the search string, to maximise sensitivity. Eligible studies were case-control studies reporting mitochondrial haplogroup U frequency in MS cases versus healthy controls in an Arab or Near Eastern population, with data sufficient to construct a 2 × 2 table. Odds ratios were pooled using a fixed-effect inverse-variance model. The search identified 30 records. After screening and full-text assessment, two studies met full inclusion criteria for quantitative pooling: Al-Kafaji et al. [1] (Saudi Arabia, n = 47) and Hassani-Kumleh et al. [2] (Iran, n = 154); total pooled N = 201 (77 MS cases, 124 controls). The fixed-effect pooled OR was 4.11 (95% CI 1.25-13.55; p = 0.020), with no meaningful heterogeneity (I²=0%, Cochran's Q = 0.25, df = 1). Two further Near Eastern studies (Houshmand et al. [3]; Ghabaee et al. [4]) reported related but non-poolable data - haplogroup J association and a haplogroup U case-series prevalence without a control arm, respectively - and are discussed narratively. Across two independently verified Near Eastern case-control cohorts, mitochondrial haplogroup U is significantly associated with increased MS risk (pooled OR 4.11, 95% CI 1.25-13.55). The evidence base remains small, and the wide confidence interval reflects this. A larger, prospective, adequately powered study in Arab and Near Eastern MS cohorts is needed to confirm and refine this association.",
     "category": "Причины и механизмы РС",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42968057/"
+  },
+  {
+    "pmid": "42972162",
+    "title": "Direct medical costs of chronic diseases in Jordan: a systematic review.",
+    "date": "2026 Aug 5",
+    "journal": "Health economics review",
+    "authors": [
+      "Sweis NJ",
+      "Caskey R"
+    ],
+    "abstract": "Chronic diseases are a leading cause of morbidity and mortality worldwide, with prevalence rising because of lifestyle factors and increasing life expectancy. In developing countries, including Jordan, these conditions pose growing health and economic burdens. This systematic review assessed available literature on the economic burden of chronic diseases in Jordan. Following PRISMA guidelines, we searched Medline PubMed, Embase, PubMed Central, and Scopus, supplemented by Google/Google Scholar and reference lists, for studies reporting direct medical costs of chronic diseases in Jordan. Titles, abstracts, and full texts were screened independently by two reviewers. Study characteristics and mean annual per-patient costs were extracted and verified. Costs were standardized to per-patient, per-year estimates in 2025 USD, including outpatient, inpatient, diagnostic, emergency, and medication expenses. The quality of included studies was assessed using the adapted version of Drummond checklist for economic studies. Database search identified 147 records. After removal of one duplicate record, 146 records were screened, and 19 full-text articles were assessed for eligibility. Ultimately, eleven studies were included. They reported costs for cancers, diabetic retinopathy, severe renal disease, thalassaemia, paediatric asthma, and multiple sclerosis, mostly using retrospective designs. Mean annual costs ranged from $35 to $30,567 (2025 USD), and the greatest costs were for end-stage renal disease. Of cancer studied, breast cancer and colorectal cancer were associated with substantial annual direct medical costs, although estimates varied considerably between studies because of differences in disease populations, data sources, and cost methodologies. The mean annual cost for all conditions was $10,035 (2025 USD). When weighted against the sample sizes, the pooled mean cost was $6,914 USD. The overall quality of included studies was judged to be moderate, with most studies clearly defining study populations, disease conditions, and data sources used for cost estimation. Chronic kidney disease, breast cancer, and multiple sclerosis imposed substantial medical costs in Jordan. Evidence for other major conditions was limited, highlighting the need for further research to guide health care planning, resource allocation, and cost-effective chronic disease management.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972162/"
   },
   {
     "pmid": "42953422",
