@@ -1,0 +1,324 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#222334">
+  <title>Видеочат — Мир РС</title>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #222334;
+      color: #e8e9f0;
+      line-height: 1.7;
+    }
+
+    header, footer {
+      background: #1b1c2b;
+      border-bottom: 1px solid #38394e;
+      padding: 20px 0;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .brand {
+      font-size: 32px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .tagline {
+      color: #aeb0c5;
+      font-size: 14px;
+    }
+
+    nav {
+      background: #292a3c;
+      border-bottom: 1px solid #3a3b50;
+      padding: 12px 0;
+    }
+
+    nav .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 20px;
+    }
+
+    nav a {
+      color: #e4e5ec;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ffad00;
+    }
+
+    main {
+      padding: 35px 0 50px;
+    }
+
+    h1 {
+      color: #fff;
+      font-size: 30px;
+      margin-top: 0;
+    }
+
+    h2 {
+      color: #ffb323;
+      font-size: 22px;
+    }
+
+    .card {
+      background: #303146;
+      border: 1px solid #414258;
+      border-radius: 7px;
+      padding: 25px;
+      margin-bottom: 25px;
+      box-shadow: 0 4px 14px #00000030;
+    }
+
+    .notice {
+      background: #303146;
+      border: 1px solid #414258;
+      border-left: 4px solid #ffad00;
+      border-radius: 5px;
+      padding: 18px;
+      margin: 20px 0;
+      color: #c7c8d4;
+    }
+
+    .notice strong {
+      color: #ffb323;
+    }
+
+    .start-button {
+      display: inline-block;
+      background: #ffad00;
+      color: #222334;
+      border: none;
+      border-radius: 5px;
+      padding: 13px 25px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      margin: 10px 0;
+    }
+
+    .start-button:hover {
+      background: #ffc247;
+    }
+
+    #meet {
+      width: 100%;
+      min-height: 650px;
+      background: #1b1c2b;
+      border-radius: 7px;
+      overflow: hidden;
+      margin-top: 20px;
+    }
+
+    #meet iframe {
+      border: 0;
+      width: 100%;
+    }
+
+    #status {
+      color: #aeb0c5;
+      margin-top: 10px;
+    }
+
+    footer {
+      border-top: 1px solid #38394e;
+      border-bottom: none;
+      color: #b8bac9;
+      font-size: 14px;
+      text-align: center;
+    }
+
+    footer a {
+      color: #ffb323;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      .container { padding: 0 15px; }
+      .brand { font-size: 27px; }
+      h1 { font-size: 26px; }
+      h2 { font-size: 20px; }
+      .card { padding: 18px; }
+      #meet { min-height: 500px; }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <div class="brand">Мир РС</div>
+    <div class="tagline">Русскоязычный информационный портал о рассеянном склерозе</div>
+  </div>
+</header>
+
+<nav>
+  <div class="container">
+    <a href="index.html">Главная</a>
+    <a href="what-is-ms.html">Что такое РС</a>
+    <a href="treatment.html">Лечение</a>
+    <a href="new-treatments.html">Новые препараты</a>
+    <a href="forms.html">Формы РС</a>
+    <a href="symptoms.html">Симптомы</a>
+    <a href="life.html">Жизнь с РС</a>
+    <a href="research.html">Исследования</a>
+    <a href="video-chat.html">Видеочат</a>
+    <a href="about.html">О проекте</a>
+  </div>
+</nav>
+
+<main class="container">
+
+  <h1>Видеочат «Мир РС»</h1>
+
+  <div class="card">
+    <h2>Общая комната общения</h2>
+
+    <p>
+      Здесь посетители портала могут общаться друг с другом
+      в режиме видеоконференции.
+    </p>
+
+    <p>
+      Можно подключить камеру и микрофон, видеть других участников
+      и разговаривать с ними.
+    </p>
+
+    <div class="notice">
+      <strong>Внимание!</strong>
+      Это открытая комната. Не сообщайте незнакомым участникам
+      адрес, телефон, пароли и другие личные сведения.
+      Не делитесь медицинскими документами и подробностями,
+      которые не хотите делать публичными. Другие участники
+      могут записывать или сохранять происходящее.
+    </div>
+
+    <p>
+      Для подключения нажмите кнопку ниже. Браузер может запросить
+      разрешение на использование камеры и микрофона.
+    </p>
+
+    <button class="start-button" id="startButton">
+      Войти в видеочат
+    </button>
+
+    <div id="status">
+      Видеокомната пока не запущена.
+    </div>
+
+    <div id="meet"></div>
+  </div>
+
+  <div class="card">
+    <h2>Правила общения</h2>
+    <ul>
+      <li>Уважайте других участников.</li>
+      <li>Не оскорбляйте и не преследуйте собеседников.</li>
+      <li>Не публикуйте чужие личные данные.</li>
+      <li>Не выдавайте личный опыт лечения за медицинскую рекомендацию.</li>
+      <li>При возникновении неприятной ситуации покиньте комнату.</li>
+    </ul>
+    <p>
+      На этапе тестирования постоянная модерация и управление
+      участниками ещё не настроены.
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  <div class="container">
+    <p>© Мир РС — Русскоязычный информационный портал о рассеянном склерозе</p>
+    <p><a href="index.html">Вернуться на главную</a></p>
+  </div>
+</footer>
+
+<script src="https://meet.jit.si/external_api.js"></script>
+
+<script>
+  const startButton = document.getElementById("startButton");
+  const statusText = document.getElementById("status");
+  const meetContainer = document.getElementById("meet");
+
+  let meeting = null;
+
+  // Постоянное имя тестовой комнаты.
+  const roomName = "MirRS-OpenRoom-7KQ9-M2X8-P4R6";
+
+  startButton.addEventListener("click", function () {
+
+    if (meeting) {
+      return;
+    }
+
+    if (typeof JitsiMeetExternalAPI === "undefined") {
+      statusText.textContent =
+        "Не удалось загрузить видеочат. Попробуйте обновить страницу.";
+      return;
+    }
+
+    startButton.disabled = true;
+    startButton.textContent = "Подключение...";
+    statusText.textContent = "Загружаем видеокомнату...";
+
+    try {
+      meeting = new JitsiMeetExternalAPI("meet.jit.si", {
+        roomName: roomName,
+        parentNode: meetContainer,
+        width: "100%",
+        height: 650,
+        lang: "ru",
+
+        configOverwrite: {
+          startWithAudioMuted: true,
+          startWithVideoMuted: true,
+          prejoinConfig: {
+            enabled: true
+          }
+        }
+      });
+
+      meeting.addEventListener("videoConferenceJoined", function () {
+        statusText.textContent = "Вы подключились к видеокомнате.";
+        startButton.textContent = "Вы в комнате";
+      });
+
+      meeting.addEventListener("videoConferenceLeft", function () {
+        statusText.textContent = "Вы покинули видеокомнату.";
+        startButton.disabled = false;
+        startButton.textContent = "Войти в видеочат";
+        meeting = null;
+      });
+
+    } catch (error) {
+      statusText.textContent =
+        "Ошибка подключения. Попробуйте ещё раз.";
+      startButton.disabled = false;
+      startButton.textContent = "Войти в видеочат";
+      meeting = null;
+    }
+
+  });
+</script>
+
+</body>
+</html>
