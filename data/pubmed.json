@@ -1040,6 +1040,31 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42983236/"
   },
   {
+    "pmid": "42998511",
+    "title": "Integrated NULISA-based CSF neuroimmune profiling identifies microglial-axonal injury signatures and their clinical and MRI associations in new-onset Multiple Sclerosis.",
+    "date": "2026 Oct 28",
+    "journal": "Journal of neuroimmunology",
+    "authors": [
+      "Cristillo V",
+      "Merati T",
+      "Tolassi C",
+      "Rondina A",
+      "Bettonagli V",
+      "Galli A",
+      "Volonghi I",
+      "Bianchi M",
+      "Arici D",
+      "Trasciatti C",
+      "Girotto I",
+      "Gasparotti R",
+      "Pilotto A",
+      "Padovani A"
+    ],
+    "abstract": "Multiple sclerosis (MS) is characterized by inflammatory demyelination, neuroaxonal injury and progressive neurodegeneration. The biological processes driving the disease are already active at clinical onset, yet comprehensive characterization of different molecular pathways at diagnosis remains limited. To integrate high-sensitivity NULISA-based CSF biomarker profiling with neurological impairment at clinical presentation, MRI lesion burden, and microstructural diffusion metrics in normal-appearing white matter (NAWM) in treatment-naïve newly diagnosed MS patients. CSF samples were collected from 70 treatment-naïve newly diagnosed MS patients and 11 age- and sex-matched non-inflammatory neurological controls (NINCs). A CNS Disease Panel of 120 CSF biomarkers was quantified using ultra-sensitive NULISA technology. Differential expression analysis across the NULISA panel was controlled using the Benjamini-Hochberg false discovery rate (FDR). Secondary multivariable regression and partial-correlation analyses evaluated associations with baseline EDSS, short-term change in EDSS following high-dose corticosteroid treatment, white matter lesion volume, and NAWM ADC measures. These secondary analyses were considered exploratory. Seven biomarkers were significantly increased in MS compared with controls after FDR correction: REST, IL-16, CHI3L1, NfL, ICAM-1, TREM2, and CHIT1. Correlation analysis demonstrated clustering among markers of glial and innate immune activation (CHI3L1, TREM2, CHIT1) and moderate associations between NfL and glial markers. REST was strongly correlated with IL16, suggesting early transcriptional and immune pathway interplay. In multivariable models, higher levels of glial activation markers were associated with neurological impairment at clinical presentation in exploratory multivariable analyses. CSF NfL levels correlated with white matter lesion burden and were significantly associated with diffusion abnormalities in NAWM, particularly in the genu of the corpus callosum, cingulum, and anterior corona radiata, These exploratory associations link CSF NfL with both focal lesion burden and selected NAWM microstructural abnormalities. High-sensitivity NULISA profiling identified co-occurring inflammatory, glial, and neuroaxonal injury signals at MS onset and exploratory associations with clinical and MRI measures, supporting the feasibility of this approach for characterizing early MS biology. NULISA-based CSF profiling captures complementary neuroimmune and neuroaxonal injury signals in treatment-naïve MS at diagnosis. Prospective studies are needed to determine their longitudinal clinical relevance.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998511/"
+  },
+  {
     "pmid": "42946677",
     "title": "Efficacy of Fampridine on Refractory Optic Neuritis in Neuromyelitis Optica Spectrum Disorders.",
     "date": "2026 Oct 27",
@@ -1875,6 +1900,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42925001/"
   },
   {
+    "pmid": "42998451",
+    "title": "Comment on \"Perceived value of physiotherapy and occupational therapy among people with multiple sclerosis: insights from a qualitative interview study\".",
+    "date": "2026 Oct 23",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Purna Chandra Shekhar S",
+      "Katasani SBR",
+      "Kumar A"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998451/"
+  },
+  {
     "pmid": "42911400",
     "title": "Prediction of short-term and long-term responses to cladribine in relapsing-remitting multiple sclerosis: a Danish nationwide real-world study.",
     "date": "2026 Oct 22",
@@ -2000,6 +2039,19 @@
     "abstract": "Neurodegenerative diseases, primarily characterized by progressive motor dysfunctions and debilitating memory impairments, have increasingly emerged as a major challenge in public health worldwide. The development of effective neuroprotective agents remains an urgent goal to halt the progression of neurodegenerative disorders. These agents target multiple interconnected pathological pathways, including neuroinflammation, mitochondrial dysfunction, autophagy dysregulation, apoptotic cell death, pathological protein aggregation, and sustained oxidative stress. Accumulating evidence from preclinical studies suggests that melatonin, a neurohormone synthesized by the pineal gland, possesses considerable neuroprotective potential. This effect is mediated by its ability to modulate various pathophysiological processes and intracellular signaling cascades that are commonly disrupted in neurodegenerative conditions. Melatonin's pleiotropic actions, including its potent antioxidant, anti-inflammatory, and anti-apoptotic properties, make it a promising candidate for therapeutic intervention. The present review provides a comprehensive overview of the therapeutic potential of melatonin across major neurodegenerative disorders, including Alzheimer's Disease (AD), Vascular Dementia (VD), Parkinson's Disease (PD), Multiple Sclerosis (MS), Traumatic Brain Injury (TBI), and Huntington's Disease (HD), with discussion of its roles and underlying mechanisms in each condition. Future research should prioritize well-designed clinical trials and improved formulation strategies to establish melatonin's efficacy and safety. By summarizing the current state of knowledge and identifying translational gaps, this review highlights both the therapeutic promise of melatonin and the critical steps needed to realize its potential in clinical practice.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42973361/"
+  },
+  {
+    "pmid": "42996068",
+    "title": "Fibromyalgia, Chronic Fatigue Syndrome, and Multiple Sclerosis are associated with lower translocator protein binding affinity genotypes.",
+    "date": "2026 Oct 21",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "authors": [
+      "Jones C",
+      "Younger J"
+    ],
+    "abstract": "Neuroinflammation is a known pathophysiologic mechanism in multiple sclerosis and a proposed mechanism in fibromyalgia and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). Positron Emission Tomography (PET) imaging of the translocator protein (TSPO) has been widely used to measure neuroinflammation, though second-generation ligands are highly sensitive to a single nucleotide polymorphism, rs6971, resulting in high, mixed, and low affinity binders. It is unknown whether this polymorphism is associated with neuroinflammatory disorders. Eighty-six total participant genotypes for TSPO binding affinity were identified through Sanger sequencing (30 fibromyalgia, 21 ME/CFS, 11 multiple sclerosis, and 24 healthy controls). Associations between patient group and genotype were assessed with Fisher's Exact test. Associations between genotype and symptom severity from self-report questionnaires were assessed with Kruskal-Wallis tests. In the present study individuals with fibromyalgia, (ME/CFS), or multiple sclerosis were more likely to have a mixed- or low-affinity genotypes compared to healthy controls. Presence of the low or mixed genotypes were also associated with greater self-reported fatigue severity and depressive symptoms. These findings should be confirmed in larger samples but suggest functional consequences of rs6971 polymorphism that may be related to the pathophysiology of pain and fatigue illnesses.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996068/"
   },
   {
     "pmid": "42925577",
@@ -2172,6 +2224,25 @@
     "abstract": "Bipolar disorder (BD) is closely associated with multiple sclerosis (MS), but their shared molecular mechanisms and specific diagnostic biomarkers remain unclear. This study integrated microarray expression profiling and machine learning to identify shared core genes and underlying mechanisms between BD and MS. Gene expression datasets and peripheral-blood transcriptome datasets were obtained from the GEO database. After per-cohort quantile normalization, shared genes were identified by differential expression analysis and weighted gene co-expression network analysis. A protein-protein interaction network was constructed, and key genes were screened using the MCODE plugin. Three machine learning algorithms were combined to identify the final core gene. A total of 229 shared genes were initially obtained and further filtered to 55 key genes.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42939615/"
+  },
+  {
+    "pmid": "42995838",
+    "title": "Hidden Markov Modeling Reveals Altered Functional Network Dynamics in Multiple Sclerosis.",
+    "date": "2026 Oct 19",
+    "journal": "bioRxiv : the preprint server for biology",
+    "authors": [
+      "Hiremath KC",
+      "Hobbs DA",
+      "Hettish DMR",
+      "Khan E",
+      "Alias BP",
+      "Lin MM",
+      "Fox PT",
+      "Chiang FL"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a neurodegenerative and demyelinating disease of the central nervous system. Recent evidence suggests that localized gray matter atrophy in MS may be involved in distributed functional brain networks. However, the dynamic trajectory of functional network alterations in MS remains unclear. The current study extends prior network-mediated findings and aims to investigate the dynamic functional connectivity (dFC) and energetic landscape across an atrophy-prone network in MS. Twenty MS participants and twenty healthy controls (HC) underwent resting-state fMRI. The atrophy-based functional network (AFN) model was implemented, and time series from atrophy-prone regions were fit to a 12-state hidden Markov model. Each functional network state, a recurring pattern of activity across the AFN, was characterized by the AFN regions with the strongest activation. The states were then grouped into two metastates. Dynamic functional network metrics were compared between groups by permutation testing and correlated with disability and cognition. The energetic landscape of the network was mapped with a pairwise maximum-entropy model. Temporal irreversibility was also measured, which defines the arrow-of-time asymmetry of network dynamics. People with MS showed lower occupancy of state 1, which peaked on the right middle frontal and anterior cingulate cortex. Occupancy and mean lifetime were higher in states 3 and 10 (p < 0.05). In state 3, cortical activity was below the network average, and state 10 peaked on the postcentral gyrus. At the metastate level, MS participants spent more time in metastate M1 and less in M2 (p = 0.04). Within the MS group, a longer interval between visits to state 3 was associated with greater disability (r = 0.57), and a higher switching rate in state 10 with poorer verbal fluency (r = -0.50). The energetic landscape was similar between groups. Temporal irreversibility was lower in MS, mainly across subcortical connections. MS participants dwelled longer in specific dFC states of the AFN, while the rate of transition between states did not differ from healthy controls. Dynamic functional network metrics were associated with disability and cognitive performance and may serve as functional correlates of clinical impairment. The states were similar between groups, whereas the directed drive between states was lower across subcortical connections. This pattern suggests altered network dynamics rather than altered network architecture in MS. Findings from this study characterize the functional network dynamics of neurodegeneration in MS, which may inform future development of network-based approaches for monitoring disease progression.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995838/"
   },
   {
     "pmid": "42940547",
@@ -2646,6 +2717,39 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42927646/"
   },
   {
+    "pmid": "42998113",
+    "title": "Depression, adverse childhood experiences, and cigarette smoking are associated with suicide attempts in people with multiple sclerosis: a cross-sectional exploratory study.",
+    "date": "2026 Nov 7",
+    "journal": "Journal of neurology",
+    "authors": [
+      "Freedman DE",
+      "Oh J",
+      "Feinstein A"
+    ],
+    "abstract": "People with multiple sclerosis (pwMS) are at elevated risk of suicide compared to the general population. This exploratory study aimed to identify clinical factors associated with suicide attempts in pwMS, which is crucial for developing tailored suicide prevention strategies. In a cross-sectional retrospective sample of pwMS consecutively assessed at a Toronto-based neuropsychiatry clinic between July 2024 and January 2026, data were gathered about demographics, disease-related factors, and psychiatric clinical factors. Participants were asked about any prior suicide attempts (coded as presence or absence) as part of routine care. Candidate explanatory variables of prior suicide attempts were identified with t-tests and chi-square analyses (p < 0.10). A backward stepwise logistic regression analysis was undertaken to estimate the odds of any prior suicide attempts from candidate variables (p < 0.05). In 360 pwMS, mean age was 46.1 years (SD = 13.1), 69.7% were female, median Expanded Disability Status Scale score was 2.5 (IQR = 1.5-5.0), and 8.6% had attempted suicide. Candidate variables were parenthood status (p = 0.030), adverse childhood experiences (p = 0.004), illness subtype (p = 0.049), cigarette use (p = 0.003), depression (p < 0.001), post-traumatic stress disorder (p < 0.001), suicidal ideation (p < 0.001), and age (p = 0.059). In the final model, depression (OR = 2.6, 95% CI [1.1, 6.1], p = 0.029), cigarette use (OR = 3.2, 95% CI [1.2,8.2], p = 0.017), and adverse childhood experiences (OR = 2.8, 95% CI [1.2,6.7], p = 0.019) were linked to increased odds of suicide attempts. Parenthood was associated with decreased odds of suicide attempts (OR = 0.3, 95%CI [0.1, 0.8], p = 0.017). In summary, among pwMS, those with depression, who smoke cigarettes, and who report adverse childhood experiences are more likely to have attempted suicide, while parenthood may be protective.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998113/"
+  },
+  {
+    "pmid": "42995297",
+    "title": "Nervous System-Specific SARM1 Knockout Attenuates Optic Neuritis in a Multiple Sclerosis Mouse Model.",
+    "date": "2026 Nov 7",
+    "journal": "Molecular neurobiology",
+    "authors": [
+      "Sun H",
+      "Li M",
+      "Yang X",
+      "Jiang H",
+      "Zhou M",
+      "Xu K",
+      "Wang W",
+      "Yu K"
+    ],
+    "abstract": "In optic neuritis, a complication of multiple sclerosis (MS), the main pathological manifestations are autoimmune-mediated inflammatory infiltration, myelin loss, and axonal damage. We generated conditional SARM1 cKO mice in the nervous system and performed MOG",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995297/"
+  },
+  {
     "pmid": "42994510",
     "title": "Phytocannabinoids in neurologic, neuropsychiatric, inflammatory, pain, cardiometabolic, hepatic, renal, and neoplastic disorders: Pharmacology, clinical evidence, and translational perspectives.",
     "date": "2026 Nov 6",
@@ -2765,6 +2869,45 @@
     "abstract": "Migraine is a common comorbidity in multiple sclerosis (MS) and may increase symptom burden. Evidence from non-Western MS populations remains limited, especially regarding its association with fatigue and health-related quality of life (HRQoL). This study examined the clinical correlates of comorbid migraine in patients with MS. This cross-sectional study recruited 296 adult patients with MS from a tertiary care center. Migraine was diagnosed according to ICHD-3 criteria. Fatigue severity was measured with the Fatigue Severity Scale (FSS), while HRQoL was assessed with the Arabic Short Form-36. Comorbid migraine was present in 81 patients (27.4%). Female sex was associated with higher odds of comorbid migraine (adjusted OR = 3.35, 95% CI 1.46-7.7, p = 0.004). Current interferon use was also associated with higher odds of comorbid migraine compared with other DMTs (adjusted OR = 3.70, 95% CI 1.09-12.56, p = 0.036). Patients with migraine had more frequent fatigue (78% vs. 64%, p = 0.026), higher FSS scores (median 4.78 vs. 4.22, p = 0.002), and lower MCS scores (median 39 vs. 50, p < 0.001). PCS did not differ significantly in the unadjusted comparison (p = 0.18). In adjusted models, migraine was also associated with lower MCS (p < 0.001) and higher FSS score (p = 0.015). Comorbid migraine was common among patients with MS and was associated with higher fatigue burden and lower mental HRQoL. These findings support migraine as a clinically relevant comorbidity in MS and highlight the importance of systematic evaluation and coordinated care in patients reporting migraine and related symptom burden.",
     "category": "Симптомы и прогрессирование",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42988975/"
+  },
+  {
+    "pmid": "42998460",
+    "title": "Understanding discourses on multiple sclerosis medications and side effects in an online support group: a Latent Dirichlet Allocation analysis.",
+    "date": "2026 Nov 6",
+    "journal": "Patient education and counseling",
+    "authors": [
+      "Ayine B"
+    ],
+    "abstract": "Understanding how individuals discuss medication side effects in online support communities is critical for informing patient-centred care and addressing misinformation in chronic illness contexts. This study examines discourse surrounding multiple sclerosis (MS) treatments and side effects in an online support group for people living with MS. A corpus of approximately 112,000 words comprising discussions of medications and their associated side effects was analysed using Latent Dirichlet Allocation (LDA), supplemented by thematic analysis, to identify dominant themes. A subsequent chi-square analysis examined differences in the distribution of themes across four treatment categories. Three interrelated themes were identified in the corpus: (1) treatment use, administration, and risk considerations, (2) illness experiences, treatment evaluations, and comparisons, and (3) symptom burden and clinical monitoring. Among these, illness experiences, treatment evaluations, and comparisons emerged as the most prevalent theme, highlighting the centrality of lived experience and emotional expression in online discourse. Statistical analysis revealed a significant association between theme distribution and treatment category, χ²(6) = 142.45, p < .001, with a moderate effect size (Cramér's V = 0.29). The findings demonstrate that discussions of MS treatments and side effects in online support communities extend beyond biomedical concerns and are closely tied to experiential, emotional, and symptom-related dimensions of illness management. Online communities therefore function as important spaces for information exchange, experiential sharing, and treatment evaluation. The study shows the need to integrate patient perspectives and experiential concerns into clinical communication, particularly regarding treatment expectations and side effects. The findings also underline the importance of strengthening digital health literacy and pharmacovigilance efforts to improve the quality of treatment-related information available in online support communities.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998460/"
+  },
+  {
+    "pmid": "42995550",
+    "title": "The preclinical efficacy of Panax ginseng in multiple sclerosis: a systematic review and meta-analysis with a perspective on clinical translation.",
+    "date": "2026 Nov 6",
+    "journal": "Nutritional neuroscience",
+    "authors": [
+      "Rezaee A",
+      "Mohammadi E",
+      "Rezaee M",
+      "Feyzabadi Z"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune neurodegenerative disorder with limited disease-modifying therapies. We searched MEDLINE, ScienceDirect, Scopus, Web of Science, and Cochrane CENTRAL through October 2025. Standardized mean differences (SMD) with 95% confidence intervals (CI) were calculated using random-effects models. Primary outcomes were disease severity and central nervous system (CNS) histopathology in animal models, and fatigue scores in clinical trials. Ten preclinical and two clinical studies met inclusion criteria. In animal models,",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995550/"
+  },
+  {
+    "pmid": "42995248",
+    "title": "CAR T cells show early promise in progressive multiple sclerosis.",
+    "date": "2026 Nov 6",
+    "journal": "Nature reviews. Neurology",
+    "authors": [
+      "Wood H"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995248/"
   },
   {
     "pmid": "42985849",
@@ -3206,6 +3349,20 @@
     "abstract": "People with multiple sclerosis (PwMS) in Egypt receive governmental coverage for disease-modifying therapies (DMTs), yet they continue to face considerable out-of-pocket (OOP) expenses for supportive care and monitoring. Data on catastrophic OOP expenditure in the region are lacking. This study assessed the prevalence and predictors of catastrophic OOP expenditure and the associated perceived financial burden among PwMS in Egypt. A multicenter cross-sectional study was conducted among adult PwMS attending MS clinics at three tertiary university hospitals (Alexandria, Ain Shams, and Tanta) in Egypt. Participants completed a structured questionnaire assessing sociodemographic characteristics, clinical features, disease-related factors, and MS-related OOP healthcare expenditure during the preceding year. Catastrophic expenditure was assessed using three thresholds of OOP spending relative to household income: ≥10%, ≥25%, and ≥40%. Because household income was collected categorically, lower-bound, midpoint, and upper-bound income estimates were evaluated, with the midpoint estimate used for the primary analysis. Multivariable modified Poisson regression models with robust variance estimation were performed to identify independent predictors of COPE, and results were reported as adjusted prevalence ratios (aPRs) with 95% confidence intervals (CIs). Among 634 included PwMS, the median monthly OOP expenditure was 1,895.83 Egyptian pounds (IQR 929.17-3,587.50), corresponding to a median OOP-to-household-income ratio of 0.43 using the midpoint income estimate. Under the primary analysis, 589 participants (92.9%) experienced OOP expenditure ≥10% of household income, 478 (75.4%) exceeded the ≥25% threshold, and 343 (54.1%) exceeded the ≥40% threshold. Perceived financial burden was highly prevalent and differed significantly across income groups at all expenditure thresholds (P<0.001). In multivariable analyses, recent relapse activity was consistently associated with a higher prevalence of COPE across all thresholds (≥10%: aPR 1.23, 95% CI 1.15-1.32; ≥25%: aPR 1.53, 95% CI 1.35-1.74; ≥40%: aPR 1.64, 95% CI 1.37-1.97). Older age was associated with higher prevalence of ≥25% and ≥40% COPE, while female sex was independently associated with ≥40% COPE (aPR 1.31, 95% CI 1.10-1.55). Catastrophic OOP healthcare expenditure is highly prevalent among PwMS in Egypt, affecting patients across socioeconomic categories and persisting across different expenditure thresholds. Disease activity and demographic factors contribute to increased financial vulnerability. Expanding financial protection beyond disease-modifying therapies to include investigations, rehabilitation, symptomatic treatments, and supportive services is essential to reduce the financial burden of MS and improve equitable access to comprehensive care.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42994310/"
+  },
+  {
+    "pmid": "42998510",
+    "title": "A four-gene diagnostic panel for distinguishing primary progressive multiple sclerosis from HTLV-1-associated myelopathy/tropical spastic paraparesis.",
+    "date": "2026 Nov 3",
+    "journal": "Journal of neuroimmunology",
+    "authors": [
+      "Zarei Ghobadi M",
+      "Afsaneh E",
+      "Mozhgani SH"
+    ],
+    "abstract": "Primary Progressive Multiple Sclerosis (PPMS) and HTLV-1-Associated Myelopathy/Tropical Spastic Paraparesis (HAM/TSP) are clinically overlapping progressive myelopathies characterized by spastic paraparesis and autonomic dysfunction. However, they originate from fundamentally distinct pathogenic processes: autoimmune demyelination in PPMS versus chronic retroviral-driven neuroinflammation in HAM/TSP. Current diagnostic approaches are frequently inadequate, as HTLV-1 screening is often omitted in non-endemic regions and positive serology in endemic areas does not rule out concomitant PPMS, highlighting the urgent need for complementary molecular diagnostic tools. In this study, we developed an integrative bioinformatics framework combining network analysis, differential expression profiling, and machine learning to identify a transcriptional signature capable of distinguishing PPMS from HAM/TSP. Disease-specific gene modules were identified through cross-dataset preservation analysis and module-trait correlations. Random Forest classification with recursive feature elimination was employed to derive a parsimonious Diagnostic Risk Score (DRS), which was validated on an independent external cohort under a frozen-threshold, leakage-free design. Weighted Gene Co-expression Network Analysis (WGCNA) revealed striking topological divergence between the two diseases: HAM/TSP exhibited a consolidated network architecture with a single dominant module, whereas PPMS displayed a highly fragmented topology with numerous smaller modules. Cross-dataset preservation analysis identified 11 PPMS-specific and 63 HAM/TSP-specific candidate biomarker genes. Machine learning refinement reduced this to a 4-gene signature comprising ZFAND1, MAPRE2, TBK1, and LPAR6, which achieved robust classification performance in cross-validation (macro-averaged accuracy: 0.982; macro-averaged F1-score: 0.987; AUC-ROC: 0.995) and robust performance on external validation (macro-averaged accuracy: 0.975; macro-averaged F1-score: 0.937; AUC-ROC: 0.800). The 4-gene signature captures distinct biological dimensions: ZFAND1 marks proteostatic stress from viral inflammation, TBK1 excludes the HTLV-1 interferon signature, MAPRE2 reflects a HAM/TSP-associated cytoskeletal program, and LPAR6 links inflammatory signaling to oligodendrocyte maturation. This multidimensional architecture explains the panel's high accuracy and offers mechanistic insights. The proposed approach offers a practical, transcriptome-based adjunct to current diagnostic methods, with potential to guide therapeutic stratification and reduce misdiagnosis of PPMS and HAM/TSP.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998510/"
   },
   {
     "pmid": "42980191",
@@ -3764,6 +3921,32 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42992946/"
   },
   {
+    "pmid": "42997457",
+    "title": "Effectiveness, safety and therapeutic potential of medical cannabis across treatment-resistant neuropsychiatric disorders: systematic review and meta-analysis.",
+    "date": "2026 Nov",
+    "journal": "EClinicalMedicine",
+    "authors": [
+      "Guo D",
+      "Zong R",
+      "Ma Z",
+      "Lu F",
+      "Zhang Y",
+      "Zhang S",
+      "Yao Y",
+      "Bao Y",
+      "Zhang Y",
+      "Li X",
+      "Shi J",
+      "Jin M",
+      "Lu L",
+      "Liu L",
+      "Han Y"
+    ],
+    "abstract": "Medical cannabis has been suggested to have a therapeutic role in selected treatment-resistant neuropsychiatric disorders. We analyzed the available evidence to assess the effectiveness and safety of these interventions in treatment-resistant neuropsychiatric disorders. For this systematic review and meta-analysis, we searched Web of Science, Cochrane, Embase, EBSCO, and PubMed for studies published between January 1, 1970, and April 25, 2026. We considered studies examining any type or formulation of medical cannabis in treatment-resistant neuropsychiatric disorders. Primary outcomes were disorder-specific clinical improvement measures. Safety outcomes were adverse events, serious adverse events, and withdrawals due to adverse events. Evidence from studies was synthesized as equivalent odds ratios (eORs) for comparative outcomes and as pooled proportions for single-arm safety outcomes, via random-effects meta-analyses. Risk of bias was assessed using RoB 2 for randomized trials, ROBINS-I for non-randomized studies, and structured quality assessment for case series and case reports, and certainty of evidence was assessed with GRADE. This study is registered with PROSPERO, CRD420251148868. 127 eligible studies were included, of which 32 studies involving 3645 participants contributed to meta-analysis. Meta-analysis showed improvement in drug-resistant epilepsy (eOR 0.50, 95% confidence interval (CI) 0.34-0.72), refractory pain (eOR = 0.48, 95% CI = 0.30-0.78), and refractory multiple sclerosis spasticity (eOR = 0.22, 95% CI = 0.07-0.75). Evidence for psychiatric disorders was scarce. Small randomized trials reported improvement in PTSD-related nightmares and cannabis dependence after failed cessation. Uncontrolled studies reported improvements in hyperarousal, residual obsessive-compulsive symptoms, and refractory Tourette syndrome. Findings for treatment-resistant anxiety were inconsistent, and schizophrenia did not show a reliable therapeutic effect. Controlled analyses showed higher odds of any adverse events in drug-resistant epilepsy (eOR = 2.22, 95% CI = 1.52-3.23) and refractory multiple sclerosis (eOR = 1.89, 95% CI = 1.01-3.52), with higher odds of serious adverse events and withdrawals due to adverse events also observed in drug-resistant epilepsy. In single-arm and real-world studies, pooled proportions of any adverse events ranged from 15.5% in multiple sclerosis to 66.0% in Tourette syndrome, with substantial heterogeneity. Adjunctive pharmaceutical cannabidiol has the most consistent comparative evidence for reducing seizure frequency in selected drug-resistant epilepsy. Evidence for refractory pain and multiple sclerosis is heterogeneous and varies by clinical indication, cannabinoid formulation, and outcome definition. Evidence in treatment-resistant psychiatric disorders remains limited and is insufficient to support routine clinical recommendations. Further high-quality studies directly examining diagnosis-specific and formulation-specific effects, safety, and tolerability are needed. STI2030-Major Projects and the National Natural Science Foundation of China.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997457/"
+  },
+  {
     "pmid": "42953809",
     "title": "The Emerging Role of Optogenetics in Multiple Sclerosis Research.",
     "date": "2026 May",
@@ -4303,6 +4486,41 @@
     "abstract": "Chronic diseases are a leading cause of morbidity and mortality worldwide, with prevalence rising because of lifestyle factors and increasing life expectancy. In developing countries, including Jordan, these conditions pose growing health and economic burdens. This systematic review assessed available literature on the economic burden of chronic diseases in Jordan. Following PRISMA guidelines, we searched Medline PubMed, Embase, PubMed Central, and Scopus, supplemented by Google/Google Scholar and reference lists, for studies reporting direct medical costs of chronic diseases in Jordan. Titles, abstracts, and full texts were screened independently by two reviewers. Study characteristics and mean annual per-patient costs were extracted and verified. Costs were standardized to per-patient, per-year estimates in 2025 USD, including outpatient, inpatient, diagnostic, emergency, and medication expenses. The quality of included studies was assessed using the adapted version of Drummond checklist for economic studies. Database search identified 147 records. After removal of one duplicate record, 146 records were screened, and 19 full-text articles were assessed for eligibility. Ultimately, eleven studies were included. They reported costs for cancers, diabetic retinopathy, severe renal disease, thalassaemia, paediatric asthma, and multiple sclerosis, mostly using retrospective designs. Mean annual costs ranged from $35 to $30,567 (2025 USD), and the greatest costs were for end-stage renal disease. Of cancer studied, breast cancer and colorectal cancer were associated with substantial annual direct medical costs, although estimates varied considerably between studies because of differences in disease populations, data sources, and cost methodologies. The mean annual cost for all conditions was $10,035 (2025 USD). When weighted against the sample sizes, the pooled mean cost was $6,914 USD. The overall quality of included studies was judged to be moderate, with most studies clearly defining study populations, disease conditions, and data sources used for cost estimation. Chronic kidney disease, breast cancer, and multiple sclerosis imposed substantial medical costs in Jordan. Evidence for other major conditions was limited, highlighting the need for further research to guide health care planning, resource allocation, and cost-effective chronic disease management.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42972162/"
+  },
+  {
+    "pmid": "42996180",
+    "title": "Microglia drive demyelination via multiple sclerosis antibodies and BTK signaling.",
+    "date": "2026 Aug 28",
+    "journal": "bioRxiv : the preprint server for biology",
+    "authors": [
+      "Osso LA",
+      "Barr HJ",
+      "Stockton ME",
+      "Wentling M",
+      "Karas S",
+      "Huang R",
+      "Peet GC",
+      "Given KS",
+      "Simmerman A",
+      "McClain CR",
+      "Mansoor M",
+      "Fykstra DP",
+      "Horan K",
+      "Mutschler C",
+      "Thomas CI",
+      "Darehshouri A",
+      "Lee L",
+      "Gruber RC",
+      "Ofengeim D",
+      "Williams A",
+      "Macklin WB",
+      "Owens GP",
+      "Bennett JL",
+      "Hughes EG"
+    ],
+    "abstract": "Microglia are the predominant immune cells in multiple sclerosis (MS) demyelinating lesions, where they phagocytose myelin, but whether they destroy myelin or merely scavenge its debris is unknown. Here, we explore whether pathogenic autoantibodies found in MS may induce the phagocytic destruction of myelin by microglia. Applying patient-derived, myelin-targeting antibodies to the mouse cortex, we developed an",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996180/"
   },
   {
     "pmid": "42989040",
@@ -5119,5 +5337,95 @@
     "abstract": "Cladribine tablets (CladT) are used as an immune reconstitution therapy for multiple sclerosis (MS). Patients are dosed in year 1 (time 0) and again after 12 months. The aim of therapy is to allow development of a reconstituted immune repertoire with reduced pathogenic autoreactivity. However, CladT could also affect the durability of memory T and antibody responses to bacterial and viral pathogens against which people with MS have previously been vaccinated. The objective of this study was to investigate changes in memory recall responses to vaccines over a 2-year period after the initial administration of CladT. Blood was collected prior to the initial administration of CladT and at 5 timepoints (3, 6, 12, 18 and 24 months) after administration from 18 people with MS. The effects of CladT on antigen-specific T cell and/or antibody responses to influenza, varicella zoster, tetanus toxoid, and SARS-CoV-2 were assessed. While levels of antibodies remained relatively stable for most vaccine antigens, numbers of T cells specific for the vaccine antigens declined in most individuals, particularly after the second course of treatment. Observations from individuals revaccinated against influenza suggest that revaccination at 18-24 months after starting CladT treatment, after both courses have been given, can restore influenza-specific responses. CladT treatment can cause a decline in numbers of vaccine-specific memory T cells. Numbers of influenza-specific memory T cells could be restored to pre-treatment levels by revaccination after the second course of treatment. Larger studies are needed to define antigen-specific revaccination schedules more broadly.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42990905/"
+  },
+  {
+    "pmid": "42997602",
+    "title": "Zinc Supplementation Attenuates Pro-Inflammatory Cytokine Responses in a Cuprizone-Induced Rat Model of Multiple Sclerosis.",
+    "date": "2026",
+    "journal": "Noro psikiyatri arsivi",
+    "authors": [
+      "Baltacı SB",
+      "Acar G",
+      "Bayıroğlu AF",
+      "Uzdil EK",
+      "Üstün A",
+      "Moğulkoç R",
+      "Baltacı AK"
+    ],
+    "abstract": "Multiple Sclerosis (MS) is a chronic autoimmune disorder marked by neuroinflammation, demyelination, and neurodegeneration. Zinc is crucial for immune regulation, but its impact on inflammatory cytokines in MS is not well understood. This study examined how dietary zinc status influences pro-inflammatory cytokine release in spinal cord tissue using a cuprizone-induced rat model of MS. The experimental cohort comprised 46 adult male Wistar rats, randomly allocated into five groups: Control (n=6) and four experimental groups \"G\" (n=10 each). G1 served as the untreated Control. G2, Sham-MS received daily oral gavage of carboxymethyl cellulose (CMC) solution-used as the vehicle for cuprizone-administered at 1% of their daily feed intake for 8 weeks. G3, G4, and G5 underwent MS induction via daily gavage of cuprizone dissolved in CMC at 1% of daily feed intake over the same period. G4 was maintained on a zinc-deficient diet (50 µg/kg zinc), whereas G5 received intraperitoneal zinc sulfate supplementation at 5 mg/kg/day. Disease progression was assessed by Rotarod performance and Myelin Basic Protein gene expression. Spinal cord levels of TNF-α, IL-1β, and IL-6 were measured by ELISA. Multiple sclerosis induction significantly increased TNF-α, IL-1β, and IL-6 levels (p <0.05), especially in zinc-deficient rats. Zinc supplementation attenuated these cytokine elevations, normalizing them to control levels (p <0.05). Functional and molecular data confirmed reduced disease severity with zinc repletion. Our findings reveal that zinc status is a critical modulator of neuroinflammation in an experimental MS model. Inflammatory cytokine levels in the spinal cord were significantly higher in both MS and zinc-deficient MS groups, confirming local inflammation associated with demyelination. Furthermore, zinc supplementation demonstrated a regulatory effect by suppressing the increase in inflammatory cytokines in the experimental MS model. These results may point to the therapeutic potential of zinc in MS management.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997602/"
+  },
+  {
+    "pmid": "42997598",
+    "title": "Predictors of Long-Term Disability in Multiple Sclerosis: Up to 10 Years of Follow-up in a Real-World Cohort Study.",
+    "date": "2026",
+    "journal": "Noro psikiyatri arsivi",
+    "authors": [
+      "Uzunköprü C",
+      "Cengiz S",
+      "Beckmann Y"
+    ],
+    "abstract": "Multiple sclerosis (MS) shows substantial interindividual variability in clinical course, yet early predictors of long-term disability remain incompletely defined. This retrospective cohort study aimed to investigate the impact of demographic characteristics, family history, comorbidities, and initial clinical and radiological features on disability progression over time. We retrospectively evaluated MS patients with respect to initial clinical presentation, relapse frequency, baseline magnetic resonance imaging (MRI) characteristics, early radiological progression, and acute relapse treatment. We also examined the association between recovery after the first relapse and long-term disability outcomes, assessed at years 1, 2, 5, and 10. Of the 346 patients, 69% were female, and the mean age was 43.4±11.0 years. Most patients had relapsing-onset disease (96%). Sensory symptoms and optic neuritis were the most common presenting symptoms, while motor and cerebellar onset were significantly associated with higher EDSS scores at years 1, 2, and 5. Relapse activity within the first year after diagnosis correlated positively with fifth-year EDSS, whereas relapse frequency prior to diagnosis showed no association with long-term progression. Neither the presence nor the number of contrast-enhancing MRI lesions predicted disability progression. Early clinical phenotype and early treatment response carry important prognostic information in MS. Motor or cerebellar onset, incomplete early recovery, and persistent relapse activity after diagnosis identify patients at higher risk for disability accumulation. Spinal cord involvement was the only MRI parameter associated with 10-year EDSS.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997598/"
+  },
+  {
+    "pmid": "42997574",
+    "title": "Familial Aggregation Patterns in Multiple Sclerosis and Their Association with Disease Severity.",
+    "date": "2026",
+    "journal": "Noro psikiyatri arsivi",
+    "authors": [
+      "Sönmez MT",
+      "Kürtüncü M",
+      "Cankay TU",
+      "Gündüz T",
+      "Eraksoy M"
+    ],
+    "abstract": "Familial aggregation is a well-recognized feature of multiple sclerosis (MS). However, there is considerable heterogeneity in how disease susceptibility and clinical outcomes cluster within families. Although the relationship between parental lineage effects and MS risk has been previously investigated, their association with long-term disease severity remains poorly understood. In this study, we sought to explore patterns of familial aggregation according to maternal and paternal lineage in patients with familial MS and to evaluate whether these patterns are associated with long-term disease severity. This retrospective observational study included 110 patients with familial MS from 50 families. Among patients in whom parental lineage could be determined, familial aggregation was classified as maternal or paternal based on comprehensive pedigree review. Clinical characteristics, disability status measured by the Expanded Disability Status Scale (EDSS), and time-adjusted disease severity assessed using the Multiple Sclerosis Severity Score (MSSS) were compared between lineages. Maternal and paternal lineages differed significantly in the distribution of affected relatives by degree of relatedness (p=0.040); this difference was primarily driven by a higher proportion of first-degree affected relatives in the maternal-line group. No significant differences were observed between maternal and paternal lineages in early clinical characteristics, including age at onset, sex distribution, and initial clinical symptom distribution. Although EDSS scores were comparable between groups, MSSS values were significantly higher among patients in the maternal-line group (median 4.5 vs. 1.6, p=0.016). The parental lineage through which familial aggregation occurs in MS may be associated with long-term disease severity. These findings suggest that lineage-based approaches may offer valuable insights into the clinical profile of familial MS, while also underscoring the need for further studies integrating genetic, epigenetic, and longitudinal data.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997574/"
+  },
+  {
+    "pmid": "42996505",
+    "title": "Neuroinflammation in Alzheimer's disease: pathogenic signaling, biomarkers, and emerging therapeutic interventions.",
+    "date": "2026",
+    "journal": "Frontiers in oncology",
+    "authors": [
+      "Poonam",
+      "Rana R",
+      "Thakur M",
+      "Sharma A",
+      "Pannu S",
+      "Sharma S",
+      "Naman S",
+      "Rani S",
+      "Devi D",
+      "Kumar V",
+      "Kumar S"
+    ],
+    "abstract": "Alzheimer's disease (AD) is the leading cause of dementia worldwide, characterized by progressive cognitive decline and neurodegeneration. Although amyloid-β plaques and hyperphosphorylated tau are major pathological hallmarks, increasing evidence highlights persistent neuroinflammation as a critical contributor to disease progression. Activated microglia and astrocytes, inflammatory cytokines, inflammasome activation, and dysregulated immune responses promote neuronal damage and synaptic dysfunction. Similar inflammatory mechanisms are observed in neurological disorders such as multiple sclerosis (MS) and brain tumors, suggesting shared molecular pathways linking neuroinflammation, neurodegeneration, and tumor-associated immune responses. Proteomics, transcriptomics, and multi-omics approaches provide powerful strategies to characterize disease-associated molecular signatures, signaling pathways, biomarkers, and therapeutic targets. This review summarizes key neuroinflammatory mechanisms in AD, including NF-κB, NLRP3, PI3K/Akt, MAPK, cGAS-STING, mitochondrial, lysosomal, calcium, insulin, and blood-brain barrier pathways. Recent advances in proteomic and transcriptomic profiling and their integration with genomic, epigenomic, and metabolomic data are discussed for understanding disease heterogeneity and identifying clinically relevant biomarkers. Current and emerging therapeutic strategies, including anti-Aβ antibodies, anti-inflammatory agents, selective inhibitors, dual-target compounds, PROTACs, and protein-protein interaction modulators, are also evaluated. Finally, multi-omics-based precision medicine and artificial intelligence-assisted analysis may facilitate biomarker-guided patient stratification and development of effective disease-modifying therapies.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996505/"
+  },
+  {
+    "pmid": "42996484",
+    "title": "Faecalibacterium prausnitzii in neurological disorders: mechanistic links and therapeutic potential along the microbiota-gut-brain axis.",
+    "date": "2026",
+    "journal": "Frontiers in microbiology",
+    "authors": [
+      "Liu Y",
+      "Yang G",
+      "Su L",
+      "Wang H",
+      "Zhou Q",
+      "Yao P",
+      "Jing C",
+      "Bai Y",
+      "Feng Z"
+    ],
+    "abstract": "Widespread dysbiosis in neurological disorders highlights the critical role of the microbiota-gut-brain axis (MGBA) and the therapeutic potential of probiotics in modulating the central nervous system (CNS).",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996484/"
   }
 ]
