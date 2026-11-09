@@ -2523,6 +2523,28 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42940512/"
   },
   {
+    "pmid": "42999337",
+    "title": "Neuro-JEPA: Building and Evaluating Health-System Scale Neuroimaging Foundation Models with Mixture of Experts.",
+    "date": "2026 Oct 15",
+    "journal": "Research square",
+    "authors": [
+      "Huang H",
+      "Chen L",
+      "Chen J",
+      "Hyun J",
+      "Loftus J",
+      "Melmed K",
+      "Orringer D",
+      "Frontera J",
+      "Dehkharghani S",
+      "Masurkar A",
+      "Razavian N"
+    ],
+    "abstract": "Magnetic resonance imaging (MRI) of the brain routinely combines complementary contrasts-including T1-weighted (T1w), T2-weighted (T2w) and FLAIR sequences-to capture anatomy and pathology. Although foundation models trained on large neuroimaging datasets have shown promise, it remains unclear whether they effectively integrate these complementary contrasts across diverse clinical settings. Here we present Neuro-JEPA, a multimodal foundation model that learns unified representations across structural brain MRIs. Neuro-JEPA combines latent predictive learning with a sparse Mixture-of-Experts architecture to encode multiple MRI contrasts within a single model. The model is pretrained on 1.55 million scans from 428,647 clinical imaging studies spanning T1w, T2w and FLAIR sequences. The model performance is evaluated on 47 downstream tasks across three independent health systems and 12 public datasets, encompassing single-contrast, multimodal and cross-domain applications. Across these evaluations, Neuro-JEPA achieved the strongest overall performance and generalized robustly across heterogeneous cohorts, outperforming existing neuroimaging foundation models and strong conventional baselines in the majority of comparisons despite using less than one-third of the pretraining data of leading models. Performance gains were particularly pronounced in data-scarce settings, reaching up to 15% over prior foundation models for clinically important pathologies including gliosis and multiple sclerosis. Neuro-JEPA showed clinically relevant capabilities across domains, including prediction of amyloid status and progression from mild cognitive impairment to Alzheimer's disease dementia, stroke identification and classification, and prediction of post-stroke functional outcome and length of stay. Together, these results show that data scale, curation and principled model design can act synergistically to produce broadly transferable neuroimaging representations, and establish Neuro-JEPA as a scalable framework toward general-purpose multimodal foundation models for neurological imaging.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999337/"
+  },
+  {
     "pmid": "42930661",
     "title": "Deep Learning-Based Multiple Sclerosis Lesion Segmentation at 7 Tesla: Comparison of Single- and Multi-Contrast MRI Inputs.",
     "date": "2026 Oct 14",
@@ -2715,6 +2737,18 @@
       "Безопасность лечения"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42927646/"
+  },
+  {
+    "pmid": "42999727",
+    "title": "Microbiome-Derived Metabolites in Multiple Sclerosis: Mechanisms of Immune Regulation and Therapeutic Potential: A Literature Review.",
+    "date": "2026 Oct",
+    "journal": "Cureus",
+    "authors": [
+      "Amin MN"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune neuroinflammatory disease characterized by immune dysregulation, demyelination, and neurodegeneration of the central nervous system (CNS). Increasing evidence suggests that gut microbiota and microbiome-derived metabolites play important roles in the pathogenesis and progression of MS by modulating the gut-brain-immune axis. This narrative review examines the possible immunomodulatory effects of microbiome-derived metabolites in MS, with particular emphasis on short-chain fatty acids (SCFAs), tryptophan-derived metabolites, and polyamines, and evaluates their potential therapeutic implications. This review was conducted using the most recent available studies relevant to the topic. The search included PubMed, Google Scholar, and PMC databases. Eligible studies focused on randomized controlled trials, systematic reviews, meta-analyses, observational studies, reviews, and other publications that examined the role of microbiota and its metabolites in MS. The reviewed evidence indicates that MS-associated dysbiosis is accompanied by altered microbial metabolite production, disruption of regulatory T cell (Treg)/T helper 17 (Th17) balance, impaired barrier integrity, and increased neuroinflammation. SCFAs, tryptophan-derived metabolites, and polyamines demonstrate immunoregulatory effects through modulation of T-cell responses, cytokine signaling, and inflammatory pathways. Microbiota-targeted interventions, including probiotics, prebiotics, dietary modulation, and metabolite supplementation, have shown promising immunological and clinical effects. However, methodological heterogeneity, small cohorts, variable interventions, and insufficient long-term clinical validation limit definitive conclusions regarding therapeutic efficacy. Future large-scale longitudinal and multi-omics studies are crucial for clarifying the underlying mechanisms and unlocking microbiota-targeted strategies to manage MS more effectively.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999727/"
   },
   {
     "pmid": "42998113",
@@ -3945,6 +3979,20 @@
     "abstract": "Medical cannabis has been suggested to have a therapeutic role in selected treatment-resistant neuropsychiatric disorders. We analyzed the available evidence to assess the effectiveness and safety of these interventions in treatment-resistant neuropsychiatric disorders. For this systematic review and meta-analysis, we searched Web of Science, Cochrane, Embase, EBSCO, and PubMed for studies published between January 1, 1970, and April 25, 2026. We considered studies examining any type or formulation of medical cannabis in treatment-resistant neuropsychiatric disorders. Primary outcomes were disorder-specific clinical improvement measures. Safety outcomes were adverse events, serious adverse events, and withdrawals due to adverse events. Evidence from studies was synthesized as equivalent odds ratios (eORs) for comparative outcomes and as pooled proportions for single-arm safety outcomes, via random-effects meta-analyses. Risk of bias was assessed using RoB 2 for randomized trials, ROBINS-I for non-randomized studies, and structured quality assessment for case series and case reports, and certainty of evidence was assessed with GRADE. This study is registered with PROSPERO, CRD420251148868. 127 eligible studies were included, of which 32 studies involving 3645 participants contributed to meta-analysis. Meta-analysis showed improvement in drug-resistant epilepsy (eOR 0.50, 95% confidence interval (CI) 0.34-0.72), refractory pain (eOR = 0.48, 95% CI = 0.30-0.78), and refractory multiple sclerosis spasticity (eOR = 0.22, 95% CI = 0.07-0.75). Evidence for psychiatric disorders was scarce. Small randomized trials reported improvement in PTSD-related nightmares and cannabis dependence after failed cessation. Uncontrolled studies reported improvements in hyperarousal, residual obsessive-compulsive symptoms, and refractory Tourette syndrome. Findings for treatment-resistant anxiety were inconsistent, and schizophrenia did not show a reliable therapeutic effect. Controlled analyses showed higher odds of any adverse events in drug-resistant epilepsy (eOR = 2.22, 95% CI = 1.52-3.23) and refractory multiple sclerosis (eOR = 1.89, 95% CI = 1.01-3.52), with higher odds of serious adverse events and withdrawals due to adverse events also observed in drug-resistant epilepsy. In single-arm and real-world studies, pooled proportions of any adverse events ranged from 15.5% in multiple sclerosis to 66.0% in Tourette syndrome, with substantial heterogeneity. Adjunctive pharmaceutical cannabidiol has the most consistent comparative evidence for reducing seizure frequency in selected drug-resistant epilepsy. Evidence for refractory pain and multiple sclerosis is heterogeneous and varies by clinical indication, cannabinoid formulation, and outcome definition. Evidence in treatment-resistant psychiatric disorders remains limited and is insufficient to support routine clinical recommendations. Further high-quality studies directly examining diagnosis-specific and formulation-specific effects, safety, and tolerability are needed. STI2030-Major Projects and the National Natural Science Foundation of China.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42997457/"
+  },
+  {
+    "pmid": "42999441",
+    "title": "Astragalus Polysaccharide Exerts a Neuroprotective Effect in a Demyelination Model by Alleviating Oxidative Stress.",
+    "date": "2026 Nov",
+    "journal": "Food science & nutrition",
+    "authors": [
+      "Long Y",
+      "Wang L",
+      "Hou B"
+    ],
+    "abstract": "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system characterized by progressive demyelination and neurodegenerative damage. The accumulation of reactive oxygen species (ROS) and the resulting oxidative stress are considered key contributors to myelin injury and disease progression. Astragalus polysaccharide (APS), a water-soluble polysaccharide, exhibits multiple pharmacological activities, including immunomodulatory, anti-inflammatory, antioxidant, and anti-apoptotic effects. This study aimed to investigate the therapeutic effects of APS in MS and to explore its potential mechanisms. In vivo, APS was administered intraperitoneally at 50 mg/kg/day in a cuprizone-induced demyelinating mouse model, and its effects were evaluated by immunofluorescence, immunohistochemistry, and Western blotting. In vitro, the regulatory effects of APS on oxidative stress in oligodendrocytes were assessed by immunofluorescence and Western blotting in an H",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999441/"
   },
   {
     "pmid": "42953809",
