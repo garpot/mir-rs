@@ -2054,6 +2054,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42996068/"
   },
   {
+    "pmid": "43003019",
+    "title": "Comment on \"Integrated determinants of multiple sclerosis susceptibility: Genetics, environment, infection and the microbiota\".",
+    "date": "2026 Oct 21",
+    "journal": "Journal of the neurological sciences",
+    "authors": [
+      "Wang X",
+      "Lu Y",
+      "Tian Y",
+      "Hu X"
+    ],
+    "abstract": "",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003019/"
+  },
+  {
     "pmid": "42925577",
     "title": "Family planning in multiple sclerosis: An Australian perspective.",
     "date": "2026 Oct 20",
@@ -2751,6 +2766,111 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42999727/"
   },
   {
+    "pmid": "43002380",
+    "title": "Comorbidity Burden and Social Determinants of Health Among U.S. Hospitalizations for Multiple Sclerosis: A National Inpatient Sample Analysis.",
+    "date": "2026 Nov 9",
+    "journal": "Neuroepidemiology",
+    "authors": [
+      "Kamath A",
+      "Kakara M",
+      "Stein CR",
+      "Shi Y",
+      "Krupp L",
+      "O'Neill KA"
+    ],
+    "abstract": "Individuals hospitalized with Multiple Sclerosis (MS) often experience comorbid conditions that affect their quality of life and also face social determinants of health (SDOH) that affect outcomes. Data were leveraged from the 2019 National Inpatient Sample database, a component of the Nationwide Healthcare Cost and Utilization Project, a government survey of hospitalizations across the US, and theoretically representative of all hospitalizations in the US. We compared patients hospitalized with MS to patients hospitalized without MS across demographic characteristics and common concomitant diagnoses. In a secondary analysis restricted to MS hospitalizations, we examined the association of comorbidities and SDOH with length of stay. Between January 2019 and December 2019 there were a total of 25,155 hospitalizations for MS and 35,392,578 hospitalizations without MS. Mean age at admission was 45.9 years for MS versus 50.2 years for non-MS hospitalizations (p < 0.001). Patients hospitalized with MS were more likely to be female and more diverse than non-MS hospitalizations. Patients with MS were more likely to have a diagnosis of anxiety (18.9% versus 10.2%, p < 0.001), chronic pain (10.5% versus 5%, p < 0.001), and depression (21.8% versus 9.9%, p < 0.001) compared to non-MS hospitalizations. Among MS hospitalizations, depression diagnoses were reported less often among Black vs. non-Black (16.6% versus 23.6%, p < 0.001), Hispanic vs. Non-Hispanic (13.8% versus 22.7%, p < 0.001), and patients on Medicaid vs. non-Medicaid (19.1% versus 22.6%, p < 0.001). In a regression model restricted to MS patients, number of comorbidities and Black compared to non-Black race corresponded to increasing length of stay. MS patients have higher rates of anxiety, depression, and pain compared to non-MS patients. Minoritized groups with MS are less likely to be given a secondary diagnosis code for depression, anxiety or pain, possibly reflecting underdiagnosis of these conditions.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002380/"
+  },
+  {
+    "pmid": "43001837",
+    "title": "Investigation of astaxanthin-loaded hollow gold nanoparticles in mitigating the EAE mice model of multiple sclerosis.",
+    "date": "2026 Nov 9",
+    "journal": "Therapeutic delivery",
+    "authors": [
+      "Mhatre A",
+      "Kaur J",
+      "Naqvi S"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a progressive neurological autoimmune disorder that affects the central nervous system. Current therapies lack the disease-modifying potential and precision. Astaxanthin is a naturally derived marine compound with potent biological properties and has been reported to mitigate the effects of multiple sclerosis. Herein, we aimed to develop astaxanthin-loaded gold nanoparticles to enhance precision in delivery to the brain by the efficient carrier properties of the gold nanoparticles. In this study, we employed an experimental autoimmune encephalomyelitis (EAE) mouse model of multiple sclerosis and treated for 3 weeks with free astaxanthin (6 mg/kg) and astaxanthin-loaded hollow gold nanoparticles (0.6 mg/kg), a 10-fold lower dose of the drug. The outcomes were evaluated by biochemical, pathological, histological, and hematological parameters. Our findings indicate that astaxanthin-loaded gold nanoparticles significantly improved the disease outcomes. Our findings suggest that astaxanthin-loaded hollow gold nanoparticles improved oxidative-stress indicators and motor deficits and imparted significant cellular protection in the disease condition. Overall, this study highlights the potential of astaxanthin-loaded hollow gold nanoparticles to improve neurological outcomes in the EAE mice model.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001837/"
+  },
+  {
+    "pmid": "43001615",
+    "title": "Effects of adjunctive craniosacral therapy to conventional physiotherapy on postural responses and autonomic function in individuals with multiple sclerosis: a randomized controlled trial.",
+    "date": "2026 Nov 9",
+    "journal": "Physiotherapy theory and practice",
+    "authors": [
+      "Aslan H",
+      "Vural G",
+      "Aksoy S",
+      "Tekin RT"
+    ],
+    "abstract": "Craniosacral Therapy (CST) has emerged as a complementary approach in neurological rehabilitation, but its effects in multiple sclerosis (MS) remain unclear. To investigate the effects of adding CST to conventional physiotherapy on postural control and autonomic function in patients with MS. Thirty patients with relapsing-remitting MS were randomly assigned to a CST group ( Significant group × time interactions were found for Adaptation Test (toes-down) and Motor Control Test (back-small) latency measures, with greater reductions in response latency over time in the CST group (ADT toes-down: CST added to conventional physiotherapy may influence specific postural response parameters in patients with MS. However, no between-group superiority was demonstrated, and no significant treatment effect on autonomic function was observed. Further studies with larger samples are needed to confirm these findings.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001615/"
+  },
+  {
+    "pmid": "43001488",
+    "title": "Co-existent autoimmune diseases in people with multiple sclerosis and a review on choice of immunotherapy.",
+    "date": "2026 Nov 9",
+    "journal": "Immunotherapy",
+    "authors": [
+      "Netterwala A",
+      "Garg S",
+      "Majumdar P",
+      "Bhardwaj S",
+      "Kumar S",
+      "Javali M",
+      "Murgod U",
+      "Bannerjee TK",
+      "Kamath V",
+      "Krishnan P",
+      "Iyer RB",
+      "Badachi S",
+      "Shivde S",
+      "Huddar A",
+      "Sarma GRK",
+      "Nadig R",
+      "Mathew T"
+    ],
+    "abstract": "Coexisting autoimmune diseases in multiple sclerosis (MS) may influence disease-modifying therapy (DMT) choice, but Indian data remains limited. This study aims to determine the prevalence of co-existent autoimmune disorders in Indian MS patients and assess their impact on DMT selection. This multicentre, cross-sectional observational study included 355 adults with MS evaluated across five Indian neuroimmunology clinics between 2016 and 2026. Comorbidity prevalence was compared against general-population estimates, and DMT utilization was compared between patients with and without autoimmune comorbidities. Fifty-nine patients (16.6%) had an autoimmune disorder, with hypothyroidism (5.9%), rheumatoid arthritis (RA; 2.0%), and type 1 diabetes mellitus (1.4%) being the most common. Prevalences of RA (2.0% vs 0.49%; Autoimmune comorbidity occurred in about 1/6 Indian MS patients, with excess RA and IBD relative to population prevalence and an associated shift in DMT selection.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001488/"
+  },
+  {
+    "pmid": "43000694",
+    "title": "Revisiting Daclizumab for Multiple Sclerosis: A Systematic Evaluation of a Targeted Immunotherapy.",
+    "date": "2026 Nov 8",
+    "journal": "Immunopharmacology and immunotoxicology",
+    "authors": [
+      "Naghdi Y",
+      "Azhari Rad R",
+      "Keshavarzian M",
+      "Yousefi Z",
+      "Shams MH",
+      "Jafari R"
+    ],
+    "abstract": "Daclizumab is a humanized monoclonal antibody that blocks the interleukin-2 receptor α-chain (CD25) and reduces activation of auto reactive T cells. It attenuates disease activity by reducing gadolinium-enhancing lesions in patients with relapsing-remitting multiple sclerosis (MS). Therefore, this systematic review aimed to revisit the therapeutic role of Daclizumab in MS patients with a particular focus on immune system parameters and its adverse events. This systematic literature review included all published clinical trials from 2000 to 2025 regardless of publication date or language, identified through searches of Embase, Medline, Cochrane, Scopus, and other databases. Daclizumab reduced the relapse frequency and disease activity; however, it was associated with serious safety concerns. The common complication in most patients with multiple sclerosis was hepatotoxicity and elevated liver enzymes. Furthermore, the cutaneous side effects occurred in 19-34% of patients, from mild rashes to serious dermatologic disorders such as psoriasis. Also, it was associated with an increased rate of upper respiratory infections in multiple sclerosis patients. Daclizumab therapy also promoted the expansion of CD56^bright^ natural killer (NK) cells and reduced the number of CD4+ T cells and CD25+ Foxp3- T regulatory cells. These findings suggest that Daclizumab may demonstrate promising treatment effects in MS patients by affecting the IL-2 receptor signaling pathway, modulating lymphocyte activity, and improving MS symptoms. However, because of documented complications, more research strategies are needed, and current treatment protocols should be revised.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000694/"
+  },
+  {
+    "pmid": "43000606",
+    "title": "Factor Structure and Psychometric Properties of the Intolerance of Uncertainty Scale-12 in Multiple Sclerosis.",
+    "date": "2026 Nov 8",
+    "journal": "Assessment",
+    "authors": [
+      "Dang PL",
+      "Krug I",
+      "Kiropoulos L"
+    ],
+    "abstract": "Despite the high prevalence of anxiety disorders in multiple sclerosis (MS) and the inherent uncertainty associated with the disease, it is unclear whether current measures of intolerance of uncertainty (IU) are appropriate for people with MS. In this study, we describe the psychometric features of the short-form Intolerance of Uncertainty Scale (IUS-12) in a mixed sample of 2,084 participants (244 MS, 1,840 non-MS controls). A bifactor model best represented the IUS-12 in the MS group. The IUS-12 appeared suitable in MS, demonstrating good construct validity and moderate test-retest reliability over the 6-month survey period. Measurement invariance was found across MS and non-MS participants. Of note, IU scores were comparable between groups, but IU showed stronger associations with anxiety-related pathologies in participants with MS than non-MS controls. Routine assessment incorporating the IUS-12 may help clarify factors underpinning anxiety and inform the development of targeted psychological interventions for people with MS.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000606/"
+  },
+  {
     "pmid": "42998113",
     "title": "Depression, adverse childhood experiences, and cigarette smoking are associated with suicide attempts in people with multiple sclerosis: a cross-sectional exploratory study.",
     "date": "2026 Nov 7",
@@ -2782,6 +2902,24 @@
     "abstract": "In optic neuritis, a complication of multiple sclerosis (MS), the main pathological manifestations are autoimmune-mediated inflammatory infiltration, myelin loss, and axonal damage. We generated conditional SARM1 cKO mice in the nervous system and performed MOG",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42995297/"
+  },
+  {
+    "pmid": "43002854",
+    "title": "Biobehavioral correlates of perceived health-related quality of life in relapsing-remitting multiple sclerosis: Toward an extended framework for understanding health impact.",
+    "date": "2026 Nov 7",
+    "journal": "Journal of psychosomatic research",
+    "authors": [
+      "Colizzi M",
+      "Garzitto M",
+      "Zoratti A",
+      "Scipioni C",
+      "Strazzolini E",
+      "Gigli G",
+      "Valente M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is an immune-mediated central nervous system disorder; relapsing-remitting MS (RRMS) is the most common form. Self-perceived health-related quality of life (HRQoL) has been linked to psycho-behavioral and immunological factors, but their interplay remains unclear. We examined psycho-behavioral, clinical, and immunological correlates of perceived physical and mental health. In this cross-sectional study, 85 patients with RRMS (78% female; mean age 40.6 ± 10.3 years; predominantly mild disability) were assessed for fatigue, sleep quality, daytime sleepiness, anxiety/depression symptoms, and perceived cognitive dysfunction. Blood samples were analyzed for complete blood counts and, in a subgroup, lymphocyte subpopulations; the systemic immune-inflammation index (SII) was calculated. HRQoL was measured using the SF-36 Physical and Mental Component Summaries (PCS and MCS). Hierarchical linear regression models included sociodemographic, clinical, and treatment-class covariates, with sensitivity analyses. Disability, fatigue, and depressive symptoms were associated with lower PCS, and sleep disturbances and depressive symptoms with lower MCS. Higher lymphocyte count was associated with higher MCS (β = +0.268, p = 0.006; ΔR HRQoL in RRMS showed psychological and clinical associations, with an additional lymphocyte-MCS association. The clinical relevance of the immune findings, including the exploratory NK-PCS association, requires further investigation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002854/"
   },
   {
     "pmid": "42994510",
@@ -3397,6 +3535,20 @@
     "abstract": "Primary Progressive Multiple Sclerosis (PPMS) and HTLV-1-Associated Myelopathy/Tropical Spastic Paraparesis (HAM/TSP) are clinically overlapping progressive myelopathies characterized by spastic paraparesis and autonomic dysfunction. However, they originate from fundamentally distinct pathogenic processes: autoimmune demyelination in PPMS versus chronic retroviral-driven neuroinflammation in HAM/TSP. Current diagnostic approaches are frequently inadequate, as HTLV-1 screening is often omitted in non-endemic regions and positive serology in endemic areas does not rule out concomitant PPMS, highlighting the urgent need for complementary molecular diagnostic tools. In this study, we developed an integrative bioinformatics framework combining network analysis, differential expression profiling, and machine learning to identify a transcriptional signature capable of distinguishing PPMS from HAM/TSP. Disease-specific gene modules were identified through cross-dataset preservation analysis and module-trait correlations. Random Forest classification with recursive feature elimination was employed to derive a parsimonious Diagnostic Risk Score (DRS), which was validated on an independent external cohort under a frozen-threshold, leakage-free design. Weighted Gene Co-expression Network Analysis (WGCNA) revealed striking topological divergence between the two diseases: HAM/TSP exhibited a consolidated network architecture with a single dominant module, whereas PPMS displayed a highly fragmented topology with numerous smaller modules. Cross-dataset preservation analysis identified 11 PPMS-specific and 63 HAM/TSP-specific candidate biomarker genes. Machine learning refinement reduced this to a 4-gene signature comprising ZFAND1, MAPRE2, TBK1, and LPAR6, which achieved robust classification performance in cross-validation (macro-averaged accuracy: 0.982; macro-averaged F1-score: 0.987; AUC-ROC: 0.995) and robust performance on external validation (macro-averaged accuracy: 0.975; macro-averaged F1-score: 0.937; AUC-ROC: 0.800). The 4-gene signature captures distinct biological dimensions: ZFAND1 marks proteostatic stress from viral inflammation, TBK1 excludes the HTLV-1 interferon signature, MAPRE2 reflects a HAM/TSP-associated cytoskeletal program, and LPAR6 links inflammatory signaling to oligodendrocyte maturation. This multidimensional architecture explains the panel's high accuracy and offers mechanistic insights. The proposed approach offers a practical, transcriptome-based adjunct to current diagnostic methods, with potential to guide therapeutic stratification and reduce misdiagnosis of PPMS and HAM/TSP.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42998510/"
+  },
+  {
+    "pmid": "43002898",
+    "title": "Critical advances and translational bottlenecks of gut microbiota-gut-brain axis targeted therapy for neurodegenerative and neurodevelopmental disorders.",
+    "date": "2026 Nov 3",
+    "journal": "Journal of neuroimmunology",
+    "authors": [
+      "Yu X",
+      "He J",
+      "Liu M"
+    ],
+    "abstract": "Neurological diseases have become a major global public health burden. Existing central nervous system-targeted therapies can only alleviate clinical symptoms but fail to halt the progression of neurodegenerative diseases, presenting mechanistic limitations and therapeutic bottlenecks. The gut microbiota participates in the regulation of central nervous system (CNS) homeostasis and neuropathological processes via the microbiota-gut-brain axis (MGBA). Notably, dysbiosis may induce damage to the blood-brain barrier, neurotransmitter dysregulation, and immune imbalance, thereby mediating the onset and progression of various neurological diseases, including Parkinson's disease, Alzheimer's disease (AD), autism spectrum disorder (ASD), and multiple sclerosis (MS). This article provides a systematic review of the core mechanisms by which the gut microbiome regulates neurological diseases, including inflammation regulation, oxidative stress responses, and neuroendocrine remodeling mediated by microbial metabolites. It also comprehensively summarizes the research progress, application advantages, and existing limitations of novel gut-targeted interventions, such as probiotics, prebiotics, fecal microbiota transplantation (FMT), dietary interventions, and live biological therapies. At the same time, the article critically examines key bottlenecks prevalent in the field: the causal relationship between the microbiota and disease remains unclear; there is a significant translational gap between animal and human studies; there is a lack of unified standards for multi-omics analysis systems; and interference from confounding factors such as age, diet, and medications is significant. Existing research indicates that gut microbiota interventions complement traditional symptomatic treatments and hold promising prospects for early disease intervention and adjunctive therapy for refractory patients. Future efforts should integrate multi-omics and artificial intelligence technologies to decipher the causal networks governing gut-central nervous system regulation, establish standardized research frameworks, advance the clinical translation of precision gut microbiota therapies, and provide new approaches for the comprehensive prevention, control, and personalized treatment of neurological disorders.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002898/"
   },
   {
     "pmid": "42980191",
@@ -4569,6 +4721,36 @@
     "abstract": "Microglia are the predominant immune cells in multiple sclerosis (MS) demyelinating lesions, where they phagocytose myelin, but whether they destroy myelin or merely scavenge its debris is unknown. Here, we explore whether pathogenic autoantibodies found in MS may induce the phagocytic destruction of myelin by microglia. Applying patient-derived, myelin-targeting antibodies to the mouse cortex, we developed an",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42996180/"
+  },
+  {
+    "pmid": "43000399",
+    "title": "Assessing the clinical- and cost-effectiveness of REFUEL-MS, a digital therapeutic for multiple sclerosis-related fatigue: study protocol for a randomised controlled trial.",
+    "date": "2026 Aug 11",
+    "journal": "Trials",
+    "authors": [
+      "Fawson S",
+      "Mortimer H",
+      "Abouzahr A",
+      "Proudfoot H",
+      "Ibrahimi E",
+      "Dodsworth N",
+      "Jackson T",
+      "Milne-Ives M",
+      "REFUEL-M. S. Patient Advisory Group",
+      "Sanders T",
+      "Finch T",
+      "Thomas S",
+      "Freeman J",
+      "van der Linden ML",
+      "Mercer T",
+      "Williams V",
+      "Barrett B",
+      "Norton S",
+      "Moss-Morris R"
+    ],
+    "abstract": "Fatigue is a common and disabling symptom affecting up to 90% of people living with multiple sclerosis (MS). Cognitive-behavioural, exercise and balance interventions are effective in reducing MS fatigue, but there is currently no standardised, accessible treatment in the UK healthcare system. REFUEL-MS is an app-based, healthcare professional (HCP)-supported intervention designed to reduce MS fatigue using cognitive-behavioural, exercise and balance principles. This trial aims to test the efficacy, safety and cost-effectiveness of REFUEL-MS compared to treatment as usual. This is a two-arm, parallel-group superiority randomised controlled trial. Adults with confirmed MS, who experience fatigue (scoring > 4 on the Chalder Fatigue Questionnaire [CFQ]), and are not on a new disease-modifying treatment (< 6 months) will be eligible. Participants will be recruited across the UK via the UK MS Register, NHS clinics, and community networks/organisations. Participants will be randomised 1:1 at the individual level using a centralised web-based system, stratified by MS type and recruitment source, to receive the REFUEL-MS intervention or treatment as usual. Participants receiving REFUEL-MS will complete weekly app sessions and four online HCP appointments over 16 weeks. All participants will complete online assessments at baseline, and 4, 6 and 12 months post-randomisation. Participants and HCPs will be unblinded, while the outcome assessors and senior statistician will be blinded. The primary outcome is fatigue severity (CFQ) at 6 months post-randomisation. Secondary outcomes include fatigue impact and improvement, mood, quality of life, service use, physical activity, and adverse events, assessed at multiple timepoints. The target sample is 378 to detect a minimal clinically important difference on the CFQ between groups. Safety and cost-effectiveness will also be evaluated and interviews will be conducted with a subset of participants to explore user and healthcare professionals' experiences with the intervention. If effective and safe, REFUEL-MS has the potential to be a scalable intervention. Implementation will be tested in a real-world multiple-case study following this trial. The trial was pre-registered on the UK's Clinical Study Registry on 20/06/2025 (ISRCTN82686286; https://doi.org/10.1186/ISRCTN82686286 ).",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000399/"
   },
   {
     "pmid": "42989040",
