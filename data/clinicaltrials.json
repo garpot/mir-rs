@@ -1,5 +1,131 @@
 [
   {
+    "nct_id": "NCT07067463",
+    "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-03-23",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Orelabrutinib",
+      "Placebo"
+    ],
+    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+    "url": "https://clinicaltrials.gov/study/NCT07067463"
+  },
+  {
+    "nct_id": "NCT00794352",
+    "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2008-10-01",
+    "last_update": "2026-11-10",
+    "interventions": [],
+    "summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.",
+    "url": "https://clinicaltrials.gov/study/NCT00794352"
+  },
+  {
+    "nct_id": "NCT07842302",
+    "title": "Fighting Fatigue in Multiple Sclerosis: TMS vs. tDCS Efficacy.",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-09-08",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "TMS",
+      "tDCS",
+      "Sham TMS",
+      "Sham tDCS"
+    ],
+    "summary": "Multiple Sclerosis (MS) is a chronic neurological disease impacting 2.8 million individuals globally, with fatigue being its most debilitating symptom, reported by 75% of patients. Despite its prevalence, the pathophysiology of MS-related fatigue remains poorly understood, and current pharmacological treatments have limited effectiveness. This research addresses this critical gap by investigating two non-invasive brain stimulation (NIBS) techniquestranscranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS)as innovative, effective and scalable therapeutic approaches for MS fatigue.\n\nThe study employs a parallel, randomized, triple-blind, multicentric, sham-controlled design to assess and compare the short- and long-term efficacy of TMS and tDCS in addressing MS-related fatigue. 80 participants will be recruited from multiple centers in Spain and randomly assigned to one of four experimental groups: TMS, tDCS, Sham-TMS, Sham-tDCS. Each intervention will consist of 20 sessions, conducted daily from Monday to Friday, over 4 weeks. The left dorsolateral prefrontal cortex (DLPFC, F3 following the 10/20 system for EEG) was selected as the stimulation site based on its involvement in MS-related self-reported fatigue and in cognitive fatigability. For TMS experimental groups, intermittent theta-burst protocol (iTBS) will be used to increase the cortical excitability of the stimulated area. iTBS delivers a total of 600 pulses, organised into 50 Hz triplets repeated at 5 Hz, with 2second blocks of pulses, interleaved with 8 seconds of rest, repeated 20 times (total duration: 190s). The intensity of stimulation will be individually tailored based on the active motor threshold (aMT), setting it at 80% of the aMT. The sham stimulation will follow the same protocol, but using a sham coil (placebo). For tDCS experimental groups anodal tDCS will be applied (increasing cortical excitability) with the anode over the left DLPFC (F3), and the cathode over the contralateral supraorbital area. The intensity will be 2mA, and the duration of the stimulation will be 20min per session. For tDCS placebo condition, the sham option available on the device will be selected.\n\nPrimary outcomes include changes in fatigue levels measured through MS validated self-report scales (Modified Fatigue Impact Scale-MFIS; Fatigue Scale for Motor and Cognitive Functions-FSMC); secondary outcomes include depression (Beck Depression Inventory-II, BDI-II), quality of life (Multiple Sclerosis Quality of Life, MSQOL-54), functional independence (Functional Independence Measure, FIM), and cognitive fatigability (Symbol Digit Modalities Test, SDMT). All the outcomes will be assessed at baseline, at the end of the intervention, and six months after the end of the treatment (6 months follow-up).\n\nThis project promotes personalized precision medicine and innovative new treatment methods. This research is expected to expand scientific knowledge on NIBS efficacy in MS, establish evidence-based clinical practices, and set the foundation for cost-effective, patient-centered therapies. The study also addresses gender-specific responses to treatment, ensuring inclusive therapeutic strategies. Furthermore, it has the potential to benefit other neurological conditions characterized by fatigue, such as stroke, chronic fatigue syndrome or Parkinsons disease, showing significant social, clinical, and economic impact.",
+    "url": "https://clinicaltrials.gov/study/NCT07842302"
+  },
+  {
+    "nct_id": "NCT06256575",
+    "title": "Study of Diosmin for the Treatment of Digital Ulcers in Systemic Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-05-02",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Diosmin",
+      "Placebo"
+    ],
+    "summary": "This study is performed to consider the safety and healing ability of diosmin in patients with systemic sclerosis (scleroderma) and open sores on their fingers (digital ulcers). Two (2) out of three (3) participants will receive active product. The participants will have four (4) visits over eight (8) weeks. Physical exams and photos will be performed. A variety of questions will be asked describing level of pain and lifestyle changes.",
+    "url": "https://clinicaltrials.gov/study/NCT06256575"
+  },
+  {
+    "nct_id": "NCT07372599",
+    "title": "Influence of Therapeutic Failure on the Psychosocial Experience in Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2026-06-10",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Questionnaires"
+    ],
+    "summary": "Multiple sclerosis (MS), an inflammatory, neurodegenerative disease of the central nervous system, affects around 120,000 patients in France and is the leading cause of non-traumatic disability in young adults. It affects patients' health-related quality of life (QoL) and has a significant economic impact on patients and society as a whole. Early initiation of disease-modifying therapy (DMT) is recommended in relapsing-remitting MS (RRMS). Nevertheless, according to a recent French cohort, 30% of patients initially treated with a first-line FT will switch to a highly effective compound within 5 years due to its ineffectiveness. Therapeutic failure (Th-F) is therefore a frequent occurrence, but its psychological, social and economic consequences are poorly understood. These elements are generally the subject of measurements reported by patients, and several studies have highlighted the importance of taking them into account in the management of these patients.\n\nHere, the investigators will study two categories of these measures in a Th-F situation. On the one hand, patient-reported outcome measurements (PROMs) will be examined. Patients' psychological distress and their QoL are two important examples of psychosocial impacts in patients with MS, compared to the general population. The impact on activity levels is also well known, but the specific effect of Th-F has not yet been studied. On the other hand, patients' experiences of their care pathway and their opinion on the quality of care (patient-reported experience measurement \\[PREM\\]) will also be studied. Some PREMs refer to care coordination, satisfaction with the relationship with carers or doctors' empathy levels. To date, data on the experience of MS patients regarding their care pathway remains limited and non-existent during Th-F.\n\nFinally, the influence of socioeconomic status (SES) on PROMs and PREMs is worth considering. In the general population, patients' experience of care can be influenced by their socioeconomic status. Compared with research on other diseases (notably cardiovascular diseases and cancers), there is relatively little work on the association between socioeconomic status and MS and none has focused on the topic of Th-F.\n\nThe investigators therefore hypothesise that a quality of care perceived favourably by MS patients may moderate the negative impact of Th-F on their QoL, anxiety/depression and activity levels (as recently described in oncology), and a more recent measure of abilities assessing well-being defined in a broad sense, as a function of their SES.",
+    "url": "https://clinicaltrials.gov/study/NCT07372599"
+  },
+  {
+    "nct_id": "NCT05634967",
+    "title": "Kesimpta (Ofatumumab) Pregnancy Registry",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2023-01-05",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Kesimpta"
+    ],
+    "summary": "The Kesimpta Pregnancy Registry is an observational, exposure cohort designed study to examine pregnancy and infant outcomes in women and infants who are exposed to Kesimpta (ofatumumab) during pregnancy to treat MS.",
+    "url": "https://clinicaltrials.gov/study/NCT05634967"
+  },
+  {
+    "nct_id": "NCT07928557",
+    "title": "THE EFFECTS OF TAI CHI IN INDIVIDUALS WITH MULTIPLE SCLEROSIS",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-10-02",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Tai Chi Exercises Program",
+      "Frenkel Home Exercises"
+    ],
+    "summary": "This study aimed to evaluate the effects of Tai Chi exercise on cognitive functions, fatigue, and depressive symptoms in individuals with Multiple Sclerosis (MS). MS is a chronic neurological disease characterized by demyelination within the central nervous system and is frequently associated with cognitive, physical, and psychological impairments.\n\nIndividuals diagnosed with MS were assigned to either an 8-week Tai Chi exercise program or a home-based Frenkel exercise program. Cognitive functions were assessed using the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), which comprises the Symbol Digit Modalities Test (SDMT), California Verbal Learning Test-II (CVLT-II), and Brief Visuospatial Memory Test-Revised (BVMT-R). Fatigue was evaluated using the Fatigue Impact Scale (FIS), while depressive symptoms were assessed using the Beck Depression Inventory (BDI).\n\nThe study aimed to investigate the effects of Tai Chi exercise compared with a home-based exercise program on cognitive performance, fatigue, and depressive symptoms in individuals with MS. The findings may contribute to the evidence base for non-pharmacological rehabilitation approaches in MS management.",
+    "url": "https://clinicaltrials.gov/study/NCT07928557"
+  },
+  {
+    "nct_id": "NCT07928765",
+    "title": "Psychodrama for Adults With Relapsing-Remitting Multiple Sclerosis: A Mixed-Methods Study",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2024-12-12",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Group psychodrama"
+    ],
+    "summary": "This single-group, mixed-methods study explored changes following a 13-week group psychodrama programme in adults with relapsing-remitting multiple sclerosis (MS). Participants were recruited from the demyelinating diseases unit of Mersin University Hospital, Türkiye, and attended weekly sessions of approximately 180 minutes in addition to their standard medical treatment. Loneliness, fatigue, cognitive performance, depressive and anxiety symptoms, and sleep quality were assessed at baseline, after the intervention and at 6-month follow-up. Individual semi-structured interviews conducted after the intervention and at follow-up explored participants' experiences of physical, cognitive, psychological and social change. Quantitative and qualitative findings were integrated within a convergent mixed-methods design.",
+    "url": "https://clinicaltrials.gov/study/NCT07928765"
+  },
+  {
     "nct_id": "NCT01617395",
     "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
     "status": "COMPLETED",
@@ -42,6 +168,103 @@
     ],
     "summary": "This 12-year study will evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamic (PD) effects of ocrelizumab in children and adolescents ages ≥ 10 to ≤ 18 years with relapsing-remitting multiple sclerosis (RRMS). The data from this study will serve to determine the dosing regimen of ocrelizumab to be further investigated in the subsequent Phase III study in children and adolescents.",
     "url": "https://clinicaltrials.gov/study/NCT04075266"
+  },
+  {
+    "nct_id": "NCT04480853",
+    "title": "Safety and Efficacy Study of Fingolimod in Taiwanese Adults (≥ 20years) With Relapsing Remitting Multiple Sclerosis",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-10-12",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Fingolimod"
+    ],
+    "summary": "The purpose of the study is to describe the safety profile of fingolimod in the Taiwanese multiple sclerosis population. This study aims to collect the safety data in patients newly initiated on fingolimod for one year.",
+    "url": "https://clinicaltrials.gov/study/NCT04480853"
+  },
+  {
+    "nct_id": "NCT05252585",
+    "title": "A Phase IV Study of Safety and Efficacy of Everolimus in Taiwanese Patients With Tuberous Sclerosis Complex Who Have Renal Angiomyolipoma (TSC-AML)",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-05-01",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Everolimus"
+    ],
+    "summary": "The purpose of this prospective study is to assess the safety and efficacy of everolimus in Taiwanese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC) . Only patients who fulfil the local reimbursement criteria of everolimus for TSC-AML will be included in this study.",
+    "url": "https://clinicaltrials.gov/study/NCT05252585"
+  },
+  {
+    "nct_id": "NCT07159789",
+    "title": "Repetitive Transcranial Magnetic Stimulation (rTMS) in MS Induced Spastic Paraparesis",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-10-15",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Repetitive Transcranial Magnetic Stimulation"
+    ],
+    "summary": "Study the impact of rTMS on walking ability in people with Multiple Sclerosis (MS) induced spastic paraparesis and moderate walking disability.",
+    "url": "https://clinicaltrials.gov/study/NCT07159789"
+  },
+  {
+    "nct_id": "NCT06780150",
+    "title": "A Study to Investigate Effects of Ocrelizumab Treatment on Neurofilament Light Chain (NfL) Levels and Participant Satisfaction in Participants With Multiple Sclerosis (MS)",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2024-09-26",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Ocrelizumab"
+    ],
+    "summary": "The main purpose of the study is to evaluate participant satisfaction after administration of ocrelizumab subcutaneously (SC) after 12 months using the therapy administration satisfaction questionnaire subcutaneous (TASQ-SC).",
+    "url": "https://clinicaltrials.gov/study/NCT06780150"
+  },
+  {
+    "nct_id": "NCT06141486",
+    "title": "Efficacy and Safety Study of Frexalimab (SAR441344) in Adults With Nonrelapsing Secondary Progressive Multiple Sclerosis",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-12-27",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Frexalimab",
+      "Placebo",
+      "MRI contrast-enhancing agents"
+    ],
+    "summary": "The purpose of this randomized, double-blind, placebo-controlled, parallel group study is to determine the efficacy of frexalimab in delaying the disability progression and the safety up to 36 months double-blind administration of study intervention compared to placebo in male and female participants with nrSPMS (aged 18 to 60 years at the time of enrollment). People diagnosed with nrSPMS are eligible for enrollment as long as they meet all the inclusion criteria and none of the exclusion criteria. Study details include:\n\n* This event-driven study will end when the target number of 6-month cCDP events is achieved, and the study is expected to last 43 months from randomization of the first participant to the common study end.\n* The number of scheduled visits will be up to 25 (including 3 follow-up visits) with a visit frequency of every month for the first 6 months and then every 3 months.\n* If the prespecified number of events for 6-month cCDP is not reached by V21/W180, scheduled visits will continue every 3 months.",
+    "url": "https://clinicaltrials.gov/study/NCT06141486"
+  },
+  {
+    "nct_id": "NCT07914257",
+    "title": "Non-invasive Brain Stimulation to Improve Memory in Multiple Sclerosis",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11-01",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "High Definition transcranial Direct Current Stimulation",
+      "Sham High Definition transcranial Direct Current Stimulation"
+    ],
+    "summary": "The purpose of the study is to test whether low-level electric stimulation, called High Definition transcranial Direct Current Stimulation (HDtDCS), on the part of the brain (i.e., left inferior frontal gyrus) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures.",
+    "url": "https://clinicaltrials.gov/study/NCT07914257"
   },
   {
     "nct_id": "NCT07766213",
@@ -136,6 +359,39 @@
     ],
     "summary": "Activation is the amount of voluntary recruitment of a muscle during voluntary contraction. Full activation implies the recruitment of all muscle fibres at their tetanic frequency. In healthy subjects, and even in sports performances, full activation may be rarely achieved despite a subjectively maximal effort.\n\nHighly decreased activation has been observed in patients affected by various orthopaedic and neurological disorders. In these subjects, paresis may be caused or aggravated by primitive impairments of the central nervous system and/or, by stimuli arising from peripheral damaged tissues that inhibit the corticospinal or the intraspinal recruitment of motoneurones (\"arthrogenous muscle weakness\"). There are numerous investigations in the literature on activation measured during isometric contractions, while they are substantially missing as far as isokinetic concentric contractions are concerned. There are reasons to suppose that, contrary to what has been demonstrated for healthy subjects, in patients with various motor impairments the activation is diminished the more, the higher is the joint rotation speed.\n\nThe present study aims to investigate the amount of activation of the quadriceps femoris during subjectively maximal isometric contractions at 40° knee flexion (0°=complete extension) and isokinetic concentric contractions at an angular velocity of 100°/s in patients with various orthopaedic and neurologic conditions.\n\nActivation will be measured on an isokinetic dynamometer, through the \"interpolated twitch technique\". This consists of stimulating a representative sample of the muscle belly through an electric shock. If the shock does not generate an extra force during contraction, all muscle fibres belonging to the sample reached by the electric shock can be claimed to be recruited at their tetanic frequency. Otherwise, following the stimulus, a twitch can be observed revealing submaximal voluntary recruitment of the muscle.",
     "url": "https://clinicaltrials.gov/study/NCT04607174"
+  },
+  {
+    "nct_id": "NCT07126730",
+    "title": "Effects of EXOPULSE Mollii Suit on Spasticity and Functionality in Multiple Sclerosis Patients",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-09-01",
+    "last_update": "2026-11-06",
+    "interventions": [
+      "EXOPULSE Mollii Suit + Exercise",
+      "EXOPULSE Mollii Suit"
+    ],
+    "summary": "Spasticity affects \\>80% of MS patients, with 35-54% experiencing moderate-to-severe symptoms, impairing mobility and sleep. Electrical stimulation parameters (e.g., high vs. low frequency) for spasticity management remain debated. The EXOPULSE Mollii Suit uses non-invasive, low-frequency stimulation to induce reciprocal inhibition and modulate spinal interneuron activity, potentially reducing spasticity. This study aims to compare EXOPULSE Mollii + exercise vs. EXOPULSE Mollii alone in improving spasticity and function in MS.",
+    "url": "https://clinicaltrials.gov/study/NCT07126730"
+  },
+  {
+    "nct_id": "NCT07923201",
+    "title": "Evaluating the Effect of the Zeen Mobility Device on Clinical Practicality, Safety, and Impact (Via Assessments of Walking, Standing Tolerance, Balance, Endurance, Effort, and Participation in Daily Tasks) in an Outpatient Rehabilitation Setting for Individuals With Mobility Impairments.",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11-02",
+    "last_update": "2026-11-06",
+    "interventions": [
+      "Zeen Mobility Device"
+    ],
+    "summary": "The goal of this clinical trial is to learn whether the Zeen Mobility Device can improve mobility and function during outpatient rehabilitation for adults with mobility impairments. The study will also evaluate the safety of the device and how easy it is for participants and therapists to use during routine therapy.\n\nThe main questions it aims to answer are:\n\n* Does using the Zeen Mobility Device improve walking, standing, transfers, and daily function compared with a participant's usual mobility device?\n* Can the Zeen Mobility Device be safely incorporated into outpatient rehabilitation?\n* How satisfied are participants and therapists with using the device during therapy?\n\nResearchers will compare participants' performance using the Zeen Mobility Device with their performance using their usual mobility device, such as a walker or wheelchair. Participants will serve as their own comparison group.\n\nParticipants will:\n\n* Complete a baseline assessment before starting the study, a midpoint assessment after 4 treatment sessions, and a final assessment after 8 treatment sessions.\n* Attend 8 outpatient physical therapy sessions that include use of the Zeen Mobility Device.\n* Use the Zeen Mobility Device for at least 15 minutes during each study visit for balance, mobility, walking, transfer, or standing activities selected by their therapist.\n* Complete mobility and functional tests using both the Zeen Mobility Device and their usual mobility device at each assessment visit.\n* Provide feedback about their experience using the device while researchers monitor safety and any device-related problems.",
+    "url": "https://clinicaltrials.gov/study/NCT07923201"
   },
   {
     "nct_id": "NCT00001465",
@@ -362,23 +618,6 @@
     "url": "https://clinicaltrials.gov/study/NCT05061953"
   },
   {
-    "nct_id": "NCT07067463",
-    "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-03-23",
-    "last_update": "2026-11-03",
-    "interventions": [
-      "Orelabrutinib",
-      "Placebo"
-    ],
-    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-    "url": "https://clinicaltrials.gov/study/NCT07067463"
-  },
-  {
     "nct_id": "NCT07292480",
     "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
     "status": "RECRUITING",
@@ -534,22 +773,6 @@
     "interventions": [],
     "summary": "The aim of this study is to comparatively examine the effect of aerobic fitness levels on walking and balance performance, sensory dual-task (proprioceptive and vestibular) performance, balance confidence, and fatigue levels in individuals diagnosed with MS.\n\nResearch hypotheses H1: MS patients with high aerobic fitness exhibit superior walking speed and balance performance compared to MS patients with low aerobic fitness.\n\nH2: In sensory dual-task tests involving proprioceptive and vestibular manipulations (BOSU ball, soft surface, and head movements synchronized with a metronome), MS patients with high aerobic fitness demonstrate better performance than the group with low aerobic fitness.\n\nH3: MS patients with high aerobic fitness report higher levels of balance confidence compared to the group with low aerobic fitness.\n\nH4: Perceived fatigue is greater in MS patients with low aerobic fitness compared to the group with high aerobic fitness.\n\nH5: There is a significant relationship between aerobic capacity levels and sensory dual-task performance, balance confidence, and fatigue severity in MS patients.",
     "url": "https://clinicaltrials.gov/study/NCT07815990"
-  },
-  {
-    "nct_id": "NCT04480853",
-    "title": "Safety and Efficacy Study of Fingolimod in Taiwanese Adults (≥ 20years) With Relapsing Remitting Multiple Sclerosis",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE4"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2020-10-12",
-    "last_update": "2026-11-02",
-    "interventions": [
-      "Fingolimod"
-    ],
-    "summary": "The purpose of the study is to describe the safety profile of fingolimod in the Taiwanese multiple sclerosis population. This study aims to collect the safety data in patients newly initiated on fingolimod for one year.",
-    "url": "https://clinicaltrials.gov/study/NCT04480853"
   },
   {
     "nct_id": "NCT07738978",
@@ -766,22 +989,6 @@
     ],
     "summary": "The primary objective of the study is to compare the prevalence rate of major congenital malformations (MCM) between 2 cohorts of pregnant participants with MS who are exposed to BRIUMVI® and who are unexposed to BRIUMVI®.",
     "url": "https://clinicaltrials.gov/study/NCT06433765"
-  },
-  {
-    "nct_id": "NCT05252585",
-    "title": "A Phase IV Study of Safety and Efficacy of Everolimus in Taiwanese Patients With Tuberous Sclerosis Complex Who Have Renal Angiomyolipoma (TSC-AML)",
-    "status": "COMPLETED",
-    "phase": [
-      "PHASE4"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2023-05-01",
-    "last_update": "2026-10-29",
-    "interventions": [
-      "Everolimus"
-    ],
-    "summary": "The purpose of this prospective study is to assess the safety and efficacy of everolimus in Taiwanese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC) . Only patients who fulfil the local reimbursement criteria of everolimus for TSC-AML will be included in this study.",
-    "url": "https://clinicaltrials.gov/study/NCT05252585"
   },
   {
     "nct_id": "NCT01730131",
@@ -1335,22 +1542,6 @@
     ],
     "summary": "Over the past 20 years, doctors have gotten much better at spotting and treating brain conditions caused by the immune system attacking the body. These include illnesses like autoimmune encephalitis, ADEM, and multiple sclerosis. But even with better treatments, many patients-especially children-still struggle with long-term problems. Standard brain scans and tests often miss important issues like memory problems, emotional difficulties, trouble sleeping, and challenges with social behaviour. Early research using a special brain imaging technique (called MEG) has shown changes in brain networks that seem to be linked to poor memory. This study will use a new, advanced version of MEG that works even with very young children (as young as 2 years old). The goal is to better understand how these brain conditions affect children, compare them with other types of brain illness, and eventually use this technology to help predict outcomes and discover new ways to track brain health.",
     "url": "https://clinicaltrials.gov/study/NCT07689682"
-  },
-  {
-    "nct_id": "NCT07159789",
-    "title": "Repetitive Transcranial Magnetic Stimulation (rTMS) in MS Induced Spastic Paraparesis",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-10-15",
-    "last_update": "2026-10-22",
-    "interventions": [
-      "Repetitive Transcranial Magnetic Stimulation"
-    ],
-    "summary": "Study the impact of rTMS on walking ability in people with Multiple Sclerosis (MS) induced spastic paraparesis and moderate walking disability.",
-    "url": "https://clinicaltrials.gov/study/NCT07159789"
   },
   {
     "nct_id": "NCT05534672",
@@ -2078,20 +2269,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07825389"
   },
   {
-    "nct_id": "NCT06780150",
-    "title": "A Study to Investigate Effects of Ocrelizumab Treatment on Neurofilament Light Chain (NfL) Levels and Participant Satisfaction in Participants With Multiple Sclerosis (MS)",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2024-09-26",
-    "last_update": "2026-10-13",
-    "interventions": [
-      "Ocrelizumab"
-    ],
-    "summary": "The main purpose of the study is to evaluate participant satisfaction after administration of ocrelizumab subcutaneously (SC) after 12 months using the therapy administration satisfaction questionnaire subcutaneous (TASQ-SC).",
-    "url": "https://clinicaltrials.gov/study/NCT06780150"
-  },
-  {
     "nct_id": "NCT07856485",
     "title": "Bridging Gaps in the Multidimensional Assessment and Management of Overlapping Symptoms in Multiple Sclerosis and Functional Motor Disorders: Prevalence and Rehabilitation Effectiveness",
     "status": "NOT_YET_RECRUITING",
@@ -2181,18 +2358,6 @@
     "interventions": [],
     "summary": "This cross-sectional observational study aims to investigate the associations between multiple sclerosis (MS) severity and caregivers' sleep quality, physical activity, body awareness, perceived stress, and caregiver burden. A total of 68 caregivers of patients with MS will be recruited from Başkent University Hospital. MS severity will be assessed using the Expanded Disability Status Scale (EDSS), while caregiver health outcomes will be evaluated using validated questionnaires. The findings are expected to provide insight into the multidimensional impact of MS severity on caregiver health and well-being.",
     "url": "https://clinicaltrials.gov/study/NCT07842744"
-  },
-  {
-    "nct_id": "NCT00794352",
-    "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2008-10-01",
-    "last_update": "2026-10-08",
-    "interventions": [],
-    "summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.",
-    "url": "https://clinicaltrials.gov/study/NCT00794352"
   },
   {
     "nct_id": "NCT07849816",
@@ -2980,25 +3145,6 @@
     ],
     "summary": "Evaluating the effect of 300 mg purified cannabidiol (CBD) on sleep quality in patients with multiple sclerosis (MS).",
     "url": "https://clinicaltrials.gov/study/NCT07840924"
-  },
-  {
-    "nct_id": "NCT07842302",
-    "title": "Fighting Fatigue in Multiple Sclerosis: TMS vs. tDCS Efficacy.",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-09",
-    "last_update": "2026-09-25",
-    "interventions": [
-      "TMS",
-      "tDCS",
-      "Sham TMS",
-      "Sham tDCS"
-    ],
-    "summary": "Multiple Sclerosis (MS) is a chronic neurological disease impacting 2.8 million individuals globally, with fatigue being its most debilitating symptom, reported by 75% of patients. Despite its prevalence, the pathophysiology of MS-related fatigue remains poorly understood, and current pharmacological treatments have limited effectiveness. This research addresses this critical gap by investigating two non-invasive brain stimulation (NIBS) techniquestranscranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS)as innovative, effective and scalable therapeutic approaches for MS fatigue.\n\nThe study employs a parallel, randomized, triple-blind, multicentric, sham-controlled design to assess and compare the short- and long-term efficacy of TMS and tDCS in addressing MS-related fatigue. 80 participants will be recruited from multiple centers in Spain and randomly assigned to one of four experimental groups: TMS, tDCS, Sham-TMS, Sham-tDCS. Each intervention will consist of 20 sessions, conducted daily from Monday to Friday, over 4 weeks. The left dorsolateral prefrontal cortex (DLPFC, F3 following the 10/20 system for EEG) was selected as the stimulation site based on its involvement in MS-related self-reported fatigue and in cognitive fatigability. For TMS experimental groups, intermittent theta-burst protocol (iTBS) will be used to increase the cortical excitability of the stimulated area. iTBS delivers a total of 600 pulses, organised into 50 Hz triplets repeated at 5 Hz, with 2second blocks of pulses, interleaved with 8 seconds of rest, repeated 20 times (total duration: 190s). The intensity of stimulation will be individually tailored based on the active motor threshold (aMT), setting it at 80% of the aMT. The sham stimulation will follow the same protocol, but using a sham coil (placebo). For tDCS experimental groups anodal tDCS will be applied (increasing cortical excitability) with the anode over the left DLPFC (F3), and the cathode over the contralateral supraorbital area. The intensity will be 2mA, and the duration of the stimulation will be 20min per session. For tDCS placebo condition, the sham option available on the device will be selected.\n\nPrimary outcomes include changes in fatigue levels measured through MS validated self-report scales (Modified Fatigue Impact Scale-MFIS; Fatigue Scale for Motor and Cognitive Functions-FSMC); secondary outcomes include depression (Beck Depression Inventory-II, BDI-II), quality of life (Multiple Sclerosis Quality of Life, MSQOL-54), functional independence (Functional Independence Measure, FIM), and cognitive fatigability (Symbol Digit Modalities Test, SDMT). All the outcomes will be assessed at baseline, at the end of the intervention, and six months after the end of the treatment (6 months follow-up).\n\nThis project promotes personalized precision medicine and innovative new treatment methods. This research is expected to expand scientific knowledge on NIBS efficacy in MS, establish evidence-based clinical practices, and set the foundation for cost-effective, patient-centered therapies. The study also addresses gender-specific responses to treatment, ensuring inclusive therapeutic strategies. Furthermore, it has the potential to benefit other neurological conditions characterized by fatigue, such as stroke, chronic fatigue syndrome or Parkinsons disease, showing significant social, clinical, and economic impact.",
-    "url": "https://clinicaltrials.gov/study/NCT07842302"
   },
   {
     "nct_id": "NCT07842731",
@@ -3802,23 +3948,6 @@
     ],
     "summary": "Immunocompromised individuals, such as patients with multiple sclerosis (MS) or diseases of the neuromyelitis optica spectrum (NMOSD) treated with an anti-CD20 monoclonal antibody, present an increased risk of shingles. The immunogenicity - and therefore the clinical effectiveness - of the recombinant vaccine against the varicella zoster virus based on glycoprotein E, recently recommended according to two-dose schedule two months apart in immunocompromised patients aged ≥ 18 years, could be significantly decreased when administered one month before and one month after the infusion of anti-CD20.\n\nWe hypothesize that, in patients with MS or NMOSD treated with anti-CD20 administered every six months, a two-dose M0-M6 vaccination schedule consisting of deferring the second dose six months after the first infusion, that is, five months after the anti-CD20 infusion, could improve vaccine immunogenicity and, consequently, the effectiveness of the vaccine.",
     "url": "https://clinicaltrials.gov/study/NCT07818356"
-  },
-  {
-    "nct_id": "NCT06256575",
-    "title": "Study of Diosmin for the Treatment of Digital Ulcers in Systemic Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-05-02",
-    "last_update": "2026-09-11",
-    "interventions": [
-      "Diosmin",
-      "Placebo"
-    ],
-    "summary": "This study is performed to consider the safety and healing ability of diosmin in patients with systemic sclerosis (scleroderma) and open sores on their fingers (digital ulcers). Two (2) out of three (3) participants will receive active product. The participants will have four (4) visits over eight (8) weeks. Physical exams and photos will be performed. A variety of questions will be asked describing level of pain and lifestyle changes.",
-    "url": "https://clinicaltrials.gov/study/NCT06256575"
   },
   {
     "nct_id": "NCT04667013",
@@ -4986,6 +5115,23 @@
     ],
     "summary": "Multiple sclerosis (MS) is a chronic, inflammatory, demyelinating and progressive neurological disease of the central nervous system, often seen between the ages of 20-30. Pain is a very common symptom in people with MS, with a prevalence of 63%. Pain in MS is a symptom that negatively affects individuals' fatigue, anxiety and depression levels, quality of life and sleep quality. In addition, chronic pain affects individuals' autonomic and cognitive functions. Music therapy is defined as the systematic use of music in a therapeutic relationship that aims to improve, maintain and develop emotional, physical and mental health. Music therapy protocols synchronized with heart rate can be effective on chronic pain through the regulation of the autonomic nervous system and activation of the parasympathetic nervous system. Studies indicate that music therapy, regardless of the population applied, is effective in the management of symptoms such as pain, depression and anxiety. Motor imagery training is a method that regulates cerebral cortex activity by exposing the brain to visual information and imagination, reduces abnormal cortical activation, and thus restores the brain's ability to change. Research indicates that the most effective motor imagery training in reducing pain is motor imagery training presented in a protocol graded from simple to complex motor tasks.\n\nThe grading principle applied in motor imagery training in the form of imagining movements from simple to complex and music therapy training presented in a rhythm matched with heart rate rhythm are effective approaches on chronic pain. It is thought that the treatment protocol in which these two methods are combined and their therapeutic effects are combined in MS rehabilitation may be more effective on pain and related factors in MS. The aim of the study is to show the effects of telerehabilitation-based heart rate-synchronized music therapy protocols on pain, heart rate, fatigue, anxiety, depression, quality of life, sleep quality, and information processing speed compared to MS individuals who continue their routine treatments.\n\n45 MS people with chronic pain will be included in the planned randomized controlled trial. The included participants will be randomized into 3 groups with 15 participants in each group. The evaluations will be performed three times before treatment, at 8th (post-treatment evaluation) and 12th weeks (follow-up evaluation). The participants' general pain intensity in the last 2 and 7 days, the presence of neuropathic pain, fatigue level, anxiety and depression levels, sleep quality, health-related quality of life and information processing speed will be evaluated. In addition, heart rate variability will be evaluated in order to evaluate the participants' autonomic functions. Telerehabilitation-based music therapy application will be given to the participants 2 days a week for 8 weeks using a videoconferencing platform under the guidance of a physiotherapist. The heart rates of the participants will be monitored throughout the session. The participants included in the first group will visualize the movements presented with the metronome sound in a rhythm matched to their heart rates, while the participants included in the second group will listen to relaxing/relaxing music without lyrics in a rhythm matched to their heart rates. When synchronization is achieved between the music rhythm and the heart rate in both groups, the music rhythm will be reduced. Participants included in the 3rd group will continue their routine treatment and will be evaluated only three times: at the beginning, after the 8th week and after the 12th week. The results obtained from this study will examine the effects of heart rate synchronized music therapy protocols on pain, autonomic function and psychosocial parameters in individuals with chronic pain and MS.",
     "url": "https://clinicaltrials.gov/study/NCT06800144"
+  },
+  {
+    "nct_id": "NCT07762326",
+    "title": "Effect of Artificial Intelligence Based Cognitive Training on Sleep Disorders and Quality of Life in Patients With Multiple Sclerosis",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-08-20",
+    "last_update": "2026-08-13",
+    "interventions": [
+      "cognitive Therapy by artificial intillegence",
+      "designed physical-therapy program"
+    ],
+    "summary": "this study will be conducted to investigate the effect of artificial intelligence (AI) based cognitive training on sleep disorders and quality of life in patients with multiple sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT07762326"
   },
   {
     "nct_id": "NCT06444113",
@@ -7853,6 +7999,20 @@
     "url": "https://clinicaltrials.gov/study/NCT07444047"
   },
   {
+    "nct_id": "NCT06395662",
+    "title": "Stratification of Risks of Conversion of Radiologically Isolated Syndromes (RIS) by Identifying Biomarkers in Serum and Cerebrospinal Fluid.",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2024-04-15",
+    "last_update": "2026-06-01",
+    "interventions": [
+      "Observational"
+    ],
+    "summary": "Radiologically isolated syndrome (RIS) often precedes Multiple Sclerosis (MS) but some patients have no symptoms. This study aims to use biological samples and magnetic resonance imaging (MRI) data from four large cohorts of patients with MS in the United States, Europe and France, to stratify the chances of RIS developing into MS. Identifying early biomarkers to predict greater disease severity would have a significant impact, not only on RIS but also on the entire clinical spectrum of multiple sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT06395662"
+  },
+  {
     "nct_id": "NCT07614321",
     "title": "Silodosin for Urinary Symptoms in Female Patients With Multiple Sclerosis",
     "status": "RECRUITING",
@@ -8412,24 +8572,6 @@
     ],
     "summary": "This is an exploratory, open-label, single-arm clinical study designed to evaluate the safety, tolerability, and preliminary efficacy of QT-219CX. QT-219CX is a universal allogeneic chimeric antigen receptor T-cell (CAR-T) product targeting both CD19 and BCMA. The study targets subjects with refractory B-cell-related autoimmune diseases, including systemic lupus erythematosus (SLE), multi-drug resistant nephrotic syndrome (NS), IgA nephropathy (IgAN), systemic sclerosis (SSc), and ANCA-associated vasculitis (AAV) .The research is divided into two phases: a dose-escalation phase and a dose-expansion phase. Dose Escalation: Utilizes a standard \"3+3\" design to evaluate potential recommended dose(RD) and identify dose-limiting toxicities (DLTs) .Treatment Procedure: Eligible subjects will receive a lymphodepleting conditioning regimen followed by a single intravenous infusion of QT-219CX .Primary Objectives: The primary goals are to evaluate the safety profile, including the incidence of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), and to assess clinical response rates at 90 days post-infusion .Follow-up: Subjects will be monitored for pharmacokinetics (cell expansion), pharmacodynamics (B-cell depletion), and long-term safety for up to two years .",
     "url": "https://clinicaltrials.gov/study/NCT07586267"
-  },
-  {
-    "nct_id": "NCT06141486",
-    "title": "Efficacy and Safety Study of Frexalimab (SAR441344) in Adults With Nonrelapsing Secondary Progressive Multiple Sclerosis",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2023-12-27",
-    "last_update": "2026-05-14",
-    "interventions": [
-      "Frexalimab",
-      "Placebo",
-      "MRI contrast-enhancing agents"
-    ],
-    "summary": "The purpose of this randomized, double-blind, placebo-controlled, parallel group study is to determine the efficacy of frexalimab in delaying the disability progression and the safety up to 36 months double-blind administration of study intervention compared to placebo in male and female participants with nrSPMS (aged 18 to 60 years at the time of enrollment). People diagnosed with nrSPMS are eligible for enrollment as long as they meet all the inclusion criteria and none of the exclusion criteria. Study details include:\n\n* This event-driven study will end when the target number of 6-month cCDP events is achieved, and the study is expected to last 43 months from randomization of the first participant to the common study end.\n* The number of scheduled visits will be up to 25 (including 3 follow-up visits) with a visit frequency of every month for the first 6 months and then every 3 months.\n* If the prespecified number of events for 6-month cCDP is not reached by V21/W180, scheduled visits will continue every 3 months.",
-    "url": "https://clinicaltrials.gov/study/NCT06141486"
   },
   {
     "nct_id": "NCT04926818",
@@ -11910,20 +12052,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07057999"
   },
   {
-    "nct_id": "NCT07372599",
-    "title": "Influence of Therapeutic Failure on the Psychosocial Experience in Multiple Sclerosis",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2026-02-01",
-    "last_update": "2026-02-06",
-    "interventions": [
-      "Questionnaires"
-    ],
-    "summary": "Multiple sclerosis (MS), an inflammatory, neurodegenerative disease of the central nervous system, affects around 120,000 patients in France and is the leading cause of non-traumatic disability in young adults. It affects patients' health-related quality of life (QoL) and has a significant economic impact on patients and society as a whole. Early initiation of disease-modifying therapy (DMT) is recommended in relapsing-remitting MS (RRMS). Nevertheless, according to a recent French cohort, 30% of patients initially treated with a first-line FT will switch to a highly effective compound within 5 years due to its ineffectiveness. Therapeutic failure (Th-F) is therefore a frequent occurrence, but its psychological, social and economic consequences are poorly understood. These elements are generally the subject of measurements reported by patients, and several studies have highlighted the importance of taking them into account in the management of these patients.\n\nHere, the investigators will study two categories of these measures in a Th-F situation. On the one hand, patient-reported outcome measurements (PROMs) will be examined. Patients' psychological distress and their QoL are two important examples of psychosocial impacts in patients with MS, compared to the general population. The impact on activity levels is also well known, but the specific effect of Th-F has not yet been studied. On the other hand, patients' experiences of their care pathway and their opinion on the quality of care (patient-reported experience measurement \\[PREM\\]) will also be studied. Some PREMs refer to care coordination, satisfaction with the relationship with carers or doctors' empathy levels. To date, data on the experience of MS patients regarding their care pathway remains limited and non-existent during Th-F.\n\nFinally, the influence of socioeconomic status (SES) on PROMs and PREMs is worth considering. In the general population, patients' experience of care can be influenced by their socioeconomic status. Compared with research on other diseases (notably cardiovascular diseases and cancers), there is relatively little work on the association between socioeconomic status and MS and none has focused on the topic of Th-F.\n\nThe investigators therefore hypothesise that a quality of care perceived favourably by MS patients may moderate the negative impact of Th-F on their QoL, anxiety/depression and activity levels (as recently described in oncology), and a more recent measure of abilities assessing well-being defined in a broad sense, as a function of their SES.",
-    "url": "https://clinicaltrials.gov/study/NCT07372599"
-  },
-  {
     "nct_id": "NCT03233646",
     "title": "Retinal Imaging in Neurodegenerative Disease",
     "status": "RECRUITING",
@@ -13063,6 +13191,22 @@
     ],
     "summary": "Major brain diseases (including neuroimmune diseases, neurodegenerative diseases, and cerebrovascular diseases) are leading causes of death and disability in humans. This research will gather brain imaging data from more than 10,000 participants across multiple age groups from multiple centers nationwide. Using standardized modeling methods, the investigators aim to establish normal brain imaging reference values for the Chinese population. (1) The study will reveal population-level patterns of brain structure changes and determine normal reference values for brain structure at different ages. (2) Non-invasive imaging methods will be applied to evaluate blood-brain barrier changes without the need for invasive procedures, establishing age-related permeability patterns and normal values in healthy populations. Additionally, functional magnetic resonance imaging (fMRI) will be combined to provide brain function indicators at various scales, creating comprehensive multi-dimensional function charts. (3) These brain structure and function charts will be applied to the individualized diagnosis and treatment of major brain diseases, including neuroimmune diseases (Multiple Sclerosis \\[MS\\], Neuromyelitis Optica Spectrum Disorders \\[NMOSD\\]), neurodegenerative diseases (Alzheimer's disease \\[AD\\], Parkinson's disease \\[PD\\]), and cerebrovascular diseases (Cerebral Small Vessel Diseases \\[cSVD\\]). This approach will facilitate early disease diagnosis and provide precise, individualized assessments of treatment efficacy and prognosis prediction. The established brain structure and function charts will be accessible via interactive websites or software, enabling real-time online data updates and individualized percentile outputs for brain structure and function. By inputting the target data, users can obtain individualized evaluation metrics for brain structure and function. The project's implementation and application hold great potential for broad use, promotion, and high translational potential.",
     "url": "https://clinicaltrials.gov/study/NCT06643858"
+  },
+  {
+    "nct_id": "NCT04230174",
+    "title": "Effect of Ocrelizumab on Neuroinflammation in Multiple Sclerosis as Measured by 11C-PBR28 MR-PET Imaging of Microglia Activation",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-12-29",
+    "last_update": "2025-12-30",
+    "interventions": [
+      "11C-PBR28"
+    ],
+    "summary": "Using magnetic resonance-PET (MR-PET) imaging with \\[11C\\]PBR28, a second-generation 18kDa translocator protein (TSPO) radiotracer, we have previously demonstrated abnormally high TSPO expression, indicative of microglia activation, across different brain tissue compartments of multiple sclerosis (MS) patients1.\n\nIn this study, we propose to study the efficacy of ocrelizumab, a humanized monoclonal antibody that has been shown to decrease neuroinflammation in relapsing-remitting multiple sclerosis (RRMS) and progressive multiple sclerosis (MS) patients.\n\nWe will test these effects by studying a cohort of 24 MS patients (12 RRMS, 12 progressive MS). Participants will be studied before (within 3 months prior to initiating treatment) and after treatment with ocrelizumab (\\~12 month follow up), a therapeutic drug that will be part of their standard medical care. We will use \\[11C\\]PBR28 to help determine changes in neuroinflammation.\n\nThe purpose of this study is to determine the effects of ocrelizumab treatment on neuroinflammation by analyzing the uptake and distribution of \\[11C\\]PBR28 in individuals with multiple sclerosis. The specific aims of the current study are:\n\n1. To assess whether treatment with ocrelizumab in subjects with either relapsing-remitting MS or progressive MS is associated with decreased \\[11C\\]PBR28 binding in the cortex and white matter (lesions and normal appearing white matter), suggesting reduced neuroinflammation.\n2. To assess whether changes in neuroinflammation under ocrelizumab treatment, as measured by \\[11C\\]PBR28 uptake at 12-month follow up relative to baseline, are associated with changes in structural MR metrics of brain tissue damage including white matter lesion load, cortical atrophy, and demyelination in the cortex and in the normal-appearing white matter as measured by magnetization transfer ratio (MTR).\n3. To explore whether changes in functional and structural imaging metrics under ocrelizumab are associated with changes in clinical outcome measures.",
+    "url": "https://clinicaltrials.gov/study/NCT04230174"
   },
   {
     "nct_id": "NCT07307755",
@@ -14983,6 +15127,22 @@
     "url": "https://clinicaltrials.gov/study/NCT06355804"
   },
   {
+    "nct_id": "NCT03032601",
+    "title": "Physiological Effects of N-Acetyl Cysteine in Patients With Multiple Sclerosis",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2017-01-05",
+    "last_update": "2025-09-17",
+    "interventions": [
+      "N-acetyl Cysteine"
+    ],
+    "summary": "Multiple Sclerosis (MS) is a disease in which the myelin surrounding the nerve cells is damaged which affects functioning. MS usually is treated with medications designed to reduce the occurrence of future MS events. Evidence suggests that an important part of the disease process is damage to the myelin and brain caused by too much oxygen (sometimes called oxidative stress) or too much inflammation (or swelling).\n\nThe overall goal of this study will be to determine whether N-acetyl cysteine (NAC) will help to support cerebral function in patients with Multiple Sclerosis (MS). This positron emission tomography magnetic resonance imaging (PET-MRI) study will utilize 18F-2-fluoro-2-deoxy-D-glucose fluorodeoxyglucose positron emission tomography FDG PET to measure cerebral metabolism, along with MRI analysis, to measure metabolism and structural effects of NAC in patients with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT03032601"
+  },
+  {
     "nct_id": "NCT07175324",
     "title": "Oct-A and Perimetry in Multiple Sclerosis",
     "status": "NOT_YET_RECRUITING",
@@ -15432,6 +15592,22 @@
     "url": "https://clinicaltrials.gov/study/NCT06455332"
   },
   {
+    "nct_id": "NCT02670161",
+    "title": "Quality Improvement and Practice Based Research in Neurology Using the EMR",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2016-05",
+    "last_update": "2025-08-24",
+    "interventions": [
+      "Listed for each disorder below, up to three drugs per disorder (too many characters to list in this field; see Intervention Description)"
+    ],
+    "summary": "The investigators will conduct at NorthShore University HealthSystem pragmatic trials using the EMR for 10 common neurological disorders. They will demonstrate the feasibility of subgroup based adaptive assignment of treatments, electronic consenting, and outcomes data capture at the point of care using the EMR. They will identify the most effective treatments for common neurological disorders and seek replication by the NPBRN.",
+    "url": "https://clinicaltrials.gov/study/NCT02670161"
+  },
+  {
     "nct_id": "NCT06554340",
     "title": "Vascular Mechanisms, Functional Outcomes, & Exercise Among Persons With Multiple Sclerosis With Hypertension",
     "status": "RECRUITING",
@@ -15541,23 +15717,6 @@
     "interventions": [],
     "summary": "Vitamin D is hypothesized to play a role in the immunopathology and progression of multiple sclerosis (MS), yet its association with neurological disability remains uncertain, particularly in North African populations.We conducted a cross-sectional study involving 369 adult MS patients across two tertiary neurology centers in Western Libya. Serum 25-hydroxyvitamin D \\[25(OH)D\\] levels and Expanded Disability Status Scale (EDSS) scores were collected. Pearson correlation, ANOVA, and multivariable linear regression were used to assess associations between vitamin D and disability, adjusting for age, BMI, disease duration, and physical activity. Missing data and outliers were handled systematically using validated R and Python workflows.",
     "url": "https://clinicaltrials.gov/study/NCT07123337"
-  },
-  {
-    "nct_id": "NCT07126730",
-    "title": "Effects of EXOPULSE Mollii Suit on Spasticity and Functionality in Multiple Sclerosis Patients",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-09-01",
-    "last_update": "2025-08-17",
-    "interventions": [
-      "EXOPULSE Mollii Suit + Exercise",
-      "EXOPULSE Mollii Suit"
-    ],
-    "summary": "Spasticity affects \\>80% of MS patients, with 35-54% experiencing moderate-to-severe symptoms, impairing mobility and sleep. Electrical stimulation parameters (e.g., high vs. low frequency) for spasticity management remain debated. The EXOPULSE Mollii Suit uses non-invasive, low-frequency stimulation to induce reciprocal inhibition and modulate spinal interneuron activity, potentially reducing spasticity. This study aims to compare EXOPULSE Mollii + exercise vs. EXOPULSE Mollii alone in improving spasticity and function in MS.",
-    "url": "https://clinicaltrials.gov/study/NCT07126730"
   },
   {
     "nct_id": "NCT06715605",
@@ -19720,20 +19879,6 @@
     "url": "https://clinicaltrials.gov/study/NCT01606215"
   },
   {
-    "nct_id": "NCT05634967",
-    "title": "Kesimpta (Ofatumumab) Pregnancy Registry",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2023-01-05",
-    "last_update": "2025-01-14",
-    "interventions": [
-      "Kesimpta"
-    ],
-    "summary": "The Kesimpta Pregnancy Registry is an observational, exposure cohort designed study to examine pregnancy and infant outcomes in women and infants who are exposed to Kesimpta (ofatumumab) during pregnancy to treat MS.",
-    "url": "https://clinicaltrials.gov/study/NCT05634967"
-  },
-  {
     "nct_id": "NCT06384976",
     "title": "KYSA-7: A Study of Anti-CD19 CAR T-Cell Therapy, in Subjects With Refractory Primary and Secondary Progressive Multiple Sclerosis",
     "status": "ACTIVE_NOT_RECRUITING",
@@ -21028,6 +21173,23 @@
     "url": "https://clinicaltrials.gov/study/NCT04698538"
   },
   {
+    "nct_id": "NCT04561557",
+    "title": "Safety and Efficacy of CT103A Cells for Relapsed/Refractory Antibody-associated Inflammatory Diseases of the Nervous System",
+    "status": "RECRUITING",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-09-22",
+    "last_update": "2024-10-30",
+    "interventions": [
+      "CT103A cells",
+      "Cyclophosphamide and fludarabine"
+    ],
+    "summary": "Antibody-mediated inflammatory diseases of the nervous system (also known as autoimmune diseases of the nervous system) are autoimmune diseases in which autoimmune cells and immune molecules attack the nervous system as the main pathogenic mechanism. In the immune response, pathogenic antibodies acting on autoantigens of the nervous system are collectively referred to as autoantibodies of the nervous system, and antibody-mediated inflammatory diseases of the nervous system can occur in the central nervous system, peripheral nervous system, and neuromuscular junctions, and muscles. In this study, we will recruit eight kinds of autoimmune diseases of nervous system including Neuromyelitis Optica Spectrum Disorder (NMOSD), Myasthenia Gravis (MG), Chronic Inflammatory Demyelinating Polyradiculoneuropathy (CIDP), idiopathic inflammatory myopathyand (IIM), multiple sclerosis (MS), autoimmune encephalitis (AE), Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD) and POEMS Syndrome. B-cell maturation antigen (BCMA) is expressed on the surface of plasma cells, thus making it an ideal target for targeted therapies. Chimeric antigen receptor (CAR) T cells against BCMA offers another potential therapeutic option to eliminate plasma cells in patients with neurological autoimmune diseases driven by abnormal antibody who still suffer recurrent attacks from conventional treatments. In the current study, the safety and efficacy of a novel CAR-T cell therapy using CT103A cells, are evaluated in patients with relapsed/refractory antibody-mediated idiopathic inflammatory diseases.",
+    "url": "https://clinicaltrials.gov/study/NCT04561557"
+  },
+  {
     "nct_id": "NCT06663111",
     "title": "Rituximab and Ocrelizumab in Serum With Multiple Sclerosis",
     "status": "RECRUITING",
@@ -22221,6 +22383,22 @@
     ],
     "summary": "The Expanded Disability Status Scale (EDSS) is the gold-standard in assessing disability in Multiple Sclerosis (MS). Its current digital form, the Neurostatus-eEDSS®, often serves as primary endpoint in MS clinical trials.\n\nThe pandemic revealed the need for telemedical alternatives to the in-clinic assessment. Therefore, Neurostatus-SMARTCARE was developed: A trained and certified non-neurologist Health Care Professional (HCP) examines the patient while the examination is being video-recorded. The stored video allows a neurologist to re-assess the examination at a later point of time. The future application could be in-home visits through HCPs, in decentralized clinical trials as well as in routine care.\n\nIn this study, the concordance rate of Neurostatus examinations between neurologists and HCPs is investigated. With a concordance rate significantly higher than 80%, Neurostatus-SMARTCARE by HCPs can be considered equal to the standard Neurostatus-EDSS by neurologists.",
     "url": "https://clinicaltrials.gov/study/NCT05575843"
+  },
+  {
+    "nct_id": "NCT06515782",
+    "title": "Effect of a Fasting Mimicking Diet on Patients With Multiple Sclerosis (FMDMS)",
+    "status": "UNKNOWN",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-10-20",
+    "last_update": "2024-07-23",
+    "interventions": [
+      "Med Diet. Investigators would like to see what differences a Mediterranean Diet makes to the status of patients with Multiple Sclerosis."
+    ],
+    "summary": "In the proposed study, investigators will assess the safety and feasibility of cycles of a fasting mimicking diet (FMD) and its effect on Multiple Sclerosis Quality of Life (MSQOL) in relapsing MS (RMS) patients treated with standard disease modifying therapies (FMDMS).\n\nTo test the primary hypothesis, investigators will compare the composite quality of life score in terms of improvement in disability, fatigue, and cognitive function with the fasting protocol, as compared to a Mediterranean diet (control) group alone. Further, investigators hypothesize that the effects will remain for at least 6-months after the last FMD cycle. The Mediterranean diet (MD) has been chosen as the control diet to minimize baseline dietary differences among patients. It has been trialed for feasibility in Multiple Sclerosis patients and used in a previous human FMD trial for MS patients where a FMD followed by MD was shown to have positive effects on people with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT06515782"
   },
   {
     "nct_id": "NCT05412043",
@@ -23645,6 +23823,22 @@
     "url": "https://clinicaltrials.gov/study/NCT06370403"
   },
   {
+    "nct_id": "NCT04908085",
+    "title": "Creating Satisfying Engagement in Daily Life Through Coaching for People With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2021-10-01",
+    "last_update": "2024-04-19",
+    "interventions": [
+      "Occupational Performance Coaching"
+    ],
+    "summary": "Multiple sclerosis (MS) is a complex disease that negatively impacts a person's ability to participate in a wide range of important and meaningful activities1-4. MS rehabilitation interventions often focus on reducing symptoms, with the assumption that fewer symptoms will lead to improved participation in daily activities5-8. Yet, literature shows that engagement in necessary and desired activities requires more than symptom reduction - it requires people with chronic diseases like MS to apply their knowledge and skills to a complex self-management process9-11 that balances personal values, and activity and environmental demands. Core self-management skills include self-monitoring, problem-solving, decision-making, goal setting, action planning, and the ability to adjust plans when necessary12. Looking beyond MS, coaching interventions have enabled people with stroke13-16, traumatic brain injury17, and Parkinson's disease18, 19 to develop self-management skills and achieve personally meaningful activity goals. Occupational Performance Coaching (OPC) is a well-developed form of coaching that builds competence in core self-management skills and improves participation in daily activities20, 21. The investigator's preliminary work indicates that OPC is an acceptable and feasible intervention for people with MS22. The investigators now must determine if OPC reduces the impact of MS on participation in daily activities and increases the satisfaction of people with MS in performance of personally important daily activities. Therefore, the investigators will conduct a waitlist-control randomized clinical trial (RCT) with 30 adults with MS to determine if receipt of six OPC sessions improves participants' satisfaction with performance in daily activities (primary outcome). The investigators will also examine whether OPC reduces illness intrusiveness (MS impact), improves resilience, and improves autonomy and participation (secondary outcomes).",
+    "url": "https://clinicaltrials.gov/study/NCT04908085"
+  },
+  {
     "nct_id": "NCT06372977",
     "title": "Kappa Index Versus Csf Oligoclonal Bands in Diagnosis of ms and Prediction of Disease Activity",
     "status": "UNKNOWN",
@@ -24729,6 +24923,20 @@
     "url": "https://clinicaltrials.gov/study/NCT05983939"
   },
   {
+    "nct_id": "NCT06256471",
+    "title": "The Impact of Parasitic Infection on Multiple Sclerosis and Nephrotic Syndrome",
+    "status": "UNKNOWN",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2024-06-01",
+    "last_update": "2024-02-13",
+    "interventions": [
+      "Follow up of multiple sclerotic and nephrotic syndrome patients after 3 months"
+    ],
+    "summary": "1. Detection of the prevalence of parasitic infections amoung patients with multiple sclerosis and nephrotic syndrome at Assiut University Hospitals.\n2. Detection of the effect of parasitic infections on these diseases courses.\n3. Inform authorities about the importance of management of parasitic infections in those patients.",
+    "url": "https://clinicaltrials.gov/study/NCT06256471"
+  },
+  {
     "nct_id": "NCT04593927",
     "title": "Long Term Special Drug Use-results Surveillance for Mayzent in SPMS Patients",
     "status": "COMPLETED",
@@ -25128,6 +25336,23 @@
     ],
     "summary": "The goal of this clinical trial is to demonstrate the improvement of muscular oxygenation in patients with Multiple Sclerosis and spasticity using Exopulse Molli suit stimulation. The main questions it aims to answer are:\n\n* to evaluate the short-term impact of EXOPULSE Molli suit on muscular oxygenation in adult MS patients suffering from spasticity.\n* to assess the effects of Exopulse Mollii suit on spasticity, pain, fatigue, quality of life (QoL), walking and risk of fall.\n\nStudy subjects will participate in:\n\n* One baseline visit for inclusion in the study during which the patient will undergo the first session (active or sham) along with an evaluation before and after the session\n* One visit after two weeks during which the patient will undergo the second session (active or sham) along with an evaluation before and after the session\n* One visit two weeks after the second stimulation; where the patients will undergo a fifth evaluation and receive the EXOPULSE Molli Suit for the four-week open label phase to use the suit at home for an active stimulation session every other day for four weeks.\n* One visit at the end of the open label phase to perform the sixth and last evaluation and return the EXOPULSE Molli suit.\n\nResearchers will compare both Active and Sham groups to demonstrate the improvement of muscular oxygenation in patients with MS and spasticity using Exopulse Molli.",
     "url": "https://clinicaltrials.gov/study/NCT05912595"
+  },
+  {
+    "nct_id": "NCT05112484",
+    "title": "Therapeutic Monitoring of Drugs Used in the Treatment of Multiple Sclerosis",
+    "status": "UNKNOWN",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2024-06",
+    "last_update": "2024-01-18",
+    "interventions": [
+      "Measurement of concentrations of orally-used DMDs",
+      "Genetic testing",
+      "Parameters for routine use of DMDs",
+      "Side effects of orally used DMDs"
+    ],
+    "summary": "The main goal of multiple sclerosis (MS) treatment is to prevent further relapses of the disease and the progression of neurological deficit. Although MS cannot yet be cured, early control of symptoms and reduction of disease progression is associated with a longer time to disability and improve long-term treatment outcomes. Currently, MS is treated using a multidisciplinary approach, which consists of treatment with so-called \"disease-modifying drugs\" (\"DMDs\"), symptomatic therapy of individual symptoms, lifestyle adjustments, psychological support, and rehabilitation interventions. According to the latest results, treatment with \"DMDs\" can reduce the annual incidence of relapses by 29-68% compared to placebo or an active comparator. Thus, as can be seen, even this group of modern drugs does not completely compensate for MS in many patients. For this reason, there is a need to use certain parameters to best assess the effectiveness of individual treatments in specific patients with MS in routine clinical practice. Therapeutic drug monitoring (TDM) is a specific method of clinical pharmacology that has long been used to monitor therapy for a variety of diseases by measuring drug concentrations in body fluids (plasma, serum, whole blood, cerebrospinal fluid, breast milk) with subsequent interpretation by clinical pharmacologist and acceptance by the clinician. The groups of drugs for which TDM is routinely performed include selected groups of antibiotics (aminoglycosides, vancomycin, beta-lactams), immunosuppressants, digoxin, and especially drugs used in neurology and psychiatry (antiepileptics and psychotropic drugs). As far as \"DMDs\" is concerned, the first data on the possibility of using TDM in the therapy of MS have already appeared in the professional literature, but these are so far rare and completely insufficient. In addition, individual drugs differ not only in efficacy but also in dose, dosing schedule, and safety profile. The development of new analytical methods to determine serum or whole blood \"DMDs\" concentrations, together with the objectification of the relationship between measured concentrations to the patient's clinical condition and the possibility of objectifying patient adherence to treatment, could therefore significantly help individualize the dosage of \"DMDs\" in each individual patient.",
+    "url": "https://clinicaltrials.gov/study/NCT05112484"
   },
   {
     "nct_id": "NCT06083194",
@@ -29686,6 +29911,20 @@
     ],
     "summary": "MAIN STUDY: The purpose of this study is to determine if teriflunomide will be safe and effective to prevent relapses in patients with relapsing types of MS when switching from natalizumab to teriflunomide in patients at risk for PML. This is a two center interventional study of patients who have had 12 or more continuous infusions of natalizumab , who are anti-JCV-ab positive, and who had been free of clinical relapses during prior 12 months of natalizumab therapy who will be switching to teriflunomide.\n\nSUB-STUDY: To study the number of patients experiencing a reduction in the anti-JCV antibody Index value in patients who had received at least one dose of teriflunomide during participation in the SWITCH protocol (main study).",
     "url": "https://clinicaltrials.gov/study/NCT01970410"
+  },
+  {
+    "nct_id": "NCT03926637",
+    "title": "Feasibility of the Multiple Sclerosis Performance Test in Participants With Multiple Sclerosis",
+    "status": "TERMINATED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2019-06-17",
+    "last_update": "2023-01-30",
+    "interventions": [
+      "Multiple Sclerosis Performance Test (MSPT)"
+    ],
+    "summary": "The primary objective is to evaluate the feasibility of the Multiple Sclerosis Performance Test (MSPT) in a clinical care setting when used by participants with Multiple Sclerosis (MS).",
+    "url": "https://clinicaltrials.gov/study/NCT03926637"
   },
   {
     "nct_id": "NCT03863379",
@@ -37867,6 +38106,23 @@
     "url": "https://clinicaltrials.gov/study/NCT01435993"
   },
   {
+    "nct_id": "NCT04524039",
+    "title": "iTBS Study for Depression in Patients With Multiple Sclerosis",
+    "status": "UNKNOWN",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-12-01",
+    "last_update": "2020-11-24",
+    "interventions": [
+      "intermittent theta burst stimulation using a MagPro X100",
+      "sham intermittent theta burst stimulation using a MagPro X100"
+    ],
+    "summary": "Multiple sclerosis (MS) is a chronic and demyelinating disease of the central nervous system. It is one of the most common cause of neurological disability in young adults. Depression is a common symptom in MS patients, with lifetime prevalence rates going up to 50%. Depression not only reduces the response to treatment, delays the recovery of neurological function and social ability, but also significantly increases the risk of disability in patients with MS.\n\nTranscranial magnetic stimulation (TMS) is a non-invasive method of brain stimulation that is based on electromagnetic induction. Intermittent theta burst stimulation (TBS), a newer form of rTMS, delivers 600 pulses in just 3 min, versus 37.5 min for conventional rTMS, but it has been shown to produce similar effects in patient with treatment-resistant depression.\n\nTo observe the effect and safety of iTBS on patients with MS and depression, we design a double-blind, randomized controlled study. Results of this research will inform on the efficiency of the TMS for the treatment of depression in MS patients, which will reduce the risk of disability and improve the quality of life.",
+    "url": "https://clinicaltrials.gov/study/NCT04524039"
+  },
+  {
     "nct_id": "NCT03941184",
     "title": "Spontaneous Coronary Artery Dissection (SCAD) and Autoimmunity",
     "status": "COMPLETED",
@@ -38648,6 +38904,20 @@
     ],
     "summary": "Primary fatigue represents a major cause of disability in patients with multiple sclerosis (MS), being reported in about 90% of cases. Fatigue interferes with everyday functioning but, unfortunately, little is known about its mechanisms. The investigators propose a characteristic eye movement abnormality (internuclear ophthalmoparesis, INO), commonly encountered in MS, as a simple model for primary motor fatigue. The investigators described worsening of ocular performance in MS patients with INO following visual tasks (ocular motor fatigue), which is likely due to decreased neural conduction along brain pathways injured by MS. This mechanism could represent a major component of MS-related primary motor fatigue. Relevant to Veterans' care, INO is a significant cause of visual disability, especially when complicated by ocular fatigue, and limits daily activities such as reading and driving. The investigators propose a medical treatment to improve ocular performance/fatigue in INO, which can reduce visual disability and improve quality of life in Veterans with MS.",
     "url": "https://clinicaltrials.gov/study/NCT02391961"
+  },
+  {
+    "nct_id": "NCT04183751",
+    "title": "The Relationship Between Kinesiophobia, Physical Activity, Balance and Fear of Fall in MS Patients",
+    "status": "UNKNOWN",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2019-04-21",
+    "last_update": "2020-09-04",
+    "interventions": [
+      "scale study"
+    ],
+    "summary": "Multiple sclerosis (MS) is a chronic, inflammatory, demyelinating and neurodegenerative disease of the central nervous system (CNS). MS usually progresses with attacks, sequelae after attacks because it severely restricts the quality of life in patients and leads to progressive disability (Frohman et al., 2006). Balance and coordination problems, decreasing of physical activity level and fall disorders are observed in patients with MS (Confavreux et al., 2014). When the literature was examined, a relationship was found between kinesiophobia, quality of life, physical activity level and pain in stroke patients. Physical activity level, balance, fear of falling and kinesiophobia which are frequently seen in patients with MS have not been studied. In this study, the relationship between kinesiophobia, physical activity, balance and fear of fall in MS patients will be investigated.",
+    "url": "https://clinicaltrials.gov/study/NCT04183751"
   },
   {
     "nct_id": "NCT01541618",
@@ -42150,6 +42420,22 @@
     "url": "https://clinicaltrials.gov/study/NCT02634567"
   },
   {
+    "nct_id": "NCT02687919",
+    "title": "Evaluation of a Modified Paleolithic Dietary Intervention in the Treatment of Relapsing-Remitting Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2012-10",
+    "last_update": "2019-08-12",
+    "interventions": [
+      "Modified Paleo diet"
+    ],
+    "summary": "This is a research study. The investigators are inviting participants to participate in this research study between the ages of 18-45, who have stable Relapsing-Remitting Multiple Sclerosis (RRMS), are able to walk 25 ft with/without an assistive device, and have none of the following: liver disease, kidney disease, diabetes, active heart disease, heart block or arrhythmias, bleeding disorders, concurrent diuretic use, anti-coagulation or anti-platelet use, psychosis or other psychiatric disorder likely to impact ability to comply with study procedures, any change in prescription medication for a mental health problem such as depression or anxiety in the last three months.\n\nThe purpose of this research study is to determine whether or not a modified Paleolithic diet results in any change in health in persons with RRMS compared to usual care. The investigators define usual care as the typical or usual physician recommendations for the treatment of RRMS.\n\nThe Paleolithic diet (or Paleo diet), also referred to as the caveman diet, Stone Age diet, and hunter-gatherer diet, is a modern nutritional plan based on the presumed ancient diet of wild plants and animals of ancestral humans during the Paleolithic era (a period of about 2.5 million years duration that ended around 10,000 years ago with the development of agriculture). The diet consists mainly of fish, grass-fed pasture raised meats, vegetables, fruit, fungi, roots, and nuts, and excludes grains, legumes, dairy products, salt, refined sugar, and processed oils.\n\nTo the investigators' knowledge, most neurologists prescribe medications that may reduce or prevent future disability, but few prescribe dietary modifications unless needed for other concomitant disease.",
+    "url": "https://clinicaltrials.gov/study/NCT02687919"
+  },
+  {
     "nct_id": "NCT03784547",
     "title": "Real-world Data of Ocrelizumab in Multiple Sclerosis in LATAM",
     "status": "UNKNOWN",
@@ -42248,6 +42534,23 @@
     ],
     "summary": "It is a multicentric randomized and controlled study comparing a Scheme therapy program versus local practice in RRMS patients with anxiety. Patients will assist to twenty once-weekly group sessions with a 6-month follow up after the end of the programme. The main criteria is the impact of schema therapy on anxiety evaluated by the questionnaires at the end of the program and at the end of the 6-month follow-up.",
     "url": "https://clinicaltrials.gov/study/NCT04030819"
+  },
+  {
+    "nct_id": "NCT03512886",
+    "title": "The Effect of Multiple-Task Training in Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2018-06-18",
+    "last_update": "2019-07-30",
+    "interventions": [
+      "Multi-task training",
+      "Single task training"
+    ],
+    "summary": "The Activities of Daily Living requires the ability to perform multiple activities at the same time, not just the motor or cognitive activity. When many tasks are performed at the same time, the attention capacity is effectively used and attention is shared according to the difficulty and priority of the tasks. There is evidence that patients with Multiple Sclerosis (MS) have reduced performance during multitasking.\n\nIn this study, the investigators aim to investigate the effect of multitasking training on balance, mobility, upper extremity performance and cognitive functions in patients with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT03512886"
   },
   {
     "nct_id": "NCT04035720",
@@ -42593,6 +42896,23 @@
     ],
     "summary": "The purpose of this study is to investigate whether a wearable robotic exoskeleton can help people with multiple sclerosis (MS) to walk again.",
     "url": "https://clinicaltrials.gov/study/NCT02519244"
+  },
+  {
+    "nct_id": "NCT01633112",
+    "title": "MS Study Evaluating Safety and Efficacy of Two Doses of Fingolimod Versus Copaxone",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2012-08-09",
+    "last_update": "2019-05-28",
+    "interventions": [
+      "fingolimod",
+      "glatiramer acetate"
+    ],
+    "summary": "The purpose of this study was to demonstrate that at least one dose (0.5 mg followed by 0.25 mg) of fingolimod is superior to glatiramer acetate 20 mg SC in reducing the ARR up to 12 months in patients with relapsing-remitting MS",
+    "url": "https://clinicaltrials.gov/study/NCT01633112"
   },
   {
     "nct_id": "NCT03315923",
@@ -43258,6 +43578,18 @@
     ],
     "summary": "This is a three-week crossover study that will compare how the body absorbs and tolerates two different forms of lipoic acid: R form and racemic form.",
     "url": "https://clinicaltrials.gov/study/NCT03493841"
+  },
+  {
+    "nct_id": "NCT02082002",
+    "title": "Multidimensional Assessment of Fatigue in Multiple Sclerosis- Observational Study - Ticino",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2013-11",
+    "last_update": "2019-03-21",
+    "interventions": [],
+    "summary": "Fatigue is a common symptom in patients with multiple sclerosis, however, its nature is not completely understood. Fatigue overlaps often with other symptoms such as somnolence, depression and cognitive disorders, from which it is not always readily distinguished. The evaluation of fatigue and the three most frequently associated symptoms using a multidimensional approach might allow to understand, which methodology is the best indicated to estimate the prevalence of fatigue with greatest accuracy, leading to a better differentiation of the symptoms in the diagnostic setting.",
+    "url": "https://clinicaltrials.gov/study/NCT02082002"
   },
   {
     "nct_id": "NCT03385356",
@@ -46873,6 +47205,22 @@
     "url": "https://clinicaltrials.gov/study/NCT02950454"
   },
   {
+    "nct_id": "NCT01071512",
+    "title": "Tysabri Effects on Cognition and Neurodegeneration in Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2010-04",
+    "last_update": "2017-10-25",
+    "interventions": [
+      "Tysabri"
+    ],
+    "summary": "The long-term objective is to further establish the role of Tysabri in preventing neurological degeneration in multiple sclerosis (MS) and to establish powerful and efficient new markers for neurological degeneration in MS. The study intends to correlate cognition with two instruments and their measurements-MRI and OCT (optical coherence tomography).",
+    "url": "https://clinicaltrials.gov/study/NCT01071512"
+  },
+  {
     "nct_id": "NCT02410200",
     "title": "Study of the Effect of BG00012 on MRI Lesions and Pharmacokinetics in Pediatric Subjects With RRMS",
     "status": "COMPLETED",
@@ -46887,6 +47235,21 @@
     ],
     "summary": "The primary objective of this study is to evaluate the effect of BG00012 (dimethyl fumarate) on brain magnetic resonance imaging (MRI) lesions in pediatric participants with relapsing-remitting multiple sclerosis (RRMS). The secondary objectives of this study are to characterize the pharmacokinetics of BG00012 in pediatric participants with RRMS and to evaluate the safety and tolerability of BG00012 in pediatric participants with RRMS.",
     "url": "https://clinicaltrials.gov/study/NCT02410200"
+  },
+  {
+    "nct_id": "NCT02121444",
+    "title": "BAY86-5046 (Betaseron), Non Interventional Studies",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2014-06-23",
+    "last_update": "2017-10-18",
+    "interventions": [
+      "Interferon beta-1b (Betaferon, BAY 86-5046)",
+      "BETACONNECT auto-injector."
+    ],
+    "summary": "This study aims to investigate adherence to therapy among patients treated with Betaferon who are using the BETACONNECT autoinjector.",
+    "url": "https://clinicaltrials.gov/study/NCT02121444"
   },
   {
     "nct_id": "NCT02369926",
@@ -47472,6 +47835,18 @@
     ],
     "summary": "The study will determine the effect of 400 mg once daily of ketoconazole at steady state on the pharmacokinetics of a single oral dose of GSK239512 in young healthy volunteers. Ketoconazole is a strong inhibitor of CYP3A4, which is involved in metabolism of drugs. A two-cohort design will be applied with cohort 1 aimed at providing a first estimate of the interaction potential of GSK239512 and ketoconazole in terms of pharmacokinetic parameters in a small number of subjects. Data from Cohort 1 will inform the decision of which dose to use in Cohort 2, in which a larger number of subjects will be exposed to GSK239512 without and with ketoconazole. The target maximum exposure is aimed to be similar to the exposure by a single dose of 80 mcg of GSK239512 without CYP3A4 inhibition. In summary, the results from this study will help to estimate the maximum increase in exposure of GSK239512 during concomitant use of strong CYP3A4 inhibitors and will help define the subsequent dosing strategy around GSK239512 and co-medications with potential to inhibit CYP3A4.",
     "url": "https://clinicaltrials.gov/study/NCT01802931"
+  },
+  {
+    "nct_id": "NCT01723709",
+    "title": "The MURDOCK Study Community Registry and Biorepository Multiple Sclerosis Cohort",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2010-06",
+    "last_update": "2017-07-21",
+    "interventions": [],
+    "summary": "The goal of this study is to enroll 1000 participants with a history of Multiple Sclerosis into the MURDOCK Study (Duke IRB Pro00011196) as well as into the Multiple Sclerosis Cohort study (Duke IRB Pro00023791). All 1000 participants will answer a 4-page questionnaire administered by a trained study coordinator which is designed to collect information on the participant's diagnosis of Multiple Sclerosis. The goal of the study is to seek genetic explanations for response to treatment, progression of the disease, and biomarker validation.",
+    "url": "https://clinicaltrials.gov/study/NCT01723709"
   },
   {
     "nct_id": "NCT02969304",
@@ -48226,6 +48601,23 @@
     ],
     "summary": "The primary objective of the study is to assess whether a 6-week titration (compared with a 1-week titration) is effective in reducing the incidence of dimethyl fumarate (DMF \\[Tecfidera\\])-related gastrointestinal (GI) adverse events (AEs) in participants with multiple sclerosis (MS). The secondary objective of this study is to assess whether a 6-week titration (compared with a 1-week titration) is effective in reducing the average severity and duration of GI symptoms over 12 weeks of DMF treatment in this study population.",
     "url": "https://clinicaltrials.gov/study/NCT02428231"
+  },
+  {
+    "nct_id": "NCT00947232",
+    "title": "Motivational Interviewing to Increase Physical Activity to Treat Depression in People Aging With MS or SCI",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2009-10",
+    "last_update": "2017-05-05",
+    "interventions": [
+      "Motivational interviewing",
+      "Education"
+    ],
+    "summary": "This study compares two approaches to helping people who are aging with MS or SCI and are experiencing depressed mood to become more physically active. The study is carried out entirely by telephone. There is no need to travel and participants may reside anywhere within the United States. We will examine the effects of the intervention on overall physical activity, mood, pain, fatigue and general health. Participants will complete surveys over the phone throughout the study and wear an activity monitor 3 times. The study is 6 months in length and participants may receive up to $120 for their time and effort.",
+    "url": "https://clinicaltrials.gov/study/NCT00947232"
   },
   {
     "nct_id": "NCT00598455",
@@ -52029,6 +52421,23 @@
     "url": "https://clinicaltrials.gov/study/NCT02419638"
   },
   {
+    "nct_id": "NCT00811902",
+    "title": "Efficacy, Safety, and Tolerability of Nerispirdine in Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2008-12",
+    "last_update": "2016-02-26",
+    "interventions": [
+      "Nerispirdine",
+      "placebo"
+    ],
+    "summary": "The primary objective is to assess the activity of nerispirdine in improving the ability to walk, in patients with multiple sclerosis (MS).\n\nSecondary objectives:\n\n* To assess other measures of walking ability, tiredness, and lower limb muscular strength, spasticity, clinical assessment by subject and clinical assessment of change by the Study Investigator\n* To assess the safety and tolerance of nerispirdine\n* To evaluate the pharmacokinetics (PK) parameters of nerispirdine",
+    "url": "https://clinicaltrials.gov/study/NCT00811902"
+  },
+  {
     "nct_id": "NCT01632293",
     "title": "Evaluating Intervention Responsiveness in People With Multiple Sclerosis",
     "status": "COMPLETED",
@@ -52266,6 +52675,18 @@
     ],
     "summary": "The main aim of this trial is to evaluate whether additional acupuncture or mindfulness-based stress reduction is more efficacious than usual care only to reduce fatigue in patients with multiple sclerosis.",
     "url": "https://clinicaltrials.gov/study/NCT01864707"
+  },
+  {
+    "nct_id": "NCT02004444",
+    "title": "JC Virus Reactivation in Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2010-10",
+    "last_update": "2016-01-29",
+    "interventions": [],
+    "summary": "JC virus is a benign virus which infects approximately up to 90% of the normal adult population. However, it may be reactivated in people who have a decreased immune function as in HIV infection, cancer, chemotherapy, transplant recipients, or in MS patients treated with natalizumab (Tysabri). In these patients, JC virus can cause a severe brain disease called Progressive Multifocal Leukoencephalopathy (PML), for which there is no cure.\n\nAs of September 2013, 400 MS patients in the world, who have been treated with natalizumab, have developed PML. The risk of PML is approximately 5 patients in 1000 after 24 months on the drug. Researchers do not know exactly in which cells of the body the virus lives but it has been isolated from the blood, urine, cerebrospinal fluid (CSF), and from the brains of patients with immunosuppression.\n\nIn this study, the investigators wish to determine precisely where the virus lives, and how the body prevents it from causing brain disease.\n\nBecause of the association of PML with natalizumab, the investigators would like to see if there is a difference in the amounts of virus in blood, urine, and CSF found in MS patients treated with natalizumab or those treated with different medications for MS, or those not treated at all. The investigators hope that this knowledge will allow us to find better ways of preventing the development of PML as well as treatments for patients with PML.",
+    "url": "https://clinicaltrials.gov/study/NCT02004444"
   },
   {
     "nct_id": "NCT02269436",
@@ -52876,6 +53297,22 @@
     "interventions": [],
     "summary": "The primary objective of the study is to develop MS patient-matched healthy population norms for the Multiple Sclerosis Cognition Assessment Battery (MS-COG) that are representative of the United States (US), France, and Italy.",
     "url": "https://clinicaltrials.gov/study/NCT02283918"
+  },
+  {
+    "nct_id": "NCT01257958",
+    "title": "Vitamin D Pilot Study in Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "1998-02",
+    "last_update": "2015-10-05",
+    "interventions": [
+      "19 nor vitamin d"
+    ],
+    "summary": "Phase 1 study of 19-nor Vitamin D in relapsing-remitting MS. Primary measure is MRI.",
+    "url": "https://clinicaltrials.gov/study/NCT01257958"
   },
   {
     "nct_id": "NCT01911377",
@@ -54937,6 +55374,24 @@
     ],
     "summary": "The primary objective of this study is to compare the pharmacokinetic (PK) and pharmacodynamics (PD) of single subcutaneous (SC) and intramuscular (IM) doses of 300 mg natalizumab to intravenous (IV) administration of 300 mg natalizumab in multiple sclerosis (MS) participants. The secondary objectives are to investigate the safety, tolerability and PK of repeated natalizumab doses administered SC and IM, to investigate the immunogenicity of repeated natalizumab doses administered SC and IM, to explore proof of concept within the secondary progressive multiple sclerosis (SPMS) population using change from baseline in clinical measures including: expanded disability status scale (EDSS), multiple sclerosis functional composite scale (MSFC), symbol digit modalities test (SDMT), visual analogue scale (VAS), and visual function test; and brain magnetic resonance imaging (MRI) measures including: number of new or newly-enlarging T2 hyperintense lesions, number of new T1 hypointense lesions, number of new gadolinium-enhancing (Gd+) lesions, whole brain atrophy, magnetization transfer ratio (MTR), and diffusion tensor imaging (DTI) and to observe the effect of natalizumab administered IV and SC on brain MRI measures in participants with relapsing forms of MS.",
     "url": "https://clinicaltrials.gov/study/NCT00559702"
+  },
+  {
+    "nct_id": "NCT01058005",
+    "title": "Study Evaluating Rebif, Copaxone, and Tysabri for Active Multiple Sclerosis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2010-03",
+    "last_update": "2014-09-03",
+    "interventions": [
+      "BG00002 (natalizumab)",
+      "interferon beta-1a",
+      "glatiramer acetate"
+    ],
+    "summary": "This was a multicenter, randomized, open-label, parallel-group, active-controlled study. Prior to randomization, participants were to have been treated with glatiramer acetate or interferon β-1a (44 μg). Participants were to be randomized to receive natalizumab, interferon β-1a 44 μg, or glatiramer acetate.",
+    "url": "https://clinicaltrials.gov/study/NCT01058005"
   },
   {
     "nct_id": "NCT02046629",
@@ -60472,6 +60927,22 @@
     "url": "https://clinicaltrials.gov/study/NCT00618085"
   },
   {
+    "nct_id": "NCT00420719",
+    "title": "Motor-Point Stimulation for Conditioning the Diaphragm of Patients With Amyotrophic Lateral Sclerosis (ALS)",
+    "status": "UNKNOWN",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2004-10",
+    "last_update": "2009-03-18",
+    "interventions": [
+      "Intramuscular diaphragm electrodes"
+    ],
+    "summary": "The overall goal of this research is to delay the respiratory decline of patients with Amyotrophic Lateral Sclerosis (ALS) thereby increasing their lifespan by conditioning the diaphragm with laparoscopically placed electrodes.\n\nThis device currently holds an Investigational Device Exemption No. G040142 in the United States and is currently undergoing clinical trials at University Hospitals (Cleveland), Johns Hopkins, Mayo Clinic Jacksonville, California Pacific Medical Center (CPMC), Henry Ford Health System, The Methodist Hospital, and Stanford University.",
+    "url": "https://clinicaltrials.gov/study/NCT00420719"
+  },
+  {
     "nct_id": "NCT00006060",
     "title": "Diagnostic Study of Quantitative Imaging and Spectroscopy in Patients With Multiple Sclerosis",
     "status": "UNKNOWN",
@@ -61185,6 +61656,23 @@
     "url": "https://clinicaltrials.gov/study/NCT00457808"
   },
   {
+    "nct_id": "NCT00260741",
+    "title": "Cannabis for Spasticity in Multiple Sclerosis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2003-03",
+    "last_update": "2007-04-04",
+    "interventions": [
+      "Smoked Cannabis"
+    ],
+    "summary": "The purpose of this study is to learn if the use of inhaled cannabis (marijuana) and oral cannabinoid (dronabinol, Marinol or THC, which is an active ingredient of marijuana) is safe and effective in reducing the symptoms of spasticity and tremor in patients with secondary-progressive or primary progressive multiple sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT00260741"
+  },
+  {
     "nct_id": "NCT00223457",
     "title": "Factors That Influence Compliance With Disease-Modifying Therapy in Multiple Sclerosis",
     "status": "COMPLETED",
@@ -61699,5 +62187,26 @@
     ],
     "summary": "OBJECTIVES:\n\nI. Determine the efficacy, in terms of disease progression, of high-dose cyclophosphamide and total body irradiation with T lymphocyte-depleted autologous peripheral blood stem cell or bone marrow rescue in patients with multiple sclerosis.",
     "url": "https://clinicaltrials.gov/study/NCT00017628"
+  },
+  {
+    "nct_id": "NCT00014755",
+    "title": "Phase I Pilot Study of Total-Body Irradiation, Anti-Thymocyte Globulin and Cyclophosphamide Followed By Syngeneic or Autologous Peripheral Blood Stem Cell Transplantation in Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "1997-12",
+    "last_update": "2005-06-24",
+    "interventions": [
+      "anti-thymocyte globulin",
+      "cyclophosphamide",
+      "filgrastim",
+      "prednisone",
+      "peripheral blood stem cell transplantation",
+      "irradiation"
+    ],
+    "summary": "OBJECTIVES: I. Determine the toxicity of total-body irradiation, anti-thymocyte globulin, and cyclophosphamide followed by syngeneic or autologous peripheral blood stem cell (PBSC) transplantation in patients with multiple sclerosis.\n\nII. Determine the disease response of patients treated with this regimen. III. Determine the safety and efficacy of filgrastim (G-CSF) for PBSC mobilization in this patient population.",
+    "url": "https://clinicaltrials.gov/study/NCT00014755"
   }
 ]
