@@ -63,6 +63,60 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956320/"
   },
   {
+    "pmid": "43013799",
+    "title": "Lowering the Barr: Rethinking Causality in Complex Autoimmunity Through Epstein-Barr Virus in Multiple Sclerosis.",
+    "date": "2027 Jan",
+    "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+    "authors": [
+      "Thebault S",
+      "Abdalla AL",
+      "Soldan SS",
+      "Harroud A",
+      "Antel JP"
+    ],
+    "abstract": "Classical autoimmune postulates were developed for diseases driven by a dominant antigen or transferable effector mechanism. Multiple sclerosis (MS), despite compelling evidence of immune-mediated pathogenesis, has never mapped cleanly onto these classical frameworks. We propose that in complex autoimmune diseases such as MS, the proximate cause of sustained tissue injury may instead be a disease-defining immune state: a self-sustaining network of immune interactions that emerges when host susceptibility and environmental exposures converge to overcome tolerance, bridging peripheral immune dysregulation and tissue injury. The evolving Epstein-Barr virus (EBV) literature provides an informative test case for this concept. EBV exposure shows compelling epidemiologic evidence of temporality in relation to MS and may seed autoreactivity through molecular mimicry. Its lifelong persistence in antigen-experienced B cells also provides a plausible mechanism for sustaining pathogenic antigen-presentation circuits. In susceptible hosts, EBV may promote atypical antigen-presenting B-cell states, engage autoreactive and antiviral T-cell responses, and become enriched within compartmentalized CNS inflammation. Fluctuations in viral activity and antiviral immune surveillance may further modulate this state across disease stages. However, whether an EBV-conditioned immune state consistently precedes disease, quantitatively tracks disease activity, and drives tissue injury remains unresolved, and EBV-targeted interventions have not yet produced predictable clinical benefit. We therefore propose 5 postulates for causality in complex autoimmunity centered on host susceptibility, temporal precedence, establishment of a disease-defining immune state, mechanistic and anatomical linkage to tissue injury, and predictable response to intervention. Applied to EBV and MS, this framework distinguishes established evidence from remaining uncertainty, identifies the key unanswered questions, and provides a general approach for evaluating causality in complex autoimmune disease.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013799/"
+  },
+  {
+    "pmid": "43013798",
+    "title": "Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.",
+    "date": "2027 Jan",
+    "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+    "authors": [
+      "Adda L",
+      "Vantomme H",
+      "Mhanna V",
+      "Stys P",
+      "Barennes P",
+      "Jouannet C",
+      "Coatnoan N",
+      "Diderot V",
+      "Dubois J",
+      "Louapre C",
+      "Rosenzwajg M",
+      "Mariotti-Ferrandiz E",
+      "Klatzmann D"
+    ],
+    "abstract": "Epstein-Barr virus (EBV) infection is strongly implicated in multiple sclerosis (MS), yet the mechanisms linking EBV to disease pathogenesis remain unclear. EBV-specific T cells are hypothesized to contribute to MS through molecular mimicry. We aimed to investigate the relationship between EBV-specific T cells and MS relapses using longitudinal T-cell receptor (TCR) repertoire profiling. We analyzed TCR repertoires from sequential peripheral blood samples collected before and after relapses in 5 patients with MS. CD4 At baseline, patients with MS showed a significant enrichment of EBV-specific TCRs within CD8 Our findings indicate a temporal association between MS relapses, global immune activation, and EBV-specific T-cell expansions, which is consistent with a two-step model of MS relapse immunopathogenesis. An initial, unidentified trigger induces broad immune activation, promoting the expansion of antiviral T cells, including those specific to EBV. These EBV-specific and polyspecific T cells with heightened cross-reactivity may then contribute to MS relapses. Larger studies are needed to further define the role of T-cell dynamics in MS pathogenesis.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013798/"
+  },
+  {
+    "pmid": "43014980",
+    "title": "Central Nervous System Inflammatory and Infectious Disease.",
+    "date": "2027 Feb",
+    "journal": "Neuroimaging clinics of North America",
+    "authors": [
+      "Chen M",
+      "Zeineh M",
+      "Franceschi AM"
+    ],
+    "abstract": "PET enables noninvasive molecular characterization of central nervous system infectious and inflammatory diseases beyond conventional MR imaging capabilities. Translocator protein-PET quantifies microglial activation across multiple sclerosis, autoimmune encephalitis, and human immunodeficiency virus-associated neurocognitive disorders. Multitracer approaches differentiate neuromyelitis optica spectrum disorder from myelin oligodendrocyte glycoprotein antibody disease through distinct metabolic and inflammatory signatures, and pathogen-specific tracers address the critical limitation of distinguishing infection from sterile inflammation. Despite demonstrated diagnostic and prognostic value, clinical translation remains constrained by infrastructure requirements, genetic polymorphism effects, methodological variability, and lack of regulatory approval, necessitating multicenter harmonization and prospective validation studies.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014980/"
+  },
+  {
     "pmid": "42965793",
     "title": "Cuprizone-Induced Demyelination and Remyelination Models of Multiple Sclerosis.",
     "date": "2027",
@@ -1503,6 +1557,25 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966336/"
   },
   {
+    "pmid": "43014132",
+    "title": "Large language model-enhanced decision tree framework for identifying multiple sclerosis diagnoses from clinical documentation.",
+    "date": "2026 Oct 26",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Venkatesh S",
+      "DelSignore M",
+      "Wu X",
+      "Morris M",
+      "Kerr WT",
+      "Visweswaran S",
+      "Wang Y",
+      "Xia Z"
+    ],
+    "abstract": "Early diagnosis and intervention are crucial in multiple sclerosis (MS), yet diagnostic delays are common. Large language models (LLMs) such as generative pre-trained transformers (GPTs) may streamline diagnostic workflows by extracting MS diagnostic signals from clinical notes. To derive MS diagnosis status from the first neurology note using a computable algorithm based on the 2017 McDonald criteria and applying GPT-4 for node-level reasoning within a structured decision framework. We analyzed the first neurology notes from 125 randomly selected patients (people with MS, related disorders, and controls) enrolled in a clinic-based cohort between 2017 and 2023. We included the clinical history and diagnostic testing sections but redacted the assessment and plan. We converted the 2017 McDonald criteria into a decision tree and provided expert-curated clinical knowledge to guide GPT-4 reasoning at each decision node. GPT-4 generated binary decisions at each node to traverse the tree and assign MS diagnoses at terminal nodes. We evaluated performance against neurologist-assessed diagnoses and characterized hallucination types (non-factual, incongruent, irrelevant, over-reliant, and logical reasoning errors). In this study cohort (mean age 40±12 years; 81% women) representative of the clinic population, GPT-4 performed well in predicting MS diagnosis (84% accuracy, 79% precision, 74% recall, 91% specificity) using first neurology notes. Hallucinations occurred in 32 cases (26%), most commonly incoherence (75%) and overreliance (47%). A structured, LLM-guided decision framework can identify MS diagnoses from early clinical documentation. Large-scale studies are needed to mitigate hallucinations, validate this approach, and test implementation in clinical settings.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014132/"
+  },
+  {
     "pmid": "42927851",
     "title": "Mechanisms and therapeutic strategies for central and peripheral remyelination.",
     "date": "2026 Oct 25",
@@ -2783,6 +2856,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42999727/"
   },
   {
+    "pmid": "43001837",
+    "title": "Investigation of astaxanthin-loaded hollow gold nanoparticles in mitigating the EAE mice model of multiple sclerosis.",
+    "date": "2026 Oct",
+    "journal": "Therapeutic delivery",
+    "authors": [
+      "Mhatre A",
+      "Kaur J",
+      "Naqvi S"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a progressive neurological autoimmune disorder that affects the central nervous system. Current therapies lack the disease-modifying potential and precision. Astaxanthin is a naturally derived marine compound with potent biological properties and has been reported to mitigate the effects of multiple sclerosis. Herein, we aimed to develop astaxanthin-loaded gold nanoparticles to enhance precision in delivery to the brain by the efficient carrier properties of the gold nanoparticles. In this study, we employed an experimental autoimmune encephalomyelitis (EAE) mouse model of multiple sclerosis and treated for 3 weeks with free astaxanthin (6 mg/kg) and astaxanthin-loaded hollow gold nanoparticles (0.6 mg/kg), a 10-fold lower dose of the drug. The outcomes were evaluated by biochemical, pathological, histological, and hematological parameters. Our findings indicate that astaxanthin-loaded gold nanoparticles significantly improved the disease outcomes. Our findings suggest that astaxanthin-loaded hollow gold nanoparticles improved oxidative-stress indicators and motor deficits and imparted significant cellular protection in the disease condition. Overall, this study highlights the potential of astaxanthin-loaded hollow gold nanoparticles to improve neurological outcomes in the EAE mice model.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001837/"
+  },
+  {
     "pmid": "43007891",
     "title": "The Effect of Acupressure on Beta-Endorphin, Hypocretin, Cognition, and Patient-Reported Outcome Measures in Multiple Sclerosis Patients.",
     "date": "2026 Nov-Dec 01",
@@ -2808,20 +2895,6 @@
     "abstract": "Individuals hospitalized with Multiple Sclerosis (MS) often experience comorbid conditions that affect their quality of life and also face social determinants of health (SDOH) that affect outcomes. Data were leveraged from the 2019 National Inpatient Sample database, a component of the Nationwide Healthcare Cost and Utilization Project, a government survey of hospitalizations across the US, and theoretically representative of all hospitalizations in the US. We compared patients hospitalized with MS to patients hospitalized without MS across demographic characteristics and common concomitant diagnoses. In a secondary analysis restricted to MS hospitalizations, we examined the association of comorbidities and SDOH with length of stay. Between January 2019 and December 2019 there were a total of 25,155 hospitalizations for MS and 35,392,578 hospitalizations without MS. Mean age at admission was 45.9 years for MS versus 50.2 years for non-MS hospitalizations (p < 0.001). Patients hospitalized with MS were more likely to be female and more diverse than non-MS hospitalizations. Patients with MS were more likely to have a diagnosis of anxiety (18.9% versus 10.2%, p < 0.001), chronic pain (10.5% versus 5%, p < 0.001), and depression (21.8% versus 9.9%, p < 0.001) compared to non-MS hospitalizations. Among MS hospitalizations, depression diagnoses were reported less often among Black vs. non-Black (16.6% versus 23.6%, p < 0.001), Hispanic vs. Non-Hispanic (13.8% versus 22.7%, p < 0.001), and patients on Medicaid vs. non-Medicaid (19.1% versus 22.6%, p < 0.001). In a regression model restricted to MS patients, number of comorbidities and Black compared to non-Black race corresponded to increasing length of stay. MS patients have higher rates of anxiety, depression, and pain compared to non-MS patients. Minoritized groups with MS are less likely to be given a secondary diagnosis code for depression, anxiety or pain, possibly reflecting underdiagnosis of these conditions.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43002380/"
-  },
-  {
-    "pmid": "43001837",
-    "title": "Investigation of astaxanthin-loaded hollow gold nanoparticles in mitigating the EAE mice model of multiple sclerosis.",
-    "date": "2026 Nov 9",
-    "journal": "Therapeutic delivery",
-    "authors": [
-      "Mhatre A",
-      "Kaur J",
-      "Naqvi S"
-    ],
-    "abstract": "Multiple sclerosis (MS) is a progressive neurological autoimmune disorder that affects the central nervous system. Current therapies lack the disease-modifying potential and precision. Astaxanthin is a naturally derived marine compound with potent biological properties and has been reported to mitigate the effects of multiple sclerosis. Herein, we aimed to develop astaxanthin-loaded gold nanoparticles to enhance precision in delivery to the brain by the efficient carrier properties of the gold nanoparticles. In this study, we employed an experimental autoimmune encephalomyelitis (EAE) mouse model of multiple sclerosis and treated for 3 weeks with free astaxanthin (6 mg/kg) and astaxanthin-loaded hollow gold nanoparticles (0.6 mg/kg), a 10-fold lower dose of the drug. The outcomes were evaluated by biochemical, pathological, histological, and hematological parameters. Our findings indicate that astaxanthin-loaded gold nanoparticles significantly improved the disease outcomes. Our findings suggest that astaxanthin-loaded hollow gold nanoparticles improved oxidative-stress indicators and motor deficits and imparted significant cellular protection in the disease condition. Overall, this study highlights the potential of astaxanthin-loaded hollow gold nanoparticles to improve neurological outcomes in the EAE mice model.",
-    "category": "Лечение и препараты",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43001837/"
   },
   {
     "pmid": "43001615",
@@ -3615,6 +3688,37 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43008528/"
   },
   {
+    "pmid": "43012292",
+    "title": "Ferroptosis as a Therapeutic Target in Neurological Disorders: Pharmacological Advances and Translational Challenges.",
+    "date": "2026 Nov 3",
+    "journal": "Current pharmaceutical biotechnology",
+    "authors": [
+      "Eng JH",
+      "Chong AEY",
+      "Koh RY",
+      "Ling APK"
+    ],
+    "abstract": "Ferroptosis is an iron-mediated form of programmed cell death characterised by distinct features, including excessive iron accumulation, lipid peroxidation, and impaired antioxidant mechanisms. The susceptibility of the Central Nervous System (CNS) to ferroptosis has been reported, along with evidence that ferroptosis is associated with neurological disorders such as Alzheimer's Disease (AD), Parkinson's Disease (PD), Amyotrophic Lateral Sclerosis (ALS), stroke, and Multiple Sclerosis (MS). To date, major ferroptosis inhibitors encompass iron chelators, lipid-trapping antioxidants, and antioxidant modulators. Translational challenges in drug toxicity, selectivity, and delivery promote drug development in terms of improving pharmacokinetics through structural modification, alternative routes of administration, and nanoparticle encapsulation. In addition, research on identifying novel and promising ferroptosis inhibitors from natural products and known drug compounds is continuous, accompanied by ongoing drug optimisation and modification. Biomarkers of ferroptosis have been discussed given the emerging clinical interest in them for disease diagnosis or prognosis and patient stratification. Standalone anti-ferroptotic treatments for CNS disorders have been found to be difficult to achieve favourable clinical outcomes, thereby suggesting combination therapies that not only harness ferroptosis but also address diverse pathological pathways in the respective diseases as a prospect for managing CNS disorders. Thus, this article aims to review recent updates on clinically approved ferroptosis inhibitors as well as summarise the current drug development landscape and outline future directions to provide a better understanding of the contemporary development of ferroptosis inhibitors for neurological disorders.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012292/"
+  },
+  {
+    "pmid": "43012281",
+    "title": "Artificial Intelligence for Brain MRI Diagnosis: A Scoping Review and Evidence-Gap Map Across Neurological Diseases.",
+    "date": "2026 Nov 3",
+    "journal": "Current medical imaging",
+    "authors": [
+      "Mohammed SI",
+      "Taha MA",
+      "Allami AJ",
+      "Mohammed EA",
+      "Ibrahim RO"
+    ],
+    "abstract": "Artificial Intelligence (AI), including machine learning and deep learning, is increasingly applied to brain Magnetic Resonance Imaging (MRI) for disease detection, classification, segmentation, and clinically relevant prediction. This review aimed to map the evidence on AI-assisted brain MRI diagnosis, identify methodological and clinical translation gaps, and propose priorities for future research. This scoping review was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews. PubMed/MEDLINE, Scopus, IEEE Xplore, and Web of Science were searched for peer-reviewed English-language publications from January 2018 to April 2026. Data were charted according to disease domain, study design, AI method, dataset, validation strategy, performance metrics, explainability, and key limitations. The search identified 1,020 records. After duplicate removal and screening, 61 publications were included, comprising 24 original studies used for the primary evidence map and 37 reviews or commentaries used for contextual synthesis. Evidence was strongest for brain tumor imaging and Alzheimer's disease, whereas stroke, multiple sclerosis, pediatric neuroimaging, and rare neurological conditions were underrepresented. Most studies relied on public benchmark datasets and retrospective validation, whereas external validation, prospective clinical evaluation, subgroup analysis, explainability, and workflow integration were inconsistently reported. The findings indicate that AI-assisted brain MRI research remains unevenly developed and is constrained by dataset dependence, limited external validation, limited prospective clinical evaluation, and inconsistent reporting of explainability, subgroup performance, and workflow integration. AI shows promising research-stage potential for brain MRI-based diagnosis, particularly in brain tumor analysis and Alzheimer's disease classification. Future research should prioritize multicenter validation, diverse and disease-specific datasets, explainable and equitable AI design, transparent reporting, and prospective evaluation within real clinical workflows.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012281/"
+  },
+  {
     "pmid": "42980191",
     "title": "Phytomicronutrients in neurodegeneration: modulating microglial dynamics for neuroprotection.",
     "date": "2026 Nov 25",
@@ -3848,6 +3952,87 @@
     "abstract": "Myelin water imaging (MWI) allows in vivo quantification of myelin content using MRI. Multi-echo gradient-echo (MEGRE) sequences with Variable Flip Angles (VFA), combined with diffusion-weighted imaging (DWI), can generate robust, whole-brain myelin water fraction (MWF) maps more efficiently than conventional implementations. We evaluated how spatial resolution and number of flip angles affect MWI quality in a clinical research setting. Fifteen people with MS and ten healthy controls were scanned at 3 T (Siemens VIDA). MRI included multi-shell DWI and 3D-MEGRE acquired at 2.0 mm and 2.5 mm isotropic resolution. Twelve echoes were acquired at five flip angles. MWF was quantified based on a three-compartment T1, T2*, and DWI model, and determined in normal appearing white matter (NAWM), lesions and corpus callosum. Associations between MWF across resolutions and VFA schemes were assessed using Bland-Altman, ICC-C and ICC-AA. MWF was highest in corpus callosum (10.2 ± 1.1%), intermediate in NAWM (7.9 ± 0.7%), and lowest in lesions (4.9 ± 0.7%) (values for 2.0 mm and FA5). A FA4 MEGRE protocol showed comparable MWF values, while FA3 systematically overestimated MWF and showed greater variability, particularly in lesions. ICC-C between spatial resolutions was good to excellent (0.80-0.91), ICC-AA was moderate to good (0.66-0.81), indicating that the two resolutions should not be treated interchangeably. QC monitoring of fitting results is recommended to strengthen reliability of MWF results. MWI duration can be shortened with a FA4 MEGRE protocol. Resolution choice should be guided by study aims, as 2.0 mm and 2.5 mm were not fully interchangeable.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42994073/"
+  },
+  {
+    "pmid": "43013671",
+    "title": "The role of network connectivity and transcriptomic vulnerability in shaping gray matter atrophy in multiple sclerosis.",
+    "date": "2026 Nov 13",
+    "journal": "Science advances",
+    "authors": [
+      "Barrantes-Cepas M",
+      "Tranfa M",
+      "van Nederpelt DR",
+      "Koubiyr I",
+      "Lorenzini L",
+      "Helmlinger B",
+      "Ropele S",
+      "Pinter D",
+      "Enzinger C",
+      "Uher T",
+      "Vaneckova M",
+      "Killestein J",
+      "Strijbis EMM",
+      "Steenwijk MD",
+      "Vrenken H",
+      "Barkhof F",
+      "Schoonheim MM",
+      "Pontillo G"
+    ],
+    "abstract": "Clinical progression is strongly linked to gray matter atrophy in multiple sclerosis (MS), detectable early on MRI and progressing nonrandomly across the brain. However, the mechanisms driving its spatiotemporal progression and individual variability remain unclear. Using MRIs from 2187 participants, alongside normative data, we systematically investigated network-based mechanisms underlying MS-related atrophy. Regional atrophy was associated with functional cortical hubness, supporting the nodal stress hypothesis, and was constrained by anatomical and functional connections, consistent with transneuronal degeneration. Lesional disconnection and transcriptomic vulnerability played marginal roles. Patient- and subgroup-level analyses revealed that network-based mechanisms are specifically linked to MS-related neurodegeneration and may operate differently in distinct subtypes or disease phases. Atrophy patterns were anchored to the connectivity profiles of disease epicenters involving the visual, sensorimotor, and temporal cortices, as well as the hippocampi, amygdalae, and thalami. Network-based measures enhanced the explanation of future atrophy progression in people with MS, providing a mechanistic framework to understand neurodegeneration in MS.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013671/"
+  },
+  {
+    "pmid": "43015945",
+    "title": "The Case of a 59-Year-Old Woman With Acute Right-Sided Weakness and Progressive White Matter Changes.",
+    "date": "2026 Nov 11",
+    "journal": "Annals of clinical and translational neurology",
+    "authors": [
+      "Baek Y",
+      "Choi H",
+      "George I"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43015945/"
+  },
+  {
+    "pmid": "43014635",
+    "title": "Genetic and environmental etiology of pediatric and adult-onset multiple sclerosis.",
+    "date": "2026 Nov 11",
+    "journal": "Autoimmunity reviews",
+    "authors": [
+      "Kim E",
+      "Lawson LP",
+      "Wilson E",
+      "Chapman WD",
+      "Zabeti A",
+      "Kottyan LC",
+      "Weirauch MT"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic demyelinating disease of the central nervous system with complex etiology shaped by both genetic susceptibility and environmental exposures. This review synthesizes classic and emerging literature to provide an integrated framework for understanding MS risk, with emphasis on gene-environment interactions and their contribution to disease. We compile a comprehensive linkage disequilibrium-expanded MS genetic risk variant set identified through genome-wide association studies, including annotation of risk alleles. We discuss insights obtained from functional genomics studies that illuminate genotype-dependent regulatory mechanisms. Environmentally, we assess evidence implicating infectious agents (most notably Epstein-Barr virus) as well as vitamin D insufficiency, obesity, smoking, heavy metal exposure, and the gut microbiome, highlighting epidemiologic associations and areas where mechanistic understanding remains limited. We highlight current knowledge on individuals with pediatric-onset MS (POMS), a population underrepresented in etiologic studies despite its distinct clinical and immunological features. We compare genetic burden, environmental exposures, and immunopathology between pediatric- and adult-onset MS, identifying shared determinants as well as age-specific risk modifiers. Finally, we propose important future directions, including improved ancestry and age-range representation, functional validation of risk loci, and the use of treatment-naïve, tissue-derived patient samples.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014635/"
+  },
+  {
+    "pmid": "43012127",
+    "title": "White Matter and Normal-Appearing White Matter in Low-Disability Patients With Multiple Sclerosis: A Diffusion Tensor MRI Study.",
+    "date": "2026 Nov 11",
+    "journal": "Journal of magnetic resonance imaging : JMRI",
+    "authors": [
+      "Umezaki FBH",
+      "Paulo AJM",
+      "Handfas BW",
+      "Junior EA",
+      "C Aguiar PM",
+      "Bertanha R",
+      "Thomaz R",
+      "Sowmy T",
+      "Kozasa EH"
+    ],
+    "abstract": "Diffusion tensor imaging (DTI) is sensitive to white matter (WM) microstructural alterations in multiple sclerosis (MS), but duration-defined \"early MS\" cohorts may be clinically heterogeneous. To investigate diffusion alterations in WM and normal-appearing white matter (NAWM) in low-disability MS versus healthy controls (HC). Retrospective cross-sectional case-control study. 20 patients with MS (Expanded Disability Status Scale ≤ 3.5; ambulatory without assistance) and 20 age- and sex-matched HC. 3.0 T; 3D T1-weighted and FLAIR sequences and a single-shot spin-echo echo-planar sequence with 60 diffusion directions (b = 1000 s/mm Tract-Based Spatial Statistics (TBSS) assessed fractional anisotropy (FA), axial diffusivity (AD), radial diffusivity (RD), and mean diffusivity (MD) in conventional WM and lesion-masked NAWM. DeepLesionBrain (volBrain) automatically segmented WM lesions; a neuroradiologist with 10 years of experience reviewed and corrected segmentations when necessary. FMRIB Software Library (FSL) randomize using 10,000 permutations, threshold-free cluster enhancement, and family-wise error correction (p < 0.01). Permutation Analysis of Linear Models (PALM) used two-sided inference and FWE correction across diffusion metrics and directions. Standard TBSS showed lower FA in the right anterior corona radiata (ACR) and posterior thalamic radiation (PTR), and higher RD in the corpus callosum genu, in MS versus HC. NAWM-restricted TBSS showed lower FA in the corpus callosum genu, right PTR, and right tapetum, and higher RD in bilateral ACR, right posterior corona radiata, and an unclassified region. In randomized, AD and MD were nonsignificant (minimum corrected p = 0.0118 and 0.0103 in standard TBSS; p = 0.0103 and 0.0107 in NAWM, respectively). Under PALM across-metric correction, no metric remained significant: standard TBSS, FA p = 0.0861, AD p = 0.1273, RD p = 0.0271, MD p = 0.0177; NAWM, FA p = 0.0807, AD p = 0.1225, RD p = 0.0282, MD p = 0.0197. Functionally defined low-disability MS shows focal WM and NAWM microstructural alterations, predominantly reflected by reduced FA and increased RD. 4. Stage 1.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012127/"
   },
   {
     "pmid": "42912865",
@@ -4366,6 +4551,21 @@
     "abstract": "Multiple sclerosis (MS) and neuromyelitis optica spectrum disorders (NMOSD) are autoimmune neuroinflammatory conditions characterized by widespread brain alterations. However, how cortical hierarchical organization is altered across these disorders and how such alterations relate to underlying molecular architecture remain unclear. We applied the Morphometric INverse Divergence (MIND) framework to structural MRI data from 62 MS patients, 53 NMOSD patients, and 74 healthy controls. Cortical gradients were constructed based on MIND features to represent the hierarchical organization across the cortex. The derived MIND-gradient metrics were integrated with multiscale analyses, including clinical and neuropsychological assessments, neurotransmitter system mapping, and transcriptomic profiling coupled with enrichment analyses, to link macroscale structural organization with molecular and functional substrates. MIND-gradient analyses showed alterations in cortical hierarchical organization in MS and NMOSD, mainly involving frontal and parietal regions. The primary MIND gradient was significantly associated with the spatial distributions of multiple neurotransmitter receptors and transporters. Transcriptomic analyses identified 1978 gradient-associated genes in MS and 2485 in NMOSD. These genes were enriched in immune-related, synaptic, and transport-related biological processes in both disorders, with shared and non-overlapping enriched terms. Cellular enrichment analysis further highlighted enrichment for myelinating oligodendrocytes, and developmental enrichment analysis suggested different temporal enrichment patterns in MS and NMOSD. These findings provide insights into cortical hierarchical alterations in MS and NMOSD and highlight potential molecular correlates that warrant further investigation in longitudinal studies.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43004712/"
+  },
+  {
+    "pmid": "43011637",
+    "title": "Secondary Hemophagocytic Lymphohistiocytosis Triggered by Visceral Leishmaniasis in a Patient With Multiple Sclerosis Receiving Fingolimod Therapy: A Diagnostic Challenge.",
+    "date": "2026 Nov",
+    "journal": "Cureus",
+    "authors": [
+      "Wypasek K",
+      "Lüscher D",
+      "von Kietzell M",
+      "Lehmann T"
+    ],
+    "abstract": "Hemophagocytic lymphohistiocytosis (HLH) is a rare but life-threatening hyperinflammatory syndrome characterized by uncontrolled activation of macrophages and lymphocytes, resulting in a cytokine storm, multiorgan dysfunction, and substantial mortality despite appropriate treatment. In adults, HLH is most commonly secondary to infections, malignancies, or autoimmune disorders. Less common but increasingly recognized triggers include drug-induced and iatrogenic causes, as well as severe cutaneous adverse reactions such as drug reaction with eosinophilia and systemic symptoms (DRESS). The spectrum of infectious triggers varies with geographic exposure, and visceral leishmaniasis, a recognized but uncommon trigger of secondary HLH, may therefore present a considerable diagnostic challenge in non-endemic regions, particularly in immunocompromised patients. We present the case of a 68-year-old man with relapsing-remitting multiple sclerosis who was receiving fingolimod and presented with persistent high-grade fever, progressive weakness, bicytopenia, transaminitis, and splenomegaly. Despite extensive microbiological, serological, radiological, and histopathological investigations, the underlying cause remained elusive. The clinical, histopathological, and laboratory findings, including extreme hyperferritinemia, hypertriglyceridemia, hypofibrinogenemia, and cytopenias, fulfilled 6 of 8 HLH-2004 diagnostic criteria, yielding an HScore of 292 and a probability of greater than 99% for reactive HLH. Immunosuppressive therapy was initiated because of impending organ failure. Splenectomy, indicated by splenic necrosis, provided the diagnostic specimen. Ultimately, polymerase chain reaction (PCR) testing of splenic tissue and bone marrow established the diagnosis of visceral leishmaniasis. Targeted treatment with liposomal amphotericin B resulted in sustained clinical recovery, with no evidence of recurrence over 7.5 years of follow-up. This case highlights the importance of considering HLH in patients with fever of unknown origin and cytopenias, particularly when receiving immunomodulatory therapy. Furthermore, it illustrates the diagnostic challenges associated with visceral leishmaniasis in non-endemic regions and raises the possibility that fingolimod-induced immune modulation increases the risk of opportunistic infections and disease reactivation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011637/"
   },
   {
     "pmid": "42953809",
@@ -4973,6 +5173,30 @@
     "abstract": "Microglia are the predominant immune cells in multiple sclerosis (MS) demyelinating lesions, where they phagocytose myelin, but whether they destroy myelin or merely scavenge its debris is unknown. Here, we explore whether pathogenic autoantibodies found in MS may induce the phagocytic destruction of myelin by microglia. Applying patient-derived, myelin-targeting antibodies to the mouse cortex, we developed an",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42996180/"
+  },
+  {
+    "pmid": "43015845",
+    "title": "EMMPRIN-mediated metabolism of monocytes promotes disease progression in a mouse model of multiple sclerosis.",
+    "date": "2026 Aug 15",
+    "journal": "Journal of neuroinflammation",
+    "authors": [
+      "Kaushik DK",
+      "Das A",
+      "Silva C",
+      "D'Mello C",
+      "de Almeida LGN",
+      "Patel S",
+      "Bennin D",
+      "Ghasemi N",
+      "Neri P",
+      "Dufour A",
+      "Bahlis NJ",
+      "Xue M",
+      "Yong VW"
+    ],
+    "abstract": "Monocytes and monocyte-derived macrophages are increasingly recognized as key contributors to the initiation and progression of inflammatory conditions, in part through metabolic reprogramming that drives pathogenic inflammatory phenotypes. However, the upstream mechanisms that coordinate these early metabolic transitions in multiple sclerosis (MS) remain largely undefined. We previously identified extracellular matrix metalloproteinase inducer (EMMPRIN/CD147), a chaperone of monocarboxylate transporter 4 (MCT4), as a regulator of lactate efflux and glycolysis-dependent activation in murine macrophages. Here, we investigate the role of EMMPRIN in circulating CCR2",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43015845/"
   },
   {
     "pmid": "43004436",
@@ -6036,5 +6260,80 @@
     "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder driven by β-amyloid (Aβ) deposition, tau hyperphosphorylation, synaptic dysfunction, neuroinflammation, vascular injury, and metabolic dysregulation. Recent advances in single-cell, spatial, and multi-omics transcriptomics have substantially reshaped our understanding of microglia, shifting the field from the classical M1/M2-like polarization dichotomy toward a model of state-dependent functional heterogeneity. Distinct subpopulations-including disease-associated microglia, lipid-associated microglia, interferon-responsive microglia, and senescence-associated microglia are now mechanistically linked to Aβ clearance, tau propagation, complement-mediated synaptic pruning, NOD-like receptor family pyrin domain containing 3 (NLRP3) inflammasome activation, and immunometabolic reprogramming. Central to this regulatory network are the TREM2-ApoE axis, complement cascades, NLRP3 inflammasome, mitochondrial dysfunction, and aberrant lipid/iron metabolism, which largely contribute to AD progression. In parallel, the clinical deployment of anti-Aβ monoclonal antibodies such as lecanemab has ushered in the era of disease-modifying therapy; however, limited efficacy and the occurrence of amyloid-related imaging abnormalities underscore that Aβ removal alone is insufficient to halt disease evolution completely. In this review, we systematically synthesize the evolving landscape of microglial states and their pathogenic contributions, and we further evaluate current therapeutic avenues, including microglia-targeted strategies, anti-Aβ antibody combination regimens, non-pharmacological interventions, and peripheral immunomodulation. We also compare these microglial mechanisms with those in multiple sclerosis to highlight shared neuroimmune modules and disease-specific features. Our goal is to provide a valuable updated reference for accurate molecular subtyping and multi-target combination therapy in AD.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43005561/"
+  },
+  {
+    "pmid": "43011869",
+    "title": "Measurement Properties of Spanish Versions of Two Exercise Self-Efficacy Scales in People with Multiple Sclerosis.",
+    "date": "2026",
+    "journal": "Patient preference and adherence",
+    "authors": [
+      "Santoyo-Medina C",
+      "Janer M",
+      "Lidón-Moyano C",
+      "Meza-Murillo ER",
+      "Galán I",
+      "Montalban X",
+      "Bagur-Calafat C",
+      "Sastre-Garriga J",
+      "Amor-Barbosa M"
+    ],
+    "abstract": "Regular physical activity (PA) is recommended for people with multiple sclerosis (PwMS), yet long-term exercise adherence remains suboptimal. Exercise self-efficacy is a key patient-reported determinant of exercise initiation and maintenance, making its assessment relevant for both clinical practice and research. Although the Exercise Self-Efficacy Scale (EXSE; McAuley et al 1993) and the Exercise Self-Efficacy (ESE; Neupert et al 2009) have been previously used, validated Spanish versions are not available. This study aimed to translate, culturally adapt, and evaluate the measurement properties of the Spanish versions of the EXSE-McAuley (EXSE-Sp) and ESE-Neupert (ESE-Sp) in Spanish PwMS. The EXSE-McAuley and ESE-Neupert were translated and cross-culturally adapted into Spanish according to Beaton's guidelines. Ninety-three Spanish PwMS completed both questionnaires twice, with a 7-10-day interval between assessments at the end of their rehabilitation program. Structural validity, internal consistency, test-retest reliability, measurement error, and construct validity were evaluated following the COSMIN framework. Both instruments demonstrated a unidimensional structure with adequate structural validity. Internal consistency was excellent for the EXSE-Sp (Cronbach's α = 0.977) and good for the ESE-Sp (α = 0.896). Test-retest reliability was excellent (ICC = 0.992 and 0.969, respectively), with low measurement error (SEM = 2.83 and 1.20 points; Smallest Detectable Change [SDC] = 7.86 and 3.33 points, respectively). Construct validity was supported by the expected moderate positive correlation between the two scales ( The EXSE-Sp and ESE-Sp demonstrate good measurement properties and are suitable for assessing exercise self-efficacy in Spanish PwMS. These patient-reported measures may support clinical assessment, patient-centred rehabilitation planning, and evaluation of interventions targeting long-term PA participation.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011869/"
+  },
+  {
+    "pmid": "43011830",
+    "title": "From intestinal barrier sensing to glial immune programming: a barrier-immune-glia relay in microbiota-associated neurodegeneration.",
+    "date": "2026",
+    "journal": "Frontiers in immunology",
+    "authors": [
+      "Lin J",
+      "Zou X"
+    ],
+    "abstract": "The gut microbiota contributes to host homeostasis through metabolic, immunological, neural, and barrier-related pathways, and its role in the onset and progression of neurodegenerative diseases has received increasing attention. Patients with Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis often exhibit alterations in gut microbial composition, microbial metabolic function, and peripheral inflammatory phenotypes. However, existing clinical evidence is derived predominantly from cross-sectional studies, and the direction of causality between microbiota alterations and disease pathology remains to be established. This review uses a \"barrier-immune-glial relay\" framework to systematically summarize the potential mechanisms through which gut microbiota-associated signals influence immune homeostasis in the central nervous system. First, alterations in microbial composition, short-chain fatty acids, bile acids, tryptophan derivatives, and lipopolysaccharide may act on the intestinal epithelial barrier, enteric nervous system, and intestinal mucosal immune cells, thereby affecting local immune tolerance and inflammatory responses. Second, intestinal macrophages, dendritic cells, innate lymphoid cells, T cells, and B cells may translate local microbial signals into circulating metabolites, inflammatory mediators, and immune cell-associated signals, which may in turn influence blood-brain barrier function and the central immune microenvironment. Furthermore, microglia and astrocytes, as key integrators within the central nervous system, can respond to gut-derived metabolites and peripheral immune signals. Their interaction network may determine whether neuroinflammation, synaptic injury, and neurodegenerative pathology are amplified or constrained. This review also evaluates the levels of evidence supporting these mechanisms in Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, and multiple sclerosis. Although these disorders may share mechanistic nodes, including barrier impairment, immunometabolic dysregulation, and glial responses, their core pathologies, immune contexts, and temporal disease trajectories differ substantially. Finally, we propose that establishing a verifiable causal chain linking \"microbial functional genes-metabolites-barrier and immune remodeling-glial cell states-neuropathology-clinical phenotypes\" will provide a basis for biomarker development and precision interventions in neurodegenerative diseases.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011830/"
+  },
+  {
+    "pmid": "43011814",
+    "title": "Th17 suppression strategies: targeting IL-17 and RORγt pathways in autoimmune diseases.",
+    "date": "2026",
+    "journal": "Frontiers in immunology",
+    "authors": [
+      "Zian Z",
+      "Aliyu M",
+      "Hossain F",
+      "Zohora FT",
+      "Ceylan A",
+      "Ben Moussa N",
+      "Hsieh WJ",
+      "Abbes F",
+      "Abubakar SD",
+      "Azizi G"
+    ],
+    "abstract": "T helper 17 (Th17) cells and their key effector cytokine, particularly IL-17A and IL-17F, play central roles in host defense against extracellular pathogens. However, they are also critically involved in the pathogenesis of many autoimmune and inflammatory diseases. Th17 cell differentiation, stabilization, plasticity, and pathogenicity are regulated by a network of cytokines and transcription factors, including IL-6, TGF-β, IL-23, STAT3, and the key transcription factor RORγt. RORγt-dependent pathways are also relevant to other immune populations, including group 3 innate lymphoid cells (ILC3s), highlighting the complexity of the IL-17 axis across tissues. Dysregulation of these pathways can lead to chronic inflammation and tissue damage in diseases such as psoriasis, rheumatoid arthritis, multiple sclerosis, and inflammatory bowel disease. Therapeutic targeting of the Th17 axis has led to clinically established approaches, particularly direct blockade of IL-17 signaling and inhibition of IL-23, whereas direct RORγt inhibition remains an investigational strategy. RORγt inhibitors may modulate Th17 differentiation and broader RORγt-dependent transcriptional programs, but their clinical development has been challenged by variable efficacy, safety considerations, and translational limitations. This review provides a comprehensive overview of Th17 biology, focusing on differentiation, plasticity, tissue-specific functions, and the contribution of Th17 and other RORγt-expression populations to autoimmune diseases. Furthermore, it critically compares established IL-17-targeted therapies with emerging RORγt inhibitors, emphasizing their distinct mechanisms, cellular and molecular targets, clinical evidence, safety, and developmental status. Finally, we discuss combination strategies, translational challenges, and emerging biomarkers that may contribute to more individualized therapeutic approaches and patient stratification.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011814/"
+  },
+  {
+    "pmid": "43011206",
+    "title": "Impact of myelin phagocytosis on human myeloid cells and its effect on human oligodendrocytes.",
+    "date": "2026",
+    "journal": "Brain communications",
+    "authors": [
+      "Schmitz-Gielsdorf LE",
+      "Heß K",
+      "Thomas C",
+      "Dorion MF",
+      "Drexler H",
+      "Albrecht S",
+      "Antel J",
+      "Huitinga I",
+      "Klotz LH",
+      "Kuhlmann T"
+    ],
+    "abstract": "Multiple sclerosis is characterized by immune-mediated myelin destruction, leading to oligodendrocyte loss and neuronal degeneration. While remyelination can mitigate myelin loss, this process often fails in the multiple sclerosis lesions. The underlying cellular and molecular mechanisms of remyelination failure in multiple sclerosis remain elusive. Results from experimental models suggested that myelin phagocytosis shifts myeloid cells from a pro- to a more anti-inflammatory phenotype, thus promoting myelin repair; however, in aged animals, myelin debris clearance and remyelination are impaired, at least partially due to an impaired cholesterol degradation. In this study, we investigated the link between remyelination, myelin debris clearance and lipid droplet formation and how myelin uptake influences the inflammatory phenotype of primary human phagocytes using multiple sclerosis tissue samples, primary human myeloid cells and human-induced pluripotent stem cell-derived oligodendrocytes. In multiple sclerosis tissue samples, no correlation was found between the formation of lipid droplets and remyelination.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011206/"
   }
 ]
