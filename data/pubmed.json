@@ -126,6 +126,23 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43019492/"
   },
   {
+    "pmid": "43034814",
+    "title": "20-year trends in multiple sclerosis prevalence, incidence and age at death in Lombardy, Northern Italy: a region-wide cohort study using administrative linked data.",
+    "date": "2027 Jan",
+    "journal": "The Lancet regional health. Europe",
+    "authors": [
+      "Blandi L",
+      "Giordano A",
+      "Cuciniello R",
+      "Bergamaschi R",
+      "Signorelli C",
+      "Filippi M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a leading cause of non-traumatic neurological disability in young adults. We assessed 20-year trends in MS prevalence, incidence and mean age at death in Lombardy, Italy, using population-wide linked administrative data. We conducted a retrospective population-based cohort study including all regional residents aged 18 years or older between 2005 and 2024. MS cases were identified through an administrative algorithm. Annual crude and age-standardised incidence and prevalence rates were calculated overall and by sex and age group, using the 2025 WHO World Standard Population, including female-to-male ratios. Mean age at death was computed and stratified by sex. Temporal trends were analysed using joinpoint regression. Among 10 million residents, MS incidence and prevalence increased from 8.2 (95%CI, 7.6-8.8) to 10.9 (10.2-11.6) and from 71.6 (70.0-73.2) to 152.4 (150.1-154.8) per 100,000 population, respectively, over the period 2005-2024. MS incidence was consistently higher among females and rose most markedly among adults 18-29-year +43.9%, from 12.4 (10.5-14.5; n = 153) to 17.8 (15.5-20.4; n = 217) per 100,000 and 30-39-year +42.9%, from 17.7 (15.7-19.9; n = 283) to 25.3 (22.5-28.4; n = 288). Overall age-standardised incidence declined non-significantly until 2015 (Annual Percentage Change (APC) -0.69%, 95% CI -7.61 to 0.90) followed by a significant increase thereafter (APC +2.84%, 95% CI 0.94-11.58). Incidence increased steadily in males (APC +1.54%, 95% CI 0.47-2.61), and, among females, rose significantly from 2013 onward (APC +2.30%, 95% CI 0.89-8.83). Over the study period, the female-to-male incidence rate ratio decreased from 2.4 (95% CI, 2.0-2.8) to 1.7 (1.5-1.9), whereas the corresponding prevalence ratio changed from 2.1 (95% CI, 2.0-2.2) to 1.9 (1.9-2.1). Mean age at death increased by about 6-10 years linearly since 2005, reaching 69.6 years (median 71.0, IQR 61.0-78.0, SD 11.7) among males and 73.8 years (75.0, 66.5-81.0, 10.7) among females in 2024. MS incidence and prevalence increased over two decades, particularly among younger adults alongside older age at death. These findings may reflect changing disease risk, improved diagnostic sensitivity, and advances in treatment. Continuous surveillance using linked administrative data is essential for healthcare planning and resource allocation. None.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034814/"
+  },
+  {
     "pmid": "43014980",
     "title": "Central Nervous System Inflammatory and Infectious Disease.",
     "date": "2027 Feb",
@@ -3228,6 +3245,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43030877/"
   },
   {
+    "pmid": "43033547",
+    "title": "Serum NOX5: age-invariant increases in multiple sclerosis and associations with paramagnetic rim lesions.",
+    "date": "2026 Nov 9",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Trombetta BA",
+      "Deshpande M",
+      "Ionete C",
+      "Hemond CC"
+    ],
+    "abstract": "Multiple sclerosis (MS) misdiagnosis remains a clinical problem that lacks blood-based biomarkers. NADPH oxidase 5 (NOX5) is a human-specific marker of oxidative stress and vascular dysfunction; it has been suggested as a candidate biomarker. We aimed to evaluate serum NOX5 not just as a diagnostic discriminator for MS, but also define its relationship to MS clinical and imaging pathology. We performed a retrospective, age- and sex-matched, case-control study between adults with MS compared to non-inflammatory controls; MS samples were selected based on availability of harmonized 3T MRI and varying treatment categories (naïve, previously treated, low/moderate efficacy, and high efficacy). NOX5 levels were determined from serum analysis using ELISA; MRI measures included brain parenchymal fraction (BPF), T2-lesion volumes (T2LV), and paramagnetic rim lesions (PRL). Vascular comorbidities were additionally assessed. Serum NOX5 was higher in MS versus controls (152.4±48.4 vs 114.4±33.9 ng/mL; +33%; p=0.001), as well as in current smokers. Diagnostic performance for MS yielded a bootstrapped AUC=0.76 versus controls (p=0.001) but was confounded by smoking status. NOX5 was not associated with age, sex, disability scores, BPF, or T2LV (p>0.05), but was elevated in patients with ≥1 PRL (+28%; p=0.012); ≥2 PRL category remained significant when adjusted for potential confounds, except in regularized models. NOX5 was lower in treated versus untreated MS but did not reach statistical significance. Serum NOX5 demonstrates potential diagnostic discrimination for MS independent of age and sex, is increased in current smokers, and associates with PRL presence, suggesting a possible linkage to chronic lesion oxidative stress. Given the exploratory nature of this retrospective study, the modest sample size, and the potential confounding effect of smoking, these findings should be interpreted cautiously and require validation in larger, prospective, and treatment-balanced cohorts.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033547/"
+  },
+  {
     "pmid": "43000694",
     "title": "Revisiting Daclizumab for Multiple Sclerosis: A Systematic Evaluation of a Targeted Immunotherapy.",
     "date": "2026 Nov 8",
@@ -4359,6 +4391,53 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43026447/"
   },
   {
+    "pmid": "43034120",
+    "title": "Voice Handicap and Vocal Fatigue, Anxiety, and Depression in Multiple Sclerosis: An Analysis Based on Functional Disability and Disease Progression.",
+    "date": "2026 Nov 14",
+    "journal": "Journal of voice : official journal of the Voice Foundation",
+    "authors": [
+      "Santiago R",
+      "Moreti F",
+      "Anhoque CF",
+      "Miilher LP",
+      "Nascimento MHC",
+      "Trevizani G",
+      "Barauna VG",
+      "De Melo Rodrigues LC"
+    ],
+    "abstract": "To understand how voice handicap, vocal fatigue, anxiety, and depression correlate in individuals with Multiple Sclerosis (MS), based on disease progression and functional disability. This observational, cross-sectional study included 52 individuals diagnosed with MS and followed at a specialized care center. Participants were divided into two groups according to functional disability level assessed by the Expanded Disability Status Scale (EDSS): Group 1 (G1), with scores between 0 and 3, and Group 2 (G2), with scores between 3.5 and 7. Sociodemographic and clinical data were collected through a structured questionnaire. In addition, the Voice Handicap Index-10 (VHI-10), Vocal Fatigue Index (VFI), Beck Depression Inventory (BDI), and Beck Anxiety Inventory (BAI) were administered. Correlational and comparative analyses were performed with a significance level of 5% (P < 0.05). There was a predominance of female participants (n = 37; 68.8%) and relapsing-remitting disease course (n = 43; 82.7%). Participants in G1 did not exceed the VHI-10 cutoff score but presented vocal fatigue, with moderate correlations among the instruments, indicating perceived vocal effort and limitations even in cases of lower functional impairment. G2 exceeded the cutoff scores for both VHI-10 and VFI, with significantly higher scores than G1, and also demonstrated stronger correlations with anxiety and depression symptoms, suggesting that in more advanced stages of MS, vocal complaints are more consistently related to the emotional burden of the disease. Regardless of the level of functional disability, patients with MS presented self-reported vocal fatigue as well as symptoms of anxiety and depression. However, voice handicap was more evident in the group with greater disease severity.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034120/"
+  },
+  {
+    "pmid": "43033592",
+    "title": "Callosal atrophy does not establish physiological disconnection in imaging models of cognitive risk in multiple sclerosis.",
+    "date": "2026 Nov 14",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "authors": [
+      "Minagar A"
+    ],
+    "abstract": "Automated magnetic resonance imaging can quantify callosal atrophy and estimate structural disconnection in multiple sclerosis, but neither measurement establishes physiological conduction failure. In an early relapsing-remitting cohort, Wahl and colleagues found a relationship between motor-callosal microstructure and interhemispheric inhibition in controls that was not detectable in patients. This finding illustrates why a structural feature cannot automatically inherit a functional interpretation. Earlier structure-function studies provide a foundation for contemporary pipelines when the measurements, pathways, and populations are comparable. This opinion paper organizes validation into five evidence domains with separate biological and prognostic branches: technical validity, biological validity, physiological validity, prognostic performance, and clinical utility. Physiological claims require functional evidence matched to anatomy and task, with reliability and competing circuit explanations assessed. A purely prognostic feature instead requires credible predictive evaluation, including external validation and calibration; it may be useful as a proxy for global disease burden. Clinical utility concerns the consequences of a specified decision and is distinct from predictive performance and implementation feasibility. Reports should preserve the qualifier in estimated structural disconnection and reserve physiological interpretations for measurements supported by corresponding functional evidence.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033592/"
+  },
+  {
+    "pmid": "43033424",
+    "title": "Effects of cladribine on cognitive and physical disability in MS: A Retrospective Real-World Study.",
+    "date": "2026 Nov 14",
+    "journal": "European neurology",
+    "authors": [
+      "Ozakbas S",
+      "Kaya E",
+      "Ozdogar AT",
+      "Simsek Y",
+      "Zengin ES"
+    ],
+    "abstract": "Cladribine tablets are an established oral immune reconstitution therapy for relapsing multiple sclerosis, with proven clinical and radiological efficacy. However, evidence regarding their effects on cognitive and physical outcomes in real-world settings remains limited. To assess the clinical, radiological, cognitive, and physical outcomes of cladribine treatment in people with Multiple Sclerosis (pwMS) over a follow-up of up to two years in a real-world cohort. A total of 173 patients with multiple sclerosis (pwMS) received cladribine treatment and were subsequently followed over time. Clinical data, including relapse rate, EDSS, and MRI findings, were collected annually. Cognitive (BICAMS: Brief International Cognitive Assessment for MS) and physical performance (T25FW: Timed-25-Foot Walking Test, N-HPT: Nine-Hole Peg Test) data of a subgroup of participants were collected at baseline, year 1, and year 2. The mean age was 36.75 ± 11.44, and the mean disease duration was 8.33 ± 6.85 years. Over a two-year follow-up, 94.8% of patients remained relapse-free, and MRI activity was absent in 96.5%. Significant improvements were observed in all BICAMS subtests (p < 0.05). While T25FW increased over years (p: 0.017), NHPT showed a similar trajectory (p>0.05). Cladribine demonstrated high efficacy in suppressing clinical and radiological activity while supporting cognitive stability.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033424/"
+  },
+  {
     "pmid": "43013671",
     "title": "The role of network connectivity and transcriptomic vulnerability in shaping gray matter atrophy in multiple sclerosis.",
     "date": "2026 Nov 13",
@@ -4796,6 +4875,37 @@
     "abstract": "Multiple sclerosis (MS) combines peripheral immune dysregulation, compartmentalized central nervous system inflammation, and neurodegeneration. This critical narrative review evaluates the rationale, clinical evidence, safety, biomarkers, and development of chimeric antigen receptor (CAR) T-cell therapy in MS. Early studies demonstrate peripheral B-lineage depletion, CAR T-cell detection in cerebrospinal fluid, and changes in intrathecal biomarkers. They do not directly demonstrate depletion of meningeal or parenchymal B cells, durable clinical efficacy, or restored immune tolerance. A durable immune reset remains unproven. Deeper depletion does not establish superiority to anti-CD20 therapy; in one spontaneous experimental autoimmune encephalomyelitis model, meningeal B-cell depletion accompanied increased demyelination and axonal injury. Experience in other autoimmune diseases supports feasibility but cannot establish benefit in progressive MS. A preliminary October 2026 sponsor report from 66 Breakfree-2 participants with MS described cytokine release syndrome in 42.4% and five neurotoxicity cases, including one resolved grade 4 event. A post-cutoff death from septic pneumonia occurred after treatment for delayed motor symptoms, including high-dose cyclophosphamide; causation cannot be isolated from this report. Cytopenias, infections, hypogammaglobulinemia, and uncertain long-term immune effects also require surveillance. In vivo CAR generation could simplify manufacturing but raises unresolved questions about delivery specificity, persistence, and safety. Controlled trials must distinguish target engagement from sustained disability benefit using standardized clinical, imaging, biomarker, and patient-reported outcomes. CAR-T therapy remains investigational in MS; its role depends on durable benefit, acceptable toxicity, and comparative evidence against established therapies.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43025210/"
+  },
+  {
+    "pmid": "43033549",
+    "title": "The natalizumab wearing-off phenomenon in relapsing-remitting multiple sclerosis: A real-world clinical characterization.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Alizada S",
+      "Samadzade U",
+      "Cevik S",
+      "Caliskan C",
+      "Ozakbas S"
+    ],
+    "abstract": "Natalizumab is a highly effective disease-modifying therapy for relapsing-remitting multiple sclerosis (RRMS). Some patients, however, report transient recurrence of symptoms before the next infusion, a phenomenon known as \"wearing-off.\" Its frequency, characteristics, and clinical relevance remain uncertain. To assess the prevalence, clinical features, and potential correlates of the natalizumab wearing-off phenomenon in a real-world RRMS cohort. This cross-sectional study included 66 patients with RRMS receiving standard four-week natalizumab infusions. Participants underwent clinical interviews, neurological examination, and assessment of disability using the Expanded Disability Status Scale (EDSS), fatigue using a visual analog fatigue scale, and health-related quality of life using EQ-5D-3 L. Wearing-off was classified using a yes/no questionnaire item; consistent recurrence across infusion cycles was not required. Demographic and clinical features were compared between groups, and logistic regression explored associations with wearing-off. Fifteen of 66 patients (22.7%) met the study definition of wearing-off. The most frequent symptoms were fatigue (40.0%) and limb weakness (33.3%), typically emerging 5-7 days before the next infusion. Nine patients reported partial improvement before infusion, whereas six reported symptom resolution only after infusion. No statistically significant between-group differences were identified in age, sex, disease duration, EDSS, or quality of life scores. Approximately one-fifth of patients in this clinically stable cohort met the study definition of wearing-off, with fatigue and limb weakness being the most frequently reported symptoms. The cross-sectional findings do not establish the underlying mechanism or consistency of symptoms across infusion cycles.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033549/"
+  },
+  {
+    "pmid": "43033548",
+    "title": "Clinical, radiological, and biomarker outcomes following a switch from MabThera® to the rituximab biosimilar Rixathon® in multiple sclerosis.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Haghgoy A",
+      "Fällmar D",
+      "Tolf A",
+      "Burman J"
+    ],
+    "abstract": "Rituximab is widely used off-label for multiple sclerosis (MS) in Sweden, and many centres have transitioned from originator rituximab (MabThera®) to biosimilars for economic reasons. Evidence on outcomes following a switch to the biosimilar Rixathon® in MS remains limited. Effectiveness and safety of rituximab before and after a switch from MabThera® to Rixathon® in routine health care. This retrospective observational cohort study was conducted at Uppsala University Hospital, Sweden, using prospectively collected data from the Swedish MS Registry and medical records. Patients receiving MabThera® who switched to Rixathon® from January 1, 2023 were included if they had follow-up and at least one plasma neurofilament light chain (pNfL) and/or MRI assessment in each treatment period. The primary outcome was pNfL; secondary outcomes included MRI activity, relapses, Expanded Disability Status Scale (EDSS) trajectories, no evidence of disease activity (NEDA), and serious adverse events (CTCAE grade 3-5). Longitudinal outcomes were analysed using mixed-effects models with time centred at the switch. The study was registered at ClinicalTrials.gov (NCT07235644). The cohort comprised 136 patients (median age 45 years; 70% women), contributing 1012 pNfL measurements. pNfL decreased during MabThera® treatment and remained stable at low levels after switching to Rixathon®, consistent with a transition from treatment initiation to maintenance. Age-adjusted pathological pNfL values occurred in 34/135 (25%) patients during MabThera® and 16/132 (12%) during Rixathon® (p = 0.001). Among 773 brain MRI examinations (n = 129), no new or enlarging T2 lesions or gadolinium-enhancing lesions were detected after the switch. Relapse rates were low in both periods, EDSS slopes did not differ significantly, and serious adverse events were uncommon. In this real-world MS cohort, switching from MabThera® to the biosimilar Rixathon® provided evidence of maintained disease control, with no new safety signal observed during follow-up.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033548/"
   },
   {
     "pmid": "42952209",
@@ -5461,6 +5571,45 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42965998/"
   },
   {
+    "pmid": "43034528",
+    "title": "Neuropsychological evaluation and rehabilitation in multiple sclerosis (NEuRoMS): A mixed-methods, multi-centre feasibility randomised controlled trial.",
+    "date": "2026 Jul-Sep",
+    "journal": "Multiple sclerosis journal - experimental, translational and clinical",
+    "authors": [
+      "das Nair R",
+      "Topcu G",
+      "Goulden N",
+      "Harris S",
+      "Mhizha-Murira JR",
+      "Morris H",
+      "Swain P",
+      "Taylor LA",
+      "Hancock J",
+      "Price L",
+      "Hill J",
+      "Drummond A",
+      "Hoare Z",
+      "Fitzsimmons D",
+      "Kendrick D",
+      "Timmons S",
+      "Thomas S",
+      "Martin J",
+      "Middleton R",
+      "Turton JC",
+      "Bale C",
+      "Stennett A",
+      "Simkiss R",
+      "Fletcher K",
+      "Tallantyre EC",
+      "Schmierer K",
+      "Evangelou N",
+      "NEuRoMS Collective"
+    ],
+    "abstract": "Cognitive difficulties are common in people with multiple sclerosis (pwMS), yet access to neuropsychological rehabilitation is often limited or only provided to those with more severe impairments. The NEuRoMS intervention provides brief, tailored neuropsychological rehabilitation for pwMS with mild-to-moderate cognitive difficulties. To evaluate feasibility and acceptability of the intervention and test procedures for a definitive trial. A mixed-methods, multi-centre feasibility randomised controlled trial (RCT) was conducted. Feasibility outcomes were recruitment, retention, outcome completion, randomisation, intervention delivery and fidelity. Quantitative data were collected at baseline, 3- and 6-months, supplemented by interviews with pwMS and healthcare providers. Seventy-nine participants were randomised (mean age = 54.5 ( The NEuRoMS intervention and trial procedures were feasible and acceptable, with early indication of efficacy. A definitive RCT is underway.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034528/"
+  },
+  {
     "pmid": "42946860",
     "title": "Deciphering the mechanistic landscape of notch signaling in autoimmune pathogenesis.",
     "date": "2026 Jul 31",
@@ -5652,6 +5801,42 @@
     "abstract": "Wearable gait monitoring can support neurological follow-up, but raw inertial time-series are difficult to interpret clinically. To evaluate a semantic pipeline that converts raw wearable streams into structured gait events for free-living monitoring. Instrumented smart socks captured tri-axial accelerometer and gyroscope signals from a bilateral inertial measurement unit (IMU) configuration. Data were stored as raw time-series. A deterministic rule-based pipeline derived time-bounded events (per-limb sensor-reception intervals, concurrent bilateral candidate intervals, per-limb effective-movement intervals, and bilateral gait episodes) in a relational database. The semantic layer was published as a Web Ontology Language (OWL) ontology with an Ontop ontology-based data access (OBDA) mapping and reusable SPARQL Protocol and RDF Query Language (SPARQL) queries. Feasibility was evaluated in 44 participants (31 people with multiple sclerosis (PwMS) and 13 controls) across 257 monitoring sessions. The pipeline identified 6,224 gait episodes (∼60.8 hours walking). Episode counts were right-skewed (mean 141.5 episodes/participant, 95% CI 109-174). Most participants (80%) showed low left-right asymmetry (mean index 0.069, 95% CI 0.040-0.107), while elevated imbalance was concentrated in low-data participants. Against standardised in-clinic tests, positive-interval detection sensitivity was 85% (50/59 intervals with bilateral data) after per-session clock alignment using the same annotations; this potentially optimistic estimate does not establish specificity or free-living false-positive performance. In the frozen analysis snapshot, semantic-consistency checking confirmed that 100% of the 6,224 reported gait episodes were temporally contained within concurrent bilateral candidate intervals (activity_all). Hierarchical semantic temporal events enable transparent, scalable, and interpretable real-world gait monitoring. By releasing the ontology, OBDA mapping, and queries, the pipeline supports longitudinal assessment, limb balance analysis, and interoperable health-system integration. The same approach is applicable beyond gait to other wearable-derived digital biomarkers and rehabilitation-monitoring tasks. This work does not deliver a validated clinical gait assessment tool, but demonstrates reusable digital health representations.",
     "category": "Реабилитация и мобильность",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42973676/"
+  },
+  {
+    "pmid": "43034469",
+    "title": "A tailored smoking cessation intervention for people with multiple sclerosis: Results of a single-arm feasibility study.",
+    "date": "2026 Jan-Dec",
+    "journal": "Sage open chronic disease",
+    "authors": [
+      "Keller AM",
+      "Kotz D",
+      "Marck CH",
+      "Winter M",
+      "Friemel CM",
+      "Heesen C",
+      "Riemann-Lorenz K"
+    ],
+    "abstract": "People with multiple sclerosis (pwMS) who smoke have an increased risk of progression. MS-specific barriers make it more difficult to stop smoking. However, tailored smoking cessation programs for pwMS are non-existent. The aim of this study was to assess the feasibility of a newly developed MS-specific smoking cessation intervention. This was a one-armed, uncontrolled, prospective feasibility study. The intervention consisted of five online group sessions over 3 weeks, with follow-up assessments 3 and 12 weeks after baseline. This study took place between December 2024 and September 2025. Recruitment was conducted via clinics and MS networks. Primary outcomes were demand, practicality, and acceptability. The potential effectiveness was a secondary outcome. Self-reported smoking status was assessed at both follow-ups. Smoking status for participants who were smoke-free at 12 weeks was verified by measuring cotinine levels in saliva samples. This study was pre-registered: https://drks.de/search/de/trial/DRKS00035557. With regard to demand, we screened 130 individuals from November 2024 to May 2025, with 99 found to be eligible. Of those enrolled ( The intervention was well received. A randomized controlled trial to test its efficacy seems feasible, with improvements to recruitment strategies and by integrating participants' feedback. Our findings suggest that tailored interventions may play an important role in addressing smoking cessation in people with other chronic or neurological conditions as well. This study was registered at the German Clinical Trials Register: DRKS00035557.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034469/"
+  },
+  {
+    "pmid": "43034404",
+    "title": "Prevalence and clinical correlates of obsessive-compulsive disorder in central nervous system autoimmune demyelinating diseases: A cross-sectional observational Study.",
+    "date": "2026 Jan-Dec",
+    "journal": "Sage open chronic disease",
+    "authors": [
+      "Mirmosayyeb O",
+      "Vaheb S",
+      "Yazdan Panah M",
+      "Mohammadifard F",
+      "Aghajanian S",
+      "Sharbafchi MR",
+      "Shaygannejad V"
+    ],
+    "abstract": "Obsessive-compulsive disorder (OCD) is a disabling psychiatric comorbidity that may be underrecognized in multiple sclerosis (MS) and neuromyelitis optica spectrum disorder (NMOSD). Evidence regarding its prevalence and associated factors in these populations remains limited. To estimate the prevalence of OCD and examine its clinical and demographic correlates in patients with MS and NMOSD in an Iranian cohort. Cross-sectional observational study. This cross-sectional study (January 2018-December 2024) included patients with MS and NMOSD from Kashani Hospital and Hakim MS Clinic, Isfahan, Iran. MS and NMOSD diagnoses were made according to the 2017 McDonald and 2015 IPND criteria, respectively. OCD was diagnosed by certified psychiatrists per DSM-IV. Demographic, clinical, and neuropsychological data were extracted from interviews and medical records. Group comparisons were performed using t-tests or χ Of 4,759 patients (mean age, 42.9 years; 77.1% female), 4,460 had MS (3,502 with relapsing-remitting MS (RRMS), 212 with primary progressive MS (PPMS), and 746 with secondary progressive MS (SPMS)), and 299 had NMOSD. OCD prevalence was 15.4% in MS, highest in RRMS (17.8%), and 12.7% in NMOSD. Across all participants, female sex (OR 1.32, 95% CI 1.04-1.64), higher educational attainment, sensory vs. motor onset symptoms, migraine (OR 1.46, 95% CI 1.16-1.83), and hypothyroidism (OR 1.29, 95% CI 1.01-1.65), lower EDSS (OR per 1-unit: 0.78, 95% CI 0.70 - 0.88), and shorter disease duration (OR per 1-year: 0.98, 95% CI 0.97 - 1.00) were significantly associated with higher odds of OCD. OCD is frequently observed among patients with MS and NMOSD and shows distinct clinical associations, including migraine, hypothyroidism, sensory onset phenotype, and lower disability. Recognition of psychiatric comorbidities in these disorders may facilitate more comprehensive and individualized clinical management.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034404/"
   },
   {
     "pmid": "42987244",
@@ -7294,5 +7479,52 @@
     "abstract": "Neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, multiple sclerosis and stroke, are characterized by progressive neuronal dysfunction, synaptic impairment and neural circuit degeneration, leading to severe cognitive and motor deficits. Although considerable progress has been made in understanding their molecular pathology, the circuit level mechanisms driving disease onset and progression remain incompletely understood. Optogenetics, which combines microbial opsins, genetic engineering and optical stimulation, enables reversible, cell-specific control of neuronal activity with millisecond precision and has transformed neuroscience from observational analysis to causal investigation of neural circuits. This review summarizes recent advances in the molecular basis of optogenetics, microbial opsins, gene delivery strategies and optical stimulation technologies, together with their applications in basic neurobiology and neurodegenerative disease research. We discuss how optogenetics has advanced understanding of neural circuit organization, synaptic plasticity, memory, neurodevelopment, sleep regulation, protein aggregation, synaptic dysfunction, neuroinflammation, mitochondrial impairment, oxidative stress and regulated cell death. Although these studies have generated important mechanistic insights and demonstrated functional improvements in experimental models, translation into human therapies remains investigational due to challenges associated with gene delivery, long-term opsin expression, immune compatibility and optical accessibility. Emerging therapeutic strategies, including closed-loop neuromodulation, wireless photostimulation, artificial intelligence-assisted neural decoding, nanotechnology enabled light delivery and brain computer interfaces, are critically evaluated with emphasis on their current evidence status, translational challenges and limitations for clinical implementation. Collectively, optogenetics provides an unprecedented platform for deciphering disease mechanisms and evaluating circuit-based neuromodulation strategies, while continued technological and biological validation will determine its future role in precision therapies for neurodegenerative disorders.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43022201/"
+  },
+  {
+    "pmid": "43034490",
+    "title": "An Incidental Discovery of Multiple Sclerosis in an 18-Year-Old Male Following Posttraumatic Brain Imaging.",
+    "date": "2026",
+    "journal": "Case reports in neurological medicine",
+    "authors": [
+      "Limburg B",
+      "Wilde E",
+      "Moody T"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic, debilitating autoimmune disease for which there is currently no cure. Most commonly, MS presents in white, middle-aged females. However, the pathogenesis of the condition is incompletely understood. We report a rare case of the incidental discovery of MS in an 18-year-old male. In-depth neurological workup following traumatic brain injury secondary to a motor vehicle accident revealed nonenhancing demyelinating lesions in the brain and spine on MRI. Further workup, including CSF positivity for oligoclonal bands, supported the diagnosis of MS, and the patient promptly began disease-modifying therapy (DMT) with ocrelizumab. As no current preventive screening strategy is in place for MS in the United States, this patient likely would not have started DMT until many years in the future. This case provides a reason to keep MS on the neurologic differential diagnosis even in demographically atypical patients and inspires further discussion regarding the role of early detection in this disease.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034490/"
+  },
+  {
+    "pmid": "43033470",
+    "title": "Mechanisms and Functional Outcomes of Astrocytic Ca(2+) Signaling.",
+    "date": "2026",
+    "journal": "ASN neuro",
+    "authors": [
+      "Cheli VT",
+      "Angeliu CG",
+      "Paez PM"
+    ],
+    "abstract": "Astrocytic calcium (Ca",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033470/"
+  },
+  {
+    "pmid": "43032354",
+    "title": "Performance of the international 2023 myelin oligodendrocyte glycoprotein antibody-associated disease panel criteria in a Japanese cohort: combined assessment of myelin oligodendrocyte glycoprotein immunoglobulin G in serum and CSF.",
+    "date": "2026",
+    "journal": "Brain communications",
+    "authors": [
+      "Matsumoto Y",
+      "Yamamoto N",
+      "Kaneko K",
+      "Takai Y",
+      "Takahashi T",
+      "Misu T",
+      "Fujihara K",
+      "Aoki M"
+    ],
+    "abstract": "In the 2023 International Panel's diagnostic criteria for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), one of six core clinical demyelinating events (core events) is required: optic neuritis (ON), myelitis, acute disseminated encephalomyelitis (ADEM), cerebral monofocal or polyfocal deficits, brainstem or cerebellar deficits, and cerebral cortical encephalitis. If myelin oligodendrocyte glycoprotein immunoglobulin G (MOG-IgG) in serum is not clearly positive or is CSF restricted, the criteria require supporting clinical and MRI features (supporting features). We assessed the performance of the MOGAD panel criteria in relation to MOG-IgG titres in serum and CSF, and explored the diagnostic implications of CSF MOG-IgG as well as atypical clinical presentations. In this cross-sectional cohort study, we analysed 405 cases of non-multiple-sclerosis CNS demyelinating diseases with aquaporin 4 immunoglobulin G negativity, all of whom underwent MOG-IgG testing using paired serum and CSF samples collected across Japan from 2015 to 2018. Endpoint titres were determined by two-fold serial dilutions (starting at 1:16 for serum and 1:1 for CSF), with ≥1:128 in serum defined as the cut-off to minimize false-positive results, as we previously established. Two independent investigators evaluated whether each patient met the core events and the supporting features. A total of 141 cases exhibited MOG-IgG positivity in serum and/or CSF. The core events included ON (",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032354/"
   }
 ]
