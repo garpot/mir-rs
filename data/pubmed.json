@@ -524,6 +524,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42953435/"
   },
   {
+    "pmid": "43036431",
+    "title": "Impact of treatment mechanism on octave MSDA pathway scores in patients receiving ocrelizumab or natalizumab.",
+    "date": "2026 Oct-Dec",
+    "journal": "Multiple sclerosis journal - experimental, translational and clinical",
+    "authors": [
+      "Heidari H",
+      "Maghbooli Z",
+      "Zabeti A"
+    ],
+    "abstract": "To compare MSDA Score and pathway scores between patients treated with ocrelizumab and natalizumab in real-world MS population. We conducted a cross-sectional observational study of patients treated with ocrelizumab or natalizumab at a tertiary MS center between June 2023 and February 2025. Octave MSDA results were linked to clinical and MRI data from electronic health records. Group differences in MSDA composite and pathway scores were evaluated using ordinal regression models adjusted for demographic and disease-related covariates. A total of 152 patients were included (105 ocrelizumab, and 47 natalizumab). Except for two natalizumab-treated patients (≥ 4 months), all patients had been on their current DMT for at least 6 months. Patients treated with ocrelizumab were significantly more likely to have low MSDA scores (MSDA ≤ 4) compared to those treated with natalizumab (98.1% vs. 66%), despite similar clinical and MRI outcomes. Patients on ocrelizumab also had lower scores in three biological pathways, including neuroinflammation (p < 0.001), immunomodulation (p < 0.001), and myelin biology (p = 0.002). Ocrelizumab-treated patients showed significantly lower Octave MSDA composite scores compared with natalizumab, independent of clinical and MRI findings, highlighting the importance of considering DMT mechanisms when interpreting serum biomarker profiles.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036431/"
+  },
+  {
     "pmid": "42942479",
     "title": "Temporal Change: Evaluation of Brain Atrophy in Patients with Radiologically Isolated Syndrome Using volBrain.",
     "date": "2026 Oct 9",
@@ -4908,6 +4922,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43033548/"
   },
   {
+    "pmid": "43035027",
+    "title": "Efficacy of disease-modifying therapies in primary progressive multiple sclerosis: systematic review and network meta-analysis.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Reyes-de-la-Mata Y",
+      "Cano-Martinez G",
+      "Alegre-Del-Rey EJ",
+      "Fenix-Caballero S"
+    ],
+    "abstract": "Primary progressive multiple sclerosis (PPMS) leads to continuous neurodegeneration. Treatment options are limited, but B-cell-depleting therapies and brain-penetrant Bruton's tyrosine kinase (BTK) inhibitors have emerged. Compare the efficacy of disease-modifying therapies (DMTs) on 12-week composite confirmed disability progression (cCDP12) in PPMS. Systematic review and Bayesian network meta-analysis of Phase III randomized trials (up to June 2026). Binomial likelihood models estimated odds ratios (OR) and 95% credible intervals (CrI). Five trials (4306 patients) were included. Fenebrutinib (OR 0.52, 95% CrI 0.37-0.72; estimated absolute risk reduction [ARR] = 14.1%, number needed to treat [NNT] = 7), standard ocrelizumab 600 mg (OR 0.71, 95% CrI 0.57-0.87; ARR = 7.8%, NNT = 13), and high-dose ocrelizumab (OR 0.65, 95% CrI 0.45-0.94; ARR = 9.6%, NNT = 11) significantly reduced cCDP12 risk versus placebo. Fingolimod was not effective (OR 0.98, 95% CrI 0.73-1.33). In indirect network comparisons under fixed-effects assumptions, fenebrutinib demonstrated lower odds of cCDP12 relative to standard ocrelizumab (OR 0.73, 95% CrI 0.57-0.95), whereas direct head-to-head trial data from FENtrepid demonstrated comparable primary efficacy / non-inferiority. Under a random-effects sensitivity model, credible intervals widened and crossed 1.00 (OR 0.73, 95% CrI 0.40-1.38), reflecting structural uncertainty in a sparse network. Fenebrutinib and ocrelizumab (standard and high-dose) show efficacy in reducing cCDP12 in PPMS. Fenebrutinib demonstrated lower estimated odds of progression under fixed-effects network assumptions, highlighting the clinical potential of central microglial BTK inhibition; however, equivalent direct trial efficacy, loss of statistical significance under random-effects modeling, and baseline clinical heterogeneity (gadolinium-enhancing lesion activity) across trials mandate cautious clinical interpretation. ClinicalTrials.gov: ORATORIO (NCT01194570); ORATORIOHAND (NCT04035005); GAVOTTE (NCT04548999); FENtrepid (NCT04544449); INFORMS (NCT00731692).",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035027/"
+  },
+  {
     "pmid": "42952209",
     "title": "Mesenchymal Stem Cell Therapy for Multiple Sclerosis: Harnessing Immunological Properties.",
     "date": "2026 Nov 1",
@@ -5460,6 +5489,23 @@
     "abstract": "People with multiple sclerosis (MS) face disruption to their sense of purpose, meaning, and identity, in addition to physical and psychological symptoms. Nurse-led psychosocial interventions have reduced distress and improved quality of life in other chronic illnesses but are rarely designed to address these outcomes in MS. This narrative review examined nurse-led psychosocial and psychotherapeutic interventions reported in chronic illness populations (2016-2025), focusing on outcomes related to well-being, coping, and meaning-making, to inform implications for MS care. Cognitive behavioral therapy, life review, approaches informed by logotherapy, and structured education have reduced distress, improved coping, and fostered empowerment across chronic conditions. However, methodological challenges, cultural variability, and limited nurse training present barriers. Nurse-led psychosocial interventions have demonstrated benefits across diverse patient populations and have the potential to help people with MS rebuild purpose, identity, and confidence in daily life.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43023157/"
+  },
+  {
+    "pmid": "43035261",
+    "title": "Toll-Like Receptor-Driven Neuroinflammation in Neurological Disorders: Signaling Crosstalk and Therapeutic Opportunities.",
+    "date": "2026 Nov",
+    "journal": "Journal of neuroscience research",
+    "authors": [
+      "Sharma A",
+      "Singh G",
+      "Mannan A",
+      "Subramaniyan V",
+      "Dua K",
+      "Singh TG"
+    ],
+    "abstract": "Toll-like receptors (TLRs) serve as pivotal mediators bridging innate immunity and neuroinflammation, orchestrating pathological cascades that drive neurological disorders. Beyond their sentinel role in pathogen recognition, aberrant TLR activation triggers intricate and destructive signaling networks, including activation of NF-κB, MAPK, JAK/STAT, and PI3K/AKT, alongside IRFs and type I interferon responses that converge on chronic neuroinflammation and subsequent neuronal damage. This review dissects TLRs' multilayered contribution to neuropathology, emphasizing their regulation of secondary inflammatory mechanisms, including NLRP3 inflammasome priming and activation, mTOR-driven metabolic dysregulation, SOCS-mediated feedback inhibition, inflammasome activation, and pyroptotic cell death. Critically, these signaling pathways create a pathological intersection with oxidative stress and mitochondrial dysfunction, amplifying a self-perpetuating cycle of neuronal injury that underlies conditions like Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and Amyotrophic lateral sclerosis (ALS), Stroke, Multiple sclerosis (MS), Epilepsy and Traumatic brain injury (TBI). Against this neuropathological landscape, this review systematically evaluates emerging therapeutic strategies targeting TLR-mediated neuroinflammation, encompassing small molecule TLR antagonists, intracellular adaptor protein inhibitors targeting myeloid differentiation primary response 88 (MyD88) and TIR-domain-containing adapter-inducing interferon-β (TRIF), biologic therapies including monoclonal antibodies and fusion proteins, natural phytochemicals and nutraceuticals, Clustered regularly interspaced short palindromic repeats (CRISPR)-based genomic interventions, and cell-based immunomodulatory therapies, collectively representing a mechanistically diverse arsenal aimed at recalibrating the dysregulated innate immune response to achieve durable neuroprotection across the full spectrum of TLR-mediated neurological disorders.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035261/"
   },
   {
     "pmid": "42953809",
@@ -6039,6 +6085,21 @@
     "abstract": "Recent advances in next-generation sequencing technologies have enabled comprehensive characterization of the gut microbiota in multiple sclerosis (MS), revealing significant alterations across the bacteriome, phageome, archaeome, and mycobiome compared with healthy controls. In this review, we discuss how MS is linked to the imbalance of gut microbial communities. Furthermore, we provide mechanistic insights into the interplay among dysbiosis, immunology, and microbial metabolites, including short-chain fatty acids and toxins. Investigations have revealed diminished microbial diversity and shifts in critical immunomodulatory taxa in the gut microbiota of MS patients. It is evident that disruptions in these microbial communities influence the onset and progression of MS through the gut-brain axis. Future research should prioritize longitudinal studies, standardized methodologies, and detailed analysis of gut ecosystem dynamics. Understanding these complex microbial interactions is essential for improving MS management, suggesting that microbiota-targeted interventions may hold promise in future precision medicine strategies. Finally, we hope that this review will guide readers in keeping abreast of the latest research advancements in this field.",
     "category": "Реабилитация и мобильность",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43022363/"
+  },
+  {
+    "pmid": "43036088",
+    "title": "Small Molecule-Mediated Nrf2 Activation as a Neuroprotective Approach in Multiple Sclerosis.",
+    "date": "2026 Dec",
+    "journal": "Drug development research",
+    "authors": [
+      "Borole A",
+      "Boguszewski K",
+      "Furmanski P",
+      "Suh N"
+    ],
+    "abstract": "Multiple sclerosis is a chronic inflammatory autoimmune disease resulting in progressive demyelination of the central nervous system, leading to symptoms such as motor discoordination, cognitive deficits, and ocular dysfunction. Oxidative stress is a crucial component in the pathogenesis of multiple sclerosis, with reactive oxygen species contributing to myelin destruction, neuronal injury, and disruption of the blood-brain barrier resulting in symptom progression. For this reason, reducing oxidative stress has gained attention as a promising mechanism of disease control. Nuclear factor erythroid-2-related factor-2 (Nrf2) is a master regulator of the cellular antioxidant and anti-inflammatory response throughout the body, including the central nervous system. Nrf2 functions as a transcription factor to activate the expression of genes involved in detoxification and antioxidant defense, thus playing a critical role in limiting neuronal oxidative damage resulting from multiple sclerosis. Since no curative treatments are currently available for multiple sclerosis, recognizing potential new drugs that target earlier stages of the disease may be a viable strategy to intervene in disease progression and improve quality of life for the patient. This review explores how Nrf2 is a promising target for intervention in multiple sclerosis and that many Nrf2 activators exhibit robust efficacy, highlighting their potential as novel agents for multiple sclerosis treatment.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036088/"
   },
   {
     "pmid": "42983836",
@@ -7526,5 +7587,20 @@
     "abstract": "In the 2023 International Panel's diagnostic criteria for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), one of six core clinical demyelinating events (core events) is required: optic neuritis (ON), myelitis, acute disseminated encephalomyelitis (ADEM), cerebral monofocal or polyfocal deficits, brainstem or cerebellar deficits, and cerebral cortical encephalitis. If myelin oligodendrocyte glycoprotein immunoglobulin G (MOG-IgG) in serum is not clearly positive or is CSF restricted, the criteria require supporting clinical and MRI features (supporting features). We assessed the performance of the MOGAD panel criteria in relation to MOG-IgG titres in serum and CSF, and explored the diagnostic implications of CSF MOG-IgG as well as atypical clinical presentations. In this cross-sectional cohort study, we analysed 405 cases of non-multiple-sclerosis CNS demyelinating diseases with aquaporin 4 immunoglobulin G negativity, all of whom underwent MOG-IgG testing using paired serum and CSF samples collected across Japan from 2015 to 2018. Endpoint titres were determined by two-fold serial dilutions (starting at 1:16 for serum and 1:1 for CSF), with ≥1:128 in serum defined as the cut-off to minimize false-positive results, as we previously established. Two independent investigators evaluated whether each patient met the core events and the supporting features. A total of 141 cases exhibited MOG-IgG positivity in serum and/or CSF. The core events included ON (",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43032354/"
+  },
+  {
+    "pmid": "43036675",
+    "title": "Molecular Mechanisms of Nanoparticle-Mediated Targeted Drug Delivery in Neurodegenerative Diseases.",
+    "date": "2026",
+    "journal": "International journal of nanomedicine",
+    "authors": [
+      "Hao J",
+      "Zhang J",
+      "Li Q",
+      "Zhou Y"
+    ],
+    "abstract": "With global population aging, the incidence of neurodegenerative diseases continues to rise, and the blood-brain barrier (BBB) excludes approximately 98% of small-molecule drugs and nearly all large-molecule biologics from the central nervous system (CNS), so conventional small-molecule pharmacotherapy is largely limited to symptom modulation. Nanodrug delivery systems, including ligand-engineered polymeric, lipid, and inorganic nanoparticles as well as naturally secreted extracellular vesicles, have been proposed as a way to overcome the BBB and modulate disease pathways, and most of the supporting evidence currently derives from rodent models. This review synthesizes the molecular mechanisms by which these systems cross or bypass the BBB, summarizes representative disease-specific interventions in Alzheimer's, Parkinson's, Huntington's, amyotrophic lateral sclerosis, and multiple sclerosis, and critically discusses translational bottlenecks, with the explicit aim of distinguishing established mechanisms from preclinical observations and clarifying the path to clinical investigation. We deliberately limited in scope to systems for which mechanistic and delivery data are available, and the rapid pace of the field means that conclusions about clinical efficacy cannot be drawn from the present preclinical literature. Nevertheless, it still provides valuable insights for research in this field.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036675/"
   }
 ]
