@@ -143,6 +143,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43034814/"
   },
   {
+    "pmid": "43037086",
+    "title": "Liver Kinase B1 Depletion Disrupts the Pantothenic Acid: Coenzyme A Pathway in Astrocytes.",
+    "date": "2027 Jan",
+    "journal": "Glia",
+    "authors": [
+      "Alemani R",
+      "Kalinin S",
+      "Feinstein DL"
+    ],
+    "abstract": "Previous studies showed conditional knockout of Liver Kinase B1 (LKB1) from astrocytes exacerbated disease severity and glial cell activation in a mouse model of multiple sclerosis (MS). A major function of LKB1 is to maintain energy supplies under conditions of metabolic stress, suggesting that loss of LKB1 could alter astrocytic metabolic processes. Following siRNA mediated knockdown (KD) of LKB1 from primary mouse astrocytes, untargeted metabolomic screening identified significant increases in Pantothenic Acid (PA) and related metabolites; and pathway analysis showed that the PA:Coenzyme A (PA:CoA) pathway was significantly modified. This pathway was also identified by bulk RNA sequencing. In LKB1 KD cells, relative mRNA levels of enzymes in the PA:CoA pathway were reduced, and PA Kinase 2 (Pank2, which converts PA to phosphoPA) expression was reduced. Deficiencies in Pank2 are known to cause iron accumulation, which we confirmed occurs in LKB1 KD astrocytes. The KD cells also showed increased sensitivity to induction of ferroptosis. Measurement of serum PA levels in a small cohort of relapsing remitting MS patients revealed a positive correlation with age at diagnosis in those patients harboring a variant in the gene encoding LKB1. Together, these results suggest that metabolic disturbances, in this case due to LKB1 depletion, can lead to dysregulation of the PA:CoA pathway in astrocytes.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037086/"
+  },
+  {
     "pmid": "43014980",
     "title": "Central Nervous System Inflammatory and Infectious Disease.",
     "date": "2027 Feb",
@@ -4391,6 +4405,145 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028731/"
   },
   {
+    "pmid": "43041155",
+    "title": "Non-pharmacological fatigue management strategies in neurodegenerative conditions: a scoping review.",
+    "date": "2026 Nov 17",
+    "journal": "Neurodegenerative disease management",
+    "authors": [
+      "Alageel S",
+      "Hibberd J",
+      "Deane KHO"
+    ],
+    "abstract": "Fatigue is a common and disabling symptom across several neurodegenerative diseases, including multiple sclerosis and Parkinson's disease. Non-pharmacological strategies are widely used in clinical practice to address fatigue, yet the extent to which evidence from one neurodegenerative condition can inform fatigue management in others remains uncertain, particularly for Parkinson's disease where intervention trials are scarce. To map the quantitative evidence on non-pharmacological interventions for fatigue in adults with neurodegenerative diseases (excluding dementias), and to identify potentially transferable strategies, gaps, and priorities for research and practice, with particular relevance to Parkinson's disease. Scoping review conducted according to Joanna Briggs Institute guidance and reported using the PRISMA Extension for Scoping Reviews (PRISMA-ScR). The protocol was preregistered on the Open Science Framework (OSF; DOI: 10.17605/OSF.IO/MJEYP). MEDLINE, Cochrane Library, CINAHL, AMED, and PsycINFO were searched for records published from January 2006 to 15 February 2025. Reference lists of relevant reviews and included studies were screened. Publications in English or Arabic were eligible. Quantitative interventional studies, mixed-methods studies with extractable quantitative fatigue outcomes, and systematic reviews/meta-analyses evaluating non-pharmacological interventions for fatigue in adults with progressive neurodegenerative conditions were eligible. Conditions of interest included multiple sclerosis, Parkinson's disease, motor neurone disease, Huntington's disease, hereditary ataxias, multiple system atrophy, and progressive supranuclear palsy. Studies focusing solely on pharmacological, surgical, herbal, or homeopathic interventions, qualitative-only studies, and studies in dementias were excluded. A bespoke charting form captured study design, population, intervention, comparator, delivery format, fatigue measures, and key findings. Studies were grouped by intervention type: exercise, psychological, educational, and complementary interventions. Systematic reviews/meta-analyses and primary intervention studies were synthesized as distinct evidence levels and were not combined quantitatively. The search identified 12,618 records. After removal of 5,399 duplicates, 7,219 records were screened and 517 full-text articles were assessed for eligibility. Twenty-seven sources met the inclusion criteria: seven systematic reviews/meta-analyses, 16 randomized controlled trials, one non-randomized controlled study, and three uncontrolled pre-post studies. Evidence was dominated by multiple sclerosis, with only two small trials in Parkinson's disease and no fatigue-focused intervention trials in other progressive neurodegenerative conditions. The most consistent between-group benefits were observed for structured exercise, cognitive behavioral therapy, and educational/self-management programs in multiple sclerosis. Complementary interventions included acupuncture, light therapy, dietary interventions, and electrical stimulation; evidence across these approaches was mixed. Heterogeneity in intervention type, intensity, duration, supervision and delivery format, follow-up duration, and fatigue outcome measures limited direct comparison across studies. Non-pharmacological interventions for fatigue in neurodegenerative disease are most developed in multiple sclerosis, where structured exercise, cognitive behavioral therapy, and educational/self-management approaches show the most consistent benefit. Evidence for Parkinson's disease is sparse, and no fatigue-focused intervention trials were identified in other progressive neurodegenerative conditions. Future work should prioritize condition-specific feasibility and effectiveness studies, harmonized fatigue outcome sets, objective fatigability measures alongside patient-reported fatigue, and multimodal programs with clearly specified therapeutic targets.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041155/"
+  },
+  {
+    "pmid": "43041023",
+    "title": "[Anesthetic considerations in patients with Multiple Sclerosis; what goes through the anesthesiologist's mind?].",
+    "date": "2026 Nov 17",
+    "journal": "Lakartidningen",
+    "authors": [
+      "Brandt K",
+      "Svenningsson A",
+      "Zarrinkobb L"
+    ],
+    "abstract": "Multiple sclerosis (MS) is an autoimmune CNS disease, and many patients undergo surgery during their lifetime. Recommendations regarding anesthesia in MS are partly based on weak or outdated evidence. This study examined how anesthesiologists manage MS patients, whether they modify their techniques, how common misconceptions about MS are, and whether generational or regional differences exist. A web based, anonymous questionnaire with 13 questions was distributed to anesthesiologists in Sweden. Respondents often altered their approach, especially regarding neuraxial anesthesia. Differences between trainees and specialists were small, while regional differences were substantial. Management varies widely and is partly influenced by misconceptions. Lack of clear guidelines likely contributes to this variation; uncertain clinicians should consult experienced colleagues or neurologists. In general, anesthetic management of patients with multiple sclerosis should follow standard principles applicable to patients without neurological disease.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041023/"
+  },
+  {
+    "pmid": "43040875",
+    "title": "Motor system inefficiency as an activity-dependent amplifier of fatigue in multiple sclerosis.",
+    "date": "2026 Nov 17",
+    "journal": "Brain : a journal of neurology",
+    "authors": [
+      "Kavanagh JJ",
+      "Goodlich BI",
+      "Trajano GS",
+      "Thorstensen JR",
+      "Broadley SA"
+    ],
+    "abstract": "Multiple sclerosis (MS) fatigue is clinically obvious but mechanistically elusive. It can dominate daily life despite modest disability, stable structural MRI findings, or preserved strength on examination. This Update reviews evidence that an important component of MS fatigue may arise from increased motor-control cost and incomplete recovery after activity. Voluntary muscle activation studies show that some people with MS have incomplete central access to available force, particularly after exertion. Functional imaging studies indicate that apparently preserved movement often depends on expanded recruitment of premotor, cerebellar, striatal, prefrontal, and cingulo-insular systems involved in motor compensation, effort allocation, and body-state monitoring. Metabolic and pathological studies further indicate energetic vulnerability in demyelinated and chronically injured networks, providing biological plausibility for impaired restoration after repeated signalling demands. These findings support a systems framework in which expanded motor-control recruitment may be compensatory when it preserves performance and remains flexible and recoverable, but may amplify MS fatigue when ordinary activity begins from incompletely restored physiological reserve. We outline testable predictions for identifying a motor-cost fatigue phenotype and for designing repeated-measures studies of activity-related fatigue in MS.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040875/"
+  },
+  {
+    "pmid": "43041010",
+    "title": "Which patient-reported outcome measure of fatigue to use for multiple sclerosis studies? Part 2: simulation studies highlight broad implications for clinical outcomes analysis.",
+    "date": "2026 Nov 16",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Hobart J",
+      "Blight A",
+      "Marais I",
+      "Andrich D"
+    ],
+    "abstract": "Previously, we compared six better-developed fatigue patient-reported outcome measurement instruments administered concurrently to a multiple sclerosis sample. Examinations at the instrument level (items) and group level (sample mean fatigue severity scores) implied that all six instruments measured essentially the same variable. However, these same six instruments generated significantly different fatigue severity scores for up to 38% of individuals, implying that they frequently measured different fatigue-related variables. We explored the reproducibility, causes and extrapolation of those seemingly contradictory findings, using patient-reported outcome measures data simulation studies to enable examinations under controlled conditions that cannot be achieved easily by clinical studies. Four simulation studies were conducted to determine whether our clinical findings were reproducible (Study 1), explainable (Study 2), and extendable to measurement of change (Studies 3 and 4). Specifically, Study 1 replicated the conditions of our clinical study, reported in Part 1, to determine whether the findings were reproduced. Study 2 examined how patient-reported outcome measures instrument item number affected the group-level and individual-level equivalence of fatigue scores. Study 3 compared the ability of the six instruments used in our clinical study to detect change. Study 4 examined how item number influences the magnitude and significance of change measured at the group and individual levels. Study 1 reproduced our clinical observations. The six fatigue patient-reported outcome measure instruments produced equivalent mean fatigue severity scores for the sample, but at the same time variable proportions of individuals with significantly different fatigue severity scores. Study 2 showed that patient-reported outcome measure instruments with more items had more individuals with significantly different fatigue severity scores. Study 3 showed that these findings extended to measuring change. That is, group-level analyses implied that the six instruments had the same ability to detect change, whereas individual-level analyses showed that the six instruments had different abilities to detect change. Study 4 showed that instruments with more items detected more people with significant changes. When comparing patient-reported outcome measure instruments, group-level comparisons alone can be misleading because they can hide statistically significant and clinically meaningful differences between individuals' scores. The extent of these individual-level differences in scores is determined by the patient-reported outcome measure instrument's item number. Importantly for clinical trials, patient-reported outcome measure instruments with fewer items detect less change. These differences are only detectable using modern psychometric methods. Trialists should consider item numbers when selecting patient-reported outcome measure instruments; routinely examine individual differences; and use modern psychometric methods. These findings have significant implications for trial design and analyses.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041010/"
+  },
+  {
+    "pmid": "43040568",
+    "title": "Metformin preconditioning potentiates the remyelinating effects of adipose-derived mesenchymal stem cells associated with decorin upregulation in a cuprizone model of demyelination.",
+    "date": "2026 Nov 16",
+    "journal": "Animal models and experimental medicine",
+    "authors": [
+      "Taghizadeh F",
+      "Pasbakhsh P",
+      "Alikarami A",
+      "Noorzehi G",
+      "Mojaverrostami S",
+      "Kashani IR"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a demyelinating disease of the central nervous system (CNS). Changes in the microenvironment surrounding oligodendrocyte progenitor cells (OPCs), characterized by excessive production of extracellular matrix (ECM) components driven by elevated TGF-β and CTGF signaling, impair the remyelination capacity of these cells. Decorin (DCN), an endogenous inhibitor of the TGF-β/CTGF signaling axis, has emerged as a potential regulator of ECM homeostasis. To improve the therapeutic outcomes of stem cell-based strategies, adipose-derived mesenchymal stem cells (ADMSCs) were preconditioned with metformin (MET) before transplantation into a C57BL/6 mouse model of cuprizone-induced demyelination. Cell viability and the expression of CXCR4 and SDF-1α were evaluated to determine the migratory potential following MET preconditioning. Remyelination and oligodendroglial lineage dynamics were assessed using Luxol Fast Blue (LFB) staining and analysis of MBP and NG2 expression. ECM remodeling and mechanosensitive signaling were evaluated through the expression of DCN, TGF-β, CTGF, and Piezo 1. MET preconditioning was optimized at 1 mmol/L for 24 h based on MTT assay results and increased the migratory potential of ADMSCs, as indicated by upregulation of the CXCR4/SDF-1α axis. Histological analysis revealed enhanced remyelination, accompanied by increased MBP and reduced NG2 expression in treated groups. At the molecular level, transplantation of MET-preconditioned ADMSCs upregulated DCN while downregulating TGF-β, CTGF, and Piezo 1 expression. MET preconditioning enhances the therapeutic efficacy of ADMSCs through increasing migration and homing of these cells and consequently promotes remyelination in a cuprizone-induced demyelination model, potentially through DCN-mediated mechanisms.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040568/"
+  },
+  {
+    "pmid": "43039857",
+    "title": "Editorial for \"White Matter and Normal-Appearing White Matter in Low-Disability Patients With Multiple Sclerosis: A Diffusion Tensor MRI Study\".",
+    "date": "2026 Nov 16",
+    "journal": "Journal of magnetic resonance imaging : JMRI",
+    "authors": [
+      "Krzyżak AT"
+    ],
+    "abstract": "",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039857/"
+  },
+  {
+    "pmid": "43037749",
+    "title": "Unplanned pregnancy exposed to ponesimod therapy in multiple sclerosis - a case report.",
+    "date": "2026 Nov 16",
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "authors": [
+      "Masi G",
+      "Schmid AC",
+      "Massacesi L",
+      "Mariottini A"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037749/"
+  },
+  {
+    "pmid": "43037734",
+    "title": "Taurine metabolism: a potential target for neuroprotection in age-related neurodegenerative diseases.",
+    "date": "2026 Nov 16",
+    "journal": "Mammalian genome : official journal of the International Mammalian Genome Society",
+    "authors": [
+      "Daghini E",
+      "Tribble JR",
+      "Amato R",
+      "Brautaset R",
+      "Williams PA"
+    ],
+    "abstract": "Taurine is one of the most abundant free amino acids in mammals and plays essential roles in cellular homeostasis, mitochondrial function, calcium regulation and neuronal survival. Taurine availability varies markedly across tissues, species and sexes, reflecting the balance between endogenous synthesis, dietary intake, transport and efflux. Although reduced taurine levels have been reported in some aging tissues, recent longitudinal studies indicate that circulating taurine does not decline universally with age, and its value as a biomarker of aging remains debated. Alterations in taurine or its transporter SLC6A6 have been described in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, multiple sclerosis, Huntington's disease and retinal degenerations. Preclinical studies indicate that taurine supplementation mitigates excitotoxicity, stabilizes mitochondrial function, reduces neuroinflammation and supports myelination and synaptic balance. Despite this strong mechanistic rationale, clinical evidence remains limited and heterogeneous, underscoring the need for biomarker-guided trials and a clearer definition of optimal therapeutic windows. In this review, we summarize the general properties of taurine and its metabolic regulation. We examine taurine's neuroprotective properties across different neurodegenerative conditions and discuss future perspectives for targeting taurine metabolism as a promising but largely unexplored strategy for intervention in age-related neurodegenerative diseases.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037734/"
+  },
+  {
+    "pmid": "43037673",
+    "title": "IMPROving MYelin imaging in patients with relapsing-remitting multiple sclerosis (IMPROMYMS study): protocol for a prospective longitudinal study.",
+    "date": "2026 Nov 16",
+    "journal": "Neuroradiology",
+    "authors": [
+      "van den Boogaard LJM",
+      "Monachino S",
+      "Drenthen GS",
+      "Knippenberg SAM",
+      "Zinger S",
+      "Fernandes CD",
+      "Breeuwer M",
+      "Gerlach OHH",
+      "Jansen JFA"
+    ],
+    "abstract": "It is increasingly recognized that patients with relapsing-remitting multiple sclerosis (RRMS) may experience disability progression in the absence of clinical relapses and new lesions, a phenomenon known as progression independent of relapse- and magnetic resonance imaging (MRI) activity (PIRMA). The biological basis of this type of progression remains poorly understood. Demyelination is the central pathological hallmark of RRMS. Conventional clinical MRI protocols focus primarily on detecting focal lesions. However, advanced imaging techniques that quantify myelin content can provide additional insights beyond visible lesions, helping to better understand the mechanisms that drive clinical deterioration. Therefore, this study named IMPROving MYelin imaging in patients with relapsing-remitting Multiple Sclerosis (IMPROMYMS study) aims to apply myelin imaging techniques to study clinically defined disease progression in patients with RRMS, by assessing myelin content and comparing it to patients with RRMS without progression of the disease. In total, 97 patients with RRMS will be included and followed for 2.5 years. Participants will undergo MRI scanning at baseline and after 2 years and have regular clinical follow-up visits. Besides conventional MRI, advanced imaging sequences will be scanned, including gradient spin echo (GRASE), multi-echo gradient echo (ME-GRE), diffusion and functional MRI. Additionally, blood samples will be collected longitudinally to assess circulating biomarkers of neuroaxonal damage and astrocytic activation. Participants can also use the smartphone symptom-monitoring app MS Sherpa to enable more frequent monitoring of functional changes in daily life. In addition, 30 healthy controls will be scanned once as a reference group. In this study, we expect to find radiological prognostic markers of an increased risk of developing PIRMA, so that disease management strategies can be altered accordingly.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037673/"
+  },
+  {
     "pmid": "43026447",
     "title": "Simultaneous visualization of CVS and PRLs using 3D EPI-SWI.",
     "date": "2026 Nov 14",
@@ -5508,6 +5661,22 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43035261/"
   },
   {
+    "pmid": "43036947",
+    "title": "Dihydroartemisinin Acetal Dimer Suppresses Th1/Th17-Mediated Pro-Inflammatory Axis to Mitigate EAE.",
+    "date": "2026 Nov",
+    "journal": "European journal of immunology",
+    "authors": [
+      "Lv J",
+      "Wan G",
+      "Luo J",
+      "Jiang X",
+      "Du C"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a central nervous system (CNS)-specific chronic disorder, characterized by T cell-mediated demyelination and neuroinflammation. Dihydroartemisinin, a semisynthetic artemisinin derivative, has been reported as a potential MS treatment for its immunomodulatory activity. This work investigated dihydroartemisinin acetal dimer (DHAAD), a novel dihydroartemisinin derivative, for MS therapy and explored possible mechanistic insights. A library of 14 small-molecule compounds was screened through in vitro Th1/Th17 differentiation assays. Experimental autoimmune encephalomyelitis (EAE), an animal model for MS, was induced in mice with the MOG",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036947/"
+  },
+  {
     "pmid": "42953809",
     "title": "The Emerging Role of Optogenetics in Multiple Sclerosis Research.",
     "date": "2026 May",
@@ -6100,6 +6269,21 @@
     "abstract": "Multiple sclerosis is a chronic inflammatory autoimmune disease resulting in progressive demyelination of the central nervous system, leading to symptoms such as motor discoordination, cognitive deficits, and ocular dysfunction. Oxidative stress is a crucial component in the pathogenesis of multiple sclerosis, with reactive oxygen species contributing to myelin destruction, neuronal injury, and disruption of the blood-brain barrier resulting in symptom progression. For this reason, reducing oxidative stress has gained attention as a promising mechanism of disease control. Nuclear factor erythroid-2-related factor-2 (Nrf2) is a master regulator of the cellular antioxidant and anti-inflammatory response throughout the body, including the central nervous system. Nrf2 functions as a transcription factor to activate the expression of genes involved in detoxification and antioxidant defense, thus playing a critical role in limiting neuronal oxidative damage resulting from multiple sclerosis. Since no curative treatments are currently available for multiple sclerosis, recognizing potential new drugs that target earlier stages of the disease may be a viable strategy to intervene in disease progression and improve quality of life for the patient. This review explores how Nrf2 is a promising target for intervention in multiple sclerosis and that many Nrf2 activators exhibit robust efficacy, highlighting their potential as novel agents for multiple sclerosis treatment.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43036088/"
+  },
+  {
+    "pmid": "43038501",
+    "title": "Health-Related Quality of Life Across Neurologic Conditions: A Cross-Sectional Cohort Study Using Real-World Patient-Reported Outcomes.",
+    "date": "2026 Dec",
+    "journal": "Neurology. Clinical practice",
+    "authors": [
+      "Lapin B",
+      "Li Y",
+      "Miller DM",
+      "Katzan I"
+    ],
+    "abstract": "Health-related quality of life (HRQOL) is an important outcome within value-based care for patients with neurologic conditions. The American Academy of Neurology recommends the use of Patient-Reported Outcomes Measurement Information System (PROMIS) Global Health as a patient-reported outcome performance measure to assess stability or improvement over 1 year. However, interpretation of this measure requires an understanding of HRQOL across neurologic populations. Our study leveraged real-world data collected through the electronic health record to characterize differences in HRQOL across common neurologic conditions. This is a cross-sectional study of adult patients with 1 of 10 conditions (amyotrophic lateral sclerosis [ALS], back pain, brain tumor, dementia, major depression, epilepsy, migraine, multiple sclerosis, Parkinson disease, and stroke) who completed patient-reported outcomes as standard care between October 2015 and March 2023 at a large Neurologic Institute. Patients completed PROMIS-GH, from which physical and mental summary scores (Global Mental Health [GMH], Global Physical Health [GPH]) were calculated, PHQ-9 depression screen, and condition-specific measures. EQ-5D utility index was estimated from PROMIS-GH. These were summarized across conditions after adjustment for demographics, clinical characteristics, and self-reported condition-specific severity. There were 133,636 patients included in this analysis (mean age 51.5 [SD ± 18] years, 64% female, 81% White race). Overall adjusted average scores for GPH, GMH, PHQ-9, and EQ-5D were 42.7 ± 5.0, 43.6 ± 5.0, 7.9 ± 3.7, and 0.68 ± 0.11, respectively. Scores were significantly different across condition, with GPH ranging from 39.6 ± 5.5 for back pain to 45.9 ± 3.9 for brain tumor. Patients with brain tumor, back pain, stroke, ALS, and multiple sclerosis had more favorable GMH and PHQ-9 scores, while patients with depression, epilepsy, and dementia had the most affected GMH and PHQ-9 scores. Patients with back pain and headache had the lowest EQ-5D scores (0.63 ± 0.13 and 0.67 ± 0.09), while those with brain tumor had the highest (0.77 ± 0.08). This study provides condition-specific and severity-specific benchmarks for PROMIS-GH and related HRQOL measures that can support interpretation of patient-reported outcomes across neurologic populations. These data inform clinical care, quality measurement, research, and the implementation of the AAN-recommended performance measure.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038501/"
   },
   {
     "pmid": "42983836",
@@ -7602,5 +7786,66 @@
     "abstract": "With global population aging, the incidence of neurodegenerative diseases continues to rise, and the blood-brain barrier (BBB) excludes approximately 98% of small-molecule drugs and nearly all large-molecule biologics from the central nervous system (CNS), so conventional small-molecule pharmacotherapy is largely limited to symptom modulation. Nanodrug delivery systems, including ligand-engineered polymeric, lipid, and inorganic nanoparticles as well as naturally secreted extracellular vesicles, have been proposed as a way to overcome the BBB and modulate disease pathways, and most of the supporting evidence currently derives from rodent models. This review synthesizes the molecular mechanisms by which these systems cross or bypass the BBB, summarizes representative disease-specific interventions in Alzheimer's, Parkinson's, Huntington's, amyotrophic lateral sclerosis, and multiple sclerosis, and critically discusses translational bottlenecks, with the explicit aim of distinguishing established mechanisms from preclinical observations and clarifying the path to clinical investigation. We deliberately limited in scope to systems for which mechanistic and delivery data are available, and the rapid pace of the field means that conclusions about clinical efficacy cannot be drawn from the present preclinical literature. Nevertheless, it still provides valuable insights for research in this field.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43036675/"
+  },
+  {
+    "pmid": "43041236",
+    "title": "Normative references of corpus callosum across lifespan and application in neurological and neuroimmunological disorders.",
+    "date": "2026",
+    "journal": "Frontiers in neurology",
+    "authors": [
+      "Luo Y",
+      "Chai L",
+      "Chen K",
+      "Du X",
+      "Gao T",
+      "Lizhu Y",
+      "Qiu J",
+      "Tian D",
+      "Weng J",
+      "Xu J",
+      "Xu S",
+      "Xu X",
+      "Zhang R",
+      "Duan Y",
+      "Cole J",
+      "Yuan Z",
+      "Wu H",
+      "Zhuo Z",
+      "Liu Y",
+      "CHART Investigators"
+    ],
+    "abstract": "The corpus callosum (CC) is the largest white matter structure and is often affected in neurological and neuroimmunological disorders. However, previous studies mainly used group-level comparisons. This limits patient-level magnetic resonance imaging (MRI) assessment. In this multicenter retrospective study, 3D T The volume of CC subregions peaked from early adulthood (central, 26.0 years) to midlife (posterior, 47.2 years; anterior, 47.5 years), forming a \"centre-to-periphery\" pattern. MS showed negative deviations mainly in central and mid-anterior regions (Cohen's Lifespan normative references of the CC provide a quantitative framework for characterizing individual structural deviations across neurological and neuroimmunological disorders. Exploratory clinical analyses suggest potential applications that require further validation.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041236/"
+  },
+  {
+    "pmid": "43041222",
+    "title": "Editorial: Cellular and molecular crosstalk between neural and immune pathologies: unraveling novel common mechanisms and therapeutic targets.",
+    "date": "2026",
+    "journal": "Frontiers in cellular neuroscience",
+    "authors": [
+      "Ortuno-Sahagún D",
+      "Pavón L",
+      "Palafox-Sánchez CA",
+      "Hermann DM"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041222/"
+  },
+  {
+    "pmid": "43038187",
+    "title": "The relationship between the cognitive impairment with sexual dysfunction in patients with multiple sclerosis: A multi-center cross-sectional study.",
+    "date": "2026",
+    "journal": "PloS one",
+    "authors": [
+      "Sajjadi MS",
+      "Eghbalian M",
+      "Nahayati MA",
+      "Nasirzadeh A"
+    ],
+    "abstract": "To date, no studies have investigated the relationship between cognitive impairment (CI) and sexual dysfunction (SD) in multiple sclerosis (MS) using dedicated assessment tools. This cross-sectional study was conducted on 318 pwMS at clinics in Mashhad and Gonabad. Convenience sampling was employed, and demographic and clinical information were obtained. CI was assessed using the Paced Auditory Serial Addition Test and the Symbol Digit Modalities Test, and SD was evaluated with the Multiple Sclerosis Intimacy and Sexuality Questionnaire-19 (MSISQ-19). Associations between SD and CI were examined using correlation analyses and GLMtree model. All analyses were conducted in R (version 4.5.0). Significant correlations were observed between CI and SD in PwMS. MSISQ-19 total scores were negatively correlated with SDMT (r = -0.63) and PASAT (r = -0.24), while primary SD showed no significant associations. Secondary and tertiary SD were negatively correlated with SDMT (r = -0.50; r = -0.22) and PASAT (r = -0.52; r = -0.18). EDSS was positively associated with SD (excluding primary) and negatively with CI. GLMtree analyses revealed EDSS-dependent effects: PASAT was positively associated with secondary SD at EDSS 1-3 and tertiary SD at EDSS 3-5, whereas SDMT showed stronger negative associations with total, secondary, and tertiary SD at higher disability levels overall. Results indicate that CI are significantly associated with SD in PwMS, with disability severity (EDSS) acting as a key moderating factor.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038187/"
   }
 ]

@@ -1,5 +1,56 @@
 [
   {
+    "nct_id": "NCT07589062",
+    "title": "Healthy Eating and Active Living for People Living With Multiple Sclerosis (HEAL MS): A Lifestyle Program for People With Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-04-15",
+    "last_update": "2026-11-16",
+    "interventions": [
+      "Multi-Domain Lifestyle Intervention"
+    ],
+    "summary": "The goal of this clinical trial is to learn whether a structured lifestyle program can improve health and wellbeing in people living with multiple sclerosis (MS). The program focuses on four areas: nutrition, physical activity, sleep, and stress management. The study will also examine how lifestyle changes affect biological markers related to inflammation, metabolism, and immune function.\n\nThe main questions the study aims to answer are:\n\nCan a 12-week lifestyle program improve fatigue, physical function, sleep, and quality of life in people with MS? Do lifestyle changes influence biological markers related to inflammation, metabolism, and mitochondrial function?\n\nParticipants will first complete a 12-week observation period to measure their usual lifestyle and health. After this, they will take part in the 12-week HEAL MS lifestyle program.\n\nParticipants will:\n\nAttend four assessment visits at Yas Clinic (baseline, before the intervention, after the intervention, and three months later) Participate in two supervised online exercise sessions per week during the 12-week program Follow a structured nutrition plan, with meals provided during the first two weeks Use a mobile application to log daily habits related to exercise, nutrition, sleep, and stress Complete questionnaires and physical tests and provide blood, saliva, and stool samples during assessment visits\n\nResearchers will analyze these data to understand whether lifestyle interventions can support symptom management and overall health in people living with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT07589062"
+  },
+  {
+    "nct_id": "NCT06968676",
+    "title": "Mixed Reality for Upper Limb Rehabilitation in People With Multiple Sclerosis (VIRTUALDOMUS)",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-09-01",
+    "last_update": "2026-11-16",
+    "interventions": [
+      "Conventional Upper Limb Treatment",
+      "Experimental intervention with mixed reality"
+    ],
+    "summary": "Although virtual reality has attracted the attention of health professionals and neurorehabilitation field, research about mixed reality (MR) in people with neurological disorders, particularly multiple sclerosis (MS), is very limited. Furthermore, to our knowledge, studies about the effects of MR in upper limb (muscle strength and fatigability, coordination and dexterity, functionality and quality of life) in people with MS are nonexistent.\n\nThe main objective of our study are:\n\nTo know the clinical effects of mixed reality environments and re-training activities linked to their spaces (kitchen, bathroom, living room, bedroom and terrace-garden), designed for the treatment of upper limb impairments in people with MS, in combination with a conventional physiotherapy program, on manipulative skills, functionality and quality of life in people with MS.\n\nThe secundary objectives are:\n\nTo study the clinical effects on range of motion, muscle strength, coordination and manual dexterity, fatigue, functionality and quality of life in people with MS.\n\nTo analyze satisfaction and adherence to treatment, the occurrence of adverse effects and the level of workload perceived by participants.\n\nA double-blind randomized controlled trial is proposed. The sample will be randomly divided into two groups: the experimental group will receive treatment based on mixed reality for MMSS, designed by the research team and using Meta Quest 3.0 glasses, in combination with conventional physiotherapy; and the control group will receive the same conventional therapy. Both groups will receive 2 sessions/week, 60min/session, for 10 weeks. The mixed reality environments to be designed will be a kitchen, a bathroom, a living room, a bedroom and a terrace-garden, with the tasks to be performed in each location. The pre, post-treatment and one-month follow-up outcome measures will be: range of motion, manual grip strength, manual dexterity, fatigue, functionality, quality of life, satisfaction with the technology, adherence, adverse effects and perceived workload. A statistical comparison study will be carried out establishing as an inter-subject factor the group parameter and as intra-subject factors each of the measurements and the treated side.",
+    "url": "https://clinicaltrials.gov/study/NCT06968676"
+  },
+  {
+    "nct_id": "NCT02212886",
+    "title": "Safety, Tolerability and Efficacy of Monthly Long-acting IM Injection of 80 or 40 mg GA Depot in Subjects With RRMS",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2014-10",
+    "last_update": "2026-11-16",
+    "interventions": [
+      "GA Depot 80 mg",
+      "GA Depot 40 mg"
+    ],
+    "summary": "* This is a phase IIa study in which GA Depot 80 or 40mg is administered as an IM injection to subjects with RRMS at 4 week intervals for 52 weeks of treatment.\n* The purpose of the study is to assess safety, tolerability, and efficacy of a monthly long-acting IM injection of 80 or 40mg GA Depot in subjects with RRMS. The study will include subjects switching from daily or thrice weekly administration of 20 mg or 40mg respectively of glatiramer acetate (GA, i.e., Copaxone®) injection",
+    "url": "https://clinicaltrials.gov/study/NCT02212886"
+  },
+  {
     "nct_id": "NCT07928765",
     "title": "Psychodrama for Adults With Relapsing-Remitting Multiple Sclerosis: A Mixed-Methods Study",
     "status": "COMPLETED",
@@ -62,6 +113,24 @@
     ],
     "summary": "This study will evaluate the safety and tolerability of IMS001 and explore its possible effects in adults with multiple sclerosis. IMS001 is an investigational cell therapy consisting of mesenchymal-like stem cells derived from human embryonic stem cells.\n\nThe study plans to enroll 4 adults aged 18 to 65 years with relapsing-remitting or secondary progressive multiple sclerosis in China. Each participant will receive a single infusion of IMS001 into a vein. All participants will receive IMS001, and both participants and the study team will know which treatment is given.\n\nParticipants will undergo screening for up to 4 weeks before treatment. After the infusion, they will be assessed over 12 months for side effects and changes in multiple sclerosis, including relapses, disability, brain magnetic resonance imaging (MRI) findings, vision, movement, and thinking abilities.\n\nParticipants will then enter an additional 24-month follow-up period to monitor long-term safety, including serious side effects and possible tumor development. Total participation may last up to 37 months, including screening.",
     "url": "https://clinicaltrials.gov/study/NCT07935031"
+  },
+  {
+    "nct_id": "NCT06900192",
+    "title": "A Multicenter Phase 1 Study of Orca-Q in Primary Progressive Multiple Sclerosis",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2027-03",
+    "last_update": "2026-11-13",
+    "interventions": [
+      "Orca-Q",
+      "myeloablative regimen",
+      "Tacrolimus"
+    ],
+    "summary": "A study of allogeneic hematopoietic cell transplantation (alloHCT) with Orca-Q for the treatment of primary progressive multiple sclerosis (PPMS).",
+    "url": "https://clinicaltrials.gov/study/NCT06900192"
   },
   {
     "nct_id": "NCT07928557",
@@ -290,6 +359,23 @@
     ],
     "summary": "The purposes of this study are to: 1) compare baseline muscle and cardiovascular health in older individuals (\\>60 years old) diagnosed with MS to age-matched people without MS, 2) determine muscle and whole body changes to an exercise training program, 3) determine if the muscle in a more affected leg in individuals diagnosed with MS is different from the muscle of a less affected leg, and 4) if or how individuals diagnosed with MS adapt differently than age-matched people without MS to exercise training. Participation in this study will average 1.5 hours per visit, 3 visits per week, for approximately 4 months.",
     "url": "https://clinicaltrials.gov/study/NCT07500727"
+  },
+  {
+    "nct_id": "NCT06220669",
+    "title": "A Study of LY3541860 in Adult Participants With Relapsing Multiple Sclerosis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2024-03-19",
+    "last_update": "2026-11-12",
+    "interventions": [
+      "LY3541860",
+      "Placebo"
+    ],
+    "summary": "The main purpose of this study is to evaluate the safety and efficacy of LY3541860 in adult participants with multiple sclerosis that gets worse and gets better. The study will last about 9 months with additional 6 months follow-up.",
+    "url": "https://clinicaltrials.gov/study/NCT06220669"
   },
   {
     "nct_id": "NCT07067463",
@@ -1336,6 +1422,23 @@
     ],
     "summary": "The purpose of this study is to evaluate the PK and safety of ublituximab SC at different sites of administration and relative bioavailability of ublituximab SC administered with a prefilled pen versus syringe.",
     "url": "https://clinicaltrials.gov/study/NCT07503873"
+  },
+  {
+    "nct_id": "NCT05104983",
+    "title": "Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2021-10-13",
+    "last_update": "2026-10-29",
+    "interventions": [
+      "Sirolimus",
+      "Placebo"
+    ],
+    "summary": "This trial is a Phase II randomized, double-blind, placebo controlled multi-site study to evaluate the safety and efficacy of early sirolimus to prevent or delay seizure onset in TSC infants.\n\nThis study is supported by research funding from the Office of Orphan Products Division (OOPD) of the US Food and Drug Administration (FDA).",
+    "url": "https://clinicaltrials.gov/study/NCT05104983"
   },
   {
     "nct_id": "NCT06675955",
@@ -3532,23 +3635,6 @@
     ],
     "summary": "This study will evaluate the safety, tolerability, and descriptive efficacy of BIIB017 in pediatric participants with relapsing-remitting multiple sclerosis (RRMS) and to assess the pharmacokinetics (PK) of BIIB017 in pediatric participants with RRMS in Part 1. In Part 2, the study will evaluate the long-term safety of BIIB017 and further describe safety and the long-term multiple sclerosis (MS) outcomes after BIIB017 treatment in participants who completed the study treatment at Week 96 in Part 1 of the study.",
     "url": "https://clinicaltrials.gov/study/NCT03958877"
-  },
-  {
-    "nct_id": "NCT06220669",
-    "title": "A Study of LY3541860 in Adult Participants With Relapsing Multiple Sclerosis",
-    "status": "TERMINATED",
-    "phase": [
-      "PHASE2"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2024-03-19",
-    "last_update": "2026-09-23",
-    "interventions": [
-      "LY3541860",
-      "Placebo"
-    ],
-    "summary": "The main purpose of this study is to evaluate the safety and efficacy of LY3541860 in adult participants with multiple sclerosis that gets worse and gets better. The study will last about 9 months with additional 6 months follow-up.",
-    "url": "https://clinicaltrials.gov/study/NCT06220669"
   },
   {
     "nct_id": "NCT03974997",
@@ -8730,22 +8816,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06341673"
   },
   {
-    "nct_id": "NCT07589062",
-    "title": "Healthy Eating and Active Living for People Living With Multiple Sclerosis (HEAL MS): A Lifestyle Program for People With Multiple Sclerosis",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-04-15",
-    "last_update": "2026-05-15",
-    "interventions": [
-      "Multi-Domain Lifestyle Intervention"
-    ],
-    "summary": "The goal of this clinical trial is to learn whether a structured lifestyle program can improve health and wellbeing in people living with multiple sclerosis (MS). The program focuses on four areas: nutrition, physical activity, sleep, and stress management. The study will also examine how lifestyle changes affect biological markers related to inflammation, metabolism, and immune function.\n\nThe main questions the study aims to answer are:\n\nCan a 12-week lifestyle program improve fatigue, physical function, sleep, and quality of life in people with MS? Do lifestyle changes influence biological markers related to inflammation, metabolism, and mitochondrial function?\n\nParticipants will first complete a 12-week observation period to measure their usual lifestyle and health. After this, they will take part in the 12-week HEAL MS lifestyle program.\n\nParticipants will:\n\nAttend four assessment visits at Yas Clinic (baseline, before the intervention, after the intervention, and three months later) Participate in two supervised online exercise sessions per week during the 12-week program Follow a structured nutrition plan, with meals provided during the first two weeks Use a mobile application to log daily habits related to exercise, nutrition, sleep, and stress Complete questionnaires and physical tests and provide blood, saliva, and stool samples during assessment visits\n\nResearchers will analyze these data to understand whether lifestyle interventions can support symptom management and overall health in people living with MS.",
-    "url": "https://clinicaltrials.gov/study/NCT07589062"
-  },
-  {
     "nct_id": "NCT05633459",
     "title": "A Study Evaluating the Safety and Tolerability of QRL-201 in ALS",
     "status": "ACTIVE_NOT_RECRUITING",
@@ -9442,23 +9512,6 @@
     ],
     "summary": "This randomized, double-blind, parallel-group clinical trial aims to assess the effectiveness of a combined intervention consisting of a home-based therapeutic exercise program and transcranial direct current stimulation (tDCS) for the management of fatigue in patients with multiple sclerosis (MS). Fatigue is one of the most disabling and prevalent symptoms in MS, significantly impacting patients' quality of life and functional independence.\n\nParticipants diagnosed with MS who meet inclusion criteria will be randomized into two groups:\n\nGroup 1: Home-based therapeutic exercise plus sham (placebo) tDCS\n\nGroup 2: Home-based therapeutic exercise plus active tDCS\n\nThe intervention will span a defined period, with tDCS sessions applied over the dorsolateral prefrontal cortex (DLPFC) using a standard montage and parameters validated in previous studies. The sham stimulation group will follow identical procedures without active current delivery, preserving blinding for participants and evaluators.\n\nThe therapeutic exercise program is designed to be feasible for home implementation, targeting key domains affected in MS such as strength, endurance, balance, and mobility. Exercises will be prescribed based on individual patient assessments and progressively adjusted throughout the intervention period.\n\nPrimary outcome measures will include functional capacity, evaluated through the Six-Minute Walk Test (6MWT), and fatigue levels, assessed via the Fatigue Severity Scale (FSS) and a Visual Analogue Scale (VAS) for fatigue. Secondary observations may include adherence rates to the exercise program and subjective reports of tolerability and perceived benefits.\n\nThis trial seeks to explore whether combining a physical intervention (exercise) with a neuromodulation technique (tDCS) can offer additive benefits in managing fatigue, beyond what exercise alone provides. The ultimate goal is to develop accessible, non-pharmacological treatment strategies to improve daily functioning and quality of life for individuals living with multiple sclerosis.",
     "url": "https://clinicaltrials.gov/study/NCT07567989"
-  },
-  {
-    "nct_id": "NCT06968676",
-    "title": "Mixed Reality for Upper Limb Rehabilitation in People With Multiple Sclerosis (VIRTUALDOMUS)",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-09-01",
-    "last_update": "2026-05-05",
-    "interventions": [
-      "Conventional Upper Limb Treatment",
-      "Experimental intervention with mixed reality"
-    ],
-    "summary": "Although virtual reality has attracted the attention of health professionals and neurorehabilitation field, research about mixed reality (MR) in people with neurological disorders, particularly multiple sclerosis (MS), is very limited. Furthermore, to our knowledge, studies about the effects of MR in upper limb (muscle strength and fatigability, coordination and dexterity, functionality and quality of life) in people with MS are nonexistent.\n\nThe main objective of our study are:\n\nTo know the clinical effects of mixed reality environments and re-training activities linked to their spaces (kitchen, bathroom, living room, bedroom and terrace-garden), designed for the treatment of upper limb impairments in people with MS, in combination with a conventional physiotherapy program, on manipulative skills, functionality and quality of life in people with MS.\n\nThe secundary objectives are:\n\nTo study the clinical effects on range of motion, muscle strength, coordination and manual dexterity, fatigue, functionality and quality of life in people with MS.\n\nTo analyze satisfaction and adherence to treatment, the occurrence of adverse effects and the level of workload perceived by participants.\n\nA double-blind randomized controlled trial is proposed. The sample will be randomly divided into two groups: the experimental group will receive treatment based on mixed reality for MMSS, designed by the research team and using Meta Quest 3.0 glasses, in combination with conventional physiotherapy; and the control group will receive the same conventional therapy. Both groups will receive 2 sessions/week, 60min/session, for 10 weeks. The mixed reality environments to be designed will be a kitchen, a bathroom, a living room, a bedroom and a terrace-garden, with the tasks to be performed in each location. The pre, post-treatment and one-month follow-up outcome measures will be: range of motion, manual grip strength, manual dexterity, fatigue, functionality, quality of life, satisfaction with the technology, adherence, adverse effects and perceived workload. A statistical comparison study will be carried out establishing as an inter-subject factor the group parameter and as intra-subject factors each of the measurements and the treated side.",
-    "url": "https://clinicaltrials.gov/study/NCT06968676"
   },
   {
     "nct_id": "NCT03796611",
@@ -18800,23 +18853,6 @@
     "url": "https://clinicaltrials.gov/study/NCT04893590"
   },
   {
-    "nct_id": "NCT06900192",
-    "title": "A Study of Allogeneic Hematopoietic Cell Transplantation for Primary Progressive Multiple Sclerosis",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "PHASE1"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-03",
-    "last_update": "2025-03-28",
-    "interventions": [
-      "Orca-Q",
-      "myeloablative regimen"
-    ],
-    "summary": "A study of alloHCT with Orca-Q for the treatment of primary progressive multiple sclerosis (MS).",
-    "url": "https://clinicaltrials.gov/study/NCT06900192"
-  },
-  {
     "nct_id": "NCT04009187",
     "title": "A Wheelchair Propulsion Training Program",
     "status": "COMPLETED",
@@ -19097,6 +19133,24 @@
     ],
     "summary": "The goal of this study is to assess the frequency of genetic polymorphisms of the FCG3A in a cohort of Italian patients affected by neuromyelitis optica spectrum disorder (NMOSD) and mog antibody associated disease (MOGAD) and in a a comparison group of patients affected with Multiple Sclerosis (MS).\n\nThe study will involve adult patients diagnosed with MS, NMOSD, or MOGAD, followed at various clinical centers in the Lazio region.\n\nPatients from the participating clinical centers will be selected, and their medical records will be analyzed to collect clinical and neuroimaging data. The data will include demographic information such as age, sex and body mass index and clinical information such as age at disease onset, disease duration, antibody status (AQP4+/- and MOG+/-), disease-modifying therapies, as well as MRI data and the Expanded Disability Status Scale (EDSS) score.\n\nEach patient included in the study will undergo a single blood draw of approximately 5 ml of peripheral venous blood during routine blood tests, which will be used for DNA extraction and polimorphysm analysis. Demographic and clinical differences between patients with NMOSD and MOGAD, with and without the polymorphism, will be assessed and compared with the group of patients with MS.",
     "url": "https://clinicaltrials.gov/study/NCT06865274"
+  },
+  {
+    "nct_id": "NCT06196866",
+    "title": "Effectiveness of Exergaming in Adittion to Conventional Treatment for Physical Therapy in People with Multiple Sclerosis",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-09-01",
+    "last_update": "2025-03-07",
+    "interventions": [
+      "Conventional Therapy",
+      "Nintendo Ring Fit Adventure + Conventional Therapy",
+      "Nintendo Wii Fit + Conventional Therapy"
+    ],
+    "summary": "The present study aims to evaluate the effectiveness of two different exergaming systems in addition to conventional treatment on physical functional capacity, balance, muscle strength, spasticity in lower limbs and quality of life compared to an isolated conventional intervention in patients with multiple sclerosis. The secondary aim will be to compare the differences between both exergaming groups.",
+    "url": "https://clinicaltrials.gov/study/NCT06196866"
   },
   {
     "nct_id": "NCT06524089",
@@ -21014,24 +21068,6 @@
     ],
     "summary": "The study series consists of three studies with the aim to assess the incidence, prevalence, risk factors, comorbidities and management of patients with alopecia areata in Czech Republic based on the patients and registry of a dermatology clinic of a metropolitan hospital.",
     "url": "https://clinicaltrials.gov/study/NCT05098600"
-  },
-  {
-    "nct_id": "NCT02212886",
-    "title": "Safety, Tolerability and Efficacy of Monthly Long-acting IM Injection of 80 or 40 mg GA Depot in Subjects With RRMS",
-    "status": "COMPLETED",
-    "phase": [
-      "PHASE1",
-      "PHASE2"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2014-10",
-    "last_update": "2024-12-03",
-    "interventions": [
-      "GA Depot 80 mg",
-      "GA Depot 40 mg"
-    ],
-    "summary": "* This is a phase IIa study in which GA Depot 80 or 40mg is administered as an IM injection to subjects with RRMS at 4 week intervals for 52 weeks of treatment.\n* The purpose of the study is to assess safety, tolerability, and efficacy of a monthly long-acting IM injection of 80 or 40mg GA Depot in subjects with RRMS. The study will include subjects switching from daily or thrice weekly administration of 20 mg or 40mg respectively of glatiramer acetate (GA, i.e., Copaxone®) injection",
-    "url": "https://clinicaltrials.gov/study/NCT02212886"
   },
   {
     "nct_id": "NCT06461741",
@@ -22973,6 +23009,20 @@
     ],
     "summary": "Multiple sclerosis (MS) is a highly disabling chronic, inflammatory, demyelinating disease of the Central Nervous System (CNS). Significant progress has been made during the past three decades in managing the relapsing-remitting phase of Multiple Sclerosis (RRMS). However, once patients have entered the progressive stage of MS (secondary progressive, SPMS), therapeutic options are limited to symptomatic treatments and rehabilitation. In addition, 10-20% of patients experience unremitting disease progression (primary progressive MS, or PPMS). The limited research focusing on Progressive MS (PMS) and the lack of ecological validity highlight the need for a bolder approach that combines more than one intervention intending to produce synergistic effects. The primary aim is to test the effectiveness of combining a home-based Digital Telerehabilitation program with in-hospital rehabilitation on mobility against in-hospital rehabilitation alone.",
     "url": "https://clinicaltrials.gov/study/NCT06485115"
+  },
+  {
+    "nct_id": "NCT06461481",
+    "title": "Strategies for Adaptive Follow-up and Evaluation - Guiding Use of Indicators for De-Escalation in Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2024-06-15",
+    "last_update": "2024-07-03",
+    "interventions": [
+      "Withings Scanwatch"
+    ],
+    "summary": "The study will attempt to closely analyze Multiple Sclerosis (MS) patients after de-escalating or discontinuation of immunotherapy using clinical monitoring as well as digital and serological biomarkers in order to detect clinical progression or disease activity. As this is an observational study, it aims to closely follow-up on patients where the clinical decision to de-escalate or end treatment has been independently made. Specifically, we want to find out to what extent patients will show increased disease activity after de-escalation/discontinuation from high-efficacy treatment (HET) and which measurement method (clinical, digital, serological) retrospectively reflects the disease activity most closely or detects it most sensitively.",
+    "url": "https://clinicaltrials.gov/study/NCT06461481"
   },
   {
     "nct_id": "NCT06450977",
@@ -30589,6 +30639,23 @@
     ],
     "summary": "This study evaluates the long term use of a single agent ublituximab, a novel monoclonal antibody, in patients with relapsing forms of multiple sclerosis",
     "url": "https://clinicaltrials.gov/study/NCT03381170"
+  },
+  {
+    "nct_id": "NCT03757819",
+    "title": "Transcranial Direct Current Stimulation and Walking in Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2019-02-25",
+    "last_update": "2022-12-21",
+    "interventions": [
+      "tDCS",
+      "SHAM"
+    ],
+    "summary": "Weakness on one side of the body is a hallmark of Multiple Sclerosis (MS), which has been determined to be a significant cause of progressive worsening of walking abilities. Currently, there are no efficient rehabilitation strategies available to target strength asymmetries and walking impairments. Many of the current treatments, including pharmaceuticals, are only mildly effective and are often very expensive. Thus, the development of practical, inexpensive, and effective adjunct treatments is needed.\n\nThe study is to examine the efficacy of different tDCS protocols at improving walking in PwMS. Although the details of the studies slightly vary, the global aspects of the experimental procedures are identical with the exception that the tDCS stimulation parameter timing differs between the groups. The study will be double-blind, sham-controlled, randomized cross-over design.\n\nMaximal voluntary contractions (MVCs) of the right and left knee extensors, knee flexors, hip flexors, and dorsiflexors will be performed to determine the more-affected leg.\n\nThe study compromises 2 groups of subjects which will attend the lab for three sessions. In the first session subjects will be consented, complete the PDDS, the Fatigue Severity Scale (FSS), and a 6 minute walk test (6-MWT) for baseline performance. The second session will involve a 6 MWT performed in association with 2 conditions. Group 1: DURINGtDCS, DURINGSHAM. Group 2: BEFOREtDCS, BEFORESHAM. The conditions in each group will be in a randomized order. Intensity of tDCS will be 2mA for both groups. Group 1 will receive the conditions during the 6 MWT. tDCS for 6 min has been shown to be sufficient to induce cortical excitability. Group 2 will receive 13 min of tDCS or sham, which results in after effects lasting through the completion of the 6 MWT. tDCS will be applied to the motor cortex (M1) corresponding to the more-affected leg either before or during the 6 min walk test",
+    "url": "https://clinicaltrials.gov/study/NCT03757819"
   },
   {
     "nct_id": "NCT02073474",
@@ -57242,6 +57309,24 @@
     ],
     "summary": "Past research has shown that items self-generated by an individual, such as words or concepts, are remembered better than items that are simply read or heard. The current study seeks to demonstrate the effectiveness of using the principles of the generation effect in a treatment intervention to improve memory and functional performance in individuals with Multiple Sclerosis who have learning and memory difficulties.The main purpose of the study is to conduct an experimental investigation on the effects of a self-generation strategy treatment, embedded within practice of various activities ranging from laboratory tasks (e.g. words and concepts) to functional tasks (e.g. activities of daily living). The treatment to be tested is geared toward helping patients selfdiscover their own strengths and abilities while using self-generation to be able to utilize it independently in everyday life situations.\n\nDesign: The proposed pilot study is a randomized clinical trial. Participants: Participants will include forty (40) persons with MS, between the ages of 18 and 65, who demonstrate memory impairments. Half of the participants will receive the self-generation training while learning different types of tasks (experimental group) and half of the participants (control group) will be asked to learn the same information but will receive a conventional practice (e.g. repetitions).\n\nExpected results: We expect that participants undergoing the self-generation-training intervention will show better memory performance, functional performance, quality of life, and satisfaction with treatment and life compared to participants in the control condition.",
     "url": "https://clinicaltrials.gov/study/NCT02032589"
+  },
+  {
+    "nct_id": "NCT00203047",
+    "title": "Assessment Study of Steroid Effect in Relapsing Multiple Sclerosis Subjects Treated With Glatiramer Acetate",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2005-01",
+    "last_update": "2014-01-06",
+    "interventions": [
+      "Glatiramer Acetate",
+      "Placebo",
+      "Prednisone"
+    ],
+    "summary": "This is a study evaluating the effect on brain volume of daily glatiramer acetate (GA) and add-on pulse steroids.",
+    "url": "https://clinicaltrials.gov/study/NCT00203047"
   },
   {
     "nct_id": "NCT00185211",
