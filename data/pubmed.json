@@ -171,6 +171,33 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43014980/"
   },
   {
+    "pmid": "43045441",
+    "title": "Persistent Hypersomnia in Neurological Disease: Mechanisms, Diagnosis, and Management.",
+    "date": "2027 Feb",
+    "journal": "Neurologic clinics",
+    "authors": [
+      "Roberts JM",
+      "Auger RR",
+      "Lipford MC"
+    ],
+    "abstract": "Hypersomnia in neurological disease is characterized by excessive sleep quantity in a day, distinct from excessive daytime sleepiness. It arises from the disruption of brainstem-hypothalamic-thalamic arousal circuits and neurotransmitter systems. Hypersomnia significantly impacts quality of life, safety, cognition, rehabilitation, and caregiver burden across conditions, including Parkinson's disease, stroke, traumatic brain injury, and multiple sclerosis. Systematic evaluation with polysomnography/multiple sleep latency testing distinguishes hypersomnia from fatigue and apathy. Treatment involves mechanism-guided approaches: addressing reversible causes (medications, sleep disorders), then pharmacotherapy with wake-promoting agents or stimulants, with special considerations for epilepsy, autonomic dysfunction, and neurodegenerative disease.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045441/"
+  },
+  {
+    "pmid": "43045429",
+    "title": "Sleep Disorders in Neurologic Conditions.",
+    "date": "2027 Feb",
+    "journal": "Neurologic clinics",
+    "authors": [
+      "Benjamin SE",
+      "Lin CD"
+    ],
+    "abstract": "Sleep disorders are common in the general population but are even more prevalent in patients with neurologic diseases. Maintaining good sleep quality is important for recovery, cognition and quality of life, but many patients with neurologic conditions face unique challenges in the quest to be the best sleeper they can be. This article will discuss common issues that need to be evaluated and treated in people with a history of stroke, multiple sclerosis, epilepsy, headache, and neuromuscular disease.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045429/"
+  },
+  {
     "pmid": "42965793",
     "title": "Cuprizone-Induced Demyelination and Remyelination Models of Multiple Sclerosis.",
     "date": "2027",
@@ -4449,6 +4476,111 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43040875/"
   },
   {
+    "pmid": "43046650",
+    "title": "Ferroptosis as an Immunometabolic Regulator in Autoimmune Diseases: Mechanisms, Biomarkers, and Therapeutic Implications.",
+    "date": "2026 Nov 17",
+    "journal": "Immunological investigations",
+    "authors": [
+      "Ahmed Z",
+      "B H"
+    ],
+    "abstract": "Autoimmune diseases involve persistent immune dysregulation, oxidative stress, and progressive tissue injury. Ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation and impaired antioxidant defences, may contribute to these processes. This review examines the immunological relevance of ferroptosis in autoimmune diseases, focusing on iron homeostasis, lipid peroxidation, GPX4 (glutathione peroxidase 4), system xc- (cystine/glutamate antiporter), inflammatory pathways, immune-cell dysfunction, biomarkers, and therapeutic strategies. Ferroptosis has been implicated in synovial inflammation and fibroblast-like synoviocyte dysfunction in rheumatoid arthritis, and in neutrophil abnormalities, oxidative injury, and lupus nephritis in systemic lupus erythematosus. Related mechanisms are also being explored in multiple sclerosis, inflammatory bowel disease, and other autoimmune conditions. Ferroptosis may represent a shared but context-dependent immunometabolic process in autoimmunity, with potential diagnostic and therapeutic relevance. However, disease heterogeneity, cell-specific effects, limited human validation, and the need for biomarker-guided precision approaches remain important challenges.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046650/"
+  },
+  {
+    "pmid": "43045660",
+    "title": "Myelin repair in neuromyelitis optica spectrum disorders: Mechanisms and interventions.",
+    "date": "2026 Nov 17",
+    "journal": "Neural regeneration research",
+    "authors": [
+      "Yan Y",
+      "Yuan Z",
+      "Liu MW",
+      "Zhang LM"
+    ],
+    "abstract": "Neuromyelitis optica spectrum disorder is a severe autoimmune astrocytopathy of the central nervous system that is primarily driven by pathogenic aquaporin-4-targeted autoantibody immunoglobulin G. Although current immunotherapies substantially reduce relapse rates, the majority of patients still develop irreversible neurological disability, a consequence predominantly attributed to the failure of endogenous remyelination. Unlike multiple sclerosis, where demyelination is a primary event, myelin injury in neuromyelitis optica spectrum disorder is a secondary phenomenon arising from aquaporin-4-IgG-mediated astrocyte destruction. This fundamental difference creates a uniquely hostile repair microenvironment characterized by disruption of the astrocyte-oligodendrocyte axis, persistent chronic inflammation, and intrinsic oligodendrocyte precursor cell dysfunction. In this review, we systematically examine the pathological factors that impede myelin repair in neuromyelitis optica spectrum disorder, focusing on three interconnected barriers: (1) the loss of astrocyte-derived trophic and metabolic support for oligodendrocyte precursor cells; (2) the sustained presence of proinflammatory cytokines and complement fragments (C3a and C5a) that aberrantly activate inhibitory signaling pathways such as Wnt/β-catenin and Notch signaling and suppress proregenerative pathways such as mechanistic target of rapamycin complex 1; and (3) cell-intrinsic defects in oligodendrocyte precursor cells, including senescence, epigenetic silencing of myelin genes, and differentiation arrest. Furthermore, we critically evaluate emerging therapeutic strategies designed to overcome these obstacles, including immunomodulation to foster a reparative microenvironment, pharmacological targeting of oligodendrocyte precursor cell differentiation pathways, astrocyte replacement or functional enhancement, cell-based therapies, and axonal protection. Given the multifactorial nature of repair failure in neuromyelitis optica spectrum disorder, we argue that future interventions must move beyond single-agent approaches toward rational combination regimens. This review provides an evidence-based framework for developing targeted repair-promoting interventions, including small molecules, cell-based therapies, and neurotrophic approaches, while highlighting essential biomarkers and clinical trial endpoints needed to evaluate remyelination in vivo. Ultimately, this work shifts the therapeutic paradigm from passive disease control toward active neural restoration, offering actionable insights for clinicians to mitigate irreversible disability, personalize treatment strategies, and improve long-term outcomes for neuromyelitis optica spectrum disorder patients worldwide.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045660/"
+  },
+  {
+    "pmid": "43044514",
+    "title": "MasR agonist AVE0991 ameliorates EAE: potential involvement of the Nrf2-dependent TLR4/NF-κB/NLRP3 pathway.",
+    "date": "2026 Nov 17",
+    "journal": "Neuropharmacology",
+    "authors": [
+      "Fang X",
+      "Ma X",
+      "Ma L",
+      "Liu X",
+      "Li D",
+      "Ma X",
+      "Liu Y",
+      "Chen X"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the central nervous system (CNS). Mas receptor (MasR) constitutes the counter-regulatory arm of the renin-angiotensin system. Despite well-established anti-inflammatory and neuroprotective effects of MasR, its functional roles and regulatory mechanisms in MS remain elusive. Herein, we established an experimental autoimmune encephalomyelitis (EAE) model in female C57BL/6 mice by immunization with MOG",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044514/"
+  },
+  {
+    "pmid": "43043990",
+    "title": "Endothelial cells and interstitial macrophages determine tissue-specific responses to type I IFNs in mice expressing humanized IFNARs.",
+    "date": "2026 Nov 17",
+    "journal": "Science signaling",
+    "authors": [
+      "Yuan J",
+      "Li J",
+      "Zhang M",
+      "Feng C",
+      "Shi J",
+      "Wang Y",
+      "Jiang M",
+      "Fan Q",
+      "Wei Z",
+      "Wu Q",
+      "Zhang L",
+      "Li F"
+    ],
+    "abstract": "The human type I interferons (IFN-Is) IFN-α2 and IFN-β are used as immunoregulators to treat viral infections and multiple sclerosis, respectively. Their different binding affinities for the type I IFN receptor (IFNAR) determine their intracellular signal intensity in vitro. However, the species specificity of IFNs restricts the investigation of their functional differences in vivo. Here, we analyzed the induction of IFN-stimulated genes (ISGs) in response to exogenous low-dose administration of IFN-α2 and IFN-β in human THP-1 cells and in HuIFNAR mice, which express the humanized IFNAR subunits HuIFNAR1 and HuIFNAR2. In THP-1 cells, IFN-β stimulated a more rapid and robust early ISG response than did IFN-α2, but the response to IFN-α2 was more sustained. In the HuIFNAR mice, IFN-β and IFN-α2 induced tissue-specific profiles of ISGs. Among the 1752 ISGs induced by IFN-β or IFN-α2, only 81 ISGs were induced by both. In contrast with the observations in THP-1 cells, IFN-α2 induced a broader and more robust ISG response compared with that of IFN-β in multiple tissues. Single-cell RNA sequencing revealed that endothelial cells in the lung exhibited the highest expression of tissue-specific ISGs and were the primary cell type shaping the tissue-specific ISG landscape, whereas immune cells, particularly interstitial macrophages, drove IFN subtype-specific differences in ISG expression. Together, our findings uncover tissue- and cell type-specific functional differences between IFN-α2 and IFN-β, revealing that the in vivo activities of IFN-I subtypes are determined by both tissue context and cellular composition.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043990/"
+  },
+  {
+    "pmid": "43043491",
+    "title": "Sex-dependent spatial organization of microgliosis tracks synaptic pathology in the demyelinated superior colliculus.",
+    "date": "2026 Nov 17",
+    "journal": "Acta neuropathologica",
+    "authors": [
+      "McGrath JD",
+      "Shultz J",
+      "Classe MJ",
+      "Hannum DF",
+      "Werneburg S"
+    ],
+    "abstract": "Visual impairment is a common and clinically salient manifestation of Multiple Sclerosis (MS), yet pathology across visual system structures remains incompletely defined. Although the optic nerve, lateral geniculate nucleus, and visual cortex have been extensively studied, involvement of the superior colliculus (SC), a key visual processing hub, remains unclear. Here, we combined human postmortem tissue analysis with functional assessment and spatial mapping in the MS-relevant cuprizone (CPZ) mouse model to define how demyelination and secondary injury are organized within the SC. Postmortem SC tissue from donors with MS revealed myelin loss, including focal demyelinated lesions. In mice, CPZ impaired visual function and induced widespread SC demyelination without detectable neuronal loss or axonal degeneration. In male mice, although diffuse demyelination was accompanied by widespread microgliosis, atlas-based mapping uncovered a previously unrecognized spatial organization: a discrete high-microgliosis compartment with a stereotyped location and shape in every CPZ-treated mouse. This compartment did not correspond to canonical SC maps and was not explained by baseline microglial or myelin differences or by variability in local demyelination severity. Instead, high-microgliosis regions showed increased synaptic elimination, suggesting that secondary synaptic pathology may contribute to spatial organization of microgliosis beyond diffuse myelin loss alone. Prolonged CPZ exposure expanded the high-microgliosis compartment stereotypically, whereas withdrawal produced spatially ordered partial resolution with persistence of a high-microgliosis core and partial visual recovery. Former high-microgliosis territories showed partial restoration of synaptic density despite myelin recovery comparable to persistent high-microgliosis regions. In contrast, female CPZ-treated mice developed widespread SC demyelination and microgliosis without comparable compartmentalization, demonstrating sex-differential organization of microglial reactivity. Together, these findings identify the human SC as a site of demyelinating injury in MS and establish the CPZ-treated mouse SC as a sex-sensitive in vivo framework for investigating spatially patterned microglial reactivity, synaptic pathology, and incomplete resolution of microgliosis after demyelination.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043491/"
+  },
+  {
+    "pmid": "43042456",
+    "title": "Genetically Predicted MRI Phenotypes Are Associated with Risk of Multiple Sclerosis.",
+    "date": "2026 Nov 17",
+    "journal": "Annals of neurology",
+    "authors": [
+      "Shao B",
+      "Brenya-Asamoah J",
+      "Ramachandran S",
+      "Upcott M",
+      "Vandebergh M",
+      "Dineen RA",
+      "Tanasescu R",
+      "Kreft KL"
+    ],
+    "abstract": "Brain atrophy is a hallmark of multiple sclerosis (MS) and precedes clinical symptom onset. However, whether brain development and morphological measures contribute to MS susceptibility remains unclear. We investigated whether genetically determined brain imaging phenotypes are associated with MS risk. We applied causal inference approaches using genome-wide association study (GWAS) data for 170 heritable magnetic resonance imaging (MRI)-derived phenotypes from 39,691 United Kingdom (UK) Biobank participants and leveraged with MS susceptibility GWAS data from 14,802 MS patient and 26,703 controls. Generalized summary-data-based Mendelian randomization with HEIDI filtering was used to assess putative causal associations while accounting for horizontal pleiotropy, with orthogonal sensitivity analysis using 2-sample Mendelian randomization. Significant loci underwent functional annotation, Bayesian colocalization with brain expression quantitative trait loci, integration with single-nucleus RNA-sequencing data from MS postmortem tissue, and druggability assessment. False discovery rate adjustments were applied. Four MRI phenotypes were associated with MS susceptibility: cerebellar vermis VIIIa gray-matter volume, mean diffusivity of the right anterior corona radiata, intracellular volume fraction of the corpus callosum, and orientation dispersion index of the right external capsule. Functional analyses identified 120 candidate genes, including several within the complex 17q21.31 locus. Cell-type-specific Mendelian randomization identified higher genetically predicted PLEC expression in inhibitory neurons and microglia as associated with lower MS susceptibility. Differential gene expression analyses highlighted convergent dysregulation of MAPT, EGFR, and HBEGF, implicating neurodevelopmental, neurovascular, and autophagy-related pathways. Twenty-five candidate genes were identified as potentially druggable targets. Genetically determined brain structural traits are associated with MS susceptibility, supporting the concept that premorbid brain architecture contributes to disease vulnerability and highlighting potential therapeutic targets. ANN NEUROL 2026.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042456/"
+  },
+  {
     "pmid": "43041010",
     "title": "Which patient-reported outcome measure of fatigue to use for multiple sclerosis studies? Part 2: simulation studies highlight broad implications for clinical outcomes analysis.",
     "date": "2026 Nov 16",
@@ -4879,6 +5011,30 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43018683/"
   },
   {
+    "pmid": "43044193",
+    "title": "Long-term safety, effectiveness and discontinuation of rituximab in CNS demyelinating disorders: A 6-year real-world cohort study.",
+    "date": "2026 Nov 12",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Alcalá C",
+      "Tortosa-Carreres J",
+      "Cubas-Núñez L",
+      "Quintanilla-Bordás C",
+      "Carratalà-Boscà S",
+      "Castillo-Villalba J",
+      "Verdini L",
+      "García-Lluch G",
+      "Forés-Toribio L",
+      "Gorriz-Romero D",
+      "Martínez-Gimeno A",
+      "Casanova B",
+      "Pérez-Miralles FC"
+    ],
+    "abstract": "Rituximab (RTX) is widely used off-label for CNS demyelinating disorders, but long-term discontinuation and safety data remain limited. To characterize RTX discontinuation reasons, describe serious adverse events (SAEs), identify associated risk factors, and evaluate long-term effectiveness and mortality. Observational retrospective study of 282 patients with MS, NMOSD, or MOGAD who received ≥1 RTX cycle at the Neuroimmunology Unit CSUR/ERN-RITA (La Fe University Hospital, Valencia, Spain). SAEs were descriptively characterized by type and frequency. Separate Firth penalized logistic regression models evaluated neoplasms, infections, and MACE as outcomes, adjusting for sex, EDSS, prior immunosuppression at initiation (PI), and age at RTX start. Mortality was compared with an agematched Spanish population to estimate the SMR. After 6 years follow-up (retention 95.9%), 148 patients (52.5%) discontinued RTX. SAEs were the leading cause (43.2%), followed by treatment failure (34.5%): disability progression and relapses. The most frequent SAEs were neoplasms (6.0%), infections (4.6%), and MACE (3.1%). PI was associated with increased neoplasia risk (OR 3.12, 95% CI 1.02-11.23; p = 0.046); higher baseline EDSS with MACE (OR 4.78, 95% CI 2.00-15.01; p < 0.001). Relapse rate was 2.1%. Thirteen deaths were recorded (SMR 2.84). RTX provides sustained disease control in CNS demyelinating disorders.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044193/"
+  },
+  {
     "pmid": "43015945",
     "title": "The Case of a 59-Year-Old Woman With Acute Right-Sided Weakness and Progressive White Matter Changes.",
     "date": "2026 Nov 11",
@@ -5088,6 +5244,55 @@
     "abstract": "Primary progressive multiple sclerosis (PPMS) leads to continuous neurodegeneration. Treatment options are limited, but B-cell-depleting therapies and brain-penetrant Bruton's tyrosine kinase (BTK) inhibitors have emerged. Compare the efficacy of disease-modifying therapies (DMTs) on 12-week composite confirmed disability progression (cCDP12) in PPMS. Systematic review and Bayesian network meta-analysis of Phase III randomized trials (up to June 2026). Binomial likelihood models estimated odds ratios (OR) and 95% credible intervals (CrI). Five trials (4306 patients) were included. Fenebrutinib (OR 0.52, 95% CrI 0.37-0.72; estimated absolute risk reduction [ARR] = 14.1%, number needed to treat [NNT] = 7), standard ocrelizumab 600 mg (OR 0.71, 95% CrI 0.57-0.87; ARR = 7.8%, NNT = 13), and high-dose ocrelizumab (OR 0.65, 95% CrI 0.45-0.94; ARR = 9.6%, NNT = 11) significantly reduced cCDP12 risk versus placebo. Fingolimod was not effective (OR 0.98, 95% CrI 0.73-1.33). In indirect network comparisons under fixed-effects assumptions, fenebrutinib demonstrated lower odds of cCDP12 relative to standard ocrelizumab (OR 0.73, 95% CrI 0.57-0.95), whereas direct head-to-head trial data from FENtrepid demonstrated comparable primary efficacy / non-inferiority. Under a random-effects sensitivity model, credible intervals widened and crossed 1.00 (OR 0.73, 95% CrI 0.40-1.38), reflecting structural uncertainty in a sparse network. Fenebrutinib and ocrelizumab (standard and high-dose) show efficacy in reducing cCDP12 in PPMS. Fenebrutinib demonstrated lower estimated odds of progression under fixed-effects network assumptions, highlighting the clinical potential of central microglial BTK inhibition; however, equivalent direct trial efficacy, loss of statistical significance under random-effects modeling, and baseline clinical heterogeneity (gadolinium-enhancing lesion activity) across trials mandate cautious clinical interpretation. ClinicalTrials.gov: ORATORIO (NCT01194570); ORATORIOHAND (NCT04035005); GAVOTTE (NCT04548999); FENtrepid (NCT04544449); INFORMS (NCT00731692).",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43035027/"
+  },
+  {
+    "pmid": "43044192",
+    "title": "Impact of TENS on mobility deficits in individuals with multiple sclerosis: a double-blind randomized clinical trial.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Henry M",
+      "Rahimi N",
+      "Kott BC",
+      "Al-Jaafari R",
+      "Toninelli N",
+      "Cleveland I",
+      "Weiser K",
+      "Riewe E",
+      "Riewe H",
+      "Alvarez E",
+      "Enoka RM"
+    ],
+    "abstract": "Mobility deficits affect up to 85% of people with multiple sclerosis, impacting daily functioning and quality of life. The present randomized, double-blind, parallel-group clinical trial was designed to evaluate the effectiveness of transcutaneous electrical nerve stimulation (TENS) delivered during light exercise at reducing mobility deficits in this population. Participants performed light hip-flexion and ankle-dorsiflexion exercises three times weekly for six weeks while receiving either Active TENS (motor threshold; n = 18) or Sham TENS (sensory threshold reduced to 0 mA over 30 s; n = 15). Mobility assessments were performed at baseline, immediately after the intervention, and at one-month follow-up. Static balance was evaluated using center of pressure (CoP) velocity during three conditions: rigid-surface eyes-open (REO), rigid-surface eyes-closed (REC), and foam-surface eyes-open (FEO). Dynamic balance was evaluated during 360°-turns, and gait was assessed using the 2-minute walk test. Our results showed a mixed effect of the intervention on mobility outcomes. Active TENS but not Sham TENS led to improvements in postural control when standing with eyes closed (p = 0.042). Although other outcomes improved in both groups (p < 0.005), they failed to reach the minimal detectable change threshold. Despite being statistically significant, these changes were not reflected in self-reported measures of mobility or quality of life. These findings suggest that TENS induced some moderate neuroplasticity within the sensorimotor system, but that its benefit for mobility was only apparent when tasks challenge somatosensory input. Moreover, the adjustments appear to have been too subtle to impact self-reported measures of quality of life.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044192/"
+  },
+  {
+    "pmid": "43044191",
+    "title": "The effect of 8 weeks of aerobic training with and without the use of electrical brain stimulation on neurotrophic and inflammatory markers in people with multiple sclerosis.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Besharati S",
+      "Omidi M",
+      "Yousefi M"
+    ],
+    "abstract": "Multiple sclerosis is an autoimmune neurodegenerative disease associated with chronic inflammation, myelin destruction, and impaired neurotransmission. The aim of this study was to investigate the effects of 8 weeks of aerobic training with and without electrical brain stimulation on neurotrophic and inflammatory markers in people with multiple sclerosis. In this randomized controlled trial, 36 men with relapsing-remitting multiple sclerosis (EDSS score strictly between 3.0 and 5.0) were randomly assigned to three groups (n = 12 each): aerobic exercise with transcranial direct current stimulation (I), aerobic exercise with sham stimulation (II), and a control group (III). Aerobic exercise was performed 3 sessions per week for 8 weeks. Active electrical brain stimulation was applied 2 sessions per week to the first group, while the second group received sham stimulation to control for psychological/placebo effects. Repeated-measures ANOVA was used to analyze the data (P ≤ 0.05). Significant Time × Group interactions were observed for all variables (all p < 0.01). Bonferroni-adjusted post hoc comparisons at post-intervention showed that the AT+S group demonstrated significantly higher NGF, BDNF, and IL-10 levels and significantly lower TNF-α and IL-6 levels compared with both the AT group and the control group (all p < 0.05). In addition, the AT group exhibited a smaller improvement and differed significantly from the control group only for NGF (p = 0.013), while the remaining biomarkers did not show statistically significant AT vs. control differences at post-test (all p > 0.05). Eight weeks of aerobic training combined with tDCS produced significantly greater beneficial changes across neurotrophic (NGF, BDNF) and inflammatory (TNF-α, IL-6, IL-10) biomarkers than aerobic training alone, suggesting an additive effect of concurrent stimulation when paired with supervised aerobic exercise in men with RRMS.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044191/"
+  },
+  {
+    "pmid": "43044181",
+    "title": "Hyperinsulinemia contributes to regulatory T-cell dysfunction and disease activity in multiple sclerosis.",
+    "date": "2026 Nov 10",
+    "journal": "Journal of neuroimmunology",
+    "authors": [
+      "Correale J",
+      "Marrodan M"
+    ],
+    "abstract": "We examined relationships among obesity, hyperinsulinemia, regulatory T-cell (Treg) function, and activity in multiple sclerosis (MS), and investigated insulin signaling as a candidate mechanism. We prospectively followed 131 patients with relapsing-remitting MS, stratified by body mass index, for at least 36 months. Clinical and MRI outcomes were assessed longitudinally, whereas metabolic parameters and Treg phenotype and function were evaluated at baseline. Mechanistic studies examined insulin receptor signaling in purified Tregs using insulin stimulation, pharmacological inhibition, insulin receptor silencing, and functional assays. In a separate, non-overlapping cohort, 28 obese hyperinsulinemic patients with relapsing-remitting MS underwent a 24-week metformin intervention with longitudinal metabolic and immunological assessments. Obese patients had higher fasting insulin, more relapses, disability progression, and MRI activity. Hyperinsulinemia correlated with reduced FoxP3 and IL-10, impaired Treg suppression, and increased IFN-γ and IL-17 in Treg-enriched cultures. Insulin stimulation altered AKT-mTOR signaling and Treg function; AKT inhibition or insulin receptor silencing reversed these effects. Obese-patient Tregs suppressed myelin-reactive responses less effectively. During metformin treatment, reductions in fasting insulin and AKT-mTOR signaling were accompanied by improvements in Treg phenotype and suppressive function and attenuation of myelin-specific inflammatory responses. These immunological changes correlated with insulin reductions, but the single-arm design and metformin's direct effects preclude causal attribution. These findings support an association between hyperinsulinemia, altered Treg function, and inflammatory disease activity in MS and identify insulin signaling as a candidate pathway for further mechanistic investigation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044181/"
   },
   {
     "pmid": "42952209",
@@ -5850,6 +6055,37 @@
     "abstract": "Autoimmune diseases are a group of disorders with multiple etiologies that disrupt normal immunological function, leading to the immune system mistakenly attacking the body's own tissues. The Notch signaling pathway is a conserved pathway that is in part responsible for multiple cellular behaviors, including proliferation, differentiation, development, and death, through direct cell-to-cell communication. The expression and activation of Notch signaling pathway proteins are aberrantly regulated in autoimmune diseases in a manner that is closely related to their onset and development. We reviewed the functioning of the Notch signaling pathway in several autoimmune disorders, including rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), primary Sjögren's syndrome (pSS), juvenile idiopathic arthritis (JIA), idiopathic thrombocytopenic purpura (ITP), multiple sclerosis (MS), autoimmune vasculitis, autoimmune hepatitis (AIH), autoimmune thyroid disease (AITD), autoimmune kidney diseases and type 1 diabetes mellitus (T1DM). We specifically sought to explore the involvement of the Notch signaling pathway in the occurrence and progression of RA to provide ideas and approaches for developing new therapeutic strategies for this autoimmune disease.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42946860/"
+  },
+  {
+    "pmid": "43041801",
+    "title": "Effectiveness and Safety of Cannabis on Anxiety Treatment Outcomes: A Systematic Review.",
+    "date": "2026 Jul 1",
+    "journal": "Journal of affective disorders reports",
+    "authors": [
+      "Kotecha P",
+      "Perez-Vilar S",
+      "Lloyd J",
+      "Sandhu SK",
+      "Schoeplein R",
+      "Huang W",
+      "Weiner J",
+      "Naranjo C",
+      "Spin E",
+      "Chatila M",
+      "Kurzbach T",
+      "Chang SH",
+      "Pliego S",
+      "Riaz M",
+      "Jugl S",
+      "Adkins L",
+      "Guo J",
+      "Wang Y",
+      "Winterstein AG",
+      "Goodin A"
+    ],
+    "abstract": "We assessed controlled non-interventional studies and randomized clinical trials (RCTs) evaluating THC-containing cannabis' safety and effectiveness for anxiety. We searched PubMed, Embase, APA PsychInfo, and Cochrane databases in February 2023 for clinical studies that reported patient-level controlled quantitative assessments of anxiety outcomes following cannabis treatment. Exclusion criteria included: publication before 2000, in non-English language, assessment of topical treatment or containing <0.3% tetrahydrocannabinol, and FDA-approved products. We assessed risk of bias via RoB2/ROBINS-I, and rated evidence quality using the GRADE approach. PROSPERO:CRD42023411999. From 6,453 search records, 4 RCTs and 1 observational study met inclusion criteria. All studies involved patients with severe comorbid medical conditions, with anxiety assessed as a secondary outcome, limiting generalizability to primary anxiety disorders. Interventions included THC-rich cannabis oil for fibromyalgia, cannabinoids for obsessive-compulsive disorder (OCD), cannabidiol (CBD)-enriched extracts for Parkinson's disease, nabiximols (THC:CBD 1:1) for multiple sclerosis (MS), and cannabis for chronic non-cancer pain. Anxiety was measured via self-reported scales. Due to heterogeneity in anxiety measures, results were synthesized narratively. Compared with placebo, the OCD RCT showed significant anxiety worsening [4.31 (1.70, 6.92)]; the Parkinson's disease RCT non-significant improvement [-0.82 (-1.97, 0.33)], and the fibromyalgia and MS RCTs show no significant effects [0.38 (-2.91, 3.67); -2.00 (-7.51, 3.51)]. The pain observational study reported no initial significant effect on anxiety -0.30 (-1.53, 0.93). Quality of life (QoL) worsened with THC in Parkinson's [-0.14 (-0.23, -0.04)] and showed non-significant improvement in MS [0.35 (-1.09, 1.79)]. The evidence quality was rated low to moderate. Evidence on THC-containing cannabis' effects on anxiety is limited and inconsistent, with heterogeneous measures and mixed findings preventing meaningful quantitative synthesis. Across studies, no consistent evidence of benefit was observed. Higher-quality studies with standardized outcomes are needed to clarify their impact on anxiety and quality of life. Evidence quality was rated as low to moderate, driven by small sample sizes, short durations, and limited generalizability.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041801/"
   },
   {
     "pmid": "42953811",
@@ -7847,5 +8083,109 @@
     "abstract": "To date, no studies have investigated the relationship between cognitive impairment (CI) and sexual dysfunction (SD) in multiple sclerosis (MS) using dedicated assessment tools. This cross-sectional study was conducted on 318 pwMS at clinics in Mashhad and Gonabad. Convenience sampling was employed, and demographic and clinical information were obtained. CI was assessed using the Paced Auditory Serial Addition Test and the Symbol Digit Modalities Test, and SD was evaluated with the Multiple Sclerosis Intimacy and Sexuality Questionnaire-19 (MSISQ-19). Associations between SD and CI were examined using correlation analyses and GLMtree model. All analyses were conducted in R (version 4.5.0). Significant correlations were observed between CI and SD in PwMS. MSISQ-19 total scores were negatively correlated with SDMT (r = -0.63) and PASAT (r = -0.24), while primary SD showed no significant associations. Secondary and tertiary SD were negatively correlated with SDMT (r = -0.50; r = -0.22) and PASAT (r = -0.52; r = -0.18). EDSS was positively associated with SD (excluding primary) and negatively with CI. GLMtree analyses revealed EDSS-dependent effects: PASAT was positively associated with secondary SD at EDSS 1-3 and tertiary SD at EDSS 3-5, whereas SDMT showed stronger negative associations with total, secondary, and tertiary SD at higher disability levels overall. Results indicate that CI are significantly associated with SD in PwMS, with disability severity (EDSS) acting as a key moderating factor.",
     "category": "Симптомы и прогрессирование",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43038187/"
+  },
+  {
+    "pmid": "43045282",
+    "title": "Clinical use of transcranial magnetic stimulation combined with electroencephalography in the motor system.",
+    "date": "2026",
+    "journal": "Handbook of clinical neurology",
+    "authors": [
+      "Tscherpel C",
+      "Grefkes C"
+    ],
+    "abstract": "Transcranial magnetic stimulation combined with electroencephalography (TMS-EEG) has emerged as a powerful technique to investigate cortical physiology and network dynamics in vivo. By directly recording the cortical response to noninvasive brain stimulation, TMS-EEG enables the assessment of cortical inhibitory and excitatory mechanisms, oscillatory activity, and effective connectivity within large-scale network organization independently of the corticospinal output pathways. These properties make TMS-EEG particularly valuable for studying disorders affecting the motor system. This chapter reviews the principles of TMS-EEG in the motor system and summarizes its application in four major neurologic disorders leading to motor network dysfunction, including stroke, amyotrophic lateral sclerosis (ALS), Parkinson's disease, and multiple sclerosis. Across these, TMS-EEG has provided novel insights into disease-specific mechanisms, including cortical disinhibition, network reorganization, diaschisis, pathologic oscillatory activity, and alterations in brain complexity. Furthermore, growing evidence suggests that TMS-EEG-derived measures are associated with clinically relevant outcomes such as motor impairment, recovery potential, disease progression, and treatment response. Although methodologic challenges and the need for larger and longitudinal cohorts remain, TMS-EEG represents a promising approach for characterizing network dysfunction and may contribute to future treatment strategies in neurology.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045282/"
+  },
+  {
+    "pmid": "43045281",
+    "title": "Transcranial magnetic stimulation: Positive effects.",
+    "date": "2026",
+    "journal": "Handbook of clinical neurology",
+    "authors": [
+      "Spampinato DA",
+      "Rothwell JC",
+      "Pereda JI",
+      "Rocchi L"
+    ],
+    "abstract": "Transcranial magnetic stimulation has evolved from early studies of electrical stimulation of the motor cortex into a powerful noninvasive tool for investigating the human corticospinal system. This chapter reviews the neurophysiologic basis of transcranial magnetic stimulation-evoked responses, encompassing the activation of cortical circuits, the generation and propagation of descending corticospinal volleys, the role of direct and indirect waves, and the contribution of spinal motoneuron pool dynamics to the formation of the motor-evoked potential. Methods for assessing corticospinal function are discussed systematically, including motor threshold determination, input-output curves, the cortical silent period, and paired-pulse paradigms that probe intracortical inhibitory and facilitatory circuits. The triple stimulation technique is presented as an approach to overcoming the temporal dispersion that limits conventional motor-evoked potential interpretation, while high-density surface electromyography is reviewed as an emerging method for resolving individual motor unit contributions to the compound response. Finally, the clinical applications of transcranial magnetic stimulation are illustrated through its use in disorders affecting the corticospinal tract, including amyotrophic lateral sclerosis, primary lateral sclerosis, hereditary spastic paraplegia, multiple sclerosis, stroke, and cervical spondylotic myelopathy, highlighting its value for both investigating corticospinal physiology and supporting clinical diagnosis and prognosis.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045281/"
+  },
+  {
+    "pmid": "43045275",
+    "title": "Long-latency reflex and cutaneous reflex.",
+    "date": "2026",
+    "journal": "Handbook of clinical neurology",
+    "authors": [
+      "Kuo YJ",
+      "Cheng CY",
+      "Chen KS"
+    ],
+    "abstract": "Long-latency reflexes (LLRs) play a crucial role in adaptive motor control, integrating spinal and supraspinal mechanisms to regulate movement. Unlike short-latency reflexes, LLRs involve cortical and subcortical processing, allowing for goal-dependent modulation. Various techniques, including muscle stretch, electrical stimulation, and cutaneous stimulation, reveal the complexity and functional significance of LLRs. LLRs contribute to fine motor control, postural stability, and rapid adaptation to perturbations. Their clinical relevance extends to neurologic disorders such as Parkinson disease, dystonia, myoclonus, multiple sclerosis, and cerebellar ataxia, where altered LLR responses reflect underlying pathophysiology. Recent findings highlight the role of the motor cortex, basal ganglia, brainstem, and cerebellum in modulating LLRs, with implications for diagnostic and therapeutic applications. Standardization of protocols and further research are needed to optimize LLR assessments in clinical and research settings. This review provides a comprehensive analysis of LLR mechanisms, elicitation methods, and their diagnostic utility in various neurologic disorders.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045275/"
+  },
+  {
+    "pmid": "43041981",
+    "title": "Corneal nerve status as a biomarker for neurodegenerative and neurological diseases: a narrative review.",
+    "date": "2026",
+    "journal": "British journal of biomedical science",
+    "authors": [
+      "Li J",
+      "Sim AEH",
+      "Yu M",
+      "Liu C",
+      "Lee IXY",
+      "Anam A",
+      "Koh JS",
+      "Liu YC"
+    ],
+    "abstract": "Corneal nerve status has gained prominence as a potential adjunctive biomarker for neurodegenerative and neurological diseases, as corneal small-fibre abnormalities can be detected in peripheral neuropathy and may precede conventional manifestations in certain conditions. Advances in in vivo confocal microscopy (IVCM) allow non-invasive, cellular-level assessments of corneal nerve alterations in real-time. Corneal nerve metrics have been associated with disease progression and severity. This review explores the role of corneal nerve status in the evaluation and monitoring of neurodegenerative and neurological diseases or conditions, including diabetic peripheral neuropathy (DPN), Parkinson's disease (PD), mild cognitive impairment (MCI) and dementia, multiple sclerosis (MS), schizophrenia, amyotrophic lateral sclerosis (ALS), migraine, tauopathies, and chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). The strength and maturity of evidence vary substantially between conditions. DPN has the most established evidence base, with replicated cross-sectional and longitudinal studies showing reductions in corneal nerve fibre density, branch density and length, and evidence that corneal nerve loss may precede conventional manifestations of neuropathy. In MS, longitudinal studies demonstrate progressive corneal nerve loss associated with worsening disability. In PD, the extent of corneal nerve fibre loss correlates with severity of motor deterioration, cognitive impairment and development of autonomic dysfunction, although proposed applications in prodromal detection, disease phenotyping, and prognostication remain largely dependent on small, single-centre studies. Studies in MCI and dementia suggest potential diagnostic and prognostic utility, including comparisons with neuroimaging, but are largely derived from overlapping single-centre cohorts. Evidence in CIDP, migraine, ALS, and schizophrenia remains limited or conflicting, while evidence in tauopathies is predominantly pre-clinical. Overall, current literature supports corneal nerve parameters primarily as promising adjunctive rather than established diagnostic, prognostic, treatment-response biomarkers. Direct evidence that IVCM provides incremental diagnostic or prognostic value over established biomarkers remains limited. Furthermore, heterogeneity in confocal platforms, image acquisition, image sampling, and analytical methods must be considered in the interpretation across studies. Standardised acquisition and analysis protocols, prospective multicentre longitudinal studies, appropriate adjustment for confounders, and direct comparison with established biomarkers are necessary before broader clinical translation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041981/"
+  },
+  {
+    "pmid": "43041652",
+    "title": "Brain derived neurotrophic factor Val66Met polymorphism modifies progression independent of relapse activity and structural damage trajectories in multiple sclerosis.",
+    "date": "2026",
+    "journal": "Brain communications",
+    "authors": [
+      "De Meo E",
+      "Addazio I",
+      "Bonacchi R",
+      "Betti M",
+      "Caporali A",
+      "Penati V",
+      "Nacmias B",
+      "Ginestroni A",
+      "Portaccio E",
+      "Amato MP"
+    ],
+    "abstract": "Brain-derived neurotrophic factor (",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041652/"
+  },
+  {
+    "pmid": "43041454",
+    "title": "Context-specific drug scoring for precision repurposing via synergizing label propagation with heterogeneous networks.",
+    "date": "2026",
+    "journal": "Journal of big data",
+    "authors": [
+      "Nam Y",
+      "Jung SH",
+      "Woerner J",
+      "Lawrence PJ",
+      "Lee DG",
+      "Yang S",
+      "Zhai T",
+      "Shin H",
+      "Ning X",
+      "Shen L",
+      "Kim D"
+    ],
+    "abstract": "While biological and pharmaceutical knowledge networks have significantly propelled drug repurposing efforts, reliance solely on these networks is insufficient for accurately addressing genetic and phenotypic variance. This limitation highlights the need for an integrative approach that leverages context-specific data to enhance the precision of drug repurposing. We introduce a network-based integrative drug scoring approach that synergistically incorporates data-driven and knowledge-driven networks without requiring their direct integration. We developed a synergistic label propagation algorithm that facilitates information transfer from data-driven to knowledge-driven networks. To enable context-specific drug repurposing, we constructed a data-driven disease-disease association network utilizing European-specific genetic information and a knowledge-driven drug-target protein association network. In a proof-of-concept study, drug scoring was applied to identify candidate drugs for rheumatoid arthritis, asthma, and multiple sclerosis. Compared with a representative direct-integration benchmark, the proposed method achieved an average AUC of 0.701, corresponding to a 9.71% improvement. These results provide preliminary evidence supporting the utility of the proposed framework. A supportive EHR-based medication association analysis using UK Biobank participants' medication records for rheumatoid arthritis highlighted three prioritized drugs or drug classes: Carfilzomib, Etanercept, and Artenimol. Overall, this framework provides a flexible strategy for incorporating context-specific genetic information into network-based drug repurposing.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041454/"
   }
 ]

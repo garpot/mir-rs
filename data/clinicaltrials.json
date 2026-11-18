@@ -1,5 +1,17 @@
 [
   {
+    "nct_id": "NCT07388992",
+    "title": "Investigating Specific Gait Patterns in Individuals Living With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2026-03-16",
+    "last_update": "2026-11-17",
+    "interventions": [],
+    "summary": "The study aims to investigate specific ambulation patterns characteristic of the quality of gait in people with MS (pwMS)",
+    "url": "https://clinicaltrials.gov/study/NCT07388992"
+  },
+  {
     "nct_id": "NCT07589062",
     "title": "Healthy Eating and Active Living for People Living With Multiple Sclerosis (HEAL MS): A Lifestyle Program for People With Multiple Sclerosis",
     "status": "RECRUITING",
@@ -49,6 +61,24 @@
     ],
     "summary": "* This is a phase IIa study in which GA Depot 80 or 40mg is administered as an IM injection to subjects with RRMS at 4 week intervals for 52 weeks of treatment.\n* The purpose of the study is to assess safety, tolerability, and efficacy of a monthly long-acting IM injection of 80 or 40mg GA Depot in subjects with RRMS. The study will include subjects switching from daily or thrice weekly administration of 20 mg or 40mg respectively of glatiramer acetate (GA, i.e., Copaxone®) injection",
     "url": "https://clinicaltrials.gov/study/NCT02212886"
+  },
+  {
+    "nct_id": "NCT07937345",
+    "title": "Eccentric vs. Concentric Ankle Training in Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11-18",
+    "last_update": "2026-11-16",
+    "interventions": [
+      "Eccentric Ankle Dorsiflexor Elastic-Band Training",
+      "Concentric Ankle Dorsiflexor Elastic-Band Training",
+      "standardized Conventional Physical Therapy for Multiple Sclerosis"
+    ],
+    "summary": "Multiple sclerosis is a chronic neurological disease that can cause muscle weakness, impaired walking, and difficulty controlling ankle movement. Foot drop is a common gait impairment in people with multiple sclerosis and occurs when weakness of the ankle dorsiflexor muscles limits the ability to lift the foot during walking.\n\nThis randomized controlled clinical trial aims to compare the effects of eccentric and concentric ankle dorsiflexor resistance training on ankle muscle strength and dynamic plantar pressure parameters during walking in adults with relapsing-remitting multiple sclerosis and foot drop.\n\nA total of 54 participants are planned for enrollment. Eligible participants will be randomly allocated to two parallel groups, with 27 participants assigned to each group. The first group will perform eccentric ankle dorsiflexor training, while the second group will perform concentric ankle dorsiflexor training. Both groups will also receive the same standardized conventional physical therapy program.\n\nThe intervention will consist of three treatment sessions per week for six weeks, with each session lasting approximately 45 minutes. Ankle dorsiflexor resistance training will be performed using graded elastic resistance bands.\n\nThe primary outcome measures will be concentric and eccentric ankle dorsiflexor peak torque, assessed using a HUMAC NORM isokinetic dynamometer. Secondary outcome measures will include total plantar force, maximum plantar pressure, plantar contact surface area, and plantar contact time during walking, assessed using the DIERS pedoscan plantar pressure measurement system.\n\nMeasurements will be obtained before and after the six-week intervention period. The study will determine whether eccentric and concentric ankle dorsiflexor training produce different effects on muscle strength and dynamic plantar loading in individuals with multiple sclerosis and foot drop.",
+    "url": "https://clinicaltrials.gov/study/NCT07937345"
   },
   {
     "nct_id": "NCT07928765",
@@ -131,6 +161,24 @@
     ],
     "summary": "A study of allogeneic hematopoietic cell transplantation (alloHCT) with Orca-Q for the treatment of primary progressive multiple sclerosis (PPMS).",
     "url": "https://clinicaltrials.gov/study/NCT06900192"
+  },
+  {
+    "nct_id": "NCT07883590",
+    "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11",
+    "last_update": "2026-11-13",
+    "interventions": [
+      "LY3873862",
+      "CYP450 Drug Cocktail",
+      "Placebo"
+    ],
+    "summary": "The main purpose of this study in participants with Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS) is to test the safety of different doses and to determine the amount of LY3873862 that gets into the bloodstream and how long it takes the body to get rid of it. For each participant, the study will last up to approximately 13 weeks and will include 6 clinic visits.",
+    "url": "https://clinicaltrials.gov/study/NCT07883590"
   },
   {
     "nct_id": "NCT07928557",
@@ -526,6 +574,25 @@
     "url": "https://clinicaltrials.gov/study/NCT07295847"
   },
   {
+    "nct_id": "NCT04544436",
+    "title": "A Study to Evaluate the Efficacy, Safety and Pharmacokinetics (PK) of a Higher Dose of Ocrelizumab in Adults With Relapsing Multiple Sclerosis (RMS)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-11-26",
+    "last_update": "2026-11-10",
+    "interventions": [
+      "Ocrelizumab",
+      "Ocrelizumab",
+      "Antihistamine",
+      "Methylprednisolone"
+    ],
+    "summary": "This is a randomized, double-blind, controlled, parallel group, multicenter study to evaluate efficacy, safety and PK of a higher dose of ocrelizumab per intravenous (IV) infusion every 24 weeks (Q24W) in participants with RMS, in comparison to the approved 600 milligrams (mg) dose of ocrelizumab.",
+    "url": "https://clinicaltrials.gov/study/NCT04544436"
+  },
+  {
     "nct_id": "NCT07161258",
     "title": "A Pharmacokinetics (PK), Pharmacodynamics (PD), Safety and Tolerability Study of Fenebrutinib in Children and Adolescents With Relapsing Multiple Sclerosis (RMS)",
     "status": "RECRUITING",
@@ -698,6 +765,22 @@
     ],
     "summary": "MS-FatigueCARE is a prospective, multicenter study aimed at investigating the mechanisms underlying fatigue in people with multiple sclerosis (MS) and mild disability, and at evaluating the efficacy of a personalized home-based telerehabilitation program. Fatigue is one of the most debilitating symptoms of MS and can significantly impact daily activities and quality of life, even in individuals with low levels of neurological disability. Current assessment relies primarily on patient-reported measures, highlighting the need for objective and sensitive fatigue biomarkers.\n\nThe study comprises two complementary phases. Phase 1 is a cross-sectional observational study comparing people with relapsing-remitting MS and mild disability (EDSS score 0-3.5) with healthy controls. The objective is to investigate the relationship between perceived fatigue and objective physiological and motor parameters, focusing specifically on oxygen consumption (VO₂), the metabolic cost of walking (CW), postural control, and gait-related parameters. In participants with MS, the potential association between fatigue and Epstein-Barr virus (EBV) serological status or reactivation will also be examined.\n\nPhase 2 is a single-blind, randomized controlled crossover study involving MS participants who completed Phase 1. Participants will be randomly assigned to either a six-week multidomain telerehabilitation program-based on non-immersive virtual reality and \"serious games\"-or a self-managed therapeutic education program. The telerehabilitation intervention integrates motor, cognitive, and cardiorespiratory exercises to be performed at home four times a week for 60 minutes, with remote monitoring by rehabilitation professionals. After a six-week washout period, participants will switch to the alternative intervention. The primary outcome is the energy cost of walking, measured during the 6-Minute Walking Test. Secondary outcomes include subjective fatigue, cognitive and psychological functioning, walking and balance performance, quality of life, usability, and treatment adherence, as well as instrumental measures of VO₂/VCO₂, postural control, and lower-limb kinematics.\n\nOverall, MS-FatigueCARE aims to identify objective markers of fatigue and determine whether a personalized, multi-domain telerehabilitation approach can reduce fatigue and improve functional outcomes and quality of life for people with MS, while fostering accessible and continuous rehabilitative care.",
     "url": "https://clinicaltrials.gov/study/NCT07924410"
+  },
+  {
+    "nct_id": "NCT04178005",
+    "title": "Cladribine Tablets After Treatment With Natalizumab (CLADRINA)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-02-19",
+    "last_update": "2026-11-09",
+    "interventions": [
+      "Cladribine"
+    ],
+    "summary": "The purpose of this study is to generate hypotheses regarding the safety, efficacy, and immunological impact of cladribine tablets after treatment with natalizumab in patients with relapsing-remitting multiple sclerosis (RRMS) and active secondary progressive multiple sclerosis (active SPMS).",
+    "url": "https://clinicaltrials.gov/study/NCT04178005"
   },
   {
     "nct_id": "NCT07766213",
@@ -2079,24 +2162,6 @@
     "url": "https://clinicaltrials.gov/study/NCT03981003"
   },
   {
-    "nct_id": "NCT07883590",
-    "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "PHASE1"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-11",
-    "last_update": "2026-10-20",
-    "interventions": [
-      "LY3873862",
-      "CYP450 Drug Cocktail",
-      "Placebo"
-    ],
-    "summary": "The main purpose of this study in participants with Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS) is to test the safety of different doses and to determine the amount of LY3873862 that gets into the bloodstream and how long it takes the body to get rid of it. For each participant, the study will last up to approximately 13 weeks and will include 6 clinic visits.",
-    "url": "https://clinicaltrials.gov/study/NCT07883590"
-  },
-  {
     "nct_id": "NCT07411664",
     "title": "Objective Longitudinal Monitoring of Postural Stability and Gait During Neurorehabilitation: Clinical Application of Instrumented Posturography and Three-Dimensional Motion Analysis",
     "status": "ENROLLING_BY_INVITATION",
@@ -3383,25 +3448,6 @@
     ],
     "summary": "The purpose of this study was to investigate the effects of spinal stabilization exercises focusing on the pelvic floor on core stability, urinary symptoms and pelvic floor muscle function in women with Multiple Sclerosis and lower urinary tract symptoms. Participants will be randomly assigned to a control group that receives pelvic floor muscle exercises only or an experimental group that receives both pelvic floor muscle exercises and spinal stabilization exercise focused on the pelvic floor. Outcome measures will be assessed pre- and post-intervention using validated instruments.",
     "url": "https://clinicaltrials.gov/study/NCT07074587"
-  },
-  {
-    "nct_id": "NCT04544436",
-    "title": "A Study to Evaluate the Efficacy, Safety and Pharmacokinetics (PK) of a Higher Dose of Ocrelizumab in Adults With Relapsing Multiple Sclerosis (RMS)",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2020-11-26",
-    "last_update": "2026-09-28",
-    "interventions": [
-      "Ocrelizumab",
-      "Ocrelizumab",
-      "Antihistamine",
-      "Methylprednisolone"
-    ],
-    "summary": "This is a randomized, double-blind, controlled, parallel group, multicenter study to evaluate efficacy, safety and PK of a higher dose of ocrelizumab per intravenous (IV) infusion every 24 weeks (Q24W) in participants with RMS, in comparison to the approved 600 milligrams (mg) dose of ocrelizumab.",
-    "url": "https://clinicaltrials.gov/study/NCT04544436"
   },
   {
     "nct_id": "NCT05539729",
@@ -10950,18 +10996,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07489794"
   },
   {
-    "nct_id": "NCT07388992",
-    "title": "Investigating Specific Gait Patterns in Individuals Living With Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2026-03-16",
-    "last_update": "2026-03-23",
-    "interventions": [],
-    "summary": "The study aims to investigate specific ambulation patterns characteristic of the quality of gait in people with MS (pwMS)",
-    "url": "https://clinicaltrials.gov/study/NCT07388992"
-  },
-  {
     "nct_id": "NCT07236684",
     "title": "Identification of Factors Related to UI in Patients With MS and EMG Assessment of PFM Activity",
     "status": "RECRUITING",
@@ -14043,22 +14077,6 @@
     ],
     "summary": "To compare the frequency and patterns of autonomic dysfunction in patients with NMOSD and MS, and to investigate its correlations with clinical disability, radiological findings, fatigue, and quality of life parameters",
     "url": "https://clinicaltrials.gov/study/NCT07273292"
-  },
-  {
-    "nct_id": "NCT04178005",
-    "title": "Cladribine Tablets After Treatment With Natalizumab (CLADRINA)",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE4"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2020-02-19",
-    "last_update": "2025-12-08",
-    "interventions": [
-      "Cladribine"
-    ],
-    "summary": "The purpose of this study is to generate hypotheses regarding the safety, efficacy, and immunological impact of cladribine tablets after treatment with natalizumab in patients with relapsing-remitting multiple sclerosis (RRMS) and active secondary progressive multiple sclerosis (active SPMS).",
-    "url": "https://clinicaltrials.gov/study/NCT04178005"
   },
   {
     "nct_id": "NCT07270120",
@@ -37920,6 +37938,24 @@
     "url": "https://clinicaltrials.gov/study/NCT02047734"
   },
   {
+    "nct_id": "NCT01628393",
+    "title": "Efficacy and Safety Study of Ozanimod (RPC1063) in Relapsing Multiple Sclerosis Patients",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2012-09-18",
+    "last_update": "2021-02-11",
+    "interventions": [
+      "Ozanimod",
+      "Placebo"
+    ],
+    "summary": "This study is a two-part trial consisting of Part A (presented in this record) and Part B (see NCT02047734).\n\nThe primary objective in Part A of this study was to demonstrate the superior efficacy of ozanimod compared to placebo by showing a reduction in the cumulative number of total gadolinium-enhancing (GdE) lesions from Week 12 to Week 24 in patients with relapsing multiple sclerosis (RMS).",
+    "url": "https://clinicaltrials.gov/study/NCT01628393"
+  },
+  {
     "nct_id": "NCT04748302",
     "title": "Impaired Glucose Tolerance and Cognition in MS",
     "status": "TERMINATED",
@@ -54435,6 +54471,23 @@
     ],
     "summary": "The effects of routine rehabilitation in MS patients versus no rehabilitation.",
     "url": "https://clinicaltrials.gov/study/NCT00202254"
+  },
+  {
+    "nct_id": "NCT01874340",
+    "title": "Efficacy and Safety of AIN457 (Secukinumab) in Patients With Relapsing Multiple Sclerosis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2013-06",
+    "last_update": "2015-06-01",
+    "interventions": [
+      "Placebo",
+      "AIN457"
+    ],
+    "summary": "To evaluate the efficacy and safety of AIN457 versus placebo in patients with relapsing multiple sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT01874340"
   },
   {
     "nct_id": "NCT01601119",
