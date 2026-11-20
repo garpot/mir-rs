@@ -579,6 +579,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43036431/"
   },
   {
+    "pmid": "43054516",
+    "title": "Corrigendum to \"Circulating microRNA expression profiles as biomarkers of disease activity in multiple sclerosis\".",
+    "date": "2026 Oct-Dec",
+    "journal": "Multiple sclerosis journal - experimental, translational and clinical",
+    "authors": [],
+    "abstract": "[This corrects the article DOI: 10.1177/20552173261471723.].",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054516/"
+  },
+  {
     "pmid": "42942479",
     "title": "Temporal Change: Evaluation of Brain Atrophy in Patients with Radiologically Isolated Syndrome Using volBrain.",
     "date": "2026 Oct 9",
@@ -4240,6 +4250,31 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956390/"
   },
   {
+    "pmid": "43057253",
+    "title": "Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
+    "date": "2026 Nov 21",
+    "journal": "Lancet (London, England)",
+    "authors": [
+      "Edan G",
+      "Page EL"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057253/"
+  },
+  {
+    "pmid": "43057252",
+    "title": "Multiple sclerosis: beyond controlling relapses.",
+    "date": "2026 Nov 21",
+    "journal": "Lancet (London, England)",
+    "authors": [
+      "The Lancet"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057252/"
+  },
+  {
     "pmid": "43022365",
     "title": "Transcriptomic conservation defines autoimmune stem-like T cells and uncovers their dependence on Apex1.",
     "date": "2026 Nov 20",
@@ -4252,6 +4287,18 @@
     "abstract": "Stem-like T cells (T",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43022365/"
+  },
+  {
+    "pmid": "43059508",
+    "title": "Psycholinguistic patterns in online discourse on multiple sclerosis medication side effects.",
+    "date": "2026 Nov 20",
+    "journal": "Neurodegenerative disease management",
+    "authors": [
+      "Ayine B"
+    ],
+    "abstract": "Social media platforms provide an important avenue for understanding how individuals discuss and experience medication side effects for multiple sclerosis (MS) beyond controlled experimental settings. This study examines the psycholinguistic properties of online discourse on MS medication side effects across four treatment categories within an online support community. Relevant discussions were identified using a keyword-based search strategy. A linguistic inquiry-based analytical approach was used to examine four psycholinguistic dimensions: clout, authenticity, emotional tone, and analytical thinking. The analysis was conducted on a corpus of approximately 112,000 tokens drawn from discussions of disease-modifying therapies, symptom-management medicines, treatments for MS attacks, and other treatments. The findings revealed notable differences in psycholinguistic patterns across treatment categories, particularly in levels of clout and authenticity. Two broad communicative styles were identified: a personalized, narrative-driven style characterized by self-disclosure and lived experience, and a more impersonal, expertise-oriented style characterized by authority and perceived knowledge. These patterns demonstrate that discussions of medication side effects differ not only in content but also in how individuals position themselves and communicate their treatment experiences. Online support communities provide a valuable complementary source of information for understanding lived experiences of medication side effects.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059508/"
   },
   {
     "pmid": "42965313",
@@ -4461,6 +4508,213 @@
     "abstract": "People with relapsing-remitting multiple sclerosis (RRMS) face complex choices among various disease-modifying therapies (DMTs), each marked by uncertain outcomes. Shared decision making (SDM) is increasingly promoted to support such treatment decisions, yet how people experience choosing a DMT under inherent uncertainty within this context remains underexplored. This study examines how people with RRMS experience the initial choice for a DMT under inherent uncertainty within an SDM-framed healthcare context. A phenomenological-hermeneutic approach was adopted, involving interviews with 17 participants recently diagnosed with RRMS. Analysis reveals six experiential pathways:",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43053674/"
+  },
+  {
+    "pmid": "43059208",
+    "title": "The prevalence of multiple sclerosis (MS) in the American continent: a systematic review.",
+    "date": "2026 Nov 19",
+    "journal": "Neurodegenerative disease management",
+    "authors": [
+      "Moghadasi AN",
+      "Ebrahimi N",
+      "Rastkar M",
+      "Mokhberdezfuli M",
+      "Mohammadi A",
+      "Ghajarzadeh M"
+    ],
+    "abstract": "America is a continent covering more than 42,549,000 km We systematically searched PubMed, Scopus, EMBASE, Web of Science, Google Scholar, and also references of included studies, review articles, and conference abstracts on 1 December 2022. Fifty studies were included. Most studies were conducted in the United States of America (USA) (between 1915 and 2020) and Canada (between 1982 and 2014). Crude prevalence rates of MS per 100,000 population varied substantially across the Americas, ranging from as low as 0.5-5 in parts of Brazil, Colombia, Panama, and Argentina to more than 300 in several high-prevalence regions of Canada and recent national estimates from the United States. Across the continent, MS prevalence has shown a consistent upward trend over time. A marked female predominance was consistently observed, with female-to-male ratios generally ranging from 2.0 to 3.6 across studies. The result of this systematic review showed that the prevalence of MS differs dramatically in the America continent with marked geographical heterogeneity consistent with the established latitudinal gradient.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059208/"
+  },
+  {
+    "pmid": "43057677",
+    "title": "Autologous Hematopoietic Stem Cell Transplantation in Multiple Sclerosis: Key Clinical Questions and Lessons from a Single-Center Experience.",
+    "date": "2026 Nov 19",
+    "journal": "Transplantation and cellular therapy",
+    "authors": [
+      "García-Plata MF",
+      "Cruz-Arroyo OY",
+      "Ibáñez-Petz LE",
+      "Melchor-Melo OE",
+      "Cortés MXF",
+      "Belmont DAS",
+      "Robles-Nasta M",
+      "Olivares-Gazca JC",
+      "Ruiz-Delgado GJ",
+      "Ruiz-Argüelles GJ"
+    ],
+    "abstract": "The HSCT-Mexico program has reported outpatient autologous hematopoietic stem cell transplantation (aHSCT) for multiple sclerosis (MS) using refrigerated non-cryopreserved grafts, split-dose cyclophosphamide, and post-engraftment rituximab. To provide a critical, question-based synthesis of the program's published experience and identify lessons not covered by its 2021 milestone report. Thirty-two originally supplied institutional publications, one 2025 ASH abstract, and one peer-reviewed 2026 correspondence identified during revision (34 published sources, 2016-2026) were narratively reviewed. Overlapping cohorts were not pooled. Five independent international sources were used for external context. Across sequential program cohorts, outpatient completion and short-term safety were documented; a 1,700-recipient analysis (1,667 with MS) reported 96.6% fully outpatient procedures, 0.17% 28-day mortality, and 3.3% 28-day morbidity. Approximately 78% had stable or improved patient-reported Expanded Disability Status Scale (EDSS) scores at 12 months in a 617-person cohort. A 1,438-person ASH abstract found similar favorable EDSS response below and at or above age 60 (75.2% vs 76.9%; p=0.64), but more early complications in the older group (5.8% vs 2.1%; p=0.02). Studies additionally addressed hematologic recovery, toxicity, surveillance, candidate prognostic factors, and patient-centered outcomes. This synthesis extends the 2021 milestone report through 2026 by explicitly distinguishing overlapping datasets, clinical observations, and exploratory associations. Its strongest evidence concerns program-specific feasibility and short-term safety; efficacy comparisons and generalization, especially in progressive MS, require independent controlled research.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057677/"
+  },
+  {
+    "pmid": "43057228",
+    "title": "CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis.",
+    "date": "2026 Nov 19",
+    "journal": "Cell",
+    "authors": [
+      "Fischbach F",
+      "Pfeffer LK",
+      "Engler JB",
+      "Neziraj T",
+      "Richter J",
+      "Sattarnezhad N",
+      "Berve K",
+      "Lecourt AC",
+      "Schlicht F",
+      "Konen FF",
+      "Sonner JK",
+      "Saary P",
+      "Willing A",
+      "Reinhardt S",
+      "Meurs N",
+      "Vieira V",
+      "Badbaran A",
+      "Berger C",
+      "Borie D",
+      "Seibel J",
+      "Fiehler J",
+      "Daumer M",
+      "Skripuletz T",
+      "Kuhle J",
+      "Ayuk F",
+      "Heesen C",
+      "Kröger N",
+      "Fehse B",
+      "Lanz TV",
+      "Pröbstel AK",
+      "Friese MA"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic inflammatory central nervous system (CNS) disease. Although current immunotherapies control relapses, they have limited impact on progression, which might reflect incomplete access to or modulation of compartmentalized CNS inflammation. Chimeric antigen receptor (CAR) T cells can infiltrate tissues, but their ability to access and eliminate immune cells residing in the CNS remains elusive. We report the treatment of five individuals with progressive or relapsing-remitting MS with autologous CD19 CAR T cells to assess safety-relevant aspects, CNS bioavailability, and compartment-specific effects. The intervention induces remodeling of the cerebrospinal fluid (CSF) B cell pool, with a sustained reduction in CSF humoral biomarkers. Notably, CSF-infiltrating CAR T cells selectively upregulate phosphodiesterase 7B, while reconstituted peripheral B cells show altered cytokine and homing profiles. These findings indicate compartment-specific immunomodulation beyond peripheral B cell depletion and support controlled trials to test safety, durability, and efficacy.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057228/"
+  },
+  {
+    "pmid": "43055903",
+    "title": "Clinical characteristics and underlying disease distribution among Japanese patients with optic neuritis.",
+    "date": "2026 Nov 19",
+    "journal": "Japanese journal of ophthalmology",
+    "authors": [
+      "Himori N",
+      "Kaneko K",
+      "Nishiyama S",
+      "Misu T",
+      "Aoki M",
+      "Nakazawa T"
+    ],
+    "abstract": "To investigate the distribution of underlying diseases in optic neuritis and related clinical characteristics, treatment strategies, and relapse patterns in Japanese patients using strict radiological diagnostic criteria and pretreatment antibody testing. Retrospective cohort study METHODS: We retrospectively reviewed the charts of 112 patients with first-onset optic neuritis who visited Tohoku University Hospital between March 2016 and November 2025. Diagnoses of optic neuritis were based on visual dysfunction and contrast-enhanced orbital magnetic resonance imaging. Serum anti-myelin oligodendrocyte glycoprotein (MOG) antibodies and anti-aquaporin-4 antibodies were measured using live-cell-based assays before initiation of acute-phase treatment. Patients were classified into groups according to the following underlying diseases: MOG-associated disease (MOGAD), neuromyelitis optica spectrum disorder (NMOSD), multiple sclerosis (MS), and idiopathic optic neuritis. Clinical characteristics, treatment strategies, relapse rates, and cumulative relapse rates were analyzed retrospectively. The distribution of underlying diseases was 36.6% MOGAD, 33.0% idiopathic, 21.4% NMOSD, and 8.9% MS. MOGAD patients were characterized by a younger onset, bilateral involvement, and more frequent optic disc swelling, whereas NMOSD patients were predominantly women, older at onset, and had unilateral involvement. Among the 90 patients followed for more than 12 months, the overall relapse rate was 17.8%, with the highest relapse rate observed for NMOSD (25.0%). Kaplan-Meier analysis demonstrated gradually decreasing cumulative relapse-free rates, particularly in NMOSD and idiopathic optic neuritis. The 36-month cumulative relapse-free rates were 81.6% in MOGAD, 87.5% in MS, 72.9% in NMOSD, and 61.3% in idiopathic optic neuritis. No significant difference in relapse-free rates was observed among underlying diseases (log-rank test, p = 0.84). MOGAD and NMOSD accounted for a relatively large proportion of optic neuritis cases in study population. Antibody-associated optic neuritis was observed across a wide age range, suggesting the importance of antibody testing regardless of age. Early diagnosis and multidisciplinary therapeutic intervention may contribute to improved long-term outcomes.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055903/"
+  },
+  {
+    "pmid": "43055774",
+    "title": "Influence of MIF, EPHX2, and BCHE gene polymorphisms on multiple sclerosis susceptibility and clinical severity.",
+    "date": "2026 Nov 19",
+    "journal": "Molecular biology reports",
+    "authors": [
+      "Ghobashy EA",
+      "Badr EAE",
+      "Salem WM",
+      "Hadhoud MM",
+      "Saleh M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune disease affecting the central nervous system (CNS) with a global prevalence of 23.9 cases per 100,000 population. The present study was conducted to assess the impact of MIF, EPHX2, and BCHE SNPs on MS pathogenesis and prognosis. This case-control study was undertaken in collaboration with the Department of Medical Biochemistry and Molecular Biology, Faculty of Medicine, Menoufia University, and the Faculty of Applied Health Sciences Technology, Menoufia University. Participants were categorized into two groups. • Group 1: Patients diagnosed with multiple sclerosis (MS). • Group 2: healthy controls matched for age, gender, and socioeconomic position, with no history of neurological or autoimmune disorders. It was found that MIF (GC + CC) and EPHX2 (AG + GG) genotypes pushed the risk up sharply, by 600% and 338.3% respectively. From multivariate analysis, MIF (GC + CC) and EPHX2 (AG + GG) were found to be independent predictors of MS. The BCHE TT genotype did not reach significance for disease onset but was significantly linked to a worse clinical course. In contrast, each unit rise in RBC reduced MS risk by 71.3%, and vitamin D by 29.5%. MIF (GC + CC) and EPHX2 (AG + GG) variants are associated with MS susceptibility, while the BCHE TT genotype trended with severity, while vitamin D and red blood cells have shown a protective effect, highlighting biological pathways for future study.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055774/"
+  },
+  {
+    "pmid": "43055766",
+    "title": "Hippocampal and subfield volume differences in pediatric-onset multiple sclerosis: associations with lesion burden and regional MRI involvement.",
+    "date": "2026 Nov 19",
+    "journal": "Neuroradiology",
+    "authors": [
+      "Pence MC",
+      "Arikan Ergun B",
+      "Yilmaz S",
+      "Solmaz I",
+      "Ucan B"
+    ],
+    "abstract": "To evaluate global and subfield-specific hippocampal volume differences in pediatric-onset multiple sclerosis (POMS) and to examine their associations with white matter lesion burden and MRI-visible hippocampal or temporal lobe involvement. The cohort comprised 119 patients with POMS and 120 control participants in a retrospective cross-sectional design. Bilateral hippocampal and subfield volumes were obtained from 3D T1-weighted MRI using the fully automated Hippocampal Subfields Segmentation pipeline and normalized to intracranial volume. White matter lesion burden (total lesion volume, lesion count, and lesion load) was derived using DeepLesionBrain. MRI-visible hippocampal and temporal lobe involvement was assessed by blinded radiologists and related to ipsilateral hippocampal volume using mixed-effects models. Total hippocampal volume normalized to intracranial volume was lower in patients with POMS than in controls (3.14 ± 0.49 vs. 3.41 ± 0.29; 7.8% lower; p < 0.001). Bilateral cornu ammonis subfields (CA1, CA2-CA3, and CA4-DG) and the subiculum showed lower volumes after FDR correction. The most prominent standardized between-group differences involved CA1 and CA4-DG. Higher lesion burden was associated with lower bilateral and overall hippocampal volumes. Ipsilateral hippocampal volume differed significantly across regional involvement categories in both adjusted models (p < 0.001 for each). Direct hippocampal involvement was associated with lower ipsilateral volume than both no involvement and temporal-only involvement, whereas temporal-only involvement did not differ from no involvement. POMS is associated with lower global and subfield-specific hippocampal volumes, with a non-uniform pattern across subregions. Hippocampal volume differences were related to both overall lesion burden and direct MRI-visible hippocampal involvement.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055766/"
+  },
+  {
+    "pmid": "43055470",
+    "title": "Which patient-reported outcome measure of fatigue to use for multiple sclerosis studies? Part 1: A comparison of six measures raises fundamental questions.",
+    "date": "2026 Nov 19",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Hobart J",
+      "Marais I",
+      "Sappl S",
+      "King T",
+      "Close J",
+      "King M",
+      "Vandercappellen J",
+      "Andrich D"
+    ],
+    "abstract": "Burdensome fatigue is ubiquitous in multiple sclerosis. Of 18 patient-reported outcome measures used in trials, we shortlisted six of the better-developed according to external criteria and compared their performance and equivalence at item, group and individual person levels. All six instruments were administered to 740 people with MS. Instrument performance was examined using Rasch measurement theory, separately and in a joint analysis, which places all item and person estimates on the same scale. Response rate was 72.7% ( Despite item- and group-level analyses implying equivalence, individual-level differences imply that instrument choice matters. This raises concerns regarding our understanding of fatigue and its measurement for any given context. Results highlight the relevance of instrument item number, which influences measurement error associated with individual person estimates and, therefore, the degree to which different patient-reported outcome measures produce statistically equivalent estimates; the value of modern psychometric methods; and should interest anyone choosing, using, developing and analysing patient-reported outcome measure instruments.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055470/"
+  },
+  {
+    "pmid": "43055442",
+    "title": "Disease-modifying treatment does not influence severity and recovery of the first relapse after treatment onset in RRMS: insights from four large-scale clinical trials.",
+    "date": "2026 Nov 19",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Koch M",
+      "Mostert J",
+      "Strijbis E",
+      "D'Haeseleer M",
+      "Torkildsen Ø",
+      "Moral E",
+      "Brieva L",
+      "Comtois J",
+      "Repovic P",
+      "McPherson T",
+      "Cutter G"
+    ],
+    "abstract": "Relapses are the defining clinical feature of relapsing-remitting multiple sclerosis, but it remains uncertain whether disease-modifying treatments influence relapse severity or recovery once a relapse occurs. We investigated whether disease-modifying treatment exposure affects the severity of and recovery from clinical relapses across four pivotal phase 3 relapsing-remitting multiple sclerosis trials. We used logistic regression models to assess predictors of severe first relapse (Expanded Disability Status Scale worsening > 1.0 point), and Cox proportional hazards models to evaluate factors associated with time to recovery. Predictors included age, sex, disease duration, baseline Expanded Disability Status Scale, T2 lesion volume, contrast-enhancing lesions, relapse severity, corticosteroid treatment and treatment arm. Across all trials, disease-modifying treatments significantly reduced the annualized relapse rate (p < 0.0001) compared to placebo or interferon as an active comparator, but were not associated with relapse severity or recovery time. Relapse recovery followed a similar two-phase course in all trials, with most recovery occurring within 90-120 days. Treatment arm and corticosteroid use were not significantly associated with the time to recovery in any dataset. While disease-modifying treatments reduce relapse frequency, they did not modify relapse severity or recovery once a relapse occurred. These findings suggest that disease-modifying treatments primarily prevent inflammatory events rather than alter their clinical evolution.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055442/"
+  },
+  {
+    "pmid": "43055441",
+    "title": "2026 ACTRIMS forum Kenneth P Johnson lecture. Autologous hematopoietic stem cell transplantation in multiple sclerosis and other neuroinflammatory conditions: Current evidence and remaining questions.",
+    "date": "2026 Nov 19",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Afzal S",
+      "Kunchok A",
+      "Cohen JA"
+    ],
+    "abstract": "Autologous hematopoietic stem cell transplantation has emerged as a highly effective treatment strategy for selected patients with active relapsing multiple sclerosis and is now being investigated in other neuroinflammatory diseases, including neuromyelitis optica spectrum disorder and stiff person syndrome, among others. Accumulating evidence from observational studies and clinical trials demonstrated sustained suppression of inflammatory disease activity in multiple sclerosis, whereas evidence in other neuroinflammatory diseases remains largely limited to case series. Major professional bodies have endorsed autologous hematopoietic stem cell transplantation as an option for active multiple sclerosis refractory to high-efficacy disease-modifying therapies. Nevertheless, even within the multiple sclerosis field, critical questions remain unresolved. The optimal conditioning regimen and benefit of CD34+ cell selection have not been established. Patient selection criteria require further refinement. Where to place autologous hematopoietic stem cell transplantation among current treatment options remains uncertain. Ongoing randomized trials are expected to substantially advance the evidence base.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055441/"
+  },
+  {
+    "pmid": "43055422",
+    "title": "Primary results of the supervised versus telerehabilitation exercise program for multiple sclerosis trial: A comparative effectiveness trial.",
+    "date": "2026 Nov 19",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Backus D",
+      "Motl RW",
+      "Neal WN",
+      "Hebert JR",
+      "McCully KK",
+      "Schmidt H",
+      "Plummer P",
+      "Kandilakis C",
+      "Bethoux F",
+      "Ng AV",
+      "Lowman JD",
+      "Cutter G"
+    ],
+    "abstract": "The Supervised versus Telerehabilitation Exercise Program for Multiple Sclerosis trial compared facility- versus home-based exercise training and examined the choice of location on walking outcomes in mobility-impaired people with multiple sclerosis. Supervised versus Telerehabilitation Exercise Program for Multiple Sclerosis was a multi-site, Phase III, noninferiority trial. Participants (Expanded Disability Status Scale 4.0-6.5) with walking dysfunction (Timed 25-Foot Walk >6 s) completed a 16-week exercise training program based on Guidelines for Exercise in Multiple Sclerosis, delivered in a facility or home, with location randomized or chosen. The primary outcome was ΔT25FW. Secondary outcomes were six-minute walk, Expanded Disability Status Scale, and participant-reported outcome measures. Among 379 participants, 189 were assigned to location (92 Guidelines for Exercise in Multiple Sclerosis, delivered in a facility and 97 Guidelines for Exercise in Multiple Sclerosis, delivered in a home); 190 were assigned to choice (106/84 Guidelines for Exercise in Multiple Sclerosis, delivered in a facility/Guidelines for Exercise in Multiple Sclerosis, delivered in a home). COVID-19-related disruptions greatly impacted follow-up. Nevertheless, randomized groups improved Timed 25-Foot Walk, with greater adjusted improvements in Guidelines for Exercise in Multiple Sclerosis, delivered in a home (least squares (LS) mean difference = -1.16 s, Home-based exercise training may yield walking improvements comparable to facility-based training, regardless of choice.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055422/"
   },
   {
     "pmid": "43051379",
@@ -4798,6 +5052,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43050918/"
   },
   {
+    "pmid": "43056773",
+    "title": "Differential association of serum and CSF lipids with disability in neuromyelitis optica spectrum disorder and multiple sclerosis.",
+    "date": "2026 Nov 15",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Marian OC",
+      "Watanabe M",
+      "Vernicos S",
+      "Kira YI",
+      "Shinoda K",
+      "Park S",
+      "Piccio L",
+      "Isobe N",
+      "Don AS"
+    ],
+    "abstract": "Blood biomarkers to monitor disease activity, progression, and therapeutic response are needed for neuromyelitis optica spectrum disorder (NMOSD) and multiple sclerosis (MS). This study aimed to identify CSF and serum lipids that are altered in NMOSD relative to MS and other neurological disorders (OND) and determine their correlations with disability scores. Liquid chromatography-tandem mass spectrometry was used to quantify 174 lipids in 79 CSF and 94 serum samples from Japanese individuals with NMOSD, MS, or OND. Lipid levels were compared between disease groups using ANOVA, and Spearman analysis was used to assess correlations between lipid levels and Expanded Disability Status Scale (EDSS) scores. Levels of three CSF and 13 serum lipids were higher in NMOSD compared to MS cases at p < 0.05, and higher serum levels of ceramide (d18:1/18:0) were confirmed in an independent dataset. Four CSF triglycerides were positively correlated with EDSS scores in MS (r = 0.53-0.58, p",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056773/"
+  },
+  {
     "pmid": "43026447",
     "title": "Simultaneous visualization of CVS and PRLs using 3D EPI-SWI.",
     "date": "2026 Nov 14",
@@ -4857,6 +5131,34 @@
     "abstract": "Cladribine tablets are an established oral immune reconstitution therapy for relapsing multiple sclerosis, with proven clinical and radiological efficacy. However, evidence regarding their effects on cognitive and physical outcomes in real-world settings remains limited. To assess the clinical, radiological, cognitive, and physical outcomes of cladribine treatment in people with Multiple Sclerosis (pwMS) over a follow-up of up to two years in a real-world cohort. A total of 173 patients with multiple sclerosis (pwMS) received cladribine treatment and were subsequently followed over time. Clinical data, including relapse rate, EDSS, and MRI findings, were collected annually. Cognitive (BICAMS: Brief International Cognitive Assessment for MS) and physical performance (T25FW: Timed-25-Foot Walking Test, N-HPT: Nine-Hole Peg Test) data of a subgroup of participants were collected at baseline, year 1, and year 2. The mean age was 36.75 ± 11.44, and the mean disease duration was 8.33 ± 6.85 years. Over a two-year follow-up, 94.8% of patients remained relapse-free, and MRI activity was absent in 96.5%. Significant improvements were observed in all BICAMS subtests (p < 0.05). While T25FW increased over years (p: 0.017), NHPT showed a similar trajectory (p>0.05). Cladribine demonstrated high efficacy in suppressing clinical and radiological activity while supporting cognitive stability.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43033424/"
+  },
+  {
+    "pmid": "43056775",
+    "title": "Audio-vestibular manifestations in NMOSD: Clinical phenotypes, MRI correlates, and treatment outcomes.",
+    "date": "2026 Nov 14",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Elkhooly M",
+      "Di Stadio A",
+      "De Luca P",
+      "Bernitsas E"
+    ],
+    "abstract": "Neuromyelitis optica spectrum disorder (NMOSD) is an immune mediated disease affecting the optic nerves, spinal cord, and brainstem. Although audio-vestibular (AV) manifestations have been described in multiple sclerosis, it remains unclear whether they occur in NMOSD and why. This systematic review aims to identify AV manifestations in NMOSD and assess their relationship with MRI findings and symptom resolution after treatment. We searched PubMed, Web of Science, and Scopus using the following keywords: 'audio- vestibular,' 'otolaryngologic,' 'unilateral hearing loss,' 'bilateral hearing loss,' 'deafness,' 'tinnitus,' and 'vertigo. We assessed the risk of bias in the included studies. Data regarding the gender, age, presence of audio vestibular manifestations as unilateral and bilateral hearing loss, tinnitus and vertigo were extracted to be analyzed. Twenty-two studies were included in this review, and data were extracted for 53 patients diagnosed with NMOSD who had audio and/or vestibular symptoms. The mean age of the participants was 43.4 ± 10.1 years. Seventy-five percent were females. Vertigo alone or in association with auditory symptoms was observed in 38 patients (71.7%). Eleven patients (20.7%) presented auditory symptoms only. MRI results were available for 24 patients (45.3%) of the entire cohort. Treatment was available for 16 patients only; of these 13 resolved symptoms after treatment. Audio-vestibular manifestations may be an underrecognized component of NMOSD. MRI findings predominantly suggest central brainstem involvement, while peripheral involvement remains possible. Most patients with available outcome data experienced symptom improvement following treatment, although the heterogeneity of treatment regimens and the lack of control groups preclude conclusions about treatment efficacy.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056775/"
+  },
+  {
+    "pmid": "43056772",
+    "title": "Transition readiness in adolescents with pediatric-onset multiple sclerosis: a single-center cross-sectional study.",
+    "date": "2026 Nov 14",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Bektas H",
+      "Citak Kurt AN"
+    ],
+    "abstract": "Pediatric-onset multiple sclerosis (POMS) is a chronic neurological disorder for which transition to adult care is critical yet poorly characterized. We assessed transition readiness and parental perspectives in a cohort of adolescents with POMS. In this single-center cross-sectional study, patients aged 14-20 years with POMS followed at a tertiary pediatric neurology clinic in Turkey were enrolled. Patients completed the Transition Readiness Assessment Questionnaire (TRAQ 5.0) and the Morisky Medication Adherence Scale (MMAS-4). Parents completed a structured questionnaire regarding transition perspectives. Associations with TRAQ total score were examined using univariable linear regression. The study included 41 families (38 patient TRAQs, 39 parental surveys). The median patient age was 17.7 years, and 70.7% were female. The median TRAQ total score was 4.0 (IQR 3.6-4.4), with \"tracking health issues\" scoring lowest (3.3) driven largely by a single item on financial assistance for school or work that has limited applicability in the Turkish health system. TRAQ scores were associated with patient age (B = 0.17 per year, p = 0.015) and disease duration (B = 0.02 per month, p = 0.004), but not with sex, parental education, DMT route, or EDSS, which demonstrated a profound floor effect (EDSS 0 in 92.7%). Medication adherence was medium-to-high in all patients assessed with MMAS-4. While parents reported low transition-related anxiety, only 44% felt they had received adequate transition information. The most frequently reported parental concerns were the loss of pediatric-provider continuity and uncertainty regarding treatment plans. Transition readiness in POMS was associated with age and disease duration. The gaps most frequently identified by parents were insufficient information about the transfer process and continuity of treatment. These findings are consistent with current recommendations supporting early, structured, and family-inclusive transition planning before transfer to adult MS care. Interpretation of generic transition-readiness instruments should take health-system context into account.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056772/"
   },
   {
     "pmid": "43013671",
@@ -5451,6 +5753,23 @@
     "abstract": "We examined relationships among obesity, hyperinsulinemia, regulatory T-cell (Treg) function, and activity in multiple sclerosis (MS), and investigated insulin signaling as a candidate mechanism. We prospectively followed 131 patients with relapsing-remitting MS, stratified by body mass index, for at least 36 months. Clinical and MRI outcomes were assessed longitudinally, whereas metabolic parameters and Treg phenotype and function were evaluated at baseline. Mechanistic studies examined insulin receptor signaling in purified Tregs using insulin stimulation, pharmacological inhibition, insulin receptor silencing, and functional assays. In a separate, non-overlapping cohort, 28 obese hyperinsulinemic patients with relapsing-remitting MS underwent a 24-week metformin intervention with longitudinal metabolic and immunological assessments. Obese patients had higher fasting insulin, more relapses, disability progression, and MRI activity. Hyperinsulinemia correlated with reduced FoxP3 and IL-10, impaired Treg suppression, and increased IFN-γ and IL-17 in Treg-enriched cultures. Insulin stimulation altered AKT-mTOR signaling and Treg function; AKT inhibition or insulin receptor silencing reversed these effects. Obese-patient Tregs suppressed myelin-reactive responses less effectively. During metformin treatment, reductions in fasting insulin and AKT-mTOR signaling were accompanied by improvements in Treg phenotype and suppressive function and attenuation of myelin-specific inflammatory responses. These immunological changes correlated with insulin reductions, but the single-arm design and metformin's direct effects preclude causal attribution. These findings support an association between hyperinsulinemia, altered Treg function, and inflammatory disease activity in MS and identify insulin signaling as a candidate pathway for further mechanistic investigation.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43044181/"
+  },
+  {
+    "pmid": "43056774",
+    "title": "Real-world safety and efficacy of dimethyl fumarate in relapsing-remitting multiple sclerosis patients: An ambispective cohort study.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Etemadifar M",
+      "Jannesari F",
+      "Raeisidehkordi M",
+      "Rezaei K",
+      "Salari M",
+      "Norouzi M"
+    ],
+    "abstract": "Real-world evidence on the long-term effectiveness and safety of dimethyl fumarate (DMF) in relapsing-remitting multiple sclerosis (RRMS), particularly in Middle Eastern populations, remains limited. Moreover, the influence of prior disease-modifying therapy exposure on longitudinal DMF response remains poorly characterized. We evaluated the real-world effectiveness, safety, and temporal treatment response to DMF, comparing treatment-naïve and previously treated patients. In this longitudinal ambispective cohort study, 95adults with RRMS initiating DMF (TECRA®) at two multiple sclerosis centers in Iran were followed for 18 months. Clinical outcomes, MRI activity, disability, and adverse events were assessed at 6-month intervals. Repeated EDSS measurements were analyzed using linear mixed-effects models, while relapse and MRI lesion counts were evaluated using generalized estimating equations. Prespecified analyses compared treatment-naïve and previously treated patients. Ninety-five patients completed 18 months of follow-up. Adjusted ARR reduced from 1.56 ± 0.93 to 0.08 ± 0.24 (P < 0.001) pre- to post-treatment. Mean EDSS decreased slightly during the first 6 months and remained close to baseline through 18 months, with no patients meeting the prespecified criteria for confirmed disability progression during the available follow-up. Gadolinium-enhancing lesions declined significantly throughout follow-up, although a modest increase after 12 months suggested possible attenuation of radiological treatment effect. Overall, 88.4% of patients remained relapse-free, 70.5% had no MRI disease activity, and 64.2% achieved NEDA-3. Clinical outcomes did not significantly differ between treatment-naïve and previously treated patients; however, longitudinal analyses demonstrated distinct temporal patterns of MRI activity between groups. DMF was generally well tolerated, with predominantly mild cutaneous and gastrointestinal adverse events and infrequent discontinuation. DMF was associated with substantial reductions in observed clinical and radiological disease activity and was generally well tolerated over 18 months in routine practice. Disability remained broadly stable, although the short follow-up limits conclusions regarding long-term disability progression.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056774/"
   },
   {
     "pmid": "42952209",
@@ -6068,6 +6387,21 @@
     "abstract": "Neurofilament light chain measured in serum (sNfL) is an emerging biomarker for neuro-axonal injury, but its clinical use requires robust reference values and demonstration of inter-laboratory comparability. This round-robin study aimed to assess age-dependent sNfL using the Quanterix HD-X Analyzer under laboratory conditions that were strictly standardized across all participating sites to exclude technical outliers while providing reference values on an absolute scale. Besides a group of individuals with relapsing-remitting multiple sclerosis (RRMS, n = 24) we measured a cohort of voluntary blood donors (n = 128) to revisit age-related cut-off values under strict laboratory conditions. Measurements were performed in five German laboratories following a standardized protocol, and all reagents and consumables derived from identical kit lots. In line with previous work, we found that sNfL increased with age by about ~0.15 pg/mL per year within the sampled donor age range of 21-60 years. Also, our results demonstrate that measurements obtained across different laboratories exhibited a high degree of comparability with an average coefficient of variation of 11%. Using quantile regression with identical age-dependent thresholds across sites, we observed consistent, exploratory separation of the small MS cohort from healthy donors (mean AUC 0.79, 95% CI 0.68-0.88). Our findings support the analytical robustness as well as inter-laboratory comparability of sNfL measurements and its use as a serum biomarker in multi-center studies of neurodegeneration.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43049218/"
+  },
+  {
+    "pmid": "43059159",
+    "title": "Associations of Diagnosed Herpesvirus Infections and Antiviral Use With Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Systemic Lupus Erythematosus: A Nationwide Danish Cohort Study.",
+    "date": "2026 Nov",
+    "journal": "Immunity, inflammation and disease",
+    "authors": [
+      "Aznar S",
+      "Winther-Jensen M",
+      "Villumsen M",
+      "Brudek T"
+    ],
+    "abstract": "Diagnosed herpesvirus infections have been associated with several neurological and autoimmune diseases. We examined associations of recorded herpesvirus diagnoses, antiviral use, and HIV status with subsequent risk of multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS), and systemic lupus erythematosus (SLE). We conducted a nationwide Danish registry-based cohort study (1995-2018) including 48,897 individuals with a recorded HSV-1/2, Epstein-Barr virus (EBV), cytomegalovirus (CMV), or varicella-zoster virus (VZV) diagnosis and 546,890 matched comparators. In a separate analysis, 5737 individuals with HIV were compared with 58,160 matched comparators. Diagnoses of MS, ALS, or SLE ≥ 5 years after infection were primary outcomes. We estimated 20-year cumulative incidence and fitted absolute risk regression models in a competing-risk framework. The 20-year cumulative incidence of the composite outcome (MS, ALS, or SLE) was 0.66% among individuals with a recorded herpesvirus diagnosis and 0.38% among comparators (p < 0.001). Disease-specific cumulative incidence was higher for MS (0.50% vs. 0.24%, p < 0.001), similar for ALS (0.08% vs. 0.07%, p = 0.37), and slightly higher for SLE in the unadjusted analysis (0.097% vs. 0.07%, p = 0.04). After adjustment for antiviral-use category, the model estimate for MS was 1.35 (95% CI 1.03-1.78, p = 0.03), whereas estimates for ALS and SLE were not significant. Composite-outcome incidence was higher for recorded HSV-1/2 and EBV diagnoses, but not CMV. In the HIV analysis, the composite outcome occurred in 3/5737 individuals with HIV and 119/58,160 comparators (p = 0.01). This nationwide study supports an epidemiological association between a recorded diagnosis and later MS risk, whereas no adjusted association was observed for ALS or SLE.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059159/"
   },
   {
     "pmid": "42953809",
@@ -6879,6 +7213,47 @@
     "abstract": "Microglia are the predominant immune cells in multiple sclerosis (MS) demyelinating lesions, where they phagocytose myelin, but whether they destroy myelin or merely scavenge its debris is unknown. Here, we explore whether pathogenic autoantibodies found in MS may induce the phagocytic destruction of myelin by microglia. Applying patient-derived, myelin-targeting antibodies to the mouse cortex, we developed an",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42996180/"
+  },
+  {
+    "pmid": "43058293",
+    "title": "Clinical course of multiple sclerosis-associated uveitis: a retrospective series of 49 cases.",
+    "date": "2026 Aug 27",
+    "journal": "Journal of ophthalmic inflammation and infection",
+    "authors": [
+      "Gil W",
+      "Mainbourg S",
+      "Jacquot R",
+      "Trefond L",
+      "Olagne L",
+      "Clavelou P",
+      "Trouillier S",
+      "Bardy A",
+      "Andre M",
+      "Androdias-Condemine G",
+      "Vasseneix C",
+      "Kodjikian L",
+      "El-Jammal T",
+      "Vukusic S",
+      "Sève P"
+    ],
+    "abstract": "The temporal relationship between uveitis and neurological relapses in multiple sclerosis (MS)-associated uveitis is poorly documented; and MS-targeted disease-modifying therapies (DMTs) may influence the ocular course. To evaluate the temporal relationship between uveitis and neurological relapses in MS-associated uveitis, and to assess the impact of MS treatments on uveitis outcomes. This is a retrospective multicenter study. Uveitis cases were identified from the \"Lyon Uvéite\" cohort, EDMUS (European Database for Multiple Sclerosis), and open calls for case reporting. Inclusion criteria were: age ≥ 18 years, MS according to McDonald criteria, and uveitis confirmed by an ophthalmologist. Uveitis and neurological flares were considered concomitant if they occurred within a three-month interval. The probability of uveitis relapse was compared between MS-targeted DMTs and uveitis-directed therapies using Kaplan-Meier survival analysis. 49 patients were included, with a median follow-up of 19 years [10-25]. Uveitis and neurological relapses were dissociated in 94.2% of cases. In recurrent-event analyses accounting for time-varying treatment exposure, MS-targeted disease-modifying therapies were associated with a lower risk of uveitis relapse compared with uveitis-directed therapies (adjusted HR 0.20, 95% CI [0.08-0.54], p = 0.002). MS-associated uveitis appeared largely dissociated from neurological disease activity. MS-targeted disease-modifying therapies were associated with fewer uveitis relapses, although these exploratory findings require confirmation in prospective studies.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058293/"
+  },
+  {
+    "pmid": "43058868",
+    "title": "Cerebral demyelination following radiotherapy.",
+    "date": "2026 Aug 25",
+    "journal": "Journal of medical case reports",
+    "authors": [
+      "Molina Goicoechea M",
+      "Rico Osés M",
+      "Gómez Eguilaz M",
+      "Erro Aguirre ME"
+    ],
+    "abstract": "Subacute demyelination is a known but very rare complication of cerebral radiotherapy (RT) treatment that can occur in tissues outside the radiation field, in contrast to radionecrosis. We describe three patients with this entity and review the literature. Case 1: A 30-year-old white Spanish male who received fractionated RT (54 Gy) for a second recurrence of pituitary adenoma. Four weeks after completing treatment, he developed a cerebellar syndrome. Cranial magnetic resonance imaging (MRI) revealed lesions in both cerebellar peduncles. Cerebrospinal fluid (CSF) analysis showed 20 leukocytes/mm Transient demyelination following conventional doses of radiotherapy may occur in individuals susceptible to white matter disorders or with concurrent risk factors, warranting particularly careful evaluation in patients with pre-existing demyelinating diseases prior to initiating radiotherapy.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058868/"
   },
   {
     "pmid": "43053093",
@@ -8591,5 +8966,41 @@
     "abstract": "Dimethyl fumarate (DMF) is approved as a first-line treatment in relapsing-remitting multiple sclerosis (RRMS). To evaluate the demographic, clinical, and radiological outcomes of DMF treatment in a real-world setting. Multicenter retrospective study based on data from 61 clinics across Türkiye. Side effects, leukocyte and lymphocyte counts, liver enzymes, EDSS (Expanded Disability Status Scale), and upper- and lower-extremity test results were evaluated in patients with RRMS before DMF initiation and at 1, 6, 12, and 24 months. Additionally, NEDA-3 (No Evidence of Disease Activity-3) status was assessed at the 1 and 2-year follow-ups. 1,749 patients participated in this retrospective study. The most common side effects were flushing and gastrointestinal symptoms, which were more frequent in women and in patients with lower weight and lower Body Mass Index (BMI). Leukocyte and lymphocyte counts initially decreased and then stabilized, whereas transient elevations in liver enzymes resolved during follow-up. EDSS scores showed a significant improvement beginning at the 6-month follow-up. Performance on the Nine-Hole Peg Test (9HPT) improved, whereas no significant change was observed in the Timed 25-Foot Walk (T25FW). In addition, approximately 70% of the patients achieved NEDA-3 status at both the 1 and 2-year follow-ups. DMF demonstrated a favorable safety profile and was associated with significant improvements in EDSS while maintaining NEDA-3 status in approximately 70% of patients with RRMS. Adverse events occurred more frequently among women and among patients with lower body weight and lower BMI.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43047475/"
+  },
+  {
+    "pmid": "43054353",
+    "title": "An Italian auditory gender Stroop walking task: feasibility and preliminary cognitive-motor performance profiling in neurological populations.",
+    "date": "2026",
+    "journal": "Frontiers in psychology",
+    "authors": [
+      "Pirolli M",
+      "Baleca L",
+      "Sibilia C",
+      "Nocentini U",
+      "De Angelis D",
+      "Iosa M",
+      "De Bartolo D"
+    ],
+    "abstract": "Stroop-based paradigms are widely used to probe inhibitory control during locomotion, although auditory Stroop walking tasks remain underexplored in neurological populations. This study introduced an Italian auditory adaptation of the Gender Stroop task and provided a preliminary methodological evaluation of its feasibility and of multidimensional gait, accuracy and verbal-timing information obtained during walking. Forty participants were included: 24 individuals with neurological conditions (multiple sclerosis, Hierarchical clustering of 15 standardized gait variables identified a higher-performance profile ( Overall, the Italian auditory Gender Stroop walking task was feasible and allowed concurrent assessment of gait and cognitive-verbal performance during a structured cognitive-motor task. Larger, age-balanced and independent samples are required to establish the reproducibility of the gait-performance structure and determine the additional contribution of Stroop accuracy and verbal-timing measures beyond general locomotor performance.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054353/"
+  },
+  {
+    "pmid": "43054260",
+    "title": "Beyond cognitive slowing: potential evidence for specific lexical-semantic impairment in multiple sclerosis.",
+    "date": "2026",
+    "journal": "Frontiers in behavioral neuroscience",
+    "authors": [
+      "Forn C",
+      "Félix-Esbrí S",
+      "Mercado Gil N",
+      "Zaragoza Mezquita M",
+      "Riccitelli GC",
+      "Visser M",
+      "Sanchis Segura C"
+    ],
+    "abstract": "Expressive language difficulties are frequently reported by people with multiple sclerosis (PwMS), yet they often go undetected during routine neuropsychological assessments. This study examined expressive language performance in MS group as compared to healthy controls (HC), focusing on lexical access and semantic processing, to determine whether these deficits stem from generalized cognitive slowing or reflect an independent lexical-semantic impairment. Performance level and reaction times (RT) were evaluated in both groups across specialized naming and semantic judgment tasks using the Cambridge Language Battery. Robust regression models were conducted to assess the predictive value of information processing speed (IPS), working memory (WM) and verbal fluency. Both groups showed high levels of accuracy, but PwMS had significantly longer reaction times across all tasks with large and consistent effect sizes. Robust regression analyses indicated a clear dissociation between the domains. General cognitive factors, particularly baseline IPS, explained a substantial proportion of variance (22% to 51%) in reaction times, largely reducing between-group RT differences after adjustment in all tasks. Accuracy in the Synonym Judgement Task was primarily related to semantic and phonemic fluency and, when their influence statistically accounted for, between-group differences were largely reduced. Conversely, even the best combination of these cognitive predictors explained less than 10% of the variance in accuracy for the naming tasks, where group differences remained largely unchanged. These findings demonstrate a robust dissociation between accuracy and speed in PwMS. While general cognitive slowing drives delayed responding, it fails to account for reduced accuracy on demanding language tasks, suggesting that subtle lexical-semantic dysfunction represents a partially independent feature of MS rather than a simple consequence of generalized cognitive slowing.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054260/"
   }
 ]

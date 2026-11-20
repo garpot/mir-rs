@@ -1,5 +1,17 @@
 [
   {
+    "nct_id": "NCT07844070",
+    "title": "A Study of Disease Modifying Therapy Use in Women With Multiple Sclerosis Before, During, and After Pregnancy",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2026-03-06",
+    "last_update": "2026-11-19",
+    "interventions": [],
+    "summary": "This study aims to assess the real-world patterns of disease modifying therapy (DMT) use before, during, and after pregnancy in women with multiple sclerosis (MS). The study will use a pooled closed claims database containing closed payer medical and pharmacy claims data for patients in the United States (US).",
+    "url": "https://clinicaltrials.gov/study/NCT07844070"
+  },
+  {
     "nct_id": "NCT03816345",
     "title": "Testing an Immunotherapy Anti-cancer Drug, Nivolumab, for Advanced Cancers in Patients With Autoimmune Disorders, AIM-NIVO",
     "status": "RECRUITING",
@@ -56,6 +68,24 @@
     "url": "https://clinicaltrials.gov/study/NCT05433103"
   },
   {
+    "nct_id": "NCT07567989",
+    "title": "Effectiveness of Home-Based Exercise and Brain Stimulation for Reducing Fatigue in Patients With Multiple Sclerosis",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-01-01",
+    "last_update": "2026-11-18",
+    "interventions": [
+      "Home-Based Therapeutic Exercise Program",
+      "Transcranial Direct Current Stimulation",
+      "Sham tDCS"
+    ],
+    "summary": "This randomized, double-blind, parallel-group clinical trial aims to assess the effectiveness of a combined intervention consisting of a home-based therapeutic exercise program and transcranial direct current stimulation (tDCS) for the management of fatigue in patients with multiple sclerosis (MS). Fatigue is one of the most disabling and prevalent symptoms in MS, significantly impacting patients' quality of life and functional independence.\n\nParticipants diagnosed with MS who meet inclusion criteria will be randomized into two groups:\n\nGroup 1: Home-based therapeutic exercise plus sham (placebo) tDCS\n\nGroup 2: Home-based therapeutic exercise plus active tDCS\n\nThe intervention will span a defined period, with tDCS sessions applied over the dorsolateral prefrontal cortex (DLPFC) using a standard montage and parameters validated in previous studies. The sham stimulation group will follow identical procedures without active current delivery, preserving blinding for participants and evaluators.\n\nThe therapeutic exercise program is designed to be feasible for home implementation, targeting key domains affected in MS such as strength, endurance, balance, and mobility. Exercises will be prescribed based on individual patient assessments and progressively adjusted throughout the intervention period.\n\nPrimary outcome measures will include functional capacity, evaluated through the Six-Minute Walk Test (6MWT), and fatigue levels, assessed via the Fatigue Severity Scale (FSS) and a Visual Analogue Scale (VAS) for fatigue. Secondary observations may include adherence rates to the exercise program and subjective reports of tolerability and perceived benefits.\n\nThis trial seeks to explore whether combining a physical intervention (exercise) with a neuromodulation technique (tDCS) can offer additive benefits in managing fatigue, beyond what exercise alone provides. The ultimate goal is to develop accessible, non-pharmacological treatment strategies to improve daily functioning and quality of life for individuals living with multiple sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT07567989"
+  },
+  {
     "nct_id": "NCT07388992",
     "title": "Investigating Specific Gait Patterns in Individuals Living With Multiple Sclerosis",
     "status": "COMPLETED",
@@ -95,6 +125,40 @@
     "interventions": [],
     "summary": "Multiple sclerosis (MS) is a chronic neurological disease that can affect movement, muscle strength, physical activity, and breathing. Individuals with MS may experience reduced physical activity and changes in pulmonary function, even during the early stages of the disease. However, the relationship between physical activity levels and pulmonary function in individuals with MS remains insufficiently understood. This observational study aims to investigate whether physical activity levels are associated with pulmonary function in adults with multiple sclerosis. A total of 94 participants with a confirmed diagnosis of MS are expected to be recruited. Physical activity will be assessed using the Arabic version of the International Physical Activity Questionnaire-Short Form (IPAQ-SF), while pulmonary function will be evaluated using spirometry. The study will examine whether individuals with different levels of physical activity also demonstrate differences in pulmonary function. The findings may help improve understanding of physical and respiratory health in individuals with MS and inform future rehabilitation assessment and management strategies.",
     "url": "https://clinicaltrials.gov/study/NCT07943247"
+  },
+  {
+    "nct_id": "NCT07224373",
+    "title": "An Open-label Study of AZD0120 in Adults With Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-12-09",
+    "last_update": "2026-11-17",
+    "interventions": [
+      "AZD0120 - Regimen 1",
+      "AZD0120 - Regimen 2"
+    ],
+    "summary": "This trial is a Phase 1b, open-label, multi-center, clinical study of AZD0120, a BCMA/CD19 dual targeting CAR+ T-cell therapy, to evaluate the safety and tolerability in adult participants with relapsing and progessive Multiple Sclerosis.",
+    "url": "https://clinicaltrials.gov/study/NCT07224373"
+  },
+  {
+    "nct_id": "NCT04042363",
+    "title": "Effect of Transorbital Electrical STIMulation of Optic Nerve on Remyelination After an Acute Optic Neuritis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2019-08-06",
+    "last_update": "2026-11-17",
+    "interventions": [
+      "Transorbital electrical stimulation (Eyetronic Next Wave 1.1)",
+      "Transorbital electrical stimulation (Eyetronic Next Wave 1.1) - Sham stimulation"
+    ],
+    "summary": "In light of experimental models showing that neuronal electrical activity is crucial for the remyelination process, we hypothesize that maintenance of electrical axonal activity in the early stages of optic neuritis may promote myelin repair, limiting thereby axonal degeneration.\n\nIn humans, electrical stimulation of the optic nerve has been tested mainly in ischemic neuropathy and retinitis pigmentosa, which are both associated with severe axonal/retinal pathology and poor visual prognosis. In contrast, the inflammation of the optic nerve in optic neuritis is generally transient, with less severe axonal damage at the acute phase, which would allow for better efficacy of electrical stimulation as a strategy to promote remyelination and neuroprotection.In light of experimental models showing that neuronal electrical activity is crucial for the remyelination process, we hypothesize that maintenance of electrical axonal activity in the early stages of optic neuritis may promote myelin repair, limiting thereby axonal degeneration.",
+    "url": "https://clinicaltrials.gov/study/NCT04042363"
   },
   {
     "nct_id": "NCT07589062",
@@ -180,6 +244,25 @@
     ],
     "summary": "The primary purpose of this study is to evaluate the long-term safety of fenebrutinib in participants with MS who were previously enrolled in one of the eligible Roche-sponsored parent studies, including, but not limited to FENhance I (NCT04586010), FENhance II (NCT04586023), FENtrepid (NCT04544449), and FENopta (NCT05119569).",
     "url": "https://clinicaltrials.gov/study/NCT07937852"
+  },
+  {
+    "nct_id": "NCT05344469",
+    "title": "A NIS Evaluating Various Injectable and Oral Treatments in Patients With Relapsing Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2022-05-10",
+    "last_update": "2026-11-16",
+    "interventions": [
+      "ofatumumab",
+      "glatiramer acetate",
+      "interferon β1",
+      "teriflunomide",
+      "dimethyl fumarate (DMF)",
+      "diroximel fumarate (DRF)"
+    ],
+    "summary": "This is an observational, non-interventional, multicenter, open-label study in patients being treated with any approved injectable or selected oral DMT for RMS in Germany.\n\nProspective, primary data will be collected via questionnaires and an electronic case report form (eCRF) over a period of up to four years. Additionally, medical history of participants will be collected including disease duration, laboratory values, EDSS, MRI parameters and relapses.",
+    "url": "https://clinicaltrials.gov/study/NCT05344469"
   },
   {
     "nct_id": "NCT07928765",
@@ -503,6 +586,23 @@
     ],
     "summary": "The main purpose of this study is to evaluate the safety and efficacy of LY3541860 in adult participants with multiple sclerosis that gets worse and gets better. The study will last about 9 months with additional 6 months follow-up.",
     "url": "https://clinicaltrials.gov/study/NCT06220669"
+  },
+  {
+    "nct_id": "NCT05156281",
+    "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2021-12-13",
+    "last_update": "2026-11-12",
+    "interventions": [
+      "Remibrutinib",
+      "Teriflunomide"
+    ],
+    "summary": "To compare the efficacy and safety of remibrutinib versus teriflunomide in patients with relapsing multiple sclerosis (RMS)",
+    "url": "https://clinicaltrials.gov/study/NCT05156281"
   },
   {
     "nct_id": "NCT07067463",
@@ -3578,18 +3678,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07843823"
   },
   {
-    "nct_id": "NCT07844070",
-    "title": "A Study of Disease Modifying Therapy Use in Women With Multiple Sclerosis Before, During, and After Pregnancy",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2026-03-06",
-    "last_update": "2026-09-28",
-    "interventions": [],
-    "summary": "This study aims to assess the real-world patterns of disease modifying therapy (DMT) use before, during, and after pregnancy in women with multiple sclerosis (MS). The study will use a pooled closed claims database containing closed payer medical and pharmacy claims data for patients in the United States (US).",
-    "url": "https://clinicaltrials.gov/study/NCT07844070"
-  },
-  {
     "nct_id": "NCT05119569",
     "title": "A Study to Investigate the Efficacy of Fenebrutinib in Relapsing Multiple Sclerosis (RMS)",
     "status": "ACTIVE_NOT_RECRUITING",
@@ -5153,23 +5241,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07786987"
   },
   {
-    "nct_id": "NCT07224373",
-    "title": "An Open-label Study of AZD0120 in Adults With Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE1"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-12-09",
-    "last_update": "2026-08-25",
-    "interventions": [
-      "AZD0120 - Regimen 1",
-      "AZD0120 - Regimen 2"
-    ],
-    "summary": "This trial is a Phase 1b, open-label, multi-center, clinical study of AZD0120, a BCMA/CD19 dual targeting CAR+ T-cell therapy, to evaluate the safety and tolerability in adult participants with Multiple Sclerosis.",
-    "url": "https://clinicaltrials.gov/study/NCT07224373"
-  },
-  {
     "nct_id": "NCT07783074",
     "title": "Fatigue Investigation Using Digital Outcomes",
     "status": "RECRUITING",
@@ -6259,25 +6330,6 @@
     ],
     "summary": "This is a 4-week randomized, placebo-controlled, parallel group, double-blind, single center trial on effect of N-acetyl cysteine versus placebo on fatigue in patients with progressive MS defined by McDonald criteria. Subjects who enter the treatment phase of study, will be randomly assigned to either N-acetyl cysteine (1250 mg three times a day) or placebo (three times a day) for 4 weeks. There will be 3 in-person study visits (screening, baseline, and week 4) and 2 visits over the phone (week 2, and week 6 which is 2 weeks after completing last study drug dose). Visits will all occur in the morning to maximize consistency of assessments and evaluate main outcomes within 2 hours of morning dose of study medication. Fatigue questionnaires, and research samples will be obtained before neurological examination, or magnetic resonance imaging. Research blood draws will be obtained just after fatigue questionnaire completion. Brain spectroscopy will be obtained less than 2 hours after morning dose of study drug to maximize detection of the biological effect of study medication.",
     "url": "https://clinicaltrials.gov/study/NCT02804594"
-  },
-  {
-    "nct_id": "NCT05344469",
-    "title": "A NIS Evaluating Various Injectable and Oral Treatments in Patients With Relapsing Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2022-05-10",
-    "last_update": "2026-07-30",
-    "interventions": [
-      "ofatumumab",
-      "glatiramer acetate",
-      "interferon β1",
-      "teriflunomide",
-      "dimethyl fumarate (DMF)",
-      "diroximel fumarate (DRF)"
-    ],
-    "summary": "This is an observational, non-interventional, multicenter, open-label study in patients being treated with any approved injectable or selected oral DMT for RMS in Germany.\n\nProspective, primary data will be collected via questionnaires and an electronic case report form (eCRF) over a period of up to four years. Additionally, medical history of participants will be collected including disease duration, laboratory values, EDSS, MRI parameters and relapses.",
-    "url": "https://clinicaltrials.gov/study/NCT05344469"
   },
   {
     "nct_id": "NCT07732907",
@@ -9585,24 +9637,6 @@
     ],
     "summary": "The primary objective of this study will be to assess the feasibility and patient acceptance of a Home Automated Telemanagement (HAT) system in multiple sclerosis patients.\n\nOur hypothesis is that home telemanagement will be effective and useful in the rehabilitation of multiple sclerosis patients. Specifically, the investigators hypothesize that home telemanagement using a daily exercise diary, monitoring of compliance with a tailored exercise program and regular assessment of strength and motor functions will: 1. Be feasible and acceptable in patients with multiple sclerosis 2. Improve patient compliance with home exercise program 3. Increase patient mobility and motor functions 4. Be a feasible and effective mechanism for affecting multiple sclerosis patient self-efficacy 5. Improve quality of life",
     "url": "https://clinicaltrials.gov/study/NCT02346734"
-  },
-  {
-    "nct_id": "NCT07567989",
-    "title": "Effectiveness of Home-Based Exercise and Brain Stimulation for Reducing Fatigue in Patients With Multiple Sclerosis",
-    "status": "ENROLLING_BY_INVITATION",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-01-01",
-    "last_update": "2026-05-05",
-    "interventions": [
-      "Home-Based Therapeutic Exercise Program",
-      "Transcranial Direct Current Stimulation",
-      "Sham tDCS"
-    ],
-    "summary": "This randomized, double-blind, parallel-group clinical trial aims to assess the effectiveness of a combined intervention consisting of a home-based therapeutic exercise program and transcranial direct current stimulation (tDCS) for the management of fatigue in patients with multiple sclerosis (MS). Fatigue is one of the most disabling and prevalent symptoms in MS, significantly impacting patients' quality of life and functional independence.\n\nParticipants diagnosed with MS who meet inclusion criteria will be randomized into two groups:\n\nGroup 1: Home-based therapeutic exercise plus sham (placebo) tDCS\n\nGroup 2: Home-based therapeutic exercise plus active tDCS\n\nThe intervention will span a defined period, with tDCS sessions applied over the dorsolateral prefrontal cortex (DLPFC) using a standard montage and parameters validated in previous studies. The sham stimulation group will follow identical procedures without active current delivery, preserving blinding for participants and evaluators.\n\nThe therapeutic exercise program is designed to be feasible for home implementation, targeting key domains affected in MS such as strength, endurance, balance, and mobility. Exercises will be prescribed based on individual patient assessments and progressively adjusted throughout the intervention period.\n\nPrimary outcome measures will include functional capacity, evaluated through the Six-Minute Walk Test (6MWT), and fatigue levels, assessed via the Fatigue Severity Scale (FSS) and a Visual Analogue Scale (VAS) for fatigue. Secondary observations may include adherence rates to the exercise program and subjective reports of tolerability and perceived benefits.\n\nThis trial seeks to explore whether combining a physical intervention (exercise) with a neuromodulation technique (tDCS) can offer additive benefits in managing fatigue, beyond what exercise alone provides. The ultimate goal is to develop accessible, non-pharmacological treatment strategies to improve daily functioning and quality of life for individuals living with multiple sclerosis.",
-    "url": "https://clinicaltrials.gov/study/NCT07567989"
   },
   {
     "nct_id": "NCT03796611",
@@ -39797,6 +39831,22 @@
     "url": "https://clinicaltrials.gov/study/NCT02652013"
   },
   {
+    "nct_id": "NCT04217564",
+    "title": "Nutritional Counselling for Patients at Kasr AlAiny Multiple Sclerosis Clinic: an Intervention Study",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2020-01-01",
+    "last_update": "2020-07-22",
+    "interventions": [
+      "Nutritional counselling"
+    ],
+    "summary": "Eligible Multiple sclerosis patients attending Kasr AlAiny Multiple Sclerosis Clinic will be randomly allocated to either the intervention or control group by randomized block design.\n\nPatients in the 2 groups will be initially assessed. Those in the intervention group will receive a counselling session then instructed on the subsequent follow up dates. Those in the control group will not receive nutritional counselling during the study period but will be instructed to attend for final assessment by the end of the study. Apart from counselling, patients will receive the same care from the clinic medical staff. After the final assessment the control group will be invited to receive the nutritional counselling material to gain its suspected benefits.",
+    "url": "https://clinicaltrials.gov/study/NCT04217564"
+  },
+  {
     "nct_id": "NCT04355663",
     "title": "Neuroproprioceptive \"Facilitation, Inhibition\" and Brain Plasticity",
     "status": "COMPLETED",
@@ -42805,23 +42855,6 @@
     ],
     "summary": "In addition to the typical motor and sensory impairments, individuals with multiple sclerosis (MS) often experience cognitive dysfunction and sleep disturbances. Cognitive impairment occurs in 40 % - 70% of patients with MS. In addition, sleep problems in individuals with MS are very common, and approximately 50% of patients with MS have a diagnosable sleep disorder. The research believes that aerobic exercise improve cognitive function and improve sleep quality.",
     "url": "https://clinicaltrials.gov/study/NCT01783665"
-  },
-  {
-    "nct_id": "NCT04042363",
-    "title": "Effect of Transorbital Electrical STIMulation of Optic Nerve on Remyelination After an Acute Optic Neuritis",
-    "status": "UNKNOWN",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2019-07-10",
-    "last_update": "2019-08-28",
-    "interventions": [
-      "Transorbital electrical stimulation (Eyetronic Next Wave 1.1)",
-      "Transorbital electrical stimulation (Eyetronic Next Wave 1.1) - Sham stimulation"
-    ],
-    "summary": "In light of experimental models showing that neuronal electrical activity is crucial for the remyelination process, we hypothesize that maintenance of electrical axonal activity in the early stages of optic neuritis may promote myelin repair, limiting thereby axonal degeneration.\n\nIn humans, electrical stimulation of the optic nerve has been tested mainly in ischemic neuropathy and retinitis pigmentosa, which are both associated with severe axonal/retinal pathology and poor visual prognosis. In contrast, the inflammation of the optic nerve in optic neuritis is generally transient, with less severe axonal damage at the acute phase, which would allow for better efficacy of electrical stimulation as a strategy to promote remyelination and neuroprotection.In light of experimental models showing that neuronal electrical activity is crucial for the remyelination process, we hypothesize that maintenance of electrical axonal activity in the early stages of optic neuritis may promote myelin repair, limiting thereby axonal degeneration.\n\nIn humans, electrical stimulation of the optic nerve has been tested mainly in ischemic neuropathy and retinitis pigmentosa, which are both associated with severe axonal/retinal pathology and poor visual prognosis. In contrast, the inflammation of the optic nerve in optic neuritis is generally transient, with less severe axonal damage at the acute phase, which would allow for better efficacy of electrical stimulation as a strategy to promote remyelination and neuroprotection.",
-    "url": "https://clinicaltrials.gov/study/NCT04042363"
   },
   {
     "nct_id": "NCT04062331",
@@ -53389,6 +53422,23 @@
     ],
     "summary": "To assess in a double blinded randomized control trial (RCT) study design safety and effectiveness of balloon angioplasty of the main extracranial and extravertebral veins in multiple sclerosis (MS) associated to chronic cerebrospinal venous insufficiency (CCSVI).\n\nMean follow-up 1 year. 5-8 Italian centres 360 relapsing remitting (RR) MS patients will be randomized, with expanded disability disease scale (EDSS) ranging 2-5.5, age 18-65.",
     "url": "https://clinicaltrials.gov/study/NCT01371760"
+  },
+  {
+    "nct_id": "NCT01512329",
+    "title": "Pacing Activity Self-management for Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2011-10",
+    "last_update": "2015-12-17",
+    "interventions": [
+      "pacing",
+      "relaxation"
+    ],
+    "summary": "Given the lack of evidence in support of pacing self-management for patients with musltiple sclerosis (MS), it is examined whether physical behavior and health status of patients with MS improve in response to a pacing self-management program. The effects of pacing will be compared with those observed when applying relaxation therapy to patients with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT01512329"
   },
   {
     "nct_id": "NCT01318421",
