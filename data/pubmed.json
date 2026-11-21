@@ -1188,6 +1188,22 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42982010/"
   },
   {
+    "pmid": "43063763",
+    "title": "Multiple sclerosis functional composite: practical protocols and interpretation.",
+    "date": "2026 Oct 29",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Amorim AFC",
+      "de Lima MG",
+      "da Silva JL",
+      "Barbosa GB",
+      "de Oliveira EML"
+    ],
+    "abstract": "Multiple sclerosis (MS) affects motor, upper-limb, and cognitive domains, requiring disability assessment beyond the Expanded Disability Status Scale (EDSS). The Multiple Sclerosis Functional Composite (MSFC) integrates complementary quantitative measures, but practical guidance for routine clinical use remains limited. To provide a practical narrative review of how to administer, score, interpret, and apply the T25FW, 9HPT, and SDMT in MS care, aiming to improve clinicians' understanding and implementation of these measures in routine practice. The T25FW is a simple, reproducible measure of walking speed, with longitudinal worsening of approximately 20% to 25% generally considered clinically meaningful. The 9HPT evaluates manual dexterity and is particularly useful for detecting upper-limb impairment, including in patients with advanced ambulatory disability; interpretation should consider age, sex, hand dominance, asymmetry, and disease severity. The SDMT is a brief and well-tolerated measure of information-processing speed and has largely replaced the Paced Auditory Serial Addition Test in contemporary cognitive assessment; a decline of four or more points may indicate meaningful cognitive worsening, although demographic norms and reliability thresholds should guide interpretation. Using T25FW, 9HPT, and SDMT together offers a practical, multidimensional approach that enhances disease monitoring beyond EDSS, encouraging proactive management.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063763/"
+  },
+  {
     "pmid": "42951690",
     "title": "Editorial for \"Monitoring Remyelination and Its Association With Disability Improvement in Multiple Sclerosis Using APART-QSM MRI: A Longitudinal Cohort Study\".",
     "date": "2026 Oct 28",
@@ -3212,6 +3228,22 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43047895/"
   },
   {
+    "pmid": "43061022",
+    "title": "Harnessing Neuroplasticity for Rehabilitation: The Combined Effects of Experiential Music, Intermittent Fasting, and Daily Cognitive-Mindfulness Practices.",
+    "date": "2026 Oct",
+    "journal": "Cureus",
+    "authors": [
+      "Nistor A",
+      "Fotakopoulos G",
+      "Vasilopoulou MA",
+      "Kavouridis VK",
+      "Foroglou N"
+    ],
+    "abstract": "Neuroplasticity, the capacity of the central nervous system to reorganize its structure and function in response to experience, is the biological basis of recovery in neurorehabilitation. It has been hypothesized that combining several experience-dependent interventions may produce additive or synergistic benefits, but this hypothesis has rarely been tested directly. This narrative review, based on a structured search of PubMed/MEDLINE (Medical Literature Analysis and Retrieval System Online), Scopus, and the Cochrane Library, examines the individual and potential combined contributions of three non-pharmacological adjunctive interventions to rehabilitation in adults with acquired brain injury, principally stroke and traumatic brain injury (TBI): experiential music-based practice, intermittent fasting (IF), and daily cognitive-mindfulness training, defined here as mindfulness-based practice combined with structured cognitive training. Music-based interventions recruit distributed sensorimotor, limbic, reward, and executive networks, and randomized trials and meta-analyses in stroke and TBI report benefits for gait, upper-limb function, communication, cognition, and mood, with mostly low-to-moderate certainty of evidence. IF upregulates brain-derived neurotrophic factor (BDNF) signaling and synaptic plasticity in animal models, but human data are inconsistent, no trials exist in rehabilitation populations, and malnutrition and frailty raise safety concerns. Mindfulness-based practice has been associated with improved attentional and emotional regulation and with a moderate reduction of fatigue after stroke, TBI, and multiple sclerosis, whereas cognitive training has low-certainty evidence for short-term attentional benefits. Multidomain lifestyle trials support structured multidomain programs, but because they lack single-domain arms, they do not show that combined interventions outperform single interventions; factorial trials provide more direct, though limited, evidence of additive effects. We propose a tentative, hypothesis-generating model in which these interventions may converge on shared neurotrophic and network-level mechanisms, and we discuss timing, safety, treatment burden, and the factorial trial designs needed to test it. The available evidence is insufficient to support clinical recommendations for the combined use of these three interventions.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061022/"
+  },
+  {
     "pmid": "43007891",
     "title": "The Effect of Acupressure on Beta-Endorphin, Hypocretin, Cognition, and Patient-Reported Outcome Measures in Multiple Sclerosis Patients.",
     "date": "2026 Nov-Dec 01",
@@ -4301,6 +4333,159 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43059508/"
   },
   {
+    "pmid": "43064520",
+    "title": "Correction to \"Quantity and Volume of Perivascular Spaces Are Inversely Associated With Multiple Sclerosis Relative to Cerebrovascular Disease and Migraine\".",
+    "date": "2026 Nov 20",
+    "journal": "Annals of clinical and translational neurology",
+    "authors": [],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064520/"
+  },
+  {
+    "pmid": "43064131",
+    "title": "Tryptophan metabolism in autoimmune diseases: From homeostatic regulator to pathological amplifier.",
+    "date": "2026 Nov 20",
+    "journal": "Autoimmunity reviews",
+    "authors": [
+      "Su Y",
+      "Ma L",
+      "Dong S",
+      "Li H",
+      "Yang S",
+      "Yan Z",
+      "Wang C",
+      "Pei Y",
+      "Zhou J",
+      "Wen B",
+      "Zhang H",
+      "Fan Y",
+      "Wang C",
+      "Ji A",
+      "Jing Y"
+    ],
+    "abstract": "Tryptophan metabolism serves as a critical hub linking nutrient sensing, gut microbiota, and immune regulation, playing an essential role in maintaining immune homeostasis. Accumulating evidence indicates that dysregulated tryptophan metabolism is a shared pathological feature of multiple immune-mediated diseases, including systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), multiple sclerosis (MS), and inflammatory bowel disease (IBD). However, existing studies have predominantly focused on individual diseases or specific metabolic pathways, with systematic cross-disease comparisons remaining limited. Consequently, a unified understanding of the underlying pathological mechanisms and their clinical translational implications has yet to be established. This review summarizes the physiological regulatory networks of tryptophan metabolism and examines their dysregulation across autoimmune diseases. It highlights shared pathogenic mechanisms and disease-specific metabolic alterations, while discussing recent advances in biomarker development and therapeutic strategies. Furthermore, we propose that targeting key regulatory nodes in tryptophan metabolism, particularly the indoleamine 2,3-dioxygenase 1-kynurenine-aryl hydrocarbon receptor (IDO1-KYN-AHR) axis, may offer an integrated framework for autoimmune disease management that combines broad-spectrum mechanistic insights with precision-targeted interventions. Nevertheless, translating these strategies into clinical practice requires careful consideration of tissue specificity, disease stage, and interspecies differences.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064131/"
+  },
+  {
+    "pmid": "43064083",
+    "title": "Slice orientation impacts phase values in susceptibility weighted imaging of the deep gray matter in patients with multiple sclerosis.",
+    "date": "2026 Nov 20",
+    "journal": "Magnetic resonance imaging",
+    "authors": [
+      "Zayed M",
+      "Ali YF",
+      "El-Samahy M",
+      "Elsayed TM",
+      "Eissa A"
+    ],
+    "abstract": "Phase quantification has emerged as a critical method for monitoring disease progression and evaluating treatment efficacy in Multiple Sclerosis (MS) due to its high sensitivity to pathological iron deposition and microstructural changes. Despite its utility, most researchers continue to prioritize anatomical alignment protocols such as orientation parallel to the anterior-posterior commissure AC-PC line, which often result in slice angulations that deviate significantly, sometimes reaching 20",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064083/"
+  },
+  {
+    "pmid": "43063812",
+    "title": "Do we have an appropriate cut-off for the kappa free light chain index in multiple sclerosis diagnosis? a real-world single-center comparison with oligoclonal bands.",
+    "date": "2026 Nov 20",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "authors": [
+      "Roganovic M",
+      "Antunovic T",
+      "Vujovic B",
+      "Radulovic L",
+      "Vujovic S",
+      "Debeljevic M",
+      "Erakovic J",
+      "Idrizovic Z",
+      "Perunicic S"
+    ],
+    "abstract": "The kappa free light chain (KFLC) index has emerged as a quantitative marker of intrathecal immunoglobulin synthesis and is increasingly used in the diagnostic evaluation of multiple sclerosis (MS). However, the optimal diagnostic threshold remains uncertain and may vary across clinical populations. We aimed to evaluate the diagnostic performance of the KFLC index in a real-world neurological cohort, compare it with oligoclonal bands (OCBs), and determine a locally optimal cut-off value. We conducted a retrospective, single-center study including 140 patients who underwent lumbar puncture during routine neurological diagnostic work-up. Sixty-four patients were diagnosed with MS and 76 with other neurological disorders. Demographic and cerebrospinal fluid parameters, including OCB status and KFLC index, were analyzed. Diagnostic performance was assessed using receiver operating characteristic (ROC) analysis, and the optimal KFLC cut-off was determined using Youden's index alongside the established 6.1 consensus cut-off, with 9.3 selected to maximize diagnostic specificity. Agreement between dichotomized KFLC results and OCB status was evaluated using Cohen's kappa. The KFLC index was significantly higher in patients with MS than in non-MS patients [median 43.4 (IQR 16.6-88.1) vs. 1.8 (IQR 1.4-2.8), p<0.001]. ROC analysis showed high diagnostic accuracy for the KFLC index, with an AUC of 0.954 (95% CI 0.919-0.990), compared with 0.831 (95% CI 0.756-0.905) for OCB status. A locally optimal KFLC index cut-off of 9.3 yielded 89.1% sensitivity, 96.0% specificity, a positive predictive value of 95.0%, a negative predictive value of 91.3%, and an overall accuracy of 92.9%. OCB positivity was observed in 68.8% of MS patients and 2.6% of non-MS patients. KFLC and OCB results were concordant in 122 of 140 patients (87.1%), with substantial agreement (Cohen's κ=0.73). Among 16 OCB-negative patients with KFLC index values above the selected threshold, 13 were ultimately diagnosed with MS. The KFLC index showed high diagnostic accuracy for MS in a heterogeneous real-world neurological cohort. The locally derived cut-off of 9.3 provided a favorable balance between sensitivity and specificity and identified a clinically relevant subgroup of OCB-negative patients with MS. These findings support further evaluation of the study-derived threshold in independent cohorts and contextual interpretation of KFLC and OCB within the overall diagnostic assessment.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063812/"
+  },
+  {
+    "pmid": "43063351",
+    "title": "Longitudinal structural connectivity changes and cognitive trajectories in early multiple sclerosis: An exploratory graph-theory study.",
+    "date": "2026 Nov 20",
+    "journal": "The neuroradiology journal",
+    "authors": [
+      "Caranova M",
+      "Soares JF",
+      "Santos I",
+      "Pereira DJ",
+      "Castelo-Branco M",
+      "Duarte JV",
+      "Batista S"
+    ],
+    "abstract": "Multiple sclerosis (MS) is characterized by focal and diffuse white matter damage, often disrupting structural connectivity, and contributing to cognitive impairment. This exploratory study investigates early connectivity changes in MS and their relationship with cognition.In this longitudinal study, we recruited 18 early MS patients (31.92 ± 8.09 years, disease duration 0.91 ± 1.81 years, 10 females) and matched healthy controls (31.89 ± 8.15 years, 10 females) and acquired structural and diffusion-weighted MRI data at baseline and 10-month follow-up. Patients were categorized as cognitively preserved/recovered (CPR) or cognitively impaired/worsened (CIW) over time. Using graph-theory analysis, we measured network segregation, integration and centrality, and examined group and longitudinal differences.CPR and CIW patients showed distinct longitudinal connectivity patterns considering all nodes: CIW patients showed longitudinal increased segregation and centrality measures (increased strength, local efficiency and clustering coefficient, and decreased participation coefficient), while CPR patients had a longitudinal decrease in centrality and segregation metrics (decrease in strength, local efficiency and clustering coefficient, and increase in participation coefficient).Cognitive impairment is a predominant feature of MS, and might be closely related to structural connectivity changes, even in early MS. Understanding these early exploratory longitudinal associations between connectivity changes and cognition provides hypotheses for future larger studies on potential prevention of cognitive health in MS.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063351/"
+  },
+  {
+    "pmid": "43063116",
+    "title": "Effects of telerehabilitation pelvic floor muscle training on urinary incontinence in patients with multiple sclerosis: A systematic review and meta-analysis of randomized controlled trials.",
+    "date": "2026 Nov 20",
+    "journal": "Medicine",
+    "authors": [
+      "Yan H"
+    ],
+    "abstract": "Telerehabilitation-based pelvic floor muscle training (PFMT) may improve urinary incontinence in patients with multiple sclerosis (MS), but its effectiveness remains uncertain. A systematic review and meta-analysis were conducted, including randomized controlled trials (RCTs) with telerehabilitation PFMT as the intervention. PubMed, Embase, Web of Science, and the Cochrane Library were searched for eligible English-language studies published up to November 15, 2024. The revised Cochrane risk-of-bias tool for randomized trials was used to assess the risk of bias, and data were analyzed using Stata 16.1. Three RCTs involving 100 participants were included in the meta-analysis, showing that telerehabilitation PFMT significantly improved urinary incontinence symptoms (weighted mean difference [WMD] = -2.53, P < .001) and bladder overactivity (WMD = -7.13, P < .001). However, no significant improvement was found in quality of life (WMD = -0.88, P = .002). Sensitivity analysis confirmed the stability of the results with no significant publication bias. Telerehabilitation PFMT demonstrated positive effects on urinary incontinence and bladder overactivity in MS patients, although its impact on quality of life remains unclear. Further large-scale, high-quality RCTs are needed to confirm long-term efficacy and guide the development of clinical guidelines for telerehabilitation in MS rehabilitation.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063116/"
+  },
+  {
+    "pmid": "43062681",
+    "title": "AI-assisted longitudinal MRI assessment in multiple sclerosis: diagnostic performance and reduction in reporting time.",
+    "date": "2026 Nov 20",
+    "journal": "Neuroradiology",
+    "authors": [
+      "Masiello E",
+      "Agazzi GM",
+      "Diena A",
+      "Preziosa P",
+      "Falini A",
+      "Anzalone N"
+    ],
+    "abstract": "Detection of new and enlarging lesions on longitudinal MRI is essential for monitoring disease activity in multiple sclerosis (MS) but is time-consuming and subject to inter-reader variability. This study evaluated the diagnostic performance and workflow impact of a CE-marked artificial intelligence (AI) platform compared with neuroradiologists of different experience. In this retrospective study, 59 patients with relapsing-remitting MS underwent baseline and follow-up brain MRI including 3D FLAIR sequences. Two neuroradiologists independently assessed examinations for new or enlarging lesions, blinded to AI output. The reference standard was an AI-blinded consensus of the two readers, with discordant cases adjudicated by an independent third neuroradiologist. Patient-level diagnostic performance was evaluated for each reader alone, the AI alone, and each reader assisted by AI. Agreement was assessed with Cohen's kappa and reading times with the Wilcoxon signed-rank test. Among unassisted assessments, the experienced reader achieved the highest accuracy (88.1%), followed by the less experienced reader (83.1%) and the AI alone (79.7%). AI assistance was associated with higher accuracy for both readers (94.9%, κ = 0.90, and 89.8%, κ = 0.80, respectively). AI assistance significantly reduced reading time for both readers (median within-patient reduction 0.9 and 1.0 min; p < 0.001), independently of baseline T2 lesion volume. Against an AI-blinded consensus reference standard, AI assistance was associated with higher diagnostic performance of both readers, irrespective of experience, and significantly reduced reading time, supporting its role as a decision-support tool in the longitudinal MRI assessment of MS.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062681/"
+  },
+  {
+    "pmid": "43062553",
+    "title": "Blood mononuclear cell-type specific molecular expression levels distinguishing patients with multiple sclerosis.",
+    "date": "2026 Nov 20",
+    "journal": "Molecular biomedicine",
+    "authors": [
+      "Kaplan D",
+      "Kaye NM",
+      "Christian EL",
+      "Lazarus HM",
+      "Planchon SM",
+      "Cohen JA"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062553/"
+  },
+  {
+    "pmid": "43061942",
+    "title": "Impact of Adding Fatigue-Focused Cognitive Behavior Therapy to Supervised Pilates-Based Core Stability Training on Balance and Walking in Patients with Multiple Sclerosis: A Randomized Controlled Trial.",
+    "date": "2026 Nov 20",
+    "journal": "Clinical rehabilitation",
+    "authors": [
+      "Abd-Elazeim AS",
+      "Monir SA",
+      "Fiaad MN",
+      "Mohammed FS",
+      "Zamzam DM",
+      "Elkhateeb YS"
+    ],
+    "abstract": "ObjectiveTo investigate the effectiveness of adding cognitive behavioral therapy to supervised Pilates-based core stability training on balance and walking parameters in patients with multiple sclerosis.DesignDouble-blinded randomized controlled trial.SettingOutpatient clinic, Faculty of Physical Therapy, Cairo University.ParticipantsNinety patients with multiple sclerosis aged ≥18 years.InterventionParticipants were randomly allocated to either a study group receiving supervised Pilates-based core stability training combined with cognitive behavioral therapy or a control group receiving supervised Pilates-based core stability training alone for 8 weeks.Main Outcome MeasuresPrimary outcomes were walking parameters and postural stability. Secondary outcomes included quality of life, fatigue, fear of falling, walking capacity, depression, and anxiety.ResultsNinety participants completed the study. Both groups improved significantly after treatment, with greater improvements in the study group. After 8 weeks, the overall stability index decreased from 2.45 ± 0.31 to 1.37 ± 0.24 in the study group and from 2.52 ± 0.24 to 1.95 ± 0.28 in the control group, with a between-group mean difference of -0.59 (95% CI: -0.70 to -0.48;",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061942/"
+  },
+  {
     "pmid": "42965313",
     "title": "Affordability and relative economic burden of multiple sclerosis biologics in South America: a cross-country analysis of prices, purchasing power and regulatory access.",
     "date": "2026 Nov 2",
@@ -4492,6 +4677,30 @@
     "abstract": "Dysphagia affects approximately 45% of persons with multiple sclerosis (pwMS) and is a major cause of morbidity and mortality. The present study aimed to translate, cross-culturally adapt, and psychometrically validate the Greek version of the Swallowing Disturbance Questionnaire (g-SDQ) in pwMS. Eighty-eight adults with clinically stable MS completed the g-SDQ together with the Dysphagia in Multiple Sclerosis (DYMUS) questionnaire, the Speech Pathology-Specific Questionnaire for Persons with Multiple Sclerosis (SMS), the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS) battery, and Verbal Fluency (VF) tests. All participants also underwent the 3-ounce Water Swallow Test (3oz-WST). The g-SDQ showed good internal consistency (α = 0.857). Principal component analysis, supported by parallel analysis, yielded a two-component solution explaining 51.1% of the variance, although the components did not reproduce the theoretical oral/pharyngeal division. Screening discrimination against the 3oz-WST was high (AUC = 0.912, 95% CI 0.791-0.990); a cut-off of ≥6.5 yielded a sensitivity of 85.7% and a specificity of 93.2%, whereas the previously proposed cut-off of ≥11 detected only 50.0% of WST-positive participants. After false discovery rate (FDR) correction, the g-SDQ correlated significantly with the DYMUS (ρ =0.722), the SMS (ρ = 0.722), the EDSS (ρ = 0.250), and phonemic VF (ρ = -0.301), whereas associations with the SDMT, the GVLT-II, and categorical VF were weak and non-significant. The g-SDQ is a brief, non-invasive, and promising tool for screening dysphagia in Greek-speaking pwMS, although its cut-off and dimensional structure require confirmation in larger, independent samples.",
     "category": "Симптомы и прогрессирование",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028731/"
+  },
+  {
+    "pmid": "43060299",
+    "title": "Therapeutic acute intermittent hypoxia alters supraspinal neural control of lower limb movement in multiple sclerosis.",
+    "date": "2026 Nov 2",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "authors": [
+      "Johnson HR",
+      "Zou C",
+      "Taha R",
+      "Northrop JN",
+      "Reddy NA",
+      "Nehrujee A",
+      "Barry A",
+      "Kalvakota R",
+      "O'Shea L",
+      "Cohen BA",
+      "Nemeth AJ",
+      "Sandhu MS",
+      "Bright MG"
+    ],
+    "abstract": "Acute intermittent hypoxia (AIH) therapy is a promising neurorehabilitative intervention with well- documented improvement in motor function in people with spinal cord injury. Its effect on lower-limb motor control in multiple sclerosis (MS), where walking impairment is a leading source of disability, remain uncharacterized, and the supraspinal effects of AIH therapy are unknown. In a sham-controlled, double-blind crossover trial ( NCT05164705 ), 23 adults with MS completed 5 sessions of AIH therapy and of sham therapy; magnetic resonance imaging (MRI) was performed before and after each therapeutic intervention. At each timepoint, blood oxygenation level-dependent (BOLD) functional MRI was collected during a repeated plantar- and dorsi-flexion task. Task-evoked activation was modeled at the group level and compared across timepoint and therapeutic arm. Activation changes differed for the left- and right-foot task. AIH augmented activation in the basal ganglia, thalamus, and cortical motor regions during left-foot movement with similar but sub-threshold patterns for the right foot. Right-foot movement additionally showed enhanced deactivation in prefrontal, parietal, and temporal cortices, although these effects were primarily in white matter voxels, limiting their interpretability. These findings suggest that changes in subcortical activation may contribute to motor function improvements following AIH therapy, implicating the basal ganglia-thalamo-cortical motor loop as a target of AIH-induced neuroplasticity. These results also indicate that AIH therapy modulates supraspinal motor circuitry, supporting further investigation of the cortical and subcortical effects of this emerging therapeutic treatment.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060299/"
   },
   {
     "pmid": "43053674",
@@ -4931,6 +5140,49 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43042456/"
   },
   {
+    "pmid": "43063764",
+    "title": "Glial fibrillary acidic protein (GFAP) as outcome in clinical trials in multiple sclerosis: current use and evidence-based sample size considerations.",
+    "date": "2026 Nov 17",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Chaboud L",
+      "Hirt J",
+      "Sewak A",
+      "Maleska Maceski A",
+      "Müller J",
+      "Woelfle T",
+      "Benkert P",
+      "Sandgren S",
+      "Einsiedler M",
+      "Kuhle J",
+      "Sormani MP",
+      "Granziera C",
+      "Janiaud P",
+      "Hemkens LG"
+    ],
+    "abstract": "Glial fibrillary acidic protein (GFAP) is a biomarker of disability progression and progression independent of relapse activity (PIRA) in multiple sclerosis (MS). Planning trials with GFAP as an outcome requires plausible effect sizes and variability from empirical evidence. To assess how GFAP is used as an outcome in MS studies and to derive evidence-based scenarios for sample size calculations. We searched PubMed, Embase and trial registries, pooled estimates in meta-analyses, and used these alongside Swiss MS Cohort variability estimates to inform five scenarios. As of February 2026, 28 clinical studies used GFAP as an outcome, half unpublished; most were small and rarely used GFAP as a primary outcome. Two trials showed significant reductions, both small (EXPAND 8%; SUNBEAM 11%). Pooled treatment effect was small (between-group difference in mean log-change -0.03; 95% CI -0.08 to 0.02). A 1:1 randomized trial would need 352 patients to detect a 14% GFAP reduction, fewer than 52 for 33%, and at least 1100 for 5%. GFAP remains an exploratory outcome; measurement, analysis and reporting are heterogeneous, treatment effect estimates are small and uncertain. Most current studies are underpowered; this work provides empirical guidance for designing conclusive trials with feasible sample sizes.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063764/"
+  },
+  {
+    "pmid": "43063760",
+    "title": "TSPO-SPECT imaging as a possible biomarker of disease progression in patients with Multiple Sclerosis: A Danish pilot study.",
+    "date": "2026 Nov 17",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Jespersen F",
+      "Laurell G",
+      "Jensen P",
+      "Svarer C",
+      "Pinborg L",
+      "Sellebjerg F",
+      "Blinkenberg M"
+    ],
+    "abstract": "Reliable biomarkers for disease progression in multiple sclerosis (MS) are lacking. Translocator protein (TSPO) expression is increased in microglia and other cell types during neuroinflammation, and TSPO imaging is widely used as an in vivo marker of neuroinflammatory processes. While TSPO positron emission tomography (PET) shows promise, its clinical use is limited by cost and logistical challenges associated with the use of short-lived radiotracers. To evaluate TSPO single photon emission computed tomography (SPECT) using Nine patients with relapsing-remitting MS and high disease activity underwent TSPO-SPECT and magnetic resonance imaging (MRI) at baseline and 6 months after initiation of ocrelizumab. TSPO polymorphism rs6971 was assessed. Tracer uptake was quantified as total distribution volume (V Changes in NAWM V TSPO-SPECT with",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063760/"
+  },
+  {
     "pmid": "43041010",
     "title": "Which patient-reported outcome measure of fatigue to use for multiple sclerosis studies? Part 2: simulation studies highlight broad implications for clinical outcomes analysis.",
     "date": "2026 Nov 16",
@@ -5024,6 +5276,21 @@
     "abstract": "It is increasingly recognized that patients with relapsing-remitting multiple sclerosis (RRMS) may experience disability progression in the absence of clinical relapses and new lesions, a phenomenon known as progression independent of relapse- and magnetic resonance imaging (MRI) activity (PIRMA). The biological basis of this type of progression remains poorly understood. Demyelination is the central pathological hallmark of RRMS. Conventional clinical MRI protocols focus primarily on detecting focal lesions. However, advanced imaging techniques that quantify myelin content can provide additional insights beyond visible lesions, helping to better understand the mechanisms that drive clinical deterioration. Therefore, this study named IMPROving MYelin imaging in patients with relapsing-remitting Multiple Sclerosis (IMPROMYMS study) aims to apply myelin imaging techniques to study clinically defined disease progression in patients with RRMS, by assessing myelin content and comparing it to patients with RRMS without progression of the disease. In total, 97 patients with RRMS will be included and followed for 2.5 years. Participants will undergo MRI scanning at baseline and after 2 years and have regular clinical follow-up visits. Besides conventional MRI, advanced imaging sequences will be scanned, including gradient spin echo (GRASE), multi-echo gradient echo (ME-GRE), diffusion and functional MRI. Additionally, blood samples will be collected longitudinally to assess circulating biomarkers of neuroaxonal damage and astrocytic activation. Participants can also use the smartphone symptom-monitoring app MS Sherpa to enable more frequent monitoring of functional changes in daily life. In addition, 30 healthy controls will be scanned once as a reference group. In this study, we expect to find radiological prognostic markers of an increased risk of developing PIRMA, so that disease management strategies can be altered accordingly.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43037673/"
+  },
+  {
+    "pmid": "43063761",
+    "title": "Effect of Pilates on biochemical, psychological, and physical outcomes in people with multiple sclerosis: A systematic review and meta-analysis.",
+    "date": "2026 Nov 16",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Najafi P",
+      "Huynh TLH",
+      "Declerck L",
+      "Motl RW"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic neurological condition associated with biochemical alterations, psychological symptoms, and physical impairment that reduce quality of life (QoL). This systematic review and meta-analysis evaluated the effects of Pilates on biochemical, psychological, and physical outcomes in adults with MS compared with control conditions and explored potential moderators beyond control type. Seven databases were searched for randomized controlled trials (RCTs) comparing Pilates with any non-Pilates control conditions. Effect sizes were calculated as standardized mean differences (SMDs) with 95% confidence intervals (CIs) using a multilevel random-effects model. Thirty-one RCTs, involving 1009 participants, were included. Pilates significantly improved fatigue (SMD = -0.73, 95% CI [-1.19, -0.28]), balance (SMD = 0.32, 95% CI [0.09, 0.55]), walking ability (SMD = 0.25, 95% CI [0.04, 0.46]), QoL (SMD = 0.34, 95% CI [0.08, 0.60]), and biochemical factors (SMD = 1.12, 95% CI [0.25, 2.00]) across all control conditions. The effects of Pilates were significant across all outcomes when compared with non-active control conditions, but not when compared with active control conditions. However, the findings for fatigue (I Pilates may improve fatigue, balance, walking ability, QoL, and selected biochemical factors in people with MS, particularly relative to non-active control conditions.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063761/"
   },
   {
     "pmid": "43050918",
@@ -5159,6 +5426,29 @@
     "abstract": "Pediatric-onset multiple sclerosis (POMS) is a chronic neurological disorder for which transition to adult care is critical yet poorly characterized. We assessed transition readiness and parental perspectives in a cohort of adolescents with POMS. In this single-center cross-sectional study, patients aged 14-20 years with POMS followed at a tertiary pediatric neurology clinic in Turkey were enrolled. Patients completed the Transition Readiness Assessment Questionnaire (TRAQ 5.0) and the Morisky Medication Adherence Scale (MMAS-4). Parents completed a structured questionnaire regarding transition perspectives. Associations with TRAQ total score were examined using univariable linear regression. The study included 41 families (38 patient TRAQs, 39 parental surveys). The median patient age was 17.7 years, and 70.7% were female. The median TRAQ total score was 4.0 (IQR 3.6-4.4), with \"tracking health issues\" scoring lowest (3.3) driven largely by a single item on financial assistance for school or work that has limited applicability in the Turkish health system. TRAQ scores were associated with patient age (B = 0.17 per year, p = 0.015) and disease duration (B = 0.02 per month, p = 0.004), but not with sex, parental education, DMT route, or EDSS, which demonstrated a profound floor effect (EDSS 0 in 92.7%). Medication adherence was medium-to-high in all patients assessed with MMAS-4. While parents reported low transition-related anxiety, only 44% felt they had received adequate transition information. The most frequently reported parental concerns were the loss of pediatric-provider continuity and uncertainty regarding treatment plans. Transition readiness in POMS was associated with age and disease duration. The gaps most frequently identified by parents were insufficient information about the transfer process and continuity of treatment. These findings are consistent with current recommendations supporting early, structured, and family-inclusive transition planning before transfer to adult MS care. Interpretation of generic transition-readiness instruments should take health-system context into account.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43056772/"
+  },
+  {
+    "pmid": "43063759",
+    "title": "Long-term disease control after alemtuzumab in routine clinical practice: treatment persistence, retreatment patterns and conversion to secondary progressive multiple sclerosis.",
+    "date": "2026 Nov 14",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Suárez IG",
+      "Real AL",
+      "Moro RS",
+      "Quintanilla VG",
+      "Pato AP",
+      "Núñez AP",
+      "Estévez DAG",
+      "Arpin EC",
+      "Regal AR",
+      "Rúa LR",
+      "González JRL",
+      "Martínez JP"
+    ],
+    "abstract": "Long-term real-world data on alemtuzumab remain limited, particularly regarding treatment persistence, retreatment patterns, and conversion to secondary progressive multiple sclerosis (SPMS). To evaluate the long-term effectiveness, safety, and treatment persistence of alemtuzumab in routine clinical practice. We conducted a multicentre, ambispective observational cohort study of 263 patients with relapsing-remitting multiple sclerosis treated with alemtuzumab at 11 university hospitals in northwestern Spain between 2015 and 2023. Clinical, radiological, and safety outcomes were collected until December 2023. We assessed effectiveness using annualized relapse rate (ARR), disability progression, MRI activity, no evidence of disease activity (NEDA), treatment persistence, and conversion to SPMS. The ARR decreased from 1.10 in the year before treatment to 0.05 at 5 years. The cumulative probability of remaining free from confirmed disability worsening was 64% at 5 years. MRI inflammatory activity declined substantially, with 92.4% of patients free of new T2 or gadolinium‑enhancing lesions at year 5. At 5 years, treatment persistence was 84.4%, and only 16.3% of patients required a third alemtuzumab course. Overall, 8% of patients converted to SPMS despite long disease duration and extensive prior exposure to disease‑modifying therapies. Patients who developed SPMS were older, had higher baseline disability, and longer disease duration at treatment initiation. The safety profile was consistent with previous reports. In routine clinical practice, alemtuzumab provided sustained control of inflammatory disease activity together with high long-term treatment persistence. Most patients remained controlled with the standard two-course regimen, and conversion to SPMS was uncommon during follow-up. These findings support the long-term effectiveness of alemtuzumab in routine clinical practice.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063759/"
   },
   {
     "pmid": "43013671",
@@ -5770,6 +6060,58 @@
     "abstract": "Real-world evidence on the long-term effectiveness and safety of dimethyl fumarate (DMF) in relapsing-remitting multiple sclerosis (RRMS), particularly in Middle Eastern populations, remains limited. Moreover, the influence of prior disease-modifying therapy exposure on longitudinal DMF response remains poorly characterized. We evaluated the real-world effectiveness, safety, and temporal treatment response to DMF, comparing treatment-naïve and previously treated patients. In this longitudinal ambispective cohort study, 95adults with RRMS initiating DMF (TECRA®) at two multiple sclerosis centers in Iran were followed for 18 months. Clinical outcomes, MRI activity, disability, and adverse events were assessed at 6-month intervals. Repeated EDSS measurements were analyzed using linear mixed-effects models, while relapse and MRI lesion counts were evaluated using generalized estimating equations. Prespecified analyses compared treatment-naïve and previously treated patients. Ninety-five patients completed 18 months of follow-up. Adjusted ARR reduced from 1.56 ± 0.93 to 0.08 ± 0.24 (P < 0.001) pre- to post-treatment. Mean EDSS decreased slightly during the first 6 months and remained close to baseline through 18 months, with no patients meeting the prespecified criteria for confirmed disability progression during the available follow-up. Gadolinium-enhancing lesions declined significantly throughout follow-up, although a modest increase after 12 months suggested possible attenuation of radiological treatment effect. Overall, 88.4% of patients remained relapse-free, 70.5% had no MRI disease activity, and 64.2% achieved NEDA-3. Clinical outcomes did not significantly differ between treatment-naïve and previously treated patients; however, longitudinal analyses demonstrated distinct temporal patterns of MRI activity between groups. DMF was generally well tolerated, with predominantly mild cutaneous and gastrointestinal adverse events and infrequent discontinuation. DMF was associated with substantial reductions in observed clinical and radiological disease activity and was generally well tolerated over 18 months in routine practice. Disability remained broadly stable, although the short follow-up limits conclusions regarding long-term disability progression.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43056774/"
+  },
+  {
+    "pmid": "43063762",
+    "title": "Is it safe to stop? Predictors and outcomes of treatment discontinuation in multiple sclerosis: a systematic review and meta-analysis.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Sabet H",
+      "Abouelmagd ME",
+      "Messak M",
+      "Zanaty MA",
+      "Ewis DK",
+      "Makhlouf HA",
+      "Yousef O",
+      "Almarfadi A",
+      "Shaker O",
+      "Shata A",
+      "Altalab G",
+      "Kassar O",
+      "Alnajjar AZ",
+      "Meshref M",
+      "Nada MA"
+    ],
+    "abstract": "To evaluate the clinical outcomes of patients with multiple sclerosis (MS) after treatment discontinuation and investigate possible reasons and risk factors leading to this decision. A search was conducted across four databases (PubMed, Scopus, Web of Science, Cochrane CENTRAL) until October 2025. Pairwise meta-analysis was performed when a comparator arm was available, while single-arm meta-analysis was used in its absence. For continuous outcomes, mean changes from baseline were pooled as mean differences (MDs), while categorical outcomes without a comparator were pooled as event proportions, all with 95% confidence intervals (CIs). Meta-regression examined associations between baseline participant characteristics and pooled outcomes. Thirty-three studies (36,681 patients) were included. Overall, 22% discontinued treatment based on their own choice, 32% due to safety concerns, and 21% due to lack of efficacy. Compared with patients who continued treatment, those who discontinued had significantly higher Expanded Disability Status Scale (EDSS) scores, favoring continuation (MD = 0.56; 95% CI: 0.28 to 0.85). No significant change in ARR was observed after discontinuation compared with baseline. MRI-detected disease reactivation occurred in 22% of patients treatment. Additionally, 50% of patients resumed treatment. None of the baseline variables were associated with disease reactivation after discontinuation. Treatment discontinuation in patients with a period of disease inactivation may be relatively safe. However, close clinical monitoring for recurrent disease activity remains essential. No significant associations were found between baseline characteristics and disease reactivation after treatment discontinuation. Nearly one-fifth discontinued due to lack of efficacy, and a comparable proportion due to safety concerns.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063762/"
+  },
+  {
+    "pmid": "43059960",
+    "title": "Five Days of Acute Intermittent Hypoxia Is Safe and Improves Somatic Motor Function in Persons with Multiple Sclerosis.",
+    "date": "2026 Nov 10",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "authors": [
+      "Nehrujee A",
+      "Kalvakota R",
+      "Barry A",
+      "O'Shea L",
+      "Johnson HR",
+      "Zou C",
+      "Northrop JN",
+      "Mannella K",
+      "Zhou A",
+      "Dee W",
+      "Rymer WZ",
+      "Nemeth AJ",
+      "Cohen BA",
+      "Bright MG",
+      "Sandhu MS"
+    ],
+    "abstract": "Walking impairment affects up to 75% of persons with multiple sclerosis (MS), and the benefits of rehabilitation are constrained by limited capacity for training-induced neuroplasticity. Acute intermittent hypoxia (AIH), brief repeated exposures to low inspired oxygen, triggers serotonin-dependent spinal plasticity that enhances motor output. In spinal cord injury, daily AIH paired with walking training has produced larger walking gains than training alone, positioning AIH as a promising primer for rehabilitation. Before AIH can be combined with training in MS, its safety and stand-alone effects with repeated daily dosing must be established in a population with demyelinating disease. We therefore conducted the first multi-day AIH trial in persons with MS to characterize safety and tolerability and to evaluate preliminary effects on ankle strength and walking. Twenty-three ambulatory adults with MS (Expanded Disability Status Scale [EDSS] 3.0-6.5; 15 relapsing-remitting, 8 secondary-progressive) completed a randomized, double-masked, placebo-controlled crossover trial. Participants received AIH (15 × ∼60 s episodes; FiO No serious adverse events related to the intervention were reported, and follow-up MRI showed no new MS activity in either arm. Mean nadir SpO Daily AIH sessions are safe and well tolerated in persons with MS across a clinically heterogeneous disability range and produce significant improvements in ankle plantarflexion strength and walking endurance. These findings support combining AIH with task-specific gait training in future trials.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059960/"
   },
   {
     "pmid": "42952209",
@@ -6402,6 +6744,25 @@
     "abstract": "Diagnosed herpesvirus infections have been associated with several neurological and autoimmune diseases. We examined associations of recorded herpesvirus diagnoses, antiviral use, and HIV status with subsequent risk of multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS), and systemic lupus erythematosus (SLE). We conducted a nationwide Danish registry-based cohort study (1995-2018) including 48,897 individuals with a recorded HSV-1/2, Epstein-Barr virus (EBV), cytomegalovirus (CMV), or varicella-zoster virus (VZV) diagnosis and 546,890 matched comparators. In a separate analysis, 5737 individuals with HIV were compared with 58,160 matched comparators. Diagnoses of MS, ALS, or SLE ≥ 5 years after infection were primary outcomes. We estimated 20-year cumulative incidence and fitted absolute risk regression models in a competing-risk framework. The 20-year cumulative incidence of the composite outcome (MS, ALS, or SLE) was 0.66% among individuals with a recorded herpesvirus diagnosis and 0.38% among comparators (p < 0.001). Disease-specific cumulative incidence was higher for MS (0.50% vs. 0.24%, p < 0.001), similar for ALS (0.08% vs. 0.07%, p = 0.37), and slightly higher for SLE in the unadjusted analysis (0.097% vs. 0.07%, p = 0.04). After adjustment for antiviral-use category, the model estimate for MS was 1.35 (95% CI 1.03-1.78, p = 0.03), whereas estimates for ALS and SLE were not significant. Composite-outcome incidence was higher for recorded HSV-1/2 and EBV diagnoses, but not CMV. In the HIV analysis, the composite outcome occurred in 3/5737 individuals with HIV and 119/58,160 comparators (p = 0.01). This nationwide study supports an epidemiological association between a recorded diagnosis and later MS risk, whereas no adjusted association was observed for ALS or SLE.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43059159/"
+  },
+  {
+    "pmid": "43061604",
+    "title": "Cross-Sectional Study of Multiple Sclerosis Nurse Care in Australia: Care Provision, Value, Estimated Avoided Costs, and Recommendations-Part 2.",
+    "date": "2026 Nov",
+    "journal": "International journal of MS care",
+    "authors": [
+      "Campbell JA",
+      "Chen J",
+      "Bardsley B",
+      "Shapland S",
+      "Burke T",
+      "McKay F",
+      "Taylor BV",
+      "van der Mei I"
+    ],
+    "abstract": "In Australia, multiple sclerosis specialist nurses (MSSNs) are an integral part of the multidisciplinary health care team; however, their numbers have decreased in recent years. Few data exist on the care MSSNs provide and the cost-saving measures associated with their services. Our aim was to describe the provision and value of MSSN care and to estimate potential avoided costs. Cross-sectional survey data on MSSN care (provider, length of care, contact frequency, consultation types and satisfaction, and support types) and perceived value and effects were collected in 2020 from 1417 Australians with MS. Descriptive analysis was used, and potential avoided costs were estimated. Most respondents reported that MSSN care was This cross-sectional study suggests that tailored MSSN services reduce the need for more costly care and that MSSN care is a highly cost-effective model of care.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061604/"
   },
   {
     "pmid": "42953809",
@@ -9002,5 +9363,34 @@
     "abstract": "Expressive language difficulties are frequently reported by people with multiple sclerosis (PwMS), yet they often go undetected during routine neuropsychological assessments. This study examined expressive language performance in MS group as compared to healthy controls (HC), focusing on lexical access and semantic processing, to determine whether these deficits stem from generalized cognitive slowing or reflect an independent lexical-semantic impairment. Performance level and reaction times (RT) were evaluated in both groups across specialized naming and semantic judgment tasks using the Cambridge Language Battery. Robust regression models were conducted to assess the predictive value of information processing speed (IPS), working memory (WM) and verbal fluency. Both groups showed high levels of accuracy, but PwMS had significantly longer reaction times across all tasks with large and consistent effect sizes. Robust regression analyses indicated a clear dissociation between the domains. General cognitive factors, particularly baseline IPS, explained a substantial proportion of variance (22% to 51%) in reaction times, largely reducing between-group RT differences after adjustment in all tasks. Accuracy in the Synonym Judgement Task was primarily related to semantic and phonemic fluency and, when their influence statistically accounted for, between-group differences were largely reduced. Conversely, even the best combination of these cognitive predictors explained less than 10% of the variance in accuracy for the naming tasks, where group differences remained largely unchanged. These findings demonstrate a robust dissociation between accuracy and speed in PwMS. While general cognitive slowing drives delayed responding, it fails to account for reduced accuracy on demanding language tasks, suggesting that subtle lexical-semantic dysfunction represents a partially independent feature of MS rather than a simple consequence of generalized cognitive slowing.",
     "category": "Симптомы и прогрессирование",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43054260/"
+  },
+  {
+    "pmid": "43061574",
+    "title": "Reclassification of acute inflammatory myelopathies in the antibody era: from AQP4-IgG and MOG-IgG to double-seronegative disease.",
+    "date": "2026",
+    "journal": "Frontiers in neurology",
+    "authors": [
+      "Fan P",
+      "Tan Y",
+      "Ren Z",
+      "Zhang Q"
+    ],
+    "abstract": "Acute inflammatory myelopathy refers to a heterogeneous group of acute or subacute spinal cord syndromes characterized by clinical features suggestive of inflammatory involvement. Although these diseases have overlapping clinical manifestations, their underlying mechanisms, disease progression, and classification systems remain heterogeneous. The discovery of AQP4-IgG and MOG-IgG has driven a shift from a \"syndrome-based nomenclature\" to a \"disease-specific classification,\" allowing some patients previously classified as transverse myelitis or seronegative NMOSD to be reclassified as more specific disease entities. However, AQP4-IgG/MOG-IgG double-negative cases remain highly heterogeneous, including double-negative NMOSD, multiple sclerosis (MS), other immune-mediated myelopathies, and non-inflammatory mimics. Additionally, testing conditions may also affect whether a patient is classified as seronegative. This narrative review examines the roles of antibody stratification, MRI, and cerebrospinal fluid in the classification of acute inflammatory myelopathy, focusing on the disease composition of double-negative cases and longitudinal reclassification. Existing evidence supports interpreting double-seronegative status as a serological classification state rather than an independent disease entity. Some patients initially unclassified may be reclassified into specific disease categories during longitudinal follow-up.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061574/"
+  },
+  {
+    "pmid": "43060458",
+    "title": "Not every patient with an initial clinical demyelinating event needs to be treated: a low CXCL13 index at the time of the ICDE has prognostic value for the absence of later activity.",
+    "date": "2026",
+    "journal": "Frontiers in neurology",
+    "authors": [
+      "Pachner AR",
+      "Pike SC",
+      "Gilli F"
+    ],
+    "abstract": "The management of persons with an initial clinical demyelinating event (PwICDE) is controversial. Frequently, patients with ICDE are often treated with an Multiple Sclerosis (MS) disease-modifying therapy (DMT), while in others, a \"wait-and-see\" approach is followed. Even in PwICDE who are prescribed a DMT, there are significant barriers to initiation of therapy. A reliable biomarker that can predict when it is safe to monitor patients rather than start a DMT would be highly beneficial. The CXCL13 index (I",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060458/"
   }
 ]
