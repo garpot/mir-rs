@@ -1,5 +1,17 @@
 [
   {
+    "nct_id": "NCT00001532",
+    "title": "Role of Genetic Factors in the Development of Lung Disease",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "1996-09-13",
+    "last_update": "2026-11-23",
+    "interventions": [],
+    "summary": "This study is designed to evaluate the genetics involved in the development of lung disease by surveying genes involved in the process of breathing and examining the genes in lung cells of patients with lung disease.\n\nThe study will focus on defining the distribution of abnormal genes responsible for processes directly involved in different diseases affecting the lungs of patients and healthy volunteers.\n\nOptional CT Sub-study\n\nThe standard CT scan will be compared to the low dose radiation CT scan for the 150 subjects enrolled in the sub-study to assess the variation between the two techniques. Specifically, the quantitative computer aided detection of lung CT abnormalities from LAM can be compared to assess whether low radiation dose CT exams is an alternative to conventional CT to monitor disease\n\nstatus.\n\nThis optional sub-study will be offered to up to 100 adult subjects with lung disease and up to 50 children age 9 and older with CF. Children will not be enrolled in the optional CT sub-study unless they have had a standard CT scan for medical purposes to use in comparison. One additional low dose radiation CT scan of the chest may be done as part of this sub-study when these subjects have their next annual CT scan.",
+    "url": "https://clinicaltrials.gov/study/NCT00001532"
+  },
+  {
     "nct_id": "NCT01617395",
     "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
     "status": "COMPLETED",
@@ -10,18 +22,6 @@
     "interventions": [],
     "summary": "Background:\n\n\\- Research shows that both genes and the environment influence a person s risk for getting multiple sclerosis (MS). However, it is not possible to accurately predict who will develop MS. Researchers want to study people with MS and their family members. They have developed a Genetic and Environmental Risk Score for MS. This score combines information from a person's medical history and genes. It also includes environmental factors that may be related to developing MS. This study will test this risk score to see if it can help predict who will develop MS.\n\nObjectives:\n\n\\- To evaluate a score for genetic and environmental risk factors that may help predict whether a person will develop MS.\n\nEligibility:\n\n* Individuals at least 18 years of age who have MS.\n* Individuals between 18 to 50 years of age who are the parent, brother, sister, or child of a person with MS.\n\nDesign:\n\n* People with MS will allow researchers to look at their personal and medical data. These data will have been collected in other MS-related studies.\n* Relatives of people with MS will fill out a questionnaire and give blood and saliva samples. They will fill out the questionnaire again one year later.\n* Some relatives will have additional optional testing. These tests will include a physical exam and imaging studies. There may also be other tests. These tests may be repeated every 1 to 5 years for 20 years.",
     "url": "https://clinicaltrials.gov/study/NCT01617395"
-  },
-  {
-    "nct_id": "NCT00001532",
-    "title": "Role of Genetic Factors in the Development of Lung Disease",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "1996-09-13",
-    "last_update": "2026-11-20",
-    "interventions": [],
-    "summary": "This study is designed to evaluate the genetics involved in the development of lung disease by surveying genes involved in the process of breathing and examining the genes in lung cells of patients with lung disease.\n\nThe study will focus on defining the distribution of abnormal genes responsible for processes directly involved in different diseases affecting the lungs of patients and healthy volunteers.\n\nOptional CT Sub-study\n\nThe standard CT scan will be compared to the low dose radiation CT scan for the 150 subjects enrolled in the sub-study to assess the variation between the two techniques. Specifically, the quantitative computer aided detection of lung CT abnormalities from LAM can be compared to assess whether low radiation dose CT exams is an alternative to conventional CT to monitor disease\n\nstatus.\n\nThis optional sub-study will be offered to up to 100 adult subjects with lung disease and up to 50 children age 9 and older with CF. Children will not be enrolled in the optional CT sub-study unless they have had a standard CT scan for medical purposes to use in comparison. One additional low dose radiation CT scan of the chest may be done as part of this sub-study when these subjects have their next annual CT scan....",
-    "url": "https://clinicaltrials.gov/study/NCT00001532"
   },
   {
     "nct_id": "NCT02511028",
@@ -119,6 +119,22 @@
     ],
     "summary": "This study aims to evaluate the clinical significance of arachnoid-trigeminal nerve conflict in patients with medically refractory trigeminal neuralgia without demonstrable neurovascular conflict on preoperative magnetic resonance imaging (MRI). Patients undergoing surgical exploration will be assessed clinically, radiologically, and intraoperatively for the presence and characteristics of arachnoid adhesions or tethering involving the trigeminal nerve. Endoscopic-assisted arachnoid release will be performed when appropriate by Bassiouni technique. Postoperative pain outcome will be evaluated using the Barrow Neurological Institute (BNI) pain intensity score and the Visual Analog Scale (VAS). Recurrence, postoperative complications, MRI-intraoperative correlation, and potential predictors of favorable surgical outcome will also be evaluated.",
     "url": "https://clinicaltrials.gov/study/NCT07811973"
+  },
+  {
+    "nct_id": "NCT06982742",
+    "title": "Effect of a Mobile Health App on Pain and Quality of Life in Patients With Neuropathic Pain in Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-08-20",
+    "last_update": "2026-11-20",
+    "interventions": [
+      "Mobile Health App for Neuropathic Pain Management in MS"
+    ],
+    "summary": "Multiple sclerosis (MS) is a chronic autoimmune disease affecting the central nervous system, leading to inflammation, neurodegeneration, and a range of physical and invisible symptoms. Among these, neuropathic pain significantly impairs quality of life but is often overlooked. Neuropathic pain in MS is associated with increased central sensitivity, neuroinflammation, and lifestyle factors such as unhealthy diet, physical inactivity, poor sleep, stress, and smoking. While pharmacological treatments are commonly used, they often provide limited long-term relief and may carry risks such as dependence and side effects.\n\nGrowing evidence highlights the importance of non-pharmacological, self-management interventions that promote lifestyle changes. Digital health technologies, particularly mobile health (mHealth) applications, have emerged as accessible tools to support self-management, allowing individuals to take an active role in managing their symptoms and improving their well-being. However, existing mHealth applications often lack scientifically validated content, do not specifically address neuropathic pain, and have limited user-centered design features.\n\nThis study aims to develop a self-management-based mHealth application tailored for patients with MS experiencing neuropathic pain. Grounded in Bandura's Social Cognitive Theory, the application will provide educational content, symptom tracking, goal-setting tools, and behavior change strategies covering topics such as nutrition, physical activity, sleep hygiene, stress management, and smoking cessation. The application seeks to improve self-efficacy, reduce pain intensity, and enhance quality of life.\n\nThe study will be conducted as a randomized controlled trial. Participants will be randomly assigned to an intervention group (using the mHealth application for eight weeks) or a control group (receiving standard care). Primary outcomes include changes in pain intensity and quality of life. The study hypothesizes that using the mobile application will reduce pain intensity and improve quality of life compared to standard care.\n\nAdditionally, the study sets measurable success criteria for the development and evaluation of the application, including expert and user evaluations of content quality, usability, and user satisfaction. The findings aim to contribute to the literature on integrative pain management and demonstrate the",
+    "url": "https://clinicaltrials.gov/study/NCT06982742"
   },
   {
     "nct_id": "NCT07844070",
@@ -1988,22 +2004,6 @@
     ],
     "summary": "Tai Chi combines strength and neuromuscular training with diaphragmatic breathing, attention, imagery and relaxation. After an initial learning period, participants can practise independently, potentially supporting self-efficacy and sustained self-management. Studies in chronic disease report benefits for physical function and psychological wellbeing.\n\nThe investigators will evaluate a 12-week Tai Chi rehabilitation programme in a clincial trial. The Multiple Sclerosis Impact Scale (MSIS-29) is the primary clinical outcome, reflecting the physical and psychological consequences of multiple sclerosis (MS). Assessments take place before training and at 12 weeks (the primary endpoint).\n\nThe study will address whether Tai Chi improves physical and mental health; reduces fatigue, anxiety, depression and pain; improves lower-limb strength, gait and balance; and improves quality of life and self-efficacy.",
     "url": "https://clinicaltrials.gov/study/NCT07890974"
-  },
-  {
-    "nct_id": "NCT06982742",
-    "title": "Effect of a Mobile Health App on Pain and Quality of Life in Patients With Neuropathic Pain in Multiple Sclerosis",
-    "status": "COMPLETED",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-08-20",
-    "last_update": "2026-10-27",
-    "interventions": [
-      "Mobile Health App for Neuropathic Pain Management in MS"
-    ],
-    "summary": "Multiple sclerosis (MS) is a chronic autoimmune disease affecting the central nervous system, leading to inflammation, neurodegeneration, and a range of physical and invisible symptoms. Among these, neuropathic pain significantly impairs quality of life but is often overlooked. Neuropathic pain in MS is associated with increased central sensitivity, neuroinflammation, and lifestyle factors such as unhealthy diet, physical inactivity, poor sleep, stress, and smoking. While pharmacological treatments are commonly used, they often provide limited long-term relief and may carry risks such as dependence and side effects.\n\nGrowing evidence highlights the importance of non-pharmacological, self-management interventions that promote lifestyle changes. Digital health technologies, particularly mobile health (mHealth) applications, have emerged as accessible tools to support self-management, allowing individuals to take an active role in managing their symptoms and improving their well-being. However, existing mHealth applications often lack scientifically validated content, do not specifically address neuropathic pain, and have limited user-centered design features.\n\nThis study aims to develop a self-management-based mHealth application tailored for patients with MS experiencing neuropathic pain. Grounded in Bandura's Social Cognitive Theory, the application will provide educational content, symptom tracking, goal-setting tools, and behavior change strategies covering topics such as nutrition, physical activity, sleep hygiene, stress management, and smoking cessation. The application seeks to improve self-efficacy, reduce pain intensity, and enhance quality of life.\n\nThe study will be conducted as a randomized controlled trial. Participants will be randomly assigned to an intervention group (using the mHealth application for eight weeks) or a control group (receiving standard care). Primary outcomes include changes in pain intensity and quality of life. The study hypothesizes that using the mobile application will reduce pain intensity and improve quality of life compared to standard care.\n\nAdditionally, the study sets measurable success criteria for the development and evaluation of the application, including expert and user evaluations of content quality, usability, and user satisfaction. The findings aim to contribute to the literature on integrative pain management and demonstrate the",
-    "url": "https://clinicaltrials.gov/study/NCT06982742"
   },
   {
     "nct_id": "NCT06143514",

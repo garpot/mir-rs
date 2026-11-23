@@ -3256,6 +3256,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43068320/"
   },
   {
+    "pmid": "43069884",
+    "title": "Baló-Type Inflammatory Pseudotumoral Lesion Mimicking a Cerebral Metastasis: A Diagnostic Challenge.",
+    "date": "2026 Oct",
+    "journal": "Cureus",
+    "authors": [
+      "De Smet E",
+      "Taylor S",
+      "Delhaye C"
+    ],
+    "abstract": "Baló's concentric sclerosis is a rare inflammatory demyelinating disorder characterized by concentric layers of demyelinated and relatively preserved myelin. Its clinical and radiological presentation may mimic an intracranial neoplasm, particularly when a solitary enhancing lesion is associated with diffusion restriction. We report the case of a 34-year-old woman who presented with acute right-sided motor symptoms involving the lower limb and fine movements of the right hand. Initial brain magnetic resonance imaging (MRI) revealed a solitary 15 mm left posterior frontal intra-axial lesion with T2/fluid-attenuated inversion recovery (FLAIR) hyperintensity, central T2 shine-through and peripheral diffusion restriction, intense contrast enhancement, and minimal surrounding edema. A metastatic lesion was initially considered the leading diagnosis. However, the patient experienced spontaneous clinical improvement without corticosteroid treatment. The lesion initially regressed in size and enhancement on serial MRI, with subsequent fluctuations in lesion size, while a new small left posterior subinsular lesion appeared during follow-up. Extensive oncological investigations, including thoracoabdominopelvic computed tomography, breast imaging, and dermatological examination, did not identify an underlying malignancy. Cerebrospinal fluid analysis demonstrated the presence of intrathecal oligoclonal bands. Subsequent MRI demonstrated a central vein within the initial left frontal lesion, providing an additional supportive, although nonspecific, feature of inflammatory demyelination. Retrospective MRI review also suggested a subtle, incompletely expressed concentric configuration, although the characteristic concentric-ring pattern was not clearly demonstrated. Although the clinical and radiological findings suggested an inflammatory demyelinating disorder within the multiple sclerosis spectrum, the diagnostic criteria for multiple sclerosis were not fulfilled because dissemination in space was not demonstrated. The final working diagnosis was a clinically isolated syndrome associated with a suspected Baló-type inflammatory pseudotumoral lesion, without histopathological confirmation. This case highlights the importance of serial imaging and multidisciplinary assessment when evaluating a solitary enhancing brain lesion in a young adult, particularly when spontaneous clinical and radiological improvement occurs.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069884/"
+  },
+  {
     "pmid": "43007891",
     "title": "The Effect of Acupressure on Beta-Endorphin, Hypocretin, Cognition, and Patient-Reported Outcome Measures in Multiple Sclerosis Patients.",
     "date": "2026 Nov-Dec 01",
@@ -4294,6 +4308,30 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956390/"
   },
   {
+    "pmid": "43068647",
+    "title": "Retraction notice to \"Redox regulation of cellular stress response in multiple sclerosis\" [Biochem. Pharmacol. 82(10) (2011) 1490-1499].",
+    "date": "2026 Nov 22",
+    "journal": "Biochemical pharmacology",
+    "authors": [
+      "Pennisi G",
+      "Cornelius C",
+      "Cavallaro MM",
+      "Trovato Salinaro A",
+      "Cambria MT",
+      "Pennisi M",
+      "Bella R",
+      "Milone P",
+      "Ventimiglia B",
+      "Migliore MR",
+      "Di Renzo L",
+      "De Lorenzo A",
+      "Calabrese V"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068647/"
+  },
+  {
     "pmid": "43057253",
     "title": "Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
     "date": "2026 Nov 21",
@@ -5017,6 +5055,19 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43049769/"
   },
   {
+    "pmid": "43068620",
+    "title": "Antinuclear antibody reactivity in multiple sclerosis: a matched neurological control study of immunofluorescence patterns and antigen-specific autoantibodies.",
+    "date": "2026 Nov 18",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Salman E",
+      "Gökay S"
+    ],
+    "abstract": "Antinuclear antibody (ANA) testing is used during the diagnostic evaluation of multiple sclerosis (MS), yet whether ANA reactivity reflects an MS-specific humoral autoimmune profile remains uncertain. This retrospective, single-centre matched case-control study compared ANA indirect immunofluorescence (ANA-IIF), International Consensus on ANA Patterns (ICAP)-classified morphology, and 16-antigen line immunoblot reactivity in 349 patients with MS and 349 non-autoimmune neurological controls matched 1:1 on exact age and sex. Paired analyses used exact McNemar and Stuart-Maxwell tests, conditional logistic regression, and Benjamini-Hochberg correction for secondary comparisons. Overall HEp-2 IIF reactivity (nuclear, cytoplasmic, or mitotic; post hoc) was more frequent in MS (33.5% vs 24.9%; matched odds ratio [OR] 1.58, 95% confidence interval [CI] 1.11-2.23; nominal P = 0.012). Nuclear ANA-IIF positivity was higher (30.9% vs 22.9%; OR 1.52; P = 0.020; secondary BH-FDR q = 0.101). No significant differences emerged for the primary four-category serological phenotype (Stuart-Maxwell P = 0.111), immunoblot positivity (26.1% vs 22.9%; OR 1.20, 95% CI 0.84-1.72), polyreactivity (5.2% vs 5.4%), immunoblot burden, or any of the 16 tested antigens. Immunoblot positivity increased across nuclear ANA-IIF titer categories in both groups; the group-by-titer interaction was not significant (P = 0.226). Exploratory conditional models associated immunoblot positivity with nuclear ANA-IIF reactivity and increasing titer, but not with MS status. Borderline immunoblot sensitivity analyses were concordant. Post hoc overall HEp-2 IIF reactivity was modestly more frequent in MS, without evidence of differences across 16 tested immunoblot antigens. Isolated IIF positivity does not establish systemic autoimmune disease; serological testing should remain clinically directed.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068620/"
+  },
+  {
     "pmid": "43041155",
     "title": "Non-pharmacological fatigue management strategies in neurodegenerative conditions: a scoping review.",
     "date": "2026 Nov 17",
@@ -5225,6 +5276,46 @@
     "abstract": "To evaluate the effects of exercise on quality of life (QoL) and related physical and psychological outcomes in people with multiple sclerosis (MS). A comprehensive literature search of PubMed, Web of Science, Embase, Cochrane, and Scopus databases was conducted from database inception to March 19, 2026. Pooled effect estimates were calculated using standardized mean differences (SMDs) or weighted mean differences (WMDs) with 95% confidence intervals, as appropriate. Twenty-nine studies were included in the systematic review, of which 26 contributed to the quantitative synthesis. Exercise was associated with a significant improvement in QoL (SMD = 0.68, p < 0.00001). Significant effects were also observed for lower-limb strength (SMD = 0.64, p < 0.0001), balance (SMD = -0.70, p < 0.00001), gait speed (SMD = 0.78, p = 0.0007), walking endurance (SMD = 0.41, p < 0.0001), fatigue (SMD = -0.68, p < 0.00001), depression (SMD = -0.68, p = 0.006), and self-efficacy (WMD = -4.35, p = 0.03). The pooled effect on anxiety was not statistically significant (SMD = -0.37, p = 0.05). Exercise is associated with beneficial effects on QoL and several physical and psychological health outcomes in people with MS, including lower-limb strength, balance, gait speed, walking endurance, fatigue, and depression. These findings support exercise as an important component of multidimensional rehabilitation for people with MS, while highlighting the need for further research to determine how participant characteristics and exercise prescription influence responses across different health outcomes.",
     "category": "Реабилитация и мобильность",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43067211/"
+  },
+  {
+    "pmid": "43068619",
+    "title": "Validity and reliability of digital cognitive assessments in multiple sclerosis: a systematic review and meta-analysis.",
+    "date": "2026 Nov 17",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Aguiar-Barros ABP",
+      "Pontes DHA",
+      "de Souza SPM",
+      "Leite-Santana A",
+      "Fontenele LGS",
+      "Melo JHL",
+      "Guido-Santos VC",
+      "Mazur GR",
+      "de Camargo Martins Moreira GN",
+      "de Melo ALC",
+      "da Silva RO",
+      "Mora MMR",
+      "Santos DH"
+    ],
+    "abstract": "To evaluate the concurrent validity, test-retest reliability, and diagnostic accuracy of digital cognitive assessments in people with multiple sclerosis (MS). This review followed PRISMA 2020 and was prospectively registered in PROSPERO (CRD420261386815). PubMed, Embase, Cochrane Library, and Web of Science were searched from inception to April 7, 2026. Studies evaluating smartphone, tablet, or computer-based cognitive assessments in adults with MS were included. Concurrent validity and test-retest reliability were pooled with random-effects models; diagnostic accuracy was synthesized descriptively. Twenty-six studies involving 2959 participants were included. Concurrent validity (k = 21; n = 1659) showed a strong pooled correlation with neuropsychological measures (r = 0.765; 95% CI 0.652-0.845; 95% prediction interval -0.028 to 0.967). Test-retest reliability (k = 9) was high (ICC = 0.894; 95% CI 0.854-0.923; 95% prediction interval 0.787-0.948). Subgroup analyses did not detect statistically significant differences between device types. Most comparators were SDMT-based, so the evidence mainly reflects processing speed. In diagnostic accuracy studies, areas under the curve ranged from 0.800 to 0.951. Sensitivity analyses did not materially change the estimates, and no publication bias was detected. Digital cognitive assessments showed strong average concurrent validity, mainly against the SDMT, and high average test-retest reliability in people with MS. Prediction intervals were wide, particularly for concurrent validity, so these averages do not necessarily apply to each platform. The evidence mainly reflects processing speed, and sensitivity to longitudinal cognitive change could not be pooled. These tools may complement, but not replace, conventional neuropsychological testing for screening and monitoring.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068619/"
+  },
+  {
+    "pmid": "43068618",
+    "title": "Plasma proteomic signatures in incident multiple sclerosis.",
+    "date": "2026 Nov 17",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Zhang Y",
+      "Wang X",
+      "Shi Z",
+      "Chen H",
+      "Zhou H"
+    ],
+    "abstract": "This study aimed to identify plasma proteomic signatures associated with multiple sclerosis (MS) prior to clinical diagnosis and to determine whether prioritized proteins are related to multimodal markers of neurodegeneration and tissue injury. We examined associations between target plasma proteomic data from the UK Biobank. After quality control, 44,184 participants and 2917 proteins were included in the analysis. Patients with MS were identified from linked health records and categorized as prevalent (diagnosed before baseline; n = 325), incident (diagnosed after baseline; n = 104), or controls (n = 43,755). Covariate-adjusted differential expression analyses were conducted using limma package with false discovery rate (FDR) correction. Proteins associated with incident MS were further evaluated in sensitivity analyses that excluded participants diagnosed within two years of baseline and across prespecified pre-diagnostic time windows. Prioritized proteins were then assessed for their associations with brain MRI volumes, optical coherence tomography (OCT), and cognitive performance. Proteomic dysregulation was more prominent in prevalent MS than in incident MS. In prevalent MS, 95 proteins were differentially expressed compared with controls. In incident MS, NEFL was the only protein that remained significant after multiple-testing correction (logFC = 0.23, FDR = 1.26 × 10 NEFL showed the strongest statistical evidence of association with subsequently recorded MS diagnosis, consistent with previous findings. The additional proteins represent exploratory candidates with potential biological relevance rather than independently validated pre-diagnostic biomarkers. These findings highlight differences in detectable proteomic alterations between incident and prevalent MS and identify candidates for future validation.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068618/"
   },
   {
     "pmid": "43041010",
@@ -6843,6 +6934,39 @@
     "abstract": "In Australia, multiple sclerosis specialist nurses (MSSNs) are an integral part of the multidisciplinary health care team; however, their numbers have decreased in recent years. Few data exist on the care MSSNs provide and the cost-saving measures associated with their services. Our aim was to describe the provision and value of MSSN care and to estimate potential avoided costs. Cross-sectional survey data on MSSN care (provider, length of care, contact frequency, consultation types and satisfaction, and support types) and perceived value and effects were collected in 2020 from 1417 Australians with MS. Descriptive analysis was used, and potential avoided costs were estimated. Most respondents reported that MSSN care was This cross-sectional study suggests that tailored MSSN services reduce the need for more costly care and that MSSN care is a highly cost-effective model of care.",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43061604/"
+  },
+  {
+    "pmid": "43069565",
+    "title": "Paraclinical Fulfillment of the 2017 and 2024 McDonald Criteria in MS-Mimicking Conditions: A Multicentre Real-World Study.",
+    "date": "2026 Nov",
+    "journal": "European journal of neurology",
+    "authors": [
+      "De Napoli G",
+      "Bianchi A",
+      "Greco G",
+      "Paoletti M",
+      "Gastaldi M",
+      "Lotti A",
+      "Mariottini A",
+      "Massacesi L",
+      "Damato V",
+      "Carta S",
+      "Mariotto S",
+      "Habetswallner F",
+      "Iorio R",
+      "Capone E",
+      "Giordano C",
+      "Maniscalco GT",
+      "Bisecco A",
+      "Sechi E",
+      "Ferraro D",
+      "De Stefano N",
+      "Cagol A",
+      "Cortese R"
+    ],
+    "abstract": "The 2024 revision of the McDonald criteria expands the role of paraclinical evidence to expedite multiple sclerosis (MS) diagnosis while aiming to preserve diagnostic accuracy. How these changes impact diagnostic specificity in MS-mimicking conditions remains uncertain. We retrospectively identified patients from eight Italian centers with a confirmed non-MS diagnosis who presented with a first demyelinating-like event. All underwent baseline CSF analysis and brain and spinal cord MRI within four months of onset, with subsequent follow-up imaging. Paraclinical diagnostic components of the 2017 and 2024 McDonald criteria were applied, excluding the \"no better explanation\" clause, and fulfillment rates were compared using McNemar's test. Among 119 patients (MOGAD, n = 74; AQP4 + NMOSD, n = 31; seronegative-NMOSD, n = 3; other, n = 11), 58 (48.7%) fulfilled paraclinical diagnostic requirements under the 2024 framework, compared with 44 (37.0%) under the 2017 framework (p = 0.0005). This increase was largely attributable to optic nerve involvement, accounting for 71% of additional cases, and was consistent across major diagnostic subgroups. Expanded paraclinical definitions in the 2024 McDonald criteria increase the proportion of MS-mimics fulfilling diagnostic requirements, predominantly through optic nerve involvement. These findings underscore the importance of careful differential diagnosis and highlight that, under the 2024 criteria, the 'no better explanation' principle is even more critical to prevent misdiagnosis.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069565/"
   },
   {
     "pmid": "42953809",
