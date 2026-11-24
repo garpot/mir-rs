@@ -1,5 +1,96 @@
 [
   {
+    "nct_id": "NCT01617395",
+    "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
+    "status": "COMPLETED",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2012-08-15",
+    "last_update": "2026-11-24",
+    "interventions": [],
+    "summary": "Background:\n\n\\- Research shows that both genes and the environment influence a person s risk for getting multiple sclerosis (MS). However, it is not possible to accurately predict who will develop MS. Researchers want to study people with MS and their family members. They have developed a Genetic and Environmental Risk Score for MS. This score combines information from a person's medical history and genes. It also includes environmental factors that may be related to developing MS. This study will test this risk score to see if it can help predict who will develop MS.\n\nObjectives:\n\n\\- To evaluate a score for genetic and environmental risk factors that may help predict whether a person will develop MS.\n\nEligibility:\n\n* Individuals at least 18 years of age who have MS.\n* Individuals between 18 to 50 years of age who are the parent, brother, sister, or child of a person with MS.\n\nDesign:\n\n* People with MS will allow researchers to look at their personal and medical data. These data will have been collected in other MS-related studies.\n* Relatives of people with MS will fill out a questionnaire and give blood and saliva samples. They will fill out the questionnaire again one year later.\n* Some relatives will have additional optional testing. These tests will include a physical exam and imaging studies. There may also be other tests. These tests may be repeated every 1 to 5 years for 20 years.",
+    "url": "https://clinicaltrials.gov/study/NCT01617395"
+  },
+  {
+    "nct_id": "NCT00794352",
+    "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2008-10-01",
+    "last_update": "2026-11-24",
+    "interventions": [],
+    "summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.\n\n...",
+    "url": "https://clinicaltrials.gov/study/NCT00794352"
+  },
+  {
+    "nct_id": "NCT07067463",
+    "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-03-23",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Orelabrutinib",
+      "Placebo"
+    ],
+    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+    "url": "https://clinicaltrials.gov/study/NCT07067463"
+  },
+  {
+    "nct_id": "NCT07220252",
+    "title": "Study to Assess Effects of Ublituximab in Pediatric Participants With Relapsing Forms of Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-07-01",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Ublituximab",
+      "Placebo",
+      "Placebo",
+      "Fingolimod"
+    ],
+    "summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of ublituximab in participants ages 10 to less than (\\<)18 years and body weight greater than or equal to (≥)25 kilograms (kg) to less than or equal to (≤)40 kg with RMS (Part A) and to evaluate the non-inferiority of ublituximab compared with fingolimod in pediatric RMS participants with body weight ≥ 25 kg (Part B). The study will further evaluate long-term safety and efficacy of ublituximab in RMS in pediatric participants during its extension period (Part C).",
+    "url": "https://clinicaltrials.gov/study/NCT07220252"
+  },
+  {
+    "nct_id": "NCT07503873",
+    "title": "A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-04-01",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Ublituximab",
+      "Ublituximab",
+      "Prefilled pen"
+    ],
+    "summary": "The purpose of this study is to evaluate the PK and safety of ublituximab SC at different sites of administration and relative bioavailability of ublituximab SC administered with a prefilled pen versus syringe.",
+    "url": "https://clinicaltrials.gov/study/NCT07503873"
+  },
+  {
+    "nct_id": "NCT07956247",
+    "title": "McArdle Sign Study",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2026-02-26",
+    "last_update": "2026-11-24",
+    "interventions": [],
+    "summary": "The goal of this preliminary study, being conducted preparatory to future research, is to evaluate the sensitivity of a torque cell device to measure finger extensor strength combined with a motorized lever that forces the fingers through an arc of approximately 60 degrees (from extended to flexed) in detection of McArdle sign. McArdle sign is a specific sign of multiple sclerosis wherein muscles, in particular finger extensors, become transiently weaker with neck flexion compared to neck extension; the PI previously studied and published on this phenomenon with a similar first generation device without a motorized lever and now wishes to evaluate the new device compared to clinical assessment in patients with MS, stratified according to degree of baseline weakness and clinical degree of McArdle sign. The investigators don't plan to publish the data from this study directly, but plan to retain the data from this study and combine with additional data to be collected in future studies to be submitted to the IRB-HSR to further the general goals of the program: to understand the phenomenon of McArdle sign and its application to diagnosis, predicting response to treatment, serving as outcome measure in patients with MS.",
+    "url": "https://clinicaltrials.gov/study/NCT07956247"
+  },
+  {
     "nct_id": "NCT00001532",
     "title": "Role of Genetic Factors in the Development of Lung Disease",
     "status": "RECRUITING",
@@ -12,16 +103,38 @@
     "url": "https://clinicaltrials.gov/study/NCT00001532"
   },
   {
-    "nct_id": "NCT01617395",
-    "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
-    "status": "COMPLETED",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2012-08-15",
-    "last_update": "2026-11-20",
-    "interventions": [],
-    "summary": "Background:\n\n\\- Research shows that both genes and the environment influence a person s risk for getting multiple sclerosis (MS). However, it is not possible to accurately predict who will develop MS. Researchers want to study people with MS and their family members. They have developed a Genetic and Environmental Risk Score for MS. This score combines information from a person's medical history and genes. It also includes environmental factors that may be related to developing MS. This study will test this risk score to see if it can help predict who will develop MS.\n\nObjectives:\n\n\\- To evaluate a score for genetic and environmental risk factors that may help predict whether a person will develop MS.\n\nEligibility:\n\n* Individuals at least 18 years of age who have MS.\n* Individuals between 18 to 50 years of age who are the parent, brother, sister, or child of a person with MS.\n\nDesign:\n\n* People with MS will allow researchers to look at their personal and medical data. These data will have been collected in other MS-related studies.\n* Relatives of people with MS will fill out a questionnaire and give blood and saliva samples. They will fill out the questionnaire again one year later.\n* Some relatives will have additional optional testing. These tests will include a physical exam and imaging studies. There may also be other tests. These tests may be repeated every 1 to 5 years for 20 years.",
-    "url": "https://clinicaltrials.gov/study/NCT01617395"
+    "nct_id": "NCT07782450",
+    "title": "A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Diseases",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2027-03-01",
+    "last_update": "2026-11-23",
+    "interventions": [
+      "PF-08154225"
+    ],
+    "summary": "The purpose of this study is to learn about the safety and effects of the study medication called PF-08154225 for the potential treatment of autoimmune diseases. An autoimmune disease is a condition that makes a person's immune system attack its healthy cells by mistake. This study is particularly looking at autoimmune diseases called as Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nThis study is divided into 3 parts: Part 1a, Part 1b and Part 2. Parts 1a and 1b are seeking participants with Systemic Lupus Erythematosus (SLE) or Rheumatoid Arthritis and Part 2 with also Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nParticipants can take part only in one part of the study.\n\nAll participants in this study will receive PF-08154225 at the study clinic. In Part 1a participants will receive single administration of PF-08154225 after which they will be observed at the study clinic during regular visits through week 16 or longer.\n\nIn Part 1b the participants will receive multiple administration of PF-08154225 after which they will be monitored in similar a manner as in Part 1a through week 24 or longer.\n\nIn Part 2 participants will receive multiple administrations of PF-08154225. After the last injection they will be monitored for safety through week 52 or longer.",
+    "url": "https://clinicaltrials.gov/study/NCT07782450"
+  },
+  {
+    "nct_id": "NCT07616050",
+    "title": "Evaluation of the Impact of Virtual Park on Training Motivation in Adult Patients",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-06-15",
+    "last_update": "2026-11-23",
+    "interventions": [
+      "Dual-task training with Virtual Reality",
+      "Cycling training"
+    ],
+    "summary": "The purpose of this clinical study is to evaluate the feasibility, usability, and motivational impact of VirtualPark, a virtual reality-based dual-task rehabilitation system, in adults with neurological and age-related conditions.\n\nVirtualPark is a virtual reality application designed to deliver cognitive exercises during cycling training using a commercially available ergometer (THERA-Trainer Tigo). The system integrates physical and cognitive tasks in simulated real-life environments.\n\nThe intervention integrates motor and cognitive training tasks targeting domains such as attention, inhibition, working memory, and navigation.\n\nThis is a prospective, multicenter, randomized, cross-over pilot study. It will compare cycling training performed with and without virtual reality. Participants will complete both intervention conditions over a 4-week period separated by a wash-out phase with standard rehabilitation activities. The order of conditions will be randomized.\n\nThe study will assess motivation during rehabilitation training, usability and user experience of the system, as well as exploratory effects on cognitive and motor performance, functional abilities, perceived exertion, and safety.\n\nThe study will enroll adult participants (≥18 years) with conditions such as stroke, Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, mild cognitive impairment, spinal cord injury, and frail older adults.",
+    "url": "https://clinicaltrials.gov/study/NCT07616050"
   },
   {
     "nct_id": "NCT02511028",
@@ -135,6 +248,22 @@
     ],
     "summary": "Multiple sclerosis (MS) is a chronic autoimmune disease affecting the central nervous system, leading to inflammation, neurodegeneration, and a range of physical and invisible symptoms. Among these, neuropathic pain significantly impairs quality of life but is often overlooked. Neuropathic pain in MS is associated with increased central sensitivity, neuroinflammation, and lifestyle factors such as unhealthy diet, physical inactivity, poor sleep, stress, and smoking. While pharmacological treatments are commonly used, they often provide limited long-term relief and may carry risks such as dependence and side effects.\n\nGrowing evidence highlights the importance of non-pharmacological, self-management interventions that promote lifestyle changes. Digital health technologies, particularly mobile health (mHealth) applications, have emerged as accessible tools to support self-management, allowing individuals to take an active role in managing their symptoms and improving their well-being. However, existing mHealth applications often lack scientifically validated content, do not specifically address neuropathic pain, and have limited user-centered design features.\n\nThis study aims to develop a self-management-based mHealth application tailored for patients with MS experiencing neuropathic pain. Grounded in Bandura's Social Cognitive Theory, the application will provide educational content, symptom tracking, goal-setting tools, and behavior change strategies covering topics such as nutrition, physical activity, sleep hygiene, stress management, and smoking cessation. The application seeks to improve self-efficacy, reduce pain intensity, and enhance quality of life.\n\nThe study will be conducted as a randomized controlled trial. Participants will be randomly assigned to an intervention group (using the mHealth application for eight weeks) or a control group (receiving standard care). Primary outcomes include changes in pain intensity and quality of life. The study hypothesizes that using the mobile application will reduce pain intensity and improve quality of life compared to standard care.\n\nAdditionally, the study sets measurable success criteria for the development and evaluation of the application, including expert and user evaluations of content quality, usability, and user satisfaction. The findings aim to contribute to the literature on integrative pain management and demonstrate the",
     "url": "https://clinicaltrials.gov/study/NCT06982742"
+  },
+  {
+    "nct_id": "NCT07292480",
+    "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-12-12",
+    "last_update": "2026-11-20",
+    "interventions": [
+      "Monthly pNfL monitoring"
+    ],
+    "summary": "Reference MRI scan is recommended 6 months after treatment onset in patients with multiple sclerosis (MS), and follow-up scans at 12 months later to monitor subclinical activity. When monitoring treatment response in patients treated with disease modifying treatments (DMTs), the measurement of new or enlarging T2/FLAIR hyperintense lesions (NELs) is the preferred MRI method supplemented by contrast-enhancing lesions (CELs) for monitoring treatment response. However, some studies have suggested the deposition of gadolinium-based contrast agents in the basal ganglia and dentate nucleus of patients who underwent serial MRI acquisitions. Although significant clinical consequences of these deposits have not been demonstrated, further studies are required to better understand the potential long-term biological and clinical effects of gadolinium administration. To circumvent this potential risk, several recommendations suggested avoiding unnecessary use of gadolinium for follow-up scans. New sequences are also developed to replace gadolinium injection for the detection of active lesions. Moreover, MRI remains costly and time-consuming. In addition, systematic yearly MRI monitoring is not adapted to detect silent active lesions. This can delay identification of treatment failure and increase the risk of relapses and disability worsening, especially in the context of escalation therapy.\n\nTherefore, biological markers could allow more frequent analysis of disease activity and detect treatment failure earlier than classical clinical and MRI monitoring. Their use would greatly help clinicians to switch for high efficacy treatments (HET) and avoid potential relapses.\n\nMeasurement of a structural axonal protein, neurofilament, in serum or plasma has shown promise as a marker of neuroaxonal injury and a measure of treatment response. In MS, cerebrospinal fluid (CSF) neurofilament-light chain (NfL) is also increased and is positively associated with MRI lesion load and disability scores and is a marker of treatment response.\n\nWThe study authors hypothesize that monthly plasma neurofilament-light chain (pNfL) monitoring can sensitively highlight subclinical (radiological disease activity) RDA by performing early MRI scans to confirm EDA and lead to timely treatment escalation.\n\nThe main objective of this study is to compare the time to EDA in both arms (monthly pNfL monitoring vs. standard care with regular MRI scans), in patients with EDA.",
+    "url": "https://clinicaltrials.gov/study/NCT07292480"
   },
   {
     "nct_id": "NCT07844070",
@@ -719,18 +848,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07930663"
   },
   {
-    "nct_id": "NCT00794352",
-    "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2008-10-01",
-    "last_update": "2026-11-12",
-    "interventions": [],
-    "summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.\n\n...",
-    "url": "https://clinicaltrials.gov/study/NCT00794352"
-  },
-  {
     "nct_id": "NCT07831928",
     "title": "Evaluation of an Online, On Demand Multimodal Wellness Program to Reduce Fatigue and Improve Quality of Life in Progressive Multiple Sclerosis.",
     "status": "RECRUITING",
@@ -796,23 +913,6 @@
     ],
     "summary": "To compare the efficacy and safety of remibrutinib versus teriflunomide in patients with relapsing multiple sclerosis (RMS)",
     "url": "https://clinicaltrials.gov/study/NCT05156281"
-  },
-  {
-    "nct_id": "NCT07067463",
-    "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-03-23",
-    "last_update": "2026-11-10",
-    "interventions": [
-      "Orelabrutinib",
-      "Placebo"
-    ],
-    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-    "url": "https://clinicaltrials.gov/study/NCT07067463"
   },
   {
     "nct_id": "NCT07842302",
@@ -1448,22 +1548,6 @@
     "url": "https://clinicaltrials.gov/study/NCT05061953"
   },
   {
-    "nct_id": "NCT07292480",
-    "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-12-12",
-    "last_update": "2026-11-03",
-    "interventions": [
-      "Monthly pNfL monitoring"
-    ],
-    "summary": "Reference MRI scan is recommended 6 months after treatment onset in patients with multiple sclerosis (MS), and follow-up scans at 12 months later to monitor subclinical activity. When monitoring treatment response in patients treated with disease modifying treatments (DMTs), the measurement of new or enlarging T2/FLAIR hyperintense lesions (NELs) is the preferred MRI method supplemented by contrast-enhancing lesions (CELs) for monitoring treatment response. However, some studies have suggested the deposition of gadolinium-based contrast agents in the basal ganglia and dentate nucleus of patients who underwent serial MRI acquisitions. Although significant clinical consequences of these deposits have not been demonstrated, further studies are required to better understand the potential long-term biological and clinical effects of gadolinium administration. To circumvent this potential risk, several recommendations suggested avoiding unnecessary use of gadolinium for follow-up scans. New sequences are also developed to replace gadolinium injection for the detection of active lesions. Moreover, MRI remains costly and time-consuming. In addition, systematic yearly MRI monitoring is not adapted to detect silent active lesions. This can delay identification of treatment failure and increase the risk of relapses and disability worsening, especially in the context of escalation therapy.\n\nTherefore, biological markers could allow more frequent analysis of disease activity and detect treatment failure earlier than classical clinical and MRI monitoring. Their use would greatly help clinicians to switch for high efficacy treatments (HET) and avoid potential relapses.\n\nMeasurement of a structural axonal protein, neurofilament, in serum or plasma has shown promise as a marker of neuroaxonal injury and a measure of treatment response. In MS, cerebrospinal fluid (CSF) neurofilament-light chain (NfL) is also increased and is positively associated with MRI lesion load and disability scores and is a marker of treatment response.\n\nWThe study authors hypothesize that monthly plasma neurofilament-light chain (pNfL) monitoring can sensitively highlight subclinical (radiological disease activity) RDA by performing early MRI scans to confirm EDA and lead to timely treatment escalation.\n\nThe main objective of this study is to compare the time to EDA in both arms (monthly pNfL monitoring vs. standard care with regular MRI scans), in patients with EDA.",
-    "url": "https://clinicaltrials.gov/study/NCT07292480"
-  },
-  {
     "nct_id": "NCT07466823",
     "title": "Classification of Upper and Lower Limb Spasticity Patterns and Their Impact on Quality of Life in Patients With Multiple Sclerosis",
     "status": "COMPLETED",
@@ -1771,26 +1855,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07615725"
   },
   {
-    "nct_id": "NCT07220252",
-    "title": "Study to Assess Effects of Ublituximab in Pediatric Participants With Relapsing Forms of Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE2",
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-07-01",
-    "last_update": "2026-10-29",
-    "interventions": [
-      "Ublituximab",
-      "Placebo",
-      "Placebo",
-      "Fingolimod"
-    ],
-    "summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of ublituximab in participants ages 10 to less than (\\<)18 years and body weight greater than or equal to (≥)25 kilograms (kg) to less than or equal to (≤)40 kg with RMS (Part A) and to evaluate the non-inferiority of ublituximab compared with fingolimod in pediatric RMS participants with body weight ≥ 25 kg (Part B). The study will further evaluate long-term safety and efficacy of ublituximab in RMS in pediatric participants during its extension period (Part C).",
-    "url": "https://clinicaltrials.gov/study/NCT07220252"
-  },
-  {
     "nct_id": "NCT06433765",
     "title": "A Study Evaluating the Effect of BRIUMVI® (Ublituximab) on Pregnancy and Infant Outcomes in Participants With Multiple Sclerosis (MS)",
     "status": "RECRUITING",
@@ -1831,24 +1895,6 @@
     ],
     "summary": "The goal of this clinical trial is to learn whether a short sprint interval training protocol on a cycle ergometer can improve physical function, walking, muscle strength, exercise capacity, fatigue, cognitive processing speed, and patient-reported outcomes in people with multiple sclerosis.\n\nThe main questions it aims to answer are:\n\n1. Does short sprint interval training improve walking performance, lower-limb coordination, muscle strength, exercise capacity, fatigue, and cognitive processing speed in people with multiple sclerosis?\n2. How do participants respond to short sprint interval training in terms of heart rate, power, cadence, perceived exertion, and affective valence?\n3. What adverse events or unintended effects, if any, occur during the intervention?\n\nResearchers will compare short sprint interval training with usual physical activity to see if this exercise program improves physical, cognitive, and patient-reported outcomes.\n\nParticipants will:\n\n1. Be randomly assigned to either a short sprint interval training group or a usual physical activity group.\n2. Complete assessments before and after the 2-week training period.\n3. Continue their usual physical activity if they are assigned to the control group.\n4. Complete 6 supervised exercise sessions over 2 weeks if they are assigned to the short sprint interval training group.\n5. During each exercise session, perform short 5-second high-intensity cycling sprints on a recumbent cycle ergometer, separated by recovery periods.\n6. Complete walking, strength, stepping, calf endurance, fatigue, and cognitive processing speed assessments.",
     "url": "https://clinicaltrials.gov/study/NCT07804264"
-  },
-  {
-    "nct_id": "NCT07503873",
-    "title": "A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE2"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-04-01",
-    "last_update": "2026-10-29",
-    "interventions": [
-      "Ublituximab",
-      "Ublituximab",
-      "Prefilled pen"
-    ],
-    "summary": "The purpose of this study is to evaluate the PK and safety of ublituximab SC at different sites of administration and relative bioavailability of ublituximab SC administered with a prefilled pen versus syringe.",
-    "url": "https://clinicaltrials.gov/study/NCT07503873"
   },
   {
     "nct_id": "NCT05104983",
@@ -3557,23 +3603,6 @@
     ],
     "summary": "Multi-Center, Randomized, Double-Blinded Phase 3 Study to Evaluate the Efficacy, Safety, and Tolerability of IMU-838 versus Placebo in Adults with Relapsing Multiple Sclerosis (ENSURE-1)",
     "url": "https://clinicaltrials.gov/study/NCT05134441"
-  },
-  {
-    "nct_id": "NCT07782450",
-    "title": "A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Diseases",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "PHASE1",
-      "PHASE2"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-11-19",
-    "last_update": "2026-10-01",
-    "interventions": [
-      "PF-08154225"
-    ],
-    "summary": "The purpose of this study is to learn about the safety and effects of the study medication called PF-08154225 for the potential treatment of autoimmune diseases. An autoimmune disease is a condition that makes a person's immune system attack its healthy cells by mistake. This study is particularly looking at autoimmune diseases called as Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nThis study is divided into 3 parts: Part 1a, Part 1b and Part 2. Parts 1a and 1b are seeking participants with Systemic Lupus Erythematosus (SLE) or Rheumatoid Arthritis and Part 2 with also Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nParticipants can take part only in one part of the study.\n\nAll participants in this study will receive PF-08154225 at the study clinic. In Part 1a participants will receive single administration of PF-08154225 after which they will be observed at the study clinic during regular visits through week 16 or longer.\n\nIn Part 1b the participants will receive multiple administration of PF-08154225 after which they will be monitored in similar a manner as in Part 1a through week 24 or longer.\n\nIn Part 2 participants will receive multiple administrations of PF-08154225. After the last injection they will be monitored for safety through week 52 or longer.",
-    "url": "https://clinicaltrials.gov/study/NCT07782450"
   },
   {
     "nct_id": "NCT05469373",
@@ -8639,23 +8668,6 @@
     "interventions": [],
     "summary": "The purpose of the study is to collect clinical data on the persistence with ozanimod treatment, as well as to describe its effects on participant-relevant outcome parameters in treatment-naïve participants with RRMS.",
     "url": "https://clinicaltrials.gov/study/NCT05811416"
-  },
-  {
-    "nct_id": "NCT07616050",
-    "title": "Evaluation of the Impact of Virtual Park on Training Motivation in Adult Patients",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-06",
-    "last_update": "2026-05-29",
-    "interventions": [
-      "Dual-task training with Virtual Reality",
-      "Cycling training"
-    ],
-    "summary": "The purpose of this clinical study is to evaluate the feasibility, usability, and motivational impact of VirtualPark, a virtual reality-based dual-task rehabilitation system, in adults with neurological and age-related conditions.\n\nVirtualPark is a virtual reality application designed to deliver cognitive exercises during cycling training using a commercially available ergometer (THERA-Trainer Tigo). The system integrates physical and cognitive tasks in simulated real-life environments.\n\nThe intervention integrates motor and cognitive training tasks targeting domains such as attention, inhibition, working memory, and navigation.\n\nThis is a prospective, multicenter, randomized, cross-over pilot study. It will compare cycling training performed with and without virtual reality. Participants will complete both intervention conditions over a 4-week period separated by a wash-out phase with standard rehabilitation activities. The order of conditions will be randomized.\n\nThe study will assess motivation during rehabilitation training, usability and user experience of the system, as well as exploratory effects on cognitive and motor performance, functional abilities, perceived exertion, and safety.\n\nThe study will enroll adult participants (≥18 years) with conditions such as stroke, Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, mild cognitive impairment, spinal cord injury, and frail older adults.",
-    "url": "https://clinicaltrials.gov/study/NCT07616050"
   },
   {
     "nct_id": "NCT05286242",
