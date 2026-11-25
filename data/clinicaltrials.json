@@ -1,5 +1,39 @@
 [
   {
+    "nct_id": "NCT07299019",
+    "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-03-23",
+    "last_update": "2026-11-25",
+    "interventions": [
+      "Orelabrutinib",
+      "Placebo"
+    ],
+    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+    "url": "https://clinicaltrials.gov/study/NCT07299019"
+  },
+  {
+    "nct_id": "NCT07959068",
+    "title": "tsDCS for Neurological Patiens. A Clinical, Neurophysiological and Biomolecular Study.",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2029-12-31",
+    "last_update": "2026-11-25",
+    "interventions": [
+      "tsDCS",
+      "Sham tsDCS"
+    ],
+    "summary": "The project investigates the effects of non-invasive cervical trans-spinal direct current stimulation combined with rehabilitation therapy in patients with motor impairments caused by stroke or progressive multiple sclerosis. Its main objective is to determine whether this stimulation can amplify descending motor signals and increase spinal motoneuronal excitability to improve functional recovery of the upper limbs. The research evaluates these outcomes through clinical assessments, kinematic movement analysis, and the monitoring of blood biomarkers associated with neural plasticity and oxidative stress.",
+    "url": "https://clinicaltrials.gov/study/NCT07959068"
+  },
+  {
     "nct_id": "NCT01617395",
     "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
     "status": "COMPLETED",
@@ -91,6 +125,71 @@
     "url": "https://clinicaltrials.gov/study/NCT07956247"
   },
   {
+    "nct_id": "NCT02511028",
+    "title": "In Vivo Characterization of Inflammation With Ferumoxytol, an Ultrasmall Superparamagnetic Iron Oxide Nanoparticle, on 7 Tesla Magnetic Resonance Imaging",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2015-11-27",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Ferumoxytol"
+    ],
+    "summary": "Background:\n\n\\- Contrast agents help things show up better on magnetic resonance imaging (MRI) scans. Researchers want to see if the drug ferumoxytol is a good contrast agent. They want to determine that it does not cause prolonged MRI changes in the brain and to see if it helps identify inflammation in multiple sclerosis\n\nObjective:\n\n\\- To learn how ferumoxytol can be used to image inflammation in multiple sclerosis (MS).\n\nEligibility:\n\n* Adults ages 18 70 who have MS.\n* Healthy volunteers ages 18 70.\n\nDesign:\n\n* Participants will have 5 clinic visits over 6 months.\n* Participants will be screened with a medical history, neurological exam, and blood draw. Full clinical measures will be obtained.\n* Participants will have a 7 tesla brain MRI scan that may include gadolinium contrast agent. The MRI is a metal cylinder in a strong magnetic field. The participant will lie on a table that can slide in and out of the cylinder.\n* During visit 2, ferumoxytol with be given through a catheter (a thin plastic tube) that is inserted with a needle into a vessel in the arm.\n\n\\<TAB\\>- Participants will then have a 7 tesla MRI scan of the brain..\n\n* At each of the next 3 clinic visits, participants will have a 7 tesla brain MRI and have blood drawn. The MRIs may include gadolinium.\n* Participants may have a full neurologic exam at these visits. At the final visit, full clinical measures will be obtained.\n* Participants may have more MRI scans if a 6-month MRI shows ferumoxytol still in the brain.",
+    "url": "https://clinicaltrials.gov/study/NCT02511028"
+  },
+  {
+    "nct_id": "NCT07923201",
+    "title": "Evaluating the Effect of the Zeen Mobility Device on Clinical Practicality, Safety, and Impact (Via Assessments of Walking, Standing Tolerance, Balance, Endurance, Effort, and Participation in Daily Tasks) in an Outpatient Rehabilitation Setting for Individuals With Mobility Impairments.",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11-02",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Zeen Mobility Device"
+    ],
+    "summary": "The goal of this clinical trial is to learn whether the Zeen Mobility Device can improve mobility and function during outpatient rehabilitation for adults with mobility impairments. The study will also evaluate the safety of the device and how easy it is for participants and therapists to use during routine therapy.\n\nThe main questions it aims to answer are:\n\n* Does using the Zeen Mobility Device improve walking, standing, transfers, and daily function compared with a participant's usual mobility device?\n* Can the Zeen Mobility Device be safely incorporated into outpatient rehabilitation?\n* How satisfied are participants and therapists with using the device during therapy?\n\nResearchers will compare participants' performance using the Zeen Mobility Device with their performance using their usual mobility device, such as a walker or wheelchair. Participants will serve as their own comparison group.\n\nParticipants will:\n\n* Complete a baseline assessment before starting the study, a midpoint assessment after 4 treatment sessions, and a final assessment after 8 treatment sessions.\n* Attend 8 outpatient physical therapy sessions that include use of the Zeen Mobility Device.\n* Use the Zeen Mobility Device for at least 15 minutes during each study visit for balance, mobility, walking, transfer, or standing activities selected by their therapist.\n* Complete mobility and functional tests using both the Zeen Mobility Device and their usual mobility device at each assessment visit.\n* Provide feedback about their experience using the device while researchers monitor safety and any device-related problems.",
+    "url": "https://clinicaltrials.gov/study/NCT07923201"
+  },
+  {
+    "nct_id": "NCT07086950",
+    "title": "Neurorehabilitation of Cognitive Deficits in Multiple Sclerosis Using an Adaptive Cognitive Exergame",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-02-05",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Body Brain Trainer software",
+      "RehaCom software"
+    ],
+    "summary": "Approximately 2.8 million people worldwide suffer from multiple sclerosis (MS). In 40 to 70% of cases, individuals with MS experience cognitive impairments that significantly interfere with their personal lives, careers, and quality of life. Current pharmacological and neurorehabilitation treatment options do not adequately reduce cognitive deficits. The absence of standards of care in Switzerland or internationally regarding cognitive neurorehabilitation in MS highlights the need for effective interventions with lasting effects.\n\nTo address this need, we are exploring different approaches to support and improve cognitive impairments through training exercises using computerized tools. Traditionally, these exercises are in paper-and-pencil format, consisting of tests, puzzles, and memory tasks. While this approach is useful, computerized tools now allow us to offer more playful, interactive, and engaging approaches.\n\nIn this study, we are examining the effect of serious video games (a medical device) on cognitive deficits related to MS. The serious video games we are testing have already been evaluated at CHUV in individuals with MS and cognitive impairments. This recent study demonstrated the feasibility and safety of using these games in people with MS. With the current study, we aim to test these tools on a larger scale in order to better understand their effects on cognitive functions. More specifically, we seek to determine which of the two proposed interventions provides the greatest cognitive benefits.",
+    "url": "https://clinicaltrials.gov/study/NCT07086950"
+  },
+  {
+    "nct_id": "NCT07731659",
+    "title": "Physical Activity Intervention for Individuals Newly Diagnosed With MS",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-12-15",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "COM-B-based Physical Activity Behavior Change Intervention"
+    ],
+    "summary": "The proposed study is a parallel-group randomized controlled trial (RCT) designed to establish the behavioral mechanism underlying a 16-week physical activity (PA) behavioral intervention through its effects on the Capability-Opportunity-Motivation-Behavior (COM-B) constructs. The success of this study will provide robust evidence for supporting its refinement via refined COM-B constructs and Behavior Change Techniques to facilitate or maximize the intervention effects on PA levels, which will be examined in the subsequent clinical trial. Such an approach will involve an RCT that examines the effects of a 16-week remotely delivered, Internet-based PA behavioral intervention via video behavioral coaching and newsletter compared with a waitlist control (WLC) condition for yielding improvements in the COM-B constructs among persons newly diagnosed with multiple sclerosis (PNDwMS, disease duration ≤ 2 years). The investigators hypothesize that participants in the PA behavioral intervention condition will demonstrate greater improvements in the COM-B constructs than those in the WLC condition. The investigators plan to recruit 50 PNDwMS, with a distribution of 25 participants in the PA behavioral intervention and 25 participants in the WLC condition. The primary outcomes are the self-report COM-B constructs (listed in the Outcomes section), which will be remotely assessed at baseline and post-intervention through an online battery of questionnaires via REDCap.\n\nSpecific Aim 1: to establish mechanisms for the behavior change intervention using a 2-arm pilot randomized controlled trial (RCT) of the intervention compared with the waitlist control (WLC) among PNDwMS. The investigators hypothesize that the 16-week COM-B-based behavioral intervention delivered by one-on-one behavior coaching and newsletters will result in larger changes in COM-B constructs (i.e., knowledge, outcome expectations, goal, intention, behavioral regulation, self-efficacy, fatigue, social support, and social and environmental barriers) than in the WLC group.\n\nSpecific Aim 2: to examine change in self-reported physical activity levels in PNDwMS who received the COM-B-based intervention compared with those who are in the waitlist control condition. The investigators hypothesize that the 16-week COM-B-based behavioral intervention will result in larger changes in self-reported physical activity outcomes than in the WLC group.",
+    "url": "https://clinicaltrials.gov/study/NCT07731659"
+  },
+  {
     "nct_id": "NCT00001532",
     "title": "Role of Genetic Factors in the Development of Lung Disease",
     "status": "RECRUITING",
@@ -135,22 +234,6 @@
     ],
     "summary": "The purpose of this clinical study is to evaluate the feasibility, usability, and motivational impact of VirtualPark, a virtual reality-based dual-task rehabilitation system, in adults with neurological and age-related conditions.\n\nVirtualPark is a virtual reality application designed to deliver cognitive exercises during cycling training using a commercially available ergometer (THERA-Trainer Tigo). The system integrates physical and cognitive tasks in simulated real-life environments.\n\nThe intervention integrates motor and cognitive training tasks targeting domains such as attention, inhibition, working memory, and navigation.\n\nThis is a prospective, multicenter, randomized, cross-over pilot study. It will compare cycling training performed with and without virtual reality. Participants will complete both intervention conditions over a 4-week period separated by a wash-out phase with standard rehabilitation activities. The order of conditions will be randomized.\n\nThe study will assess motivation during rehabilitation training, usability and user experience of the system, as well as exploratory effects on cognitive and motor performance, functional abilities, perceived exertion, and safety.\n\nThe study will enroll adult participants (≥18 years) with conditions such as stroke, Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, mild cognitive impairment, spinal cord injury, and frail older adults.",
     "url": "https://clinicaltrials.gov/study/NCT07616050"
-  },
-  {
-    "nct_id": "NCT02511028",
-    "title": "In Vivo Characterization of Inflammation With Ferumoxytol, an Ultrasmall Superparamagnetic Iron Oxide Nanoparticle, on 7 Tesla Magnetic Resonance Imaging",
-    "status": "COMPLETED",
-    "phase": [
-      "PHASE1"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2015-11-27",
-    "last_update": "2026-11-20",
-    "interventions": [
-      "Ferumoxytol"
-    ],
-    "summary": "Background:\n\n\\- Contrast agents help things show up better on magnetic resonance imaging (MRI) scans. Researchers want to see if the drug ferumoxytol is a good contrast agent. They want to determine that it does not cause prolonged MRI changes in the brain and to see if it helps identify inflammation in multiple sclerosis\n\nObjective:\n\n\\- To learn how ferumoxytol can be used to image inflammation in multiple sclerosis (MS).\n\nEligibility:\n\n* Adults ages 18 70 who have MS.\n* Healthy volunteers ages 18 70.\n\nDesign:\n\n* Participants will have 5 clinic visits over 6 months.\n* Participants will be screened with a medical history, neurological exam, and blood draw. Full clinical measures will be obtained.\n* Participants will have a 7 tesla brain MRI scan that may include gadolinium contrast agent. The MRI is a metal cylinder in a strong magnetic field. The participant will lie on a table that can slide in and out of the cylinder.\n* During visit 2, ferumoxytol with be given through a catheter (a thin plastic tube) that is inserted with a needle into a vessel in the arm.\n\n\\<TAB\\>- Participants will then have a 7 tesla MRI scan of the brain..\n\n* At each of the next 3 clinic visits, participants will have a 7 tesla brain MRI and have blood drawn. The MRIs may include gadolinium.\n* Participants may have a full neurologic exam at these visits. At the final visit, full clinical measures will be obtained.\n* Participants may have more MRI scans if a 6-month MRI shows ferumoxytol still in the brain.",
-    "url": "https://clinicaltrials.gov/study/NCT02511028"
   },
   {
     "nct_id": "NCT07680322",
@@ -295,6 +378,18 @@
     "url": "https://clinicaltrials.gov/study/NCT04035005"
   },
   {
+    "nct_id": "NCT07949916",
+    "title": "Immunogenicity and Safety of Vaccination Against Tick Borne Encephalitis (TBE) in Patients Living With Multiple Sclerosis (MS)",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2026-04-22",
+    "last_update": "2026-11-19",
+    "interventions": [],
+    "summary": "This is a monocenter, prospective cohort study. The study investigates the response of patients living with multiple sclerosis (MS) to vaccination against tick-borne viral encephalitis (TBE).\n\nThe prevalence of TBE has increased significantly in Switzerland over the past two decades. Whereas previously only the lowland regions of northern Switzerland and the Aare Valley were considered areas where TBE vaccination was indicated, the disease is now endemic throughout Switzerland (except for Ticino). Since TBE specifically affects the nervous system, there is a clear indication for vaccination, particularly for people whose nervous system is already compromised.\n\nMS is the most common neurological autoimmune disease among young adults in northern latitudes. It is a progressive disease characterized by a gradual deterioration of neurological functions. The course of the disease can be slowed through immunomodulatory therapies. However, these therapies also lead to a certain degree of immunosuppression, which may reduce the immune response to vaccinations. At the same time, some people with MS experience fear or scepticism towards vaccinations, as infections often lead to a worsening of symptoms or can trigger a relapse. Since vaccinations mimic an infection to some extent, this concern is sometimes transferred to vaccinations as well.\n\nThe study hypothesizes that the TBE vaccine in people living with MS on non-B-cell depleting treatment shows adequate immunogenicity.\n\nMoreover, the study will assess the safety of TBE vaccination.",
+    "url": "https://clinicaltrials.gov/study/NCT07949916"
+  },
+  {
     "nct_id": "NCT03816345",
     "title": "Testing an Immunotherapy Anti-cancer Drug, Nivolumab, for Advanced Cancers in Patients With Autoimmune Disorders, AIM-NIVO",
     "status": "RECRUITING",
@@ -367,23 +462,6 @@
     ],
     "summary": "This randomized, double-blind, parallel-group clinical trial aims to assess the effectiveness of a combined intervention consisting of a home-based therapeutic exercise program and transcranial direct current stimulation (tDCS) for the management of fatigue in patients with multiple sclerosis (MS). Fatigue is one of the most disabling and prevalent symptoms in MS, significantly impacting patients' quality of life and functional independence.\n\nParticipants diagnosed with MS who meet inclusion criteria will be randomized into two groups:\n\nGroup 1: Home-based therapeutic exercise plus sham (placebo) tDCS\n\nGroup 2: Home-based therapeutic exercise plus active tDCS\n\nThe intervention will span a defined period, with tDCS sessions applied over the dorsolateral prefrontal cortex (DLPFC) using a standard montage and parameters validated in previous studies. The sham stimulation group will follow identical procedures without active current delivery, preserving blinding for participants and evaluators.\n\nThe therapeutic exercise program is designed to be feasible for home implementation, targeting key domains affected in MS such as strength, endurance, balance, and mobility. Exercises will be prescribed based on individual patient assessments and progressively adjusted throughout the intervention period.\n\nPrimary outcome measures will include functional capacity, evaluated through the Six-Minute Walk Test (6MWT), and fatigue levels, assessed via the Fatigue Severity Scale (FSS) and a Visual Analogue Scale (VAS) for fatigue. Secondary observations may include adherence rates to the exercise program and subjective reports of tolerability and perceived benefits.\n\nThis trial seeks to explore whether combining a physical intervention (exercise) with a neuromodulation technique (tDCS) can offer additive benefits in managing fatigue, beyond what exercise alone provides. The ultimate goal is to develop accessible, non-pharmacological treatment strategies to improve daily functioning and quality of life for individuals living with multiple sclerosis.",
     "url": "https://clinicaltrials.gov/study/NCT07567989"
-  },
-  {
-    "nct_id": "NCT07299019",
-    "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-03-23",
-    "last_update": "2026-11-18",
-    "interventions": [
-      "Orelabrutinib",
-      "Placebo"
-    ],
-    "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-    "url": "https://clinicaltrials.gov/study/NCT07299019"
   },
   {
     "nct_id": "NCT07501520",
@@ -1352,22 +1430,6 @@
     ],
     "summary": "Spasticity affects \\>80% of MS patients, with 35-54% experiencing moderate-to-severe symptoms, impairing mobility and sleep. Electrical stimulation parameters (e.g., high vs. low frequency) for spasticity management remain debated. The EXOPULSE Mollii Suit uses non-invasive, low-frequency stimulation to induce reciprocal inhibition and modulate spinal interneuron activity, potentially reducing spasticity. This study aims to compare EXOPULSE Mollii + exercise vs. EXOPULSE Mollii alone in improving spasticity and function in MS.",
     "url": "https://clinicaltrials.gov/study/NCT07126730"
-  },
-  {
-    "nct_id": "NCT07923201",
-    "title": "Evaluating the Effect of the Zeen Mobility Device on Clinical Practicality, Safety, and Impact (Via Assessments of Walking, Standing Tolerance, Balance, Endurance, Effort, and Participation in Daily Tasks) in an Outpatient Rehabilitation Setting for Individuals With Mobility Impairments.",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-11-02",
-    "last_update": "2026-11-06",
-    "interventions": [
-      "Zeen Mobility Device"
-    ],
-    "summary": "The goal of this clinical trial is to learn whether the Zeen Mobility Device can improve mobility and function during outpatient rehabilitation for adults with mobility impairments. The study will also evaluate the safety of the device and how easy it is for participants and therapists to use during routine therapy.\n\nThe main questions it aims to answer are:\n\n* Does using the Zeen Mobility Device improve walking, standing, transfers, and daily function compared with a participant's usual mobility device?\n* Can the Zeen Mobility Device be safely incorporated into outpatient rehabilitation?\n* How satisfied are participants and therapists with using the device during therapy?\n\nResearchers will compare participants' performance using the Zeen Mobility Device with their performance using their usual mobility device, such as a walker or wheelchair. Participants will serve as their own comparison group.\n\nParticipants will:\n\n* Complete a baseline assessment before starting the study, a midpoint assessment after 4 treatment sessions, and a final assessment after 8 treatment sessions.\n* Attend 8 outpatient physical therapy sessions that include use of the Zeen Mobility Device.\n* Use the Zeen Mobility Device for at least 15 minutes during each study visit for balance, mobility, walking, transfer, or standing activities selected by their therapist.\n* Complete mobility and functional tests using both the Zeen Mobility Device and their usual mobility device at each assessment visit.\n* Provide feedback about their experience using the device while researchers monitor safety and any device-related problems.",
-    "url": "https://clinicaltrials.gov/study/NCT07923201"
   },
   {
     "nct_id": "NCT00001465",
@@ -3368,23 +3430,6 @@
     ],
     "summary": "Background:\n\nMultiple sclerosis (MS) affects the brain, spinal cord, and optic nerves. MS lesions can appear on the MRI (magnetic resonance imaging) scans in many ways. Sometimes they light up from the outer edge and fill inward. This is called ring enhancement. Researchers think this type of lesion may not heal as well as others. Corticosteroids are the standard treatment to reduce symptoms of MS relapse. But there is no standard treatment for people with enhancing MS lesions without signs of MS relapse. Researchers want to see if a short-term high-dose course of corticosteroids helps heal those lesions.\n\nObjective:\n\nTo study the effects of short-term high-dose corticosteroids on ring-enhancing MS.\n\nEligibility:\n\nAdults ages 18 and older who:\n\n* Have MS and a rim-enhancing lesion on a prior brain MRI\n* Are enrolled in another NINDS protocol\n\nDesign:\n\nParticipants will be screened under another protocol\n\nParticipants will be randomly assigned to get either no treatment or 3 days of treatment with a corticosteroid.\n\nParticipants will have:\n\n* 1 baseline visit\n* 3 days of high-dose steroids, intravenous or oral. If IV, participants will receive methylprednisolone by IV each day. Participants will also be prescribed medicine to protect their stomach.\n* Follow-up visits will be at week 13 and week 25 after randomization to treatment or no treatment.\n\nVisits include medical history and physical exam. Participants will have blood and urine tests. Participants will also have neurological exams and MRIs. Participants lie on a table that slides into a cylinder. They are in the scanner 1.5-2 hours. They get a dye through a catheter: A needle guides a thin plastic tube into an arm vein.",
     "url": "https://clinicaltrials.gov/study/NCT02784210"
-  },
-  {
-    "nct_id": "NCT07086950",
-    "title": "Neurorehabilitation of Cognitive Deficits in Multiple Sclerosis Using an Adaptive Cognitive Exergame",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-02-05",
-    "last_update": "2026-10-05",
-    "interventions": [
-      "Body Brain Trainer software",
-      "RehaCom software"
-    ],
-    "summary": "Approximately 2.8 million people worldwide suffer from multiple sclerosis (MS). In 40 to 70% of cases, individuals with MS experience cognitive impairments that significantly interfere with their personal lives, careers, and quality of life. Current pharmacological and neurorehabilitation treatment options do not adequately reduce cognitive deficits. The absence of standards of care in Switzerland or internationally regarding cognitive neurorehabilitation in MS highlights the need for effective interventions with lasting effects.\n\nTo address this need, we are exploring different approaches to support and improve cognitive impairments through training exercises using computerized tools. Traditionally, these exercises are in paper-and-pencil format, consisting of tests, puzzles, and memory tasks. While this approach is useful, computerized tools now allow us to offer more playful, interactive, and engaging approaches.\n\nIn this study, we are examining the effect of serious video games (a medical device) on cognitive deficits related to MS. The serious video games we are testing have already been evaluated at CHUV in individuals with MS and cognitive impairments. This recent study demonstrated the feasibility and safety of using these games in people with MS. With the current study, we aim to test these tools on a larger scale in order to better understand their effects on cognitive functions. More specifically, we seek to determine which of the two proposed interventions provides the greatest cognitive benefits.",
-    "url": "https://clinicaltrials.gov/study/NCT07086950"
   },
   {
     "nct_id": "NCT07854691",
@@ -6553,22 +6598,6 @@
     ],
     "summary": "The purpose of this study is to better understand the mechanism of action (MoA) of cladribine tablets by exploring the effect on central nervous system (CNS) and blood biomarkers relevant in the relapsing forms of multiple sclerosis (RMS; to include relapsing-remitting MS \\[RRMS\\] or active secondary progressive MS).",
     "url": "https://clinicaltrials.gov/study/NCT03963375"
-  },
-  {
-    "nct_id": "NCT07731659",
-    "title": "Physical Activity Intervention for Individuals Newly Diagnosed With MS",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-10-01",
-    "last_update": "2026-07-28",
-    "interventions": [
-      "COM-B-based Physical Activity Behavior Change Intervention"
-    ],
-    "summary": "The proposed study is a parallel-group randomized controlled trial (RCT) designed to establish the behavioral mechanism underlying a 16-week physical activity (PA) behavioral intervention through its effects on the Capability-Opportunity-Motivation-Behavior (COM-B) constructs. The success of this study will provide robust evidence for supporting its refinement via refined COM-B constructs and Behavior Change Techniques to facilitate or maximize the intervention effects on PA levels, which will be examined in the subsequent clinical trial. Such an approach will involve an RCT that examines the effects of a 16-week remotely delivered, Internet-based PA behavioral intervention via video behavioral coaching and newsletter compared with a waitlist control (WLC) condition for yielding improvements in the COM-B constructs among persons newly diagnosed with multiple sclerosis (PNDwMS, disease duration ≤ 2 years). The investigators hypothesize that participants in the PA behavioral intervention condition will demonstrate greater improvements in the COM-B constructs than those in the WLC condition. The investigators plan to recruit 50 PNDwMS, with a distribution of 25 participants in the PA behavioral intervention and 25 participants in the WLC condition. The primary outcomes are the self-report COM-B constructs (listed in the Outcomes section), which will be remotely assessed at baseline and post-intervention through an online battery of questionnaires via REDCap.\n\nSpecific Aim 1: to establish mechanisms for the behavior change intervention using a 2-arm pilot randomized controlled trial (RCT) of the intervention compared with the waitlist control (WLC) among PNDwMS. The investigators hypothesize that the 16-week COM-B-based behavioral intervention delivered by one-on-one behavior coaching and newsletters will result in larger changes in COM-B constructs (i.e., knowledge, outcome expectations, goal, intention, behavioral regulation, self-efficacy, fatigue, social support, and social and environmental barriers) than in the WLC group.\n\nSpecific Aim 2: to examine change in self-reported physical activity levels in PNDwMS who received the COM-B-based intervention compared with those who are in the waitlist control condition. The investigators hypothesize that the 16-week COM-B-based behavioral intervention will result in larger changes in self-reported physical activity outcomes than in the WLC group.",
-    "url": "https://clinicaltrials.gov/study/NCT07731659"
   },
   {
     "nct_id": "NCT07175792",

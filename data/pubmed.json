@@ -2317,6 +2317,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42998451/"
   },
   {
+    "pmid": "43078850",
+    "title": "Predicting follow-up cognition using estimated structural and functional connectivity networks and artificial intelligence in multiple sclerosis.",
+    "date": "2026 Oct 23",
+    "journal": "Nature communications",
+    "authors": [
+      "Tozlu C",
+      "Ong D",
+      "Piccirillo C",
+      "Schwartz H",
+      "Jaywant A",
+      "Nguyen T",
+      "Jamison K",
+      "Gauthier SA",
+      "Kuceyeski A"
+    ],
+    "abstract": "Brain's structural and functional connectomes (SC and FC) offer insights into the relationship between brain circuits and cognitive functioning in people with multiple sclerosis (MS). However, diffusion and functional MRI, which are used to extract SC and FC, is expensive and time consuming, therefore are not currently used in the clinical setting. Our prior work demonstrated that estimated SC and FC (eSC and eFC) generated using MS lesion masks and artificial intelligence (AI) models can predict disability as effectively as SC and FC derived from diffusion and functional MRI in MS. In this study, we identify the eSC and eFC brain circuits that are associated with baseline and 4-year follow-up cognition and assess the ability of eSC and eFC in predicting cognition in MS. In a cohort of 171 with MS, the Network Modification tool was performed to estimate SC from the MS lesion mask, which is extracted from structural MRI scans. The eSC was then used as an input to Krakencoder, an encoder-decoder model, to estimate FC. The highest accuracy was obtained when predicting follow-up Symbol Digit Modalities Test (SDMT) using regional eSC or eFC, with a median Spearman's correlation coefficient of 0.58 for eSC and 0.56 for eFC. Decreased eSC and eFC in the cerebellum and increased eFC in the default mode network were associated with lower follow-up SDMT scores. Our findings demonstrate that eSC and eFC derived from clinically acquired MRI and AI models can effectively predict cognition. The use of lesion-based estimates of connectomes may potentially inform clinical trials by identifying the specific brain circuits that could be targeted for the non-invasive treatments aimed at improving cognitive function in MS.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078850/"
+  },
+  {
     "pmid": "42911400",
     "title": "Prediction of short-term and long-term responses to cladribine in relapsing-remitting multiple sclerosis: a Danish nationwide real-world study.",
     "date": "2026 Oct 22",
@@ -4325,6 +4345,80 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43074607/"
   },
   {
+    "pmid": "43080080",
+    "title": "Association of end-of-dose symptoms with subsequent disease outcomes among patients with multiple sclerosis receiving ofatumumab.",
+    "date": "2026 Nov 24",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Winter P",
+      "Baumgart R",
+      "Wolff S",
+      "Mühlenbrock P",
+      "Mrochen A",
+      "Kraemer HH",
+      "Juenemann M",
+      "Faissner S",
+      "Meuth SG",
+      "Masanneck L",
+      "Pawlitzki M",
+      "Pfeuffer S"
+    ],
+    "abstract": "End-of-dose symptoms occur during monoclonal-antibody treatment for multiple sclerosis, but their association with subsequent disease activity is uncertain. To determine whether end-of-dose symptoms were associated with disease outcomes during the subsequent 6 months. We analyzed a prospective ofatumumab cohort with follow-up through August 2026. In start-stop Cox models, end-of-dose symptom status was applied to the next 6-month risk interval; the models were adjusted for age and baseline disability. Among 350 patients with at least 12 months of potential follow-up and Patient Health Questionnaire Anxiety and Depression Scale scores below the prespecified exclusion threshold, 94 (26.9%) reported end-of-dose symptoms. End-of-dose symptoms were not associated with subsequent relapses (adjusted hazard ratio: 0.68; 95% confidence interval: 0.19-2.37), magnetic resonance imaging activity after re-baseline (adjusted hazard ratio: 0.77; 95% confidence interval: 0.31-1.91), confirmed disability worsening (adjusted hazard ratio: 1.15; 95% confidence interval: 0.52-2.53), or progression independent of relapse activity (adjusted hazard ratio: 0.90; 95% confidence interval: 0.40-2.06). Relapse-associated worsening was descriptive due to rare events. Exploratory laboratory analyses, including serum ofatumumab levels, immunoglobulin G, and neurofilament light chains, showed no clear group differences. End-of-dose symptoms were frequent and burdensome but did not identify patients at higher risk of subsequent disease activity or disability worsening.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080080/"
+  },
+  {
+    "pmid": "43080015",
+    "title": "Circulating miR-146a-5p, miR-155-5p, and miR-196a-5p Levels and Related Genetic Variants in Relapsing-Remitting Multiple Sclerosis: Focus on Fingolimod-Treated Status.",
+    "date": "2026 Nov 24",
+    "journal": "Annals of clinical and translational neurology",
+    "authors": [
+      "Yılmaz AA",
+      "Mungan S",
+      "Demirdöğen BC"
+    ],
+    "abstract": "Multiple sclerosis (MS) requires blood-based biomarkers reflecting disease status and treatment effects. We investigated circulating miR-146a-5p, miR-155-5p, and miR-196a-5p and functional variants in their genes (MIR146A rs2910164, MIR155 rs767649, MIR196A2 rs11614913) in relation to MS susceptibility, disability, and fingolimod treatment and explored their potential as blood-based biomarkers. Two overlapping cohorts were analyzed: a genotyping cohort (400 relapsing-remitting MS [RRMS] patients and 400 controls) and a miRNA sub-cohort (30 treatment-naïve RRMS, 29 fingolimod-treated RRMS, 30 controls). SNPs were genotyped using TaqMan assays, and plasma miRNA levels were quantified by qRT-PCR. Plasma miR-155-5p was reduced in fingolimod-treated patients versus treatment-naïve patients and controls (both p < 0.001) and showed strong discrimination for fingolimod-treated RRMS versus controls (AUC = 0.923), and versus treatment-naïve RRMS patients (AUC = 0.890). Plasma miR-196a-5p was also lower in the fingolimod-treated versus naïve patients (p = 0.02) with moderate discrimination (AUC = 0.715). MIR146A rs2910164 and MIR155 rs767649 were not associated with MS susceptibility, and miRNA levels did not vary by genotype. However, MIR146A rs2910164 GC/CC genotypes were associated with rapid progression (MSSS > 5). Plasma miR-155-5p showed strong-to-excellent discrimination of fingolimod-treated status, whereas miR-196a-5p showed a parallel decrease with moderate discrimination.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080015/"
+  },
+  {
+    "pmid": "43077917",
+    "title": "Brain and spinal cord chronic neuroinflammation in multiple sclerosis: a large-scale post-mortem study and longitudinal MRI cohort study.",
+    "date": "2026 Nov 24",
+    "journal": "EBioMedicine",
+    "authors": [
+      "Stölting A",
+      "van den Bosch AMR",
+      "Nair G",
+      "Martire MS",
+      "Pedrini E",
+      "Stack EH",
+      "Jacobson S",
+      "Netherlands Brain Bank",
+      "Maggi P",
+      "Reich DS",
+      "Absinta M"
+    ],
+    "abstract": "Brain paramagnetic rim lesions (PRLs) represent a subset of chronic active, or mixed active/inactive, lesions in multiple sclerosis (MS). Whether chronic neuroinflammation is synchronised across the craniospinal axis and can predict spinal cord degeneration remains unknown. We aimed to evaluate the correlation of pathology, including lesion types and microglial state, between the brain and spinal cord, and to determine if brain PRL count predicts longitudinal spinal cord atrophy. We combined a large-scale neuropathological study with an in vivo longitudinal clinical-MRI study. Brain and spinal cord tissues from 194 MS donors (5317 samples; 8874 lesions) were analysed to correlate lesion types and microglial state across central nervous system regions. For the clinical-MRI cohort, 173 adults with MS [118 women (68%); 48 progressive; median EDSS 1.5] underwent baseline 3T brain and spinal cord MRI, with longitudinal follow-up over a median of 2.5 years. Brain PRLs were identified via susceptibility-sensitive imaging. The spinal cord cross-sectional area (SCCSA) was measured longitudinally at C2-C3, C4-C5, and T4-T9 at two time points. Large-scale post-mortem analysis revealed that intra-donor proportions of mixed active/inactive lesions in the brain were correlated with those in the spinal cord (p = 2.22e-9, r = 0.41). Microglia/macrophage activity scores (p = 4.30e-6, r = 0.32) and microglial nodules (p = 3.55e-4) were similarly synchronised. In vivo, higher baseline brain PRL counts independently predicted accelerated spinal cord atrophy at C2-C3 (β = -0.049 mm Neuroinflammation is concordant between the brain and spinal cord. In vivo, brain PRLs correlate with accelerated upper cervical spinal cord atrophy, supporting its potential as an imaging biomarker of progressive spinal cord neurodegeneration. Intramural Research Program at the National Institute of Neurological Disorders and Stroke (NINDS) of the US National Institutes of Health (NIH), the National MS Society (grant RFA-2203-39325), the European Research Council (ERC-Stg 2025-101221868) and the Stitching MS research (MS research 23-406i-basis).",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077917/"
+  },
+  {
+    "pmid": "43076424",
+    "title": "Emerging biomarkers of multiple sclerosis activity and progression: current status, challenges, and future perspectives.",
+    "date": "2026 Nov 24",
+    "journal": "Critical reviews in clinical laboratory sciences",
+    "authors": [
+      "Jakubiak-Augustyn A",
+      "Gubernator J",
+      "Szulc ZM",
+      "Podbielska M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic central nervous system disorder characterized by complex pathobiology involving overlapping immune-mediated inflammation and progressive neurodegeneration, both contributing to cumulative disability. Despite substantial advances in MS research and management, reliable biomarkers capable of capturing disease activity, progression, and therapeutic response remain an important unmet need. This review critically synthesizes current evidence on biomarkers reflecting immune activation, neuroaxonal injury, glial dysfunction, oxidative stress, and molecular and metabolic alterations. Among currently investigated fluid biomarkers, neurofilament light chain is the most extensively validated marker of neuroaxonal injury and inflammatory disease activity, whereas glial fibrillary acidic protein provides complementary information on astrocytic pathology and disease progression. Emerging approaches based on lipidomics and metabolomics, extracellular vesicles, transcriptomic and epigenetic profiling, microRNAs, and gut microbiome-associated signatures may further improve characterization of relapsing and progressive MS. Experimental models are considered as complementary translational platforms for linking measurable biomarker changes with defined mechanisms of inflammation, tissue injury, metabolic dysfunction, and treatment response, while distinguishing mechanistic plausibility from clinical biomarker performance. Given the biological heterogeneity of MS, future progress is likely to depend on integrated, multi-compartment and multi-omic biomarker signatures combined with clinical and imaging measures rather than on individual markers alone. Large longitudinal cohorts, analytical standardization, independent validation, and assessment across MS phenotypes and treatment settings will be essential for translating these approaches into clinically useful tools for monitoring disease activity and progression, prognosis, patient stratification, and individualized management.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076424/"
+  },
+  {
     "pmid": "43074497",
     "title": "Associations of a posteriori dietary patterns with multiple sclerosis odds and related Clinical outcomes: a NutriGrade-assessed systematic review and meta-analysis.",
     "date": "2026 Nov 23",
@@ -4481,6 +4575,25 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43071308/"
   },
   {
+    "pmid": "43079844",
+    "title": "Recent Advances in the Multidisciplinary Management of Multiple Sclerosis.",
+    "date": "2026 Nov 23",
+    "journal": "CNS & neurological disorders drug targets",
+    "authors": [
+      "Islam MM",
+      "Shafi T",
+      "Khan MDN",
+      "Dhiman I",
+      "Judder MI",
+      "Kumar D",
+      "Mujtaba MA",
+      "Kapil M"
+    ],
+    "abstract": "Multiple Sclerosis (MS) is a chronic neuroimmune demyelinating disease of the central nervous system that is associated with neurodegeneration and progressive disability. Because of its diverse clinical presentation and multifactorial etiology, managing MS requires an interdisciplinary approach that extends beyond traditional pharmacotherapy. This article provides an overview of recent developments in the multidisciplinary treatment of MS, the pathophysiology of MS, Disease- Modifying Therapies (DMTs), symptom management strategies, rehabilitation, lifestyle modification, and the use of new digital health technologies. Adaptive and innate pathways, Blood-Brain Barrier (BBB) dysfunction, demyelination, and neurodegeneration are considered a critical part of the immune response that is discussed in terms of clinical manifestations and treatments. The development of DMTs, including injectable immunomodulators, oral agents, antibodies with monoclonal properties, and new Bruton's tyrosine kinase inhibitors are discussed, and their efficacy, safety, and the ability to select personalized treatment are of key concern. Specific symptom management of motor dysfunction, pain, fatigue, and cognitive impairment is discussed, and evidence-based rehabilitation approaches that leverage neuroplasticity to enhance functional outcomes are discussed. The article identifies multidisciplinary models of care that engage neurologists, rehabilitation specialists, nurses, and mental health professionals to provide patient-centered care of MS. It highlights lifestyle changes, complementary therapies, telemedicine, wearables, artificial intelligence, and digital therapeutics as some of the strategies that can be used to improve disease control, long-term outcomes, and promote precision, coordinated care.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079844/"
+  },
+  {
     "pmid": "43068647",
     "title": "Retraction notice to \"Redox regulation of cellular stress response in multiple sclerosis\" [Biochem. Pharmacol. 82(10) (2011) 1490-1499].",
     "date": "2026 Nov 22",
@@ -4542,6 +4655,65 @@
     "abstract": "Multiple sclerosis (MS) is a chronic neurological illness often diagnosed during the parenting years. This study explored adolescents' experiences of maternal MS through participant driven photo-elicitation interviews (PEI) with six female participants aged 12-21 years, in South Africa. Participants were recruited from a larger study, and all had a mother with MS. Interview transcripts were analysed using reflexive thematic analysis, with participants' photographs considered alongside their verbal accounts. The overarching theme, 'Living in the in-between: Normalcy and Difference', connected the everyday presence of MS, loss of shared experiences and shared family care. Participants described familiar routines alongside feelings of difference from their peers, while available support helped sustain everyday family life. Photographs supported these reflections. The findings highlight the ongoing adjustments through which families living with maternal MS sustain ordinary life and the importance of recognising adolescents' own needs within shared care arrangements.",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43066552/"
+  },
+  {
+    "pmid": "43077823",
+    "title": "Exercise interventions for people with Multiple Sclerosis with advanced mobility disability: a scoping review.",
+    "date": "2026 Nov 21",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Rostamkhani M",
+      "Young R",
+      "Carter A",
+      "De Vivo M",
+      "Nair KPS",
+      "Mounter D"
+    ],
+    "abstract": "While exercise interventions have shown benefits for individuals with Multiple Sclerosis (MS), most research has focused on mild-to-moderate disability. A previous systematic review summarised evidence on exercise interventions for people with MS with advanced mobility disability up to October 2016. This scoping review updates and extends that evidence by mapping studies published from November 2016 to June 2025. The review followed the Joanna Briggs Institute (JBI) framework for scoping reviews and PRISMA-ScR guidelines. PubMed, CINAHL, SPORTDiscus, Scopus, and Web of Science, were searched for English-language studies published from November 2016 to June 2025. Studies were included if adults with MS with advanced mobility disability (EDSS ≥ 6.0 or comparable descriptions of significant mobility impairment) received structured exercise interventions targeting physical fitness, physical function, or broader health-related outcomes. Twenty-four studies met the inclusion criteria. Most were supervised (n=22) and conducted in clinical (n=9) or laboratory/research settings (n=8). Interventions were gait-specific (n=9), endurance (n=7), resistance (n=2), functional/postural (n=2), and multicomponent (n=4). Frequency was typically two to three sessions per week for 4-12 weeks, although intensity and attendance reporting were inconsistent. Where attendance was reported, adherence was generally high. Outcomes predominantly focused on feasibility and process-related outcomes (n=23) and patient-reported outcome measures (n=23). People with MS with advanced mobility disability can engage in structured exercise interventions, but evidence remains limited, heterogeneous, and largely feasibility-oriented. Future studies should improve intervention reporting, refine outcome selection, and further evaluate accessible and adaptable exercise models for people with substantial mobility limitations.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077823/"
+  },
+  {
+    "pmid": "43077822",
+    "title": "Availability of optic nerve and cerebrospinal fluid paraclinical tests relevant to the 2024 McDonald criteria across African settings.",
+    "date": "2026 Nov 21",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Sahu M",
+      "Chomba M",
+      "Duodu F",
+      "Diaz MM",
+      "Sokhi D",
+      "Saylor D"
+    ],
+    "abstract": "The 2024 revisions to the McDonald criteria aim to enhance diagnostic sensitivity of multiple sclerosis (MS). While cost of MRI has been a leading diagnostic barrier in Africa, the potential utility of additional paraclinical tests included in the revised criteria remains unknown. We sought to characterize the availability of existing paraclinical resources for documenting optic nerve involvement and utilizing CSF biomarkers across Africa. This cross-sectional study surveyed clinician members of the African Committee on Treatment and Research In Multiple Sclerosis (AFRICTRIMS) through an electronic survey distributed between March and April 2025. Descriptive statistics are reported. 130 respondents from 24 out of 54 countries in Africa participated (44% of countries had at least one respondent). Two-thirds of respondents were neurologists with 65% practicing in an urban setting. Both in-country and local availability were lowest in the low-income World Bank group. Country-level availability was highest for MRI orbits (n = 24/24, 100%), followed by optical coherence tomography (OCT) (n = 18/24, 75%) then visual evoked potentials (VEPs) (n = 14/24, 58%). CSF oligoclonal bands (OCBs) (n = 13/24, 54%) were more available than CSF kappa free light chains (kFLC) (n = 8/24, 33%). These findings highlight barriers to applying the revised 2024 McDonald criteria across the 24 represented countries in Africa. Addressing these gaps in available clinical resources, especially paraclinical tests such as OCT and CSF kFLC, is urgently needed to improve application of revised diagnostic criteria and diagnostic yield in low-resource practice settings.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077822/"
+  },
+  {
+    "pmid": "43077821",
+    "title": "T1 dark-rim lesion count and disease duration in subsequent secondary progressive multiple sclerosis: an exploratory matched case-control study.",
+    "date": "2026 Nov 21",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Naval-Baudin P",
+      "Arroyo-Pereiro P",
+      "Martínez-Zalacaín I",
+      "Pérez-Siles A",
+      "Gonzalez-Montesinos M",
+      "León I",
+      "Castillo-Pinar A",
+      "Rodríguez-Pérez M",
+      "Calvo N",
+      "Martínez-Yélamos A",
+      "Martínez-Yélamos S",
+      "Cos M",
+      "Majos C",
+      "Pons-Escoda A"
+    ],
+    "abstract": "T1 dark-rim lesions (T1-DRLs), characterized by a dark peripheral rim on T1-weighted MRI, are proposed imaging correlates of chronic active inflammation. We examined whether their count and relationship with disease duration differ according to subsequent secondary progressive multiple sclerosis (SPMS) conversion. This single-center exploratory matched case-control study compared patients with relapsing-remitting multiple sclerosis who subsequently converted to SPMS with non-converters matched on clinical characteristics and follow-up. Two readers independently identified possible rims on baseline 3T MRI; expert consensus applied the final lesion criteria, blinded to outcomes. Negative binomial regression examined lesion counts; secondary logistic models explored discrimination. Among 120 patients (60 SPMS converters and 60 non-converters), unadjusted T1-DRL counts did not differ significantly (p = 0.555). Their association with disease duration differed by group (interaction incidence rate ratio [IRR] 1.04, 95% confidence interval 1.01-1.07; p = 0.005). Longer disease duration was associated with lower counts in non-converters (IRR 0.96; p < 0.001), but not SPMS converters (IRR 1.00; p = 0.97). Separately selected models with and without T1-DRL terms had areas under the curve of 0.70 and 0.59 (p = 0.08); differing covariates precluded assessing incremental value. The disease-duration interaction motivates longitudinal testing of whether T1-DRL persistence or resolution differs before SPMS conversion. These cross-sectional findings do not establish individual lesion persistence or clinical predictive utility.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077821/"
   },
   {
     "pmid": "43022365",
@@ -5193,6 +5365,25 @@
     "abstract": "The Supervised versus Telerehabilitation Exercise Program for Multiple Sclerosis trial compared facility- versus home-based exercise training and examined the choice of location on walking outcomes in mobility-impaired people with multiple sclerosis. Supervised versus Telerehabilitation Exercise Program for Multiple Sclerosis was a multi-site, Phase III, noninferiority trial. Participants (Expanded Disability Status Scale 4.0-6.5) with walking dysfunction (Timed 25-Foot Walk >6 s) completed a 16-week exercise training program based on Guidelines for Exercise in Multiple Sclerosis, delivered in a facility or home, with location randomized or chosen. The primary outcome was ΔT25FW. Secondary outcomes were six-minute walk, Expanded Disability Status Scale, and participant-reported outcome measures. Among 379 participants, 189 were assigned to location (92 Guidelines for Exercise in Multiple Sclerosis, delivered in a facility and 97 Guidelines for Exercise in Multiple Sclerosis, delivered in a home); 190 were assigned to choice (106/84 Guidelines for Exercise in Multiple Sclerosis, delivered in a facility/Guidelines for Exercise in Multiple Sclerosis, delivered in a home). COVID-19-related disruptions greatly impacted follow-up. Nevertheless, randomized groups improved Timed 25-Foot Walk, with greater adjusted improvements in Guidelines for Exercise in Multiple Sclerosis, delivered in a home (least squares (LS) mean difference = -1.16 s, Home-based exercise training may yield walking improvements comparable to facility-based training, regardless of choice.",
     "category": "Реабилитация и мобильность",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43055422/"
+  },
+  {
+    "pmid": "43075683",
+    "title": "Effects of Vitamin D on Immune System Function and Cognitive Performance in Homeostasis, Experimental Autoimmune Encephalomyelitis (EAE), and Multiple Sclerosis (MS).",
+    "date": "2026 Nov 19",
+    "journal": "CNS & neurological disorders drug targets",
+    "authors": [
+      "Khalvandi A",
+      "Feizollahi P",
+      "Shahba F",
+      "Ghafelehbashiha MS",
+      "Mehdizadeh S",
+      "Asgari Z",
+      "Robat-Jazi B",
+      "Saboor-Yaraghi AA"
+    ],
+    "abstract": "Vitamin D, historically recognized for its role in calcium and bone metabolism, has evolved into a multifunctional neuroimmunomodulatory hormone with considerable effects on the Central Nervous System (CNS) and immune modulation. Growing evidence suggests that vitamin D affects both innate and adaptive immune responses by modulating the activity of Macrophages (MQ), Dendritic Cells (DCs), T lymphocytes, B lymphocytes, and microglial cells. Additionally, vitamin D signaling via the Vitamin D Receptor (VDR) modulates various biochemical pathways associated with inflammation, oxidative stress, neuronal survival, and neuroprotection. These processes have garnered significant interest in neuroinflammatory and neurodegenerative conditions, especially Multiple Sclerosis (MS). Experimental and clinical research indicate that vitamin D insufficiency correlates with heightened vulnerability to multiple sclerosis, exacerbated disease activity, disruption of the blood-brain barrier (BBB), oxidative damage, and diminished remyelination. Furthermore, vitamin D facilitates neurogenesis, regulates neurotrophic factors, promotes oligodendrocyte maturation, and modulates dopaminergic neurotransmission. Recent data underscores its possible involvement in cognition, neuropsychiatric function, and neurodevelopmental processes. This study offers an extensive examination of vitamin D's physiology and metabolism, its immunomodulatory and neurobiological mechanisms, and its significance in MS etiology and cognitive function. The essay additionally examines the therapeutic potential of vitamin D supplementation, existing limits of clinical evidence, and safety risks associated with high-dose delivery. The existing evidence collectively indicates a significant role for vitamin D in neuroimmune regulation.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075683/"
   },
   {
     "pmid": "43051379",
@@ -7614,6 +7805,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43034404/"
   },
   {
+    "pmid": "43075772",
+    "title": "Sustained Relapse-Free Remission With Dimethyl Fumarate Initiated at Age 5 in Pediatric-Onset Multiple Sclerosis.",
+    "date": "2026 Jan-Dec",
+    "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+    "authors": [
+      "Takahashi T",
+      "Hayakawa I",
+      "Abe Y"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075772/"
+  },
+  {
     "pmid": "42987244",
     "title": "Impact of 2024 Revisions of Multiple Sclerosis Diagnostic Criteria in People With Radiologically Isolated Syndrome.",
     "date": "2026 Dec 8",
@@ -7936,6 +8141,18 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43071883/"
   },
   {
+    "pmid": "43078502",
+    "title": "Autoimmunity as the Erosion of Self-Tolerance Coupling: A Three-Component Conjunctive Framework for Phenotypic Taxonomy, Reversibility, and Therapeutic Sequencing.",
+    "date": "2026 Dec",
+    "journal": "Scandinavian journal of immunology",
+    "authors": [
+      "Farreny H"
+    ],
+    "abstract": "In autoimmune diseases the immune system attacks the body's own tissues. Normally, self-tolerance (restraint toward the body's own tissues), partly maintained by regulatory T cells (cells restraining other immune cells), prevents this. We propose that autoimmune diseases can differ in how tolerance fails: broadly, attacking many tissues, as in lupus; or only for particular self-targets, giving disease largely confined to one organ, as in multiple sclerosis (a hypothesis for which direct evidence is still lacking). We ask why lasting remission without drugs becomes less likely, past a threshold, the longer treatment is delayed after disease onset (by analogy with interleukin-17 inhibitors in psoriasis), and why autoimmune disease perpetuates itself. In a subset of these diseases, we hypothesise that stable tolerance requires three things at once. The first is a self-tolerance program, a chemical marking of genes (epigenetic) set as regulatory T cells develop and kept in them: the constraint. The second is the immune cells that act: the machinery. The third is the antigens (targets of immune attack) and inflammatory signals they receive: the flux. On this hypothesis they act as a gate, not a sum: when the constraint is eroded, strong machinery cannot compensate, so controlling immunity alone may not restore tolerance. In other diseases the defect lies elsewhere (antibody-driven, such as pemphigus vulgaris). Five testable predictions concern how the disease presents (whole-body or single-organ), when remission is possible, treatment order, combination therapy and stress-related risk. This is a structural hypothesis, not a validated quantitative model.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078502/"
+  },
+  {
     "pmid": "42983836",
     "title": "Th17 cells and neutrophils: exploiting their crosstalk for multiple sclerosis therapeutics.",
     "date": "2026 Aug 7",
@@ -8034,6 +8251,28 @@
     "abstract": "Multiple sclerosis (MS) is characterized by inflammatory demyelination, oxidative stress, and neurological dysfunction. Despite disease-modifying therapies, chronic active lesions and ongoing neurodegeneration remain largely untreated, highlighting the need for mechanistically informed translational targets. We analyzed a human single-nucleus RNA-sequencing dataset (GSE279180) including healthy controls and MS samples. Astrocyte subpopulations were examined using reclustering, pseudotime inference, co-expression network analysis, SLC7A11-high/low stratification, virtual knockout prediction, and gene set enrichment analysis. Key findings were further assessed in vivo using a cuprizone-induced demyelination mouse model. Broad cellular remodeling was observed in MS lesions, including altered neuroactive ligand-receptor interactions, calcium signaling, glutamatergic synapse, and synaptic vesicle cycle-related pathways. SLC7A11 was enriched in astrocytes and increased along later pseudotime stages. SLC7A11-high astrocytes were linked to impaired antioxidant defense (GSH/GPX4) and synaptic vesicle-related remodeling. CPZ-treated mice showed decreased SLC7A11/GPX4 colocalization and increased SYP-GFAP colocalization, along with behavioral deficits, demyelination, and inflammatory-redox imbalance. SLC7A11-associated astrocyte states are associated with redox imbalance and synaptic microenvironment remodeling in MS. These states may inform future biomarker development and therapeutic investigation. Our findings provide a glial-state framework linking neuroinflammation, oxidative stress, and synaptic dysfunction, highlighting potential avenues for translational strategies in MS.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43073972/"
+  },
+  {
+    "pmid": "43078908",
+    "title": "Circulating cell-free DNA methylation profiles as candidate noninvasive multiple sclerosis biomarkers.",
+    "date": "2026 Aug 3",
+    "journal": "Communications medicine",
+    "authors": [
+      "Fu H",
+      "Liang J",
+      "Huang K",
+      "Zhu W",
+      "Zhang L",
+      "Bandaru R",
+      "Venkatesh S",
+      "Walker E",
+      "Wang L",
+      "Liu Y",
+      "Xia Z"
+    ],
+    "abstract": "In multiple sclerosis (MS), there is a critical need for cost-effective blood biomarkers that can concurrently classify disease subtypes, monitor disability severity, and predict long-term disability progression. In this proof-of-concept study, we performed low-coverage whole-genome bisulfite sequencing (WGBS) on 75 plasma cell-free DNA (cfDNA) samples collected from a prospective clinic cohort with longitudinal disability outcomes. We assessed the utility of cfDNA methylation profiles for differentiating MS patients from controls, classifying MS subtypes, estimating disability severity, and predicting disease trajectories. We identify hundreds of differentially methylated regions (DMRs) that significantly distinguish MS from controls, separate MS subtypes, and stratify disability severity levels. These DMRs are highly enriched in immunologically and neurologically relevant cis-regulatory elements and in motifs associated with neuronal function and T-cell differentiation. To distinguish MS subtypes and disability severity, models using DMRs achieve area-under-the-curve (AUC) values ranging from 0.75 to 0.95, and models using inferred tissue-of-origin patterns from cfDNA methylation achieve AUC values of 0.69 to 0.72, performing better than historical benchmark neurofilament light chain (NfL) and glial fibrillary acidic protein (GFAP) measures in the same cohort. Finally, a linear mixed-effects model identifies \"prognostic regions\" where baseline cfDNA methylation levels are associated with subsequent disability progression and predict future disability severity (AUC = 0.74) within a 3-year evaluation window. Using these prognostic regions, we generate a cfDNA methylation-based progression risk score and stratify patient groups by differential progression risks. These findings highlight circulating cfDNA methylation profiles as promising clinical MS biomarkers, warranting future validation using higher-depth WGBS data.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078908/"
   },
   {
     "pmid": "42996180",
@@ -10003,5 +10242,25 @@
     "abstract": "Multiple sclerosis (MS) is a chronic immune-mediated disease in which fatigue and pain are common and disabling symptoms. Vitamin D exerts pleiotropic immunomodulatory and neuroprotective effects that are biologically relevant to MS, yet its association with fatigue self-efficacy and pain severity remains uncertain and has rarely been examined in Middle Eastern populations. This study examined the linear and non-linear associations between serum vitamin D, fatigue self-efficacy, and pain outcomes among patients with MS attending neurology services in the Qassim region of Saudi Arabia. An analytical cross-sectional study was conducted among 246 patients with MS recruited by convenience sampling from neurology inpatient and outpatient services in the Qassim region between July and December 2025. All participants had a physician-established diagnosis of MS documented in the medical record. Serum vitamin D values were abstracted from medical records. Fatigue self-efficacy was assessed with the Fatigue Self-Efficacy Scale, and pain was assessed with the Arabic Short-Form McGill Pain Questionnaire. Unadjusted comparisons were examined using t-tests, analysis of variance, and Pearson chi-square or Fisher exact tests, as appropriate. Generalized Additive Models (GAMs) with penalized spline smoothers were then used to examine non-linear partial effects of vitamin D on fatigue self-efficacy and total pain burden after adjustment for age, sex, body mass index (BMI), and MS-related work interference. Sensitivity analyses restricted to participants whose most recent serum vitamin D measurement fell within the preceding five months were also performed. Predictor hierarchy was examined using multivariable models with standardized coefficients. Participants had a mean age of 32.6 ± 9.9 years, 64.2% were women, and the mean serum vitamin D was 22.8 ± 11.0 ng/mL; 178 of 242 participants (73.6%) were below the sufficiency threshold used in the source database. In unadjusted analyses, the vitamin D category was associated with age, MS-related work impact, time since the last relapse, and present pain intensity. GAMs identified a significant non-linear partial association of vitamin D with fatigue self-efficacy (effective degrees of freedom [EDoF] = 12.6, p < 0.001); the corresponding smooth term for total pain burden was also significant (EDoF = 12.6, p < 0.001), although this association was attenuated in sensitivity analyses restricted to recent vitamin D measurements and should be regarded as provisional. In the standardized predictor models, MS-related work interference showed the largest observed adjusted association with lower fatigue self-efficacy (B = -4.16, β = -0.22, p < 0.001), whereas BMI showed the largest observed adjusted association with total pain burden (B = -0.16, β = -0.21, p = 0.001). Vitamin D status was associated with MS symptom burden through complex non-linear patterns rather than simple linear associations. In this cohort, however, MS-related work interference and BMI showed stronger observed adjusted associations with fatigue self-efficacy and pain burden, respectively, than vitamin D concentration alone. These are cross-sectional associations and do not establish causal or temporal relationships. Comprehensive MS care should therefore integrate metabolic assessment with functional and psychosocial support.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43071676/"
+  },
+  {
+    "pmid": "43080275",
+    "title": "Liver-Targeted Tolerogenic Lipid Nanoparticles for Treating Autoimmune Diseases.",
+    "date": "2026",
+    "journal": "International journal of nanomedicine",
+    "authors": [
+      "Singh H",
+      "Singh SS",
+      "Sawant V",
+      "Sharma C",
+      "Khan H",
+      "Veettil RM",
+      "Upadhyay TK",
+      "Banat F",
+      "Hassan S"
+    ],
+    "abstract": "Autoimmune diseases affect an estimated 4-9% of the global population, yet current therapies remain predominantly non-specific, offering symptom control rather than durable immune correction. The convergence of liver immunology and lipid nanotechnology offers a mechanistically grounded route toward organ-specific, antigen-directed immune tolerance, an approach that aims to reprogram, rather than merely suppress, pathological immune responses. Liver-resident antigen-presenting cells, including Kupffer cells, liver sinusoidal endothelial cells, and tolerogenic dendritic cells can be selectively engaged by engineered lipid nanoparticles (LNPs) to promote the generation of antigen-specific regulatory T cells and reprogram inflammatory networks. Preclinical studies across murine models of autoimmune hepatitis, type 1 diabetes, and multiple sclerosis demonstrate significant disease attenuation, including expansion of FoxP",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080275/"
   }
 ]
