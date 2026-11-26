@@ -1621,6 +1621,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43027841/"
   },
   {
+    "pmid": "43088421",
+    "title": "Whole-Exome Sequencing in Multiple Sclerosis: A Systematic Review of Candidate Genes, Replication and Evidence Strength.",
+    "date": "2026 Oct 27",
+    "journal": "Current issues in molecular biology",
+    "authors": [
+      "Shosha E",
+      "Qadi N",
+      "Madani J",
+      "Aldakheel A"
+    ],
+    "abstract": "Whole-exome sequencing (WES) has been used to investigate rare variation in multiple sclerosis (MS), particularly in multiplex families and selected clinical cohorts. This systematic review examines candidate findings, replication, participant overlap and the distinction between susceptibility, Mendelian causation and diagnostic mimicry. Thirty-six reports published between 2011 and 2026 were included, identified through database and citation searches, a supplementary Embase search and eligibility reassessment during revision. Family-based studies nominate biologically plausible genes and pathways, but independent confirmation is limited. Follow-up studies challenge several prominent claims, including high-penetrance NR1H3 causation and the initial CYP27B1 association. Susceptibility alleles, disease-course modifiers, gene-set burdens and alternative diagnoses require distinct interpretive frameworks; a Mendelian gene-validity grade cannot serve as a common scale. Larger studies provide important negative evidence within their tested populations, genes and outcomes, without excluding all rare-variant contributions to MS. The assembled evidence does not establish a high-penetrance monogenic explanation for typical MS. Genomic testing may nevertheless identify alternative inherited disorders in selected atypical presentations. Heterogeneous designs, incomplete replication and participant overlap limit the strength of inference. Future studies should prioritise independent replication, ancestry-aware analysis, transparent variant-level results and disease-relevant functional validation.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088421/"
+  },
+  {
     "pmid": "42934485",
     "title": "Disease-modifying interventions in psychiatry.",
     "date": "2026 Oct 26",
@@ -1874,6 +1889,43 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43030459/"
   },
   {
+    "pmid": "43089947",
+    "title": "Blood-Brain Barrier and Its Overlooked Proteoglycan Regulators.",
+    "date": "2026 Oct 26",
+    "journal": "Biomolecules",
+    "authors": [
+      "Champagne R",
+      "Myers J",
+      "Pearson H",
+      "Wenke K",
+      "Varghese D",
+      "Purushothaman A"
+    ],
+    "abstract": "The blood-brain barrier (BBB), together with associated perivascular cells, forms a key component of the neurovascular unit and constitutes a highly specialized multicellular interface that tightly regulates the movement of ions, nutrients, oxygen, metabolites, and immune cells between the circulation and the central nervous system (CNS). This selective barrier is essential for maintaining CNS homeostasis, supporting neuronal function, and protecting neural tissue from circulating toxins, pathogens, and inflammatory mediators. Disruption of BBB integrity is a hallmark of numerous neurological disorders and contributes to disease initiation and progression. Among the structural components of the BBB, the endothelial glycocalyx has emerged as a critical yet underrecognized regulator of barrier function. This carbohydrate-rich layer, composed primarily of proteoglycans, glycoproteins, and glycolipids, forms an important interface between circulating blood and the brain endothelium. Beyond serving as a physical barrier, glycocalyx proteoglycans regulate vascular permeability, mechanotransduction, leukocyte adhesion, and inflammatory signaling, thereby contributing to BBB integrity and cerebrovascular homeostasis. In this review, we discuss the architecture and function of the BBB, highlight the overlooked roles of proteoglycans in maintaining BBB integrity and regulating neurovascular function, examine their contributions to BBB dysfunction in neurological diseases, and explore emerging therapeutic approaches targeting the glycocalyx to preserve or restore BBB integrity.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089947/"
+  },
+  {
+    "pmid": "43088276",
+    "title": "Image-Level Classification of Central Vein Categories on FLAIR MRI in Multiple Sclerosis Using a Lightweight Explainable Deep Learning Framework.",
+    "date": "2026 Oct 26",
+    "journal": "Brain sciences",
+    "authors": [
+      "Tasci I",
+      "Elidar G",
+      "Albayrak S",
+      "Goktas OF",
+      "Tuncer T",
+      "Baygin M",
+      "Algul FE",
+      "Tasci B",
+      "Dogan S"
+    ],
+    "abstract": "",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088276/"
+  },
+  {
     "pmid": "42927851",
     "title": "Mechanisms and therapeutic strategies for central and peripheral remyelination.",
     "date": "2026 Oct 25",
@@ -2092,6 +2144,20 @@
       "Причины и механизмы РС"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42925361/"
+  },
+  {
+    "pmid": "43082575",
+    "title": "Time Delay to High-Efficacy Treatment Initiation in Demyelinating CNS Diseases Is Linked to Sociodemographic and Clinical Parameters.",
+    "date": "2026 Oct 24",
+    "journal": "Diseases (Basel, Switzerland)",
+    "authors": [
+      "Krüger V",
+      "Zeltner R",
+      "Yalachkov Y"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43082575/"
   },
   {
     "pmid": "42950771",
@@ -2335,6 +2401,21 @@
     "abstract": "Brain's structural and functional connectomes (SC and FC) offer insights into the relationship between brain circuits and cognitive functioning in people with multiple sclerosis (MS). However, diffusion and functional MRI, which are used to extract SC and FC, is expensive and time consuming, therefore are not currently used in the clinical setting. Our prior work demonstrated that estimated SC and FC (eSC and eFC) generated using MS lesion masks and artificial intelligence (AI) models can predict disability as effectively as SC and FC derived from diffusion and functional MRI in MS. In this study, we identify the eSC and eFC brain circuits that are associated with baseline and 4-year follow-up cognition and assess the ability of eSC and eFC in predicting cognition in MS. In a cohort of 171 with MS, the Network Modification tool was performed to estimate SC from the MS lesion mask, which is extracted from structural MRI scans. The eSC was then used as an input to Krakencoder, an encoder-decoder model, to estimate FC. The highest accuracy was obtained when predicting follow-up Symbol Digit Modalities Test (SDMT) using regional eSC or eFC, with a median Spearman's correlation coefficient of 0.58 for eSC and 0.56 for eFC. Decreased eSC and eFC in the cerebellum and increased eFC in the default mode network were associated with lower follow-up SDMT scores. Our findings demonstrate that eSC and eFC derived from clinically acquired MRI and AI models can effectively predict cognition. The use of lesion-based estimates of connectomes may potentially inform clinical trials by identifying the specific brain circuits that could be targeted for the non-invasive treatments aimed at improving cognitive function in MS.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43078850/"
+  },
+  {
+    "pmid": "43083405",
+    "title": "Neuroprotective Effects and Mechanisms of Cannabinoids in In Vitro Cell Models of Neurodegenerative Diseases: A Scoping Review.",
+    "date": "2026 Oct 23",
+    "journal": "Neurology international",
+    "authors": [
+      "Nelumdeniya R",
+      "Sabalingam S",
+      "Karunathilaka N",
+      "Jayakody RS"
+    ],
+    "abstract": "",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083405/"
   },
   {
     "pmid": "42911400",
@@ -3449,6 +3530,23 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43000606/"
   },
   {
+    "pmid": "43089067",
+    "title": "Redox Imbalance in Multiple Sclerosis: From Oxidative Injury to Biomarkers and Therapeutic Targets-A Systematic Review.",
+    "date": "2026 Nov 8",
+    "journal": "Antioxidants (Basel, Switzerland)",
+    "authors": [
+      "Gavrilă MG",
+      "Albu CV",
+      "Burada E",
+      "Surugiu R",
+      "Albu BC",
+      "Sandu RE"
+    ],
+    "abstract": "Oxidative stress connects the inflammatory and the neurodegenerative components of multiple sclerosis, and redox markers have been proposed both for monitoring the disease and as targets for treatment. Individual studies, however, have reached divergent conclusions. In this systematic review, we searched PubMed, Scopus and Web of Science Core Collection for human studies published between 1 January 2019 and 11 April 2026 (PROSPERO CRD420261440796, registered retrospectively) and included 73 studies, 71 from the 23,027 database records and two from our earlier systematic review of fluid biomarkers in MS: forty-one case-control studies, six analytical cross-sectional studies, one prospective cohort, sixteen randomized trials and nine non-randomized or single-arm interventional studies. Circulating nitric oxide metabolites were the most consistent abnormality, higher in patients than in controls in all eight studies that measured them in blood, whether or not patients were receiving treatment, but not in cerebrospinal fluid. Antioxidant reserve was commonly reduced: total antioxidant capacity was lower in 13 of 20 studies, and thiols and glutathione peroxidase were lower in every study that measured them, whereas the antioxidant enzymes proved dysregulated rather than depleted, with superoxide dismutase tending to rise. Protein oxidation was raised in most cohorts, but advanced oxidation protein products, which discriminated patients from controls with an area under the curve of 0.948 in one cohort, were unchanged or lower in two others. Direction of change depended strongly on the compartment sampled and the assay used. 8-Hydroxy-2'-deoxyguanosine was higher in cerebrospinal fluid and urine but lower in serum. In two cohorts, antioxidant capacity measured with the 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) radical-scavenging assay (ABTS) and with the ferric reducing ability of plasma assay (FRAP) diverged in the same samples, in opposite directions. Antioxidant supplements and disease-modifying therapies altered redox status in most interventional studies, whereas the two exercise trials disagreed, and the changes were frequently transient and did not always accompany clinical improvement. Rated using a GRADE-informed approach adapted for this type of synthesis, the certainty of the evidence is very low for every marker assessed; nitric oxide metabolites, cerebrospinal fluid antioxidative capacity and total antioxidant capacity, measured by a specified assay, are the most reasonable candidates for prospective validation, and none is ready for clinical practice.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089067/"
+  },
+  {
     "pmid": "42998113",
     "title": "Depression, adverse childhood experiences, and cigarette smoking are associated with suicide attempts in people with multiple sclerosis: a cross-sectional exploratory study.",
     "date": "2026 Nov 7",
@@ -3498,6 +3596,21 @@
     "abstract": "Multiple sclerosis (MS) is an immune-mediated central nervous system disorder; relapsing-remitting MS (RRMS) is the most common form. Self-perceived health-related quality of life (HRQoL) has been linked to psycho-behavioral and immunological factors, but their interplay remains unclear. We examined psycho-behavioral, clinical, and immunological correlates of perceived physical and mental health. In this cross-sectional study, 85 patients with RRMS (78% female; mean age 40.6 ± 10.3 years; predominantly mild disability) were assessed for fatigue, sleep quality, daytime sleepiness, anxiety/depression symptoms, and perceived cognitive dysfunction. Blood samples were analyzed for complete blood counts and, in a subgroup, lymphocyte subpopulations; the systemic immune-inflammation index (SII) was calculated. HRQoL was measured using the SF-36 Physical and Mental Component Summaries (PCS and MCS). Hierarchical linear regression models included sociodemographic, clinical, and treatment-class covariates, with sensitivity analyses. Disability, fatigue, and depressive symptoms were associated with lower PCS, and sleep disturbances and depressive symptoms with lower MCS. Higher lymphocyte count was associated with higher MCS (β = +0.268, p = 0.006; ΔR HRQoL in RRMS showed psychological and clinical associations, with an additional lymphocyte-MCS association. The clinical relevance of the immune findings, including the exploratory NK-PCS association, requires further investigation.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43002854/"
+  },
+  {
+    "pmid": "43087819",
+    "title": "Plasma Atherogenicity in Relapsing-Remitting Multiple Sclerosis: A Cross-Sectional Analysis of Perceived Fatigue and Objective Performance.",
+    "date": "2026 Nov 7",
+    "journal": "Biomedicines",
+    "authors": [
+      "Aksoy Gündoğdu A",
+      "Kotan D",
+      "Özbay N",
+      "Avcı L"
+    ],
+    "abstract": "",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087819/"
   },
   {
     "pmid": "42994510",
@@ -3695,6 +3808,51 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028808/"
   },
   {
+    "pmid": "43090009",
+    "title": "Comparative Interactomics Identifies Conserved 14-3-3 Interactions and an Association of ANKRD55 with IFT-B in a Microglial Cell Model.",
+    "date": "2026 Nov 6",
+    "journal": "Biomolecules",
+    "authors": [
+      "Mena J",
+      "Tulloch-Navarro R",
+      "Fiat-Arriola A",
+      "Díez-García J",
+      "Azkargorta M",
+      "Aldekoa-Etxabe A",
+      "Ugidos-Damboriena N",
+      "Artiga-Folch I",
+      "Lindskog C",
+      "Pampliega O",
+      "Alloza-Moral I",
+      "Katoh Y",
+      "Nakayama K",
+      "Elortza F",
+      "Vandenbroeck van Caeckenbergh K"
+    ],
+    "abstract": "Ankyrin repeat domain-containing protein 55 (ANKRD55) is genetically associated with multiple sclerosis, but its cellular function remains incompletely defined. To investigate its potential role in neuroinflammatory pathways, we mapped ANKRD55-interacting proteins in neuroblastoma, astrocytic, microglial, and monocytic cell lines by affinity purification-mass spectrometry. Across all four cell lines, 14-3-3 isoforms were the most reproducible partners, whereas the IMhu-M microglial interactome uniquely contained eight intraflagellar transport complex B (IFT-B) components. In visible immunoprecipitation assays, IFT46-IFT56 was the smallest tested IFT-B subassembly sufficient to support detectable association with ANKRD55. Confocal microscopy localized endogenous ANKRD55 to pericentriolar material and basal bodies, but not to primary cilia, and identified partial association with P-body markers. These data distinguish a conserved 14-3-3 interaction core from cell-restricted centrosomal/IFT-B and RNP-associated ANKRD55 pools.",
+    "category": "Причины и механизмы РС",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43090009/"
+  },
+  {
+    "pmid": "43088040",
+    "title": "Explainable Deep Learning-Based Computer-Aided Differential Diagnosis of Multiple Sclerosis and Neuromyelitis Optica Using 3D MRI Lesion Features.",
+    "date": "2026 Nov 6",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "authors": [
+      "Yahya N",
+      "Memon K",
+      "Siddiqui S",
+      "Hashim H",
+      "Remli R",
+      "Mohd Mustapha AM",
+      "Yusoff MZ",
+      "Ali SSA"
+    ],
+    "abstract": "Neurological disorders are among the leading causes of disability and mortality worldwide, making timely and accurate diagnosis essential. Differential diagnosis (DD) of Multiple Sclerosis (MS) and Neuromyelitis Optica (NMO) spectrum disorder using brain MRI remains challenging due to overlapping clinical manifestations and similar lesion characteristics. To address this challenge, this study proposes a neuroinformatics-driven computer-aided differential diagnosis (CADD) framework that automatically extracts, encodes, and analyzes quantitative 3D lesion biomarkers from brain MRI using deep learning and interpretable neuroimaging analytics. The proposed framework integrates three artificial intelligence (AI) modules: the NeuroImaging Sequence Examiner (NISE) for MRI sequence identification, the NeuroImaging Volumetric Extractor (NIVE) for skull stripping, and the NeuroImaging Lesion Extractor (NILE) for lesion segmentation. These modules are combined into an end-to-end neuroinformatics framework termed NeuroImaging Differential Evaluation (NIDE), which performs automated neuroimaging processing, lesion biomarker extraction, structured feature encoding, and differential diagnosis. Following lesion segmentation, quantitative 3D morphological and geometric lesion properties are extracted and transformed into a structured neuroimaging representation, where each row corresponds to an individual lesion and each column encodes a specific lesion biomarker. The resulting feature matrix is subsequently classified using a 2D convolutional neural network (2D-CNN). Comparative experiments against 3D-CNN models trained on raw MRI volumes, skull-stripped MRI volumes, lesion-mask volumes, and conventional machine learning classifiers demonstrate the superiority of the proposed lesion-driven learning strategy. Using ResNet50, the proposed framework achieved an accuracy of 80% for MS-NMO spectrum disorder differential diagnosis. Furthermore, the framework is independent of MRI view-plane orientation, enabling robust performance across different imaging orientations while operating in a fully automated manner. Beyond classification performance, the framework provides a structured representation of quantitative lesion biomarkers and enables interpretable neuroimaging analytics through Explainable Artificial Intelligence (XAI), with model interpretations corroborated by expert radiological assessment. The proposed NIDE framework demonstrates how automated neuroimaging processing, quantitative lesion characterization, structured feature encoding, and explainable AI can be integrated into a unified neuroinformatics workflow for differential diagnosis. These findings highlight the potential of neuroinformatics-driven decision-support systems for advancing neuroimaging analysis and clinical management of demyelinating neurological disorders.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088040/"
+  },
+  {
     "pmid": "42985849",
     "title": "Feasibility of applying generative AI to create managed care pharmacy formulary reviews.",
     "date": "2026 Nov 5",
@@ -3776,6 +3934,48 @@
     "abstract": "Multiple sclerosis (MS) lacks minimally invasive biomarkers that reliably reflect disease-associated pathophysiological alterations, particularly during the progressive stage of the disease. Because blood platelets contribute to thrombo-inflammatory signalling and are the major vascular carriers of regulatory miRNA, we investigated whether platelet miRNA alterations are associated with platelet hyperreactivity in MS and whether these changes originate during thrombopoiesis by examining megakaryocytes. We analyzed platelets and megakaryocytes from MS patients and healthy controls by transmission electron microscopy, flow cytometry, ELISA, miRNA profiling based on microarrays, and Real-Time PCR validation. Logistic regression and bioinformatic analyses were used to evaluate the potential and biological relevance. MS platelets exhibited a hyperreactive phenotype, characterized by enhanced degranulation, microparticle release, P-selectin expression, and collagen-induced aggregation. GPVI levels were significantly elevated in platelets but remained unchanged in megakaryocytes. MiRNA profiling revealed widespread downregulation in platelets, while megakaryocytes showed selective upregulation of miR-223-3p. Following microarray screening, PCR validation of 10 selected miRNAs revealed widespread downregulation in platelets, while only miR-223-3p was significantly upregulated in megakaryocytes from MS patients. A two-miRNA model (let-7a-5p and miR-146a-5p) showed good internal discrimination (AUC = 0.89; sensitivity 89%; specificity 85%), but lower external performance (C-index = 0.66; sensitivity 50%; specificity 73%). MS is associated with a distinct platelet miRNA signature linked to acquired platelet hyperreactivity and vesiculation. Platelet-derived let-7a-5p and miR-146a-5p represent potential non-invasive biomarker candidates, although their diagnostic utility requires further validation in larger independent cohorts.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028159/"
+  },
+  {
+    "pmid": "43090395",
+    "title": "Beyond Lipid-Lowering and Stroke Prevention: Unraveling the Role of Statins in Neurological Diseases.",
+    "date": "2026 Nov 5",
+    "journal": "Metabolites",
+    "authors": [
+      "Karamanolis NN",
+      "Vallianou NG",
+      "Dalamaga M",
+      "Evangelopoulos A",
+      "Ronioti M",
+      "Kounatidis DC"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43090395/"
+  },
+  {
+    "pmid": "43087806",
+    "title": "Regional Brain Volume Patterns Relative to Global Brain Volume in Multiple Sclerosis: Associations with Disability and Exploratory Implications for Depression-Relevant Regions.",
+    "date": "2026 Nov 5",
+    "journal": "Biomedicines",
+    "authors": [
+      "Ciubotaru A",
+      "Vamanu A",
+      "Covali R",
+      "Filip C",
+      "Riscanu L",
+      "Lăcătușu D",
+      "Crivoi F",
+      "Socolov Ș",
+      "Mitrea M",
+      "Parfenie M",
+      "Ocneru Z",
+      "Antochi F",
+      "Roceanu AM",
+      "Olariu R"
+    ],
+    "abstract": "",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087806/"
   },
   {
     "pmid": "42983669",
@@ -3899,6 +4099,32 @@
     "abstract": "Neurological diseases are a series of disorders that affect the brain, spinal cord, and peripheral nervous system, posing a significant threat to human health. Persistent neuroinflammation is a critical factor in the occurrence of neurological diseases, although the underlying mechanisms are highly complex. Recent evidence increasingly demonstrates that cathepsins play an important role in the initiation and progression of neuroinflammation. Significant alterations in the expression, activity, and intracellular localization of cathepsins occur during the pathogenesis of neurological disorders. Therefore, the pathophysiological roles of cathepsins have attracted considerable attention in neuroscientific research. This review provides a critical overview of current knowledge on cathepsins in neurological diseases, with particular attention to their roles in neuroinflammation. Besides, this review highlights the interplay between cathepsins and key neural cells in the nervous system (including microglia, astrocytes, oligodendrocytes, and neurons) as well as signaling molecules as a mechanistic framework. This study elucidates the mechanism of cathepsin-mediated neuroinflammation and details their roles in different types of neurological diseases, such as Alzheimer's disease (AD), Parkinson's disease (PD), traumatic brain injury, and multiple sclerosis (MS). Although treatments are available for some neurological disorders, this review will examine cathepsin-mediated neuroinflammation in depth to assess its potential as a clinically significant therapeutic target.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43021763/"
+  },
+  {
+    "pmid": "43088464",
+    "title": "Novel Diagnostics for Cancer and Cognition: An Eye on \"Smart\" Mechanistic Pathways of Proliferation and Regulation.",
+    "date": "2026 Nov 4",
+    "journal": "Current issues in molecular biology",
+    "authors": [
+      "Maiese K"
+    ],
+    "abstract": "The global population is aging to the extent that over 450 million individuals will be greater than 80 years of age by the year 2050. As a result, an increase in non-communicable diseases that involve cancer and cognition is impacting individuals throughout the world and presents significant clinical challenges for health care professionals. Early detection and the ability to monitor disease outcomes are critical for cancer and cognitive loss and warrant the need for novel \"smart\" diagnostics that go beyond the assessment of total disease burden. Such diagnostics can monitor mechanistic proliferative and regulatory cellular pathways that offer additional avenues to develop innovative treatment strategies in conjunction with their diagnostic value. Cellular pathways that involve Wnt signaling, Wnt1 inducible signaling pathway protein 1 (WISP1), sirtuins, and non-coding ribonucleic acids (RNAs) provide exciting opportunities for the development of innovative diagnostics founded on underlying disease mechanisms for cancer and dementia. These diagnostic pathways hold intricate relationships with one another that alter biological and clinical outcomes, can be differentially expressed, and may require panel assessment with artificial intelligence and machine learning platforms. Future work will require evaluation in clinical subpopulations with specific comorbidities that necessitate in-depth validation and standardization for clinical translation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088464/"
+  },
+  {
+    "pmid": "43087799",
+    "title": "Baclofen at the Crossroads: Pharmacological Ambivalence in Multiple Sclerosis and Alcohol Use Disorder.",
+    "date": "2026 Nov 4",
+    "journal": "Biomedicines",
+    "authors": [
+      "Schiavon C",
+      "Silva FAM",
+      "Rodrigues CF"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087799/"
   },
   {
     "pmid": "42973234",
@@ -4295,6 +4521,157 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42980191/"
   },
   {
+    "pmid": "43094289",
+    "title": "Advanced Microstructural MRI and Clinical Characterization of Paramagnetic Rim Lesion Heterogeneity in Multiple Sclerosis.",
+    "date": "2026 Nov 25",
+    "journal": "Annals of neurology",
+    "authors": [
+      "Cagol A",
+      "Ocampo-Pineda M",
+      "Benkert P",
+      "Ayci B",
+      "Lu PJ",
+      "Schaedelin S",
+      "Montobbio N",
+      "Melie-Garcia L",
+      "Weigel M",
+      "Galbusera R",
+      "Ruberte E",
+      "Chen X",
+      "Yaldizli Ö",
+      "Oechtering J",
+      "D'Souza M",
+      "Fischer-Barnicol B",
+      "Galli E",
+      "Derfuss T",
+      "Lieb JM",
+      "Kuhle J",
+      "Kappos L",
+      "Sormani MP",
+      "Granziera C"
+    ],
+    "abstract": "Paramagnetic rim lesions (PRLs) reflect chronic active lesions in multiple sclerosis (MS), but their microstructural heterogeneity remains unclear. We characterized quantitative magnetic resonance imaging (qMRI) abnormalities within PRLs, identified data-driven PRL profiles, and examined their associations with disability, brain volumetry, and serum biomarkers. In this longitudinal study, 175 people with MS (pwMS) and 105 healthy controls underwent multiparametric qMRI. Clinical/serum follow-up was available for 113 pwMS (median, 4.4 years). Lesional/perilesional qMRI metrics were derived. Principal component analysis (PCA) characterized PRL heterogeneity, and clustering identified PRL profiles. Mixed-effects models assessed associations with disability, brain parenchymal fraction (BPF), serum neurofilament light chain (sNfL), and glial fibrillary acidic protein (sGFAP). Longitudinal and retrospective MRI assessed 2-year cluster stability and the presence of corresponding lesions 3 years earlier, respectively. PRLs showed greater lesional and perilesional microstructural abnormalities than non-PRLs. PCA identified a dominant continuous damage dimension, along which clustering identified 2 reproducible low- and high-damage profiles. High-damage PRLs were associated with higher disability (β = 0.43; p = 0.035) and lower BPF (β = -0.25; p = 0.002), whereas low-damage PRLs were associated with higher sNfL (β = 0.35; p = 0.010). Longitudinally, low-damage PRLs were associated with steeper increases in disability (β PRLs exhibit clinically meaningful heterogeneity along a continuous damage spectrum, with cluster assignments largely stable longitudinally. High-damage PRLs are associated with established neurodegeneration, whereas low-damage PRLs show features of ongoing biological activity and worse clinical evolution, supporting the relevance of PRL heterogeneity for prognostic stratification. ANN NEUROL 2026.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094289/"
+  },
+  {
+    "pmid": "43085010",
+    "title": "Preliminary safety observations following measles-mumps-rubella vaccination in natalizumab-treated patients with multiple sclerosis: a case series in the context of rising measles incidence in Italy.",
+    "date": "2026 Nov 25",
+    "journal": "Vaccine",
+    "authors": [
+      "Laura S",
+      "Peter P",
+      "Emanuele G",
+      "Malgorzata M",
+      "Alice L",
+      "Giancarlo I",
+      "Matilde I",
+      "Caterina L",
+      "Multiple Sclerosis Disease Management Team (MS DMT)"
+    ],
+    "abstract": "In Natalizumab (NTZ)-treated patients, only inactivated vaccines are proven safe; live vaccines require caution. Italy shows a measles resurgence, mainly in unvaccinated people with notable complications. Vaccine coverage is insufficient. Given rising risk, our multiple sclerosis Disease Management Team endorsed measles vaccination during NTZ therapy for susceptible patients, consistent with prior selective VZV vaccination. To date, 11 patients have been vaccinated with the Measles-Mumps-Rubella (MMR) vaccine during NTZ treatment at our centre. In three cases, co-administration with the VZV vaccine was necessary. None of the patients who received the vaccine developed vaccine-associated adverse reactions or VZV infection. Management of MS requires an integrated approach that balances immunosuppressive treatment risks with preventive strategies, such as vaccination, to reduce infection risk while ensuring patient safety. Larger patient cohorts are needed to confirm our preliminary findings.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43085010/"
+  },
+  {
+    "pmid": "43084063",
+    "title": "Semi-automated segmentation of 2D T1-defined black holes on 3D T1-weighted gradient-echo images in multiple sclerosis.",
+    "date": "2026 Nov 25",
+    "journal": "European radiology",
+    "authors": [
+      "Alting MA",
+      "van Nederpelt DR",
+      "Barrantes-Cepas M",
+      "Steenwijk MD",
+      "Mattiesing RM",
+      "Brouwer I",
+      "Strijbis EMM",
+      "Koubiyr I",
+      "Barkhof F",
+      "Schoonheim MM",
+      "Vrenken H"
+    ],
+    "abstract": "To develop and validate a semi-automated method for segmenting 2DT1-weighted (T1w) spin-echo (SE)-defined black holes (BHs) on 3DT1w gradient-echo (GRE) images in people with multiple sclerosis (pwMS), accounting for the increased sensitivity of the GRE protocol. Eighty-eight pwMS with 2DT1w SE, 3DT1w GRE, and 3D-FLAIR scans were selected from the Amsterdam MS cohort. A semi-automated 3DT1w BH method (3DBHSeg) was developed in an optimization set (n = 20) using cortical gray matter (cGM)-based intensity thresholding, optimized against manually segmented 2DT1w-defined BHs. Performance was evaluated in a validation set (n = 68) using a hybrid score, incorporating voxel-wise, lesion-wise, and volumetric agreement metrics. Associations between BH volume and EDSS score were assessed using adjusted linear regression models. The optimal threshold for BH segmentation was 0.95 × median(cGM) intensity. In the validation set, median BH volume was 1.54 mL (IQR: 0.80-2.57 mL) for 3DBHSeg and 1.24 mL (IQR: 0.65-2.47 mL) for the 2DT1w reference, with a hybrid score of 0.76, an ICC (absolute agreement) of 0.92 (95% CI [0.87-0.95]), and a mean DSC of 0.59 ± 0.10. The median BH/FLAIR lesion volume ratio was 24.3%. Log-transformed 3DBHSeg volume was associated with EDSS score (B = 0.33, p = 0.04), whereas FLAIR lesion volume was not (B = 0.19, p = 0.30). 3DBHSeg enables segmentation of BHs on heavily T1-weighted 3D GRE images in accordance with their definition on mildly T1-weighted 2D SE images, allowing quantification of severe tissue damage in MS. Question Black holes reflect areas of severe tissue damage in multiple sclerosis, yet no validated segmentation method exists for contemporary 3D T1-weighted gradient-echo acquisitions. Findings Our method, 3DBHSeg, segmented black holes on 3D T1-weighted images, achieving an ICC of 0.92 and DSC of 0.59 relative to a 2D T1-weighted reference. Clinical relevance 3DBHSeg enables identification of black holes, as originally defined on 2D T1-weighted images, directly on 3D gradient-echo acquisitions, allowing quantification of severe tissue damage associated with clinical disability in multiple sclerosis in the absence of 2D T1 images.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084063/"
+  },
+  {
+    "pmid": "43083885",
+    "title": "Dissecting immune-inflammatory molecular networks in multiple sclerosis: a multi-omics framework for druggable target discovery and therapeutic prioritization.",
+    "date": "2026 Nov 25",
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "authors": [
+      "Wang Z",
+      "Zhou Y",
+      "Duan J",
+      "Hu F",
+      "Zeng Y",
+      "Liu X"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous system driven by aberrant immunoinflammation. Given the limited efficacy of existing therapies, there is an urgent clinical need to identify novel druggable targets with high translational potential. We integrated the GeneCards database with the druggable genome and obtained 1701 immune-inflammation-related druggable genes (IIRDGs). Summary-data-based Mendelian randomization (SMR) and Bayesian colocalization analyses were performed to evaluate the causal associations between IIRDGs and MS risk across DNA methylation, gene expression, and protein abundance levels. The identified associations were further evaluated for replication and consistency in the independent FinnGen cohort. We further constructed a multi-omics evidence-grading framework to prioritize therapeutic targets. We then performed tissue and immune cell type-specific analyses and validated the biological function and druggability of candidate targets using gene knockout mouse model phenotyping, phenome-wide association study (PheWAS), protein-protein interaction (PPI) network analysis, and molecular docking. Through multi-omics analyses, we identified 8 proteins associated with MS risk at the proteomic level, 22 significant genes at the transcriptomic level, and 53 MS-related methylation sites at the epigenomic level. Based on multi-omics evidence grading, FCRL3 (OR = 0.84, 95% CI 0.80-0.89) was classified as a tier 1 target, PLEK (OR = 2.25, 95% CI 1.67-3.04) as tier 2, and PGLYRP1 (OR = 0.69, 95% CI 0.57-0.84) and STAT3 (OR = 0.43, 95% CI 0.33-0.54) as tier 3. Tissue and immune cell-specific analyses further clarified the expression profiles of candidate genes. FinnGen analyses showed consistent directions of association for the prioritized targets, although not all associations reached statistical significance. PheWAS showed no significant adverse pleiotropy, and PPI analysis together with molecular docking confirmed their favorable druggability. This study identifies 4 robust IIRDGs associated with MS risk and clarifies the key tissues and immune cell subsets. These findings deepen our understanding of the immune-inflammatory pathogenesis of MS and identify candidate targets for future therapeutic investigation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083885/"
+  },
+  {
+    "pmid": "43082036",
+    "title": "Retinal Hyperreflective Foci (HRF) as a biomarker of microglial activation: Evidence across MS phenotypes and association with paramagnetic rim lesions.",
+    "date": "2026 Nov 25",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Bollo L",
+      "Zancan V",
+      "Cabello S",
+      "Pareto D",
+      "Solis MLG",
+      "Arrambide G",
+      "Ariño H",
+      "Carvajal R",
+      "Cobo-Calvo A",
+      "Mongay-Ochoa N",
+      "Pappolla A",
+      "Rodríguez-Acevedo B",
+      "Rio J",
+      "Tur C",
+      "Villacieros-Álvarez J",
+      "Comabella M",
+      "Alberich M",
+      "Tintoré M",
+      "Montalban X",
+      "Rovira A",
+      "Sastre-Garriga J",
+      "Vidal-Jordana A"
+    ],
+    "abstract": "Beyond optical coherence tomography (OCT) layer thickness, hyperreflective foci (HRF) may reflect retinal and cerebral microglial activation. Their role in primary progressive multiple sclerosis (PPMS) remains unknown. We compared HRF across PPMS, early relapsing multiple sclerosis (RMS), and HC, and assessed associations with paramagnetic rim lesions (PRLs). This cross-sectional study prospectively recruited 97 participants: 51 early-RMS, 29 PPMS, and 17 HC. Patients had either a first multiple sclerosis (MS) event within 5 years or progressive symptoms for at least 5 years. Three blinded raters quantified GCIPL- and INL-HRF on OCT using published criteria. Eyes with optic neuritis were excluded. Groups were compared using ANOVA with Bonferroni correction. PRLs were assessed on MRI within 1 year, and associations were analysed using negative binomial regression. INL-HRF count was higher in PPMS and early-RMS than in HC (18.7, 18.2, and 13.4; INL-HRF count was more frequent in MS than in HC but did not distinguish PPMS or higher PRL burden. Their utility may be limited by modest accuracy and time-consuming assessment.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43082036/"
+  },
+  {
+    "pmid": "43082018",
+    "title": "Real-world retrospective cohort study comparing ocrelizumab and natalizumab on disability progression in relapsing multiple sclerosis.",
+    "date": "2026 Nov 25",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Huntemann N",
+      "Masanneck L",
+      "Baumgart R",
+      "Axhausen F",
+      "Wolff S",
+      "Müller M",
+      "Kutsojannis B",
+      "Kölsche T",
+      "Mrochen A",
+      "Schütte M",
+      "Meuth SG",
+      "Ruck T",
+      "Pfeuffer S",
+      "Pawlitzki M"
+    ],
+    "abstract": "Disability accumulation in relapsing multiple sclerosis is increasingly recognized to occur independently of relapses, emphasizing the need to evaluate effects on progression independent of relapse activity and relapse-associated worsening. While ocrelizumab and natalizumab are both high-efficacy disease-modifying therapies, comparative data on their impact on disability outcomes are limited. In this observational, two-centre cohort study, we compared ocrelizumab- and natalizumab-treated relapsing multiple sclerosis patients who initiated treatment in the common treatment era from September 2017 with at least 24 months of follow-up or a confirmed disability accumulation event before month 24. Baseline confounding was addressed using a clinically specified propensity model and overlap weighting. Time-to-first-event outcomes were analysed using robust weighted Cox models. The primary cohort comprised 307 patients (217 ocrelizumab and 90 natalizumab). Overlap weighting achieved adequate balance across all fitted covariates with a maximum absolute standardized mean difference of 0.005. Natalizumab treatment was associated with a lower risk of disability worsening, reflected in a higher hazard of confirmed disability accumulation under ocrelizumab (80 vs 14 events, adjusted HR 2.50, 95% CI 1.40-4.47, p = 0.002). Ocrelizumab treatment was also associated with a higher hazard of progression independent of relapse activity than natalizumab (61 vs 12 events, HR 1.98, 95% CI 1.05-3.73, nominal p = 0.036), while relapse-associated worsening events remained rare in both groups (19 vs 2 events). Although the estimated hazard for relapse-associated worsening was higher in ocrelizumab-receiving patients (HR 5.88, 95% CI 1.28-26.95, nominal p = 0.023), this estimate was considered exploratory due to the low event count and non-proportional hazards. In this real-world study, natalizumab was associated with lower rates of disability accumulation, primarily driven by reduced progression independent of relapse activity compared to ocrelizumab. Progression independent of relapse activity emerged as the predominant contributor to long-term disability, underscoring the need for treatments that specifically target progression beyond relapse control.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43082018/"
+  },
+  {
     "pmid": "42956390",
     "title": "Establishing Potosi Virus as a Human Pathogen: Fatal Neuroinvasive Disease in a B-Cell-Depleted Patient.",
     "date": "2026 Nov 24",
@@ -4417,6 +4794,22 @@
     "abstract": "Multiple sclerosis (MS) is a chronic central nervous system disorder characterized by complex pathobiology involving overlapping immune-mediated inflammation and progressive neurodegeneration, both contributing to cumulative disability. Despite substantial advances in MS research and management, reliable biomarkers capable of capturing disease activity, progression, and therapeutic response remain an important unmet need. This review critically synthesizes current evidence on biomarkers reflecting immune activation, neuroaxonal injury, glial dysfunction, oxidative stress, and molecular and metabolic alterations. Among currently investigated fluid biomarkers, neurofilament light chain is the most extensively validated marker of neuroaxonal injury and inflammatory disease activity, whereas glial fibrillary acidic protein provides complementary information on astrocytic pathology and disease progression. Emerging approaches based on lipidomics and metabolomics, extracellular vesicles, transcriptomic and epigenetic profiling, microRNAs, and gut microbiome-associated signatures may further improve characterization of relapsing and progressive MS. Experimental models are considered as complementary translational platforms for linking measurable biomarker changes with defined mechanisms of inflammation, tissue injury, metabolic dysfunction, and treatment response, while distinguishing mechanistic plausibility from clinical biomarker performance. Given the biological heterogeneity of MS, future progress is likely to depend on integrated, multi-compartment and multi-omic biomarker signatures combined with clinical and imaging measures rather than on individual markers alone. Large longitudinal cohorts, analytical standardization, independent validation, and assessment across MS phenotypes and treatment settings will be essential for translating these approaches into clinically useful tools for monitoring disease activity and progression, prognosis, patient stratification, and individualized management.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43076424/"
+  },
+  {
+    "pmid": "43084980",
+    "title": "VDR variants and the HLA-region marker rs3135388 in relapsing-remitting multiple sclerosis: Association and exploratory allele-count analysis in a Libyan hospital-based sample.",
+    "date": "2026 Nov 24",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Alrouwab O",
+      "Benhizia H",
+      "Alshaibi A",
+      "Amara I",
+      "Kammon A"
+    ],
+    "abstract": "Multiple sclerosis (MS) genetics are poorly characterized in North Africa. We examined associations of VDR variants and an HLA-region marker with relapsing-remitting MS (RRMS), their joint effects and interaction with vitamin D status. This case-control study included 72 Libyan adults with RRMS and 83 frequency-matched healthy controls. VDR TaqI (rs731236) and ApaI (rs7975232) were genotyped by PCR-RFLP, and rs3135388, an HLA-region marker not validated as an HLA-DRB1×15:01 tag in Libyans, by TaqMan assay. Per-allele associations used Firth regression adjusted for age, sex and ethnicity (Bonferroni α=0.0167). Gene-gene and genotype-post-diagnosis 25-hydroxyvitamin D [25(OH)D] interactions and an unweighted effect-allele count were exploratory. TaqI-C (OR 1.92, 95% CI 1.18-3.19; P = 0.008) and rs3135388-A (OR 2.17, 95% CI 1.28-3.84; P = 0.003) were associated with RRMS and met the corrected threshold; ApaI-a was not (OR 1.62, 95% CI 0.98-2.70; P = 0.058). The effect-allele count was associated with RRMS (OR 1.93, 95% CI 1.41-2.72 per allele), without rs3135388 (OR 1.80, 95% CI 1.26-2.66). No statistically significant gene-gene or genotype-25(OH)D interaction was detected, but power was low and intervals include large interactions. rs3135388 was stable in ethnicity-based analyses (Arab-only OR 2.73, 95% CI 1.42-5.82), whereas TaqI attenuated among Arab participants (OR 1.51, 95% CI 0.88-2.65). In this small hospital-based sample, rs3135388-A, possibly reflecting broader HLA-region variation, showed the most consistent association; the causal allele or haplotype is unknown. Preliminary findings do not support screening, risk prediction or clinical decisions without replication, calibration and validation; the allele count is not a risk score, and stratification remains possible.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084980/"
   },
   {
     "pmid": "43074497",
@@ -4716,6 +5109,27 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43077821/"
   },
   {
+    "pmid": "43084981",
+    "title": "Cardiometabolic health, vascular function and cardiorespiratory fitness in Multiple Sclerosis and physical activity-matched controls.",
+    "date": "2026 Nov 21",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Nieste I",
+      "Franssen WMA",
+      "Van Campenhout S",
+      "Vanherle JLP",
+      "Joris PJ",
+      "Duvivier BMFM",
+      "Vanherle S",
+      "Dewachter I",
+      "Savelberg HHCM",
+      "Eijnde BO"
+    ],
+    "abstract": "The World Health Organization recommends 150-300 min/week of moderate-to-vigorous physical activity (MVPA) for adults, including persons with multiple sclerosis (PwMS), to prevent and manage cardiometabolic diseases. However, evidence specific to PwMS is limited, and it is unclear whether the favourable associations between MVPA and cardiometabolic health observed in the general population also extend to PwMS. This study compared cardiometabolic risk markers, vascular function, and cardiorespiratory fitness between PwMS and healthy controls (HC) matched for MVPA, and examined dose-response relationships with MVPA. Forty-two PwMS (relapsing-remitting) and 37 HC were matched for age, sex, BMI, and accelerometer-measured MVPA, and stratified into high- and low-MVPA groups based on the sample median (≥32 min/day). Outcomes included blood pressure, insulin sensitivity, circulating lipids, fat mass, a continuous cardiometabolic risk score, central arterial stiffness, endothelial function, and cardiorespiratory fitness. Overall, PwMS and HC did not differ in any outcomes. However, high-MVPA participants had lower diastolic blood pressure, better insulin sensitivity and lipid profiles, lower cardiometabolic risk scores, reduced central arterial stiffness, and higher cardiorespiratory fitness than low-MVPA participants (p < 0.05). MVPA was an independent predictor of these outcomes (R²=6-28%, p < 0.05), irrespective of MS status (mild relapsing-remitting MS vs HC), disability or MS duration. MVPA is strongly associated with a more favourable cardiometabolic health profile in ambulatory PwMS with mild disability and high sedentary time, consistent with general population observations. Longitudinal or interventional studies are needed to confirm causality.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084981/"
+  },
+  {
     "pmid": "43022365",
     "title": "Transcriptomic conservation defines autoimmune stem-like T cells and uncovers their dependence on Apex1.",
     "date": "2026 Nov 20",
@@ -4925,6 +5339,71 @@
     "abstract": "Multiple sclerosis (MS) is a chronic immune-mediated demyelinating disease and an important cause of neurological disability. China-centred assessments that integrate recent GBD estimates, international comparison, age-specific patterns and critical evaluation of long-term forecasting remain limited. We analysed Global Burden of Disease Study 2023 estimates for China and 18 other G20 country members from 1990 to 2023. Age-standardised prevalence, incidence, mortality and disability-adjusted life-year (DALY) measures were described geographically and over time. Age-specific patterns were assessed for China with both sexes combined. Autoregressive integrated moving average (ARIMA) models fitted to 1990-2018 were evaluated against 2019-2023 GBD estimates and naïve, drift and exponential-smoothing benchmarks, with rolling-origin and specification sensitivity analyses. In 2023, China had the lowest modelled age-standardised prevalence and incidence point estimates among the included countries, at 2.08 (95% uncertainty interval [UI] 1.70-2.52) and 0.093 (0.078-0.108) per 100,000, respectively. Its mortality and DALY rates were 0.028 (0.021-0.038) and 1.57 (1.25-2.02). From 1990 to 2023, China's prevalence point estimate increased from 1.34 to 2.08 per 100,000, whereas mortality and DALY point estimates decreased. ARIMA had lower holdout root mean squared error than all three benchmarks for only two of eight series; the naïve method performed best for the other six, tying with exponential smoothing for death counts. China had low modelled age-standardised MS prevalence and incidence estimates among the included countries. International differences remain contingent on diagnostic capacity, data coverage and model assumptions. Historical patterns support continued surveillance and assessment of care needs, while the temporal validation does not establish reliable numerical targets for 2040.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43072290/"
+  },
+  {
+    "pmid": "43091142",
+    "title": "Assessment of Multiple Sclerosis Progression: From Clinical Measures to Multimodal Biomarkers-A Narrative Review.",
+    "date": "2026 Nov 20",
+    "journal": "Journal of clinical medicine",
+    "authors": [
+      "Gajewska G",
+      "Lasek-Bal A",
+      "Puz P"
+    ],
+    "abstract": "Disability progression in multiple sclerosis (MS) may develop from the earliest disease stages and can occur independently of overt relapses. This narrative review summarizes current approaches to the assessment of MS progression, with emphasis on confirmed disability worsening/progression, relapse-associated worsening (RAW), progression independent of relapse activity (PIRA), functional and cognitive measures, patient-reported outcomes, fluid biomarkers, magnetic resonance imaging markers, and optical coherence tomography. The Expanded Disability Status Scale (EDSS) remains the reference clinical measure but is insufficient as a stand-alone tool because of limited sensitivity to upper-limb and cognitive change. Quantitative measures such as the Timed 25-Foot Walk, Nine-Hole Peg Test, and Symbol Digit Modalities Test provide complementary information. Among fluid biomarkers, serum neurofilament light chain primarily reflects neuroaxonal injury and inflammatory disease activity, whereas glial fibrillary acidic protein may provide additional information on astroglial injury and progression risk; neither is currently a stand-alone marker of progression. MRI markers including brain and spinal cord atrophy, paramagnetic rim lesions, and slowly expanding lesions are associated with adverse outcomes but remain limited by technical and analytical variability. A multidimensional longitudinal approach integrating clinical, functional, cognitive, patient-reported, imaging, and fluid-biomarker data is therefore the most defensible strategy for identifying and monitoring progression.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091142/"
+  },
+  {
+    "pmid": "43087957",
+    "title": "Neural Correlates of Cognitive Near-Transfer Following Virtual Reality Training in Multiple Sclerosis and Healthy Controls: A Functional Magnetic Resonance Imaging Study.",
+    "date": "2026 Nov 20",
+    "journal": "Biomedicines",
+    "authors": [
+      "Mezquita MZ",
+      "Esbrí SF",
+      "Segura CS",
+      "Riccitelli GC",
+      "Forn C"
+    ],
+    "abstract": "",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087957/"
+  },
+  {
+    "pmid": "43087947",
+    "title": "Age-Associated Differences in Intrathecal Inflammation and Astroglial Responses in Early Treatment-Naïve Multiple Sclerosis: An Exploratory Study.",
+    "date": "2026 Nov 20",
+    "journal": "Biomedicines",
+    "authors": [
+      "Blanco-Ruiz M",
+      "Rebollo Lavado B",
+      "Ruiz Franco ML",
+      "Muñoz Vico FJ",
+      "Frejo Navarro L",
+      "Garcia Torrecillas JM",
+      "Muñoz Fernández C"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087947/"
+  },
+  {
+    "pmid": "43085113",
+    "title": "The etiology, pathogenesis and pathophysiology of MS, AQP4-IgG and MOG-IgG associated optic neuritis and associated visual implications: a scoping review.",
+    "date": "2026 Nov 20",
+    "journal": "Journal of neuroimmunology",
+    "authors": [
+      "Rampling S",
+      "Jeyakumar N",
+      "Slee M",
+      "Chen C",
+      "Ramanathan S",
+      "George S"
+    ],
+    "abstract": "Optic neuritis (ON) is a common phenotype across acquired demyelinating disorders including multiple sclerosis (MS), aquaporin-4 immunoglobulin G-positive neuromyelitis optica spectrum disorder (AQP4-IgG NMOSD), and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). With autoantibody discoveries reshaping the characterisation of ON and fuelling an increase in published studies, we aim to consolidate evidence on the etiological, pathogenetic, and pathophysiological dimensions of MS, AQP4-IgG, and MOG-IgG mediated ON and explore their implications for visual outcomes. We conducted a scoping review of evidence syntheses comprising studies published between January 2020 and February 2025 across six databases. Findings were synthesised narratively by diagnosis with commentary provided on the prevailing literary themes and mechanistic insights into the underlying conditions. Twenty-five systematic reviews +/- meta-analyses were included. Findings highlight both shared and diagnosis-specific themes and mechanistic features, underscoring the heterogeneity of research across demyelinating conditions and the distinct nature of these diseases. Infection and vaccination were recurring etiological themes, NMOSD literature was more abundant and mechanistically diverse, while retinal measures and microvasculature were largely concentrated in MS but extended to cross-diagnostic comparisons. Retinal structural and vascular changes are shared across all three diagnoses, but with unique disease-specific signatures. Continued elucidation of the pathomechanisms of demyelination and astrocytopathy and their links to disease biomarkers is needed to advance our understanding of disease progression and inform improved therapeutic interventions.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43085113/"
   },
   {
     "pmid": "42965313",
@@ -5142,6 +5621,29 @@
     "abstract": "Acute intermittent hypoxia (AIH) therapy is a promising neurorehabilitative intervention with well- documented improvement in motor function in people with spinal cord injury. Its effect on lower-limb motor control in multiple sclerosis (MS), where walking impairment is a leading source of disability, remain uncharacterized, and the supraspinal effects of AIH therapy are unknown. In a sham-controlled, double-blind crossover trial ( NCT05164705 ), 23 adults with MS completed 5 sessions of AIH therapy and of sham therapy; magnetic resonance imaging (MRI) was performed before and after each therapeutic intervention. At each timepoint, blood oxygenation level-dependent (BOLD) functional MRI was collected during a repeated plantar- and dorsi-flexion task. Task-evoked activation was modeled at the group level and compared across timepoint and therapeutic arm. Activation changes differed for the left- and right-foot task. AIH augmented activation in the basal ganglia, thalamus, and cortical motor regions during left-foot movement with similar but sub-threshold patterns for the right foot. Right-foot movement additionally showed enhanced deactivation in prefrontal, parietal, and temporal cortices, although these effects were primarily in white matter voxels, limiting their interpretability. These findings suggest that changes in subcortical activation may contribute to motor function improvements following AIH therapy, implicating the basal ganglia-thalamo-cortical motor loop as a target of AIH-induced neuroplasticity. These results also indicate that AIH therapy modulates supraspinal motor circuitry, supporting further investigation of the cortical and subcortical effects of this emerging therapeutic treatment.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43060299/"
+  },
+  {
+    "pmid": "43084979",
+    "title": "How are psychological therapies implemented for people with multiple sclerosis?: A scoping review using the Expert Recommendations for Implementing Change (ERIC) taxonomy.",
+    "date": "2026 Nov 2",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Sureshkumar A",
+      "Simpson R",
+      "Scandiffio J",
+      "Main E",
+      "Zhang C",
+      "Gnanakaran H",
+      "Wijeratne J",
+      "Saxena A",
+      "Lai N",
+      "Bayley M",
+      "Kastner M",
+      "Munce S"
+    ],
+    "abstract": "People with multiple sclerosis (PwMS) experience high levels of stress, anxiety and depression. Psychological therapies have been shown to be effective in managing these symptoms, yet their implementation in clinical practice is underexplored. This review aimed to 1) determine which implementation strategies have been used to develop and deliver psychological therapies for PwMS and 2) investigate how equity, diversity, inclusion, and accessibility (EDIA) considerations are embedded within these implementation strategies. The search was conducted across four databases. Primary research studies involving PwMS that included implementation strategies (aligned with the Expert Recommendations for Implementing Change (ERIC) taxonomy) for delivering psychological therapies were included. Two reviewers independently conducted screening and data extraction. Implementation strategies for extraction were guided by the ERIC taxonomy. A directed content analysis was undertaken for qualitative data. Eleven studies were included in this review. Common psychological therapies included mindfulness-based interventions (MBIs) and cognitive behavioural therapy (CBT) typically delivered in weekly sessions for about 5 to 8 weeks. Six out of nine ERIC clusters were identified, with the 'use of evaluative and iterative' strategies and 'adapt and tailor to context' being the most common. Considerations for EDIA characteristics were limited as most studies primarily reported on age, sex, education, and MS-related factors. Although psychological therapies for PwMS are increasingly being studied with some considerations for implementation science, strategies related to system-level implementation (e.g., organizational infrastructure) were largely absent. Future research should move beyond evaluating intervention effectiveness and instead focus on how these interventions can be sustainably implemented within real-world healthcare systems.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084979/"
   },
   {
     "pmid": "43053674",
@@ -5386,6 +5888,24 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43075683/"
   },
   {
+    "pmid": "43088969",
+    "title": "TurboRhythmPat and Directed Rhythm Lobish: An Explainable Multi-Selector EEG Model for Recognising Attack and Post-Attack States in Multiple Sclerosis.",
+    "date": "2026 Nov 19",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "authors": [
+      "Ay B",
+      "Demir CF",
+      "Tasci I",
+      "Tasci B",
+      "Baygin M",
+      "Tuncer T",
+      "Dogan S"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088969/"
+  },
+  {
     "pmid": "43051379",
     "title": "Modulation of the endocannabinoid system through diet, physical activity and microbiome in the new era of multiple sclerosis.",
     "date": "2026 Nov 18",
@@ -5462,6 +5982,61 @@
     "abstract": "Antinuclear antibody (ANA) testing is used during the diagnostic evaluation of multiple sclerosis (MS), yet whether ANA reactivity reflects an MS-specific humoral autoimmune profile remains uncertain. This retrospective, single-centre matched case-control study compared ANA indirect immunofluorescence (ANA-IIF), International Consensus on ANA Patterns (ICAP)-classified morphology, and 16-antigen line immunoblot reactivity in 349 patients with MS and 349 non-autoimmune neurological controls matched 1:1 on exact age and sex. Paired analyses used exact McNemar and Stuart-Maxwell tests, conditional logistic regression, and Benjamini-Hochberg correction for secondary comparisons. Overall HEp-2 IIF reactivity (nuclear, cytoplasmic, or mitotic; post hoc) was more frequent in MS (33.5% vs 24.9%; matched odds ratio [OR] 1.58, 95% confidence interval [CI] 1.11-2.23; nominal P = 0.012). Nuclear ANA-IIF positivity was higher (30.9% vs 22.9%; OR 1.52; P = 0.020; secondary BH-FDR q = 0.101). No significant differences emerged for the primary four-category serological phenotype (Stuart-Maxwell P = 0.111), immunoblot positivity (26.1% vs 22.9%; OR 1.20, 95% CI 0.84-1.72), polyreactivity (5.2% vs 5.4%), immunoblot burden, or any of the 16 tested antigens. Immunoblot positivity increased across nuclear ANA-IIF titer categories in both groups; the group-by-titer interaction was not significant (P = 0.226). Exploratory conditional models associated immunoblot positivity with nuclear ANA-IIF reactivity and increasing titer, but not with MS status. Borderline immunoblot sensitivity analyses were concordant. Post hoc overall HEp-2 IIF reactivity was modestly more frequent in MS, without evidence of differences across 16 tested immunoblot antigens. Isolated IIF positivity does not establish systemic autoimmune disease; serological testing should remain clinically directed.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43068620/"
+  },
+  {
+    "pmid": "43093769",
+    "title": "Molecularly Aged Protein States as Targets for Drug Design and Delivery in Neurodegenerative Diseases.",
+    "date": "2026 Nov 18",
+    "journal": "Pharmaceutics",
+    "authors": [
+      "Alromaihi R",
+      "Almerdasi SA",
+      "Almusallam AA",
+      "Alromaihi M",
+      "Aljohani WA",
+      "Khan MA",
+      "Khan A",
+      "Allemailem KS"
+    ],
+    "abstract": "Neurodegenerative drug discovery usually represents a protein target by its gene, canonical sequence, and one or a few structures. That representation can miss the molecular history accumulated by proteins that persist in the brain. Spontaneous chemistry, incomplete repair, altered turnover, proteolysis, phase transitions, and assembly remodeling generate states that may differ from the canonical target in exposure, function, and therapeutic accessibility. We call compositionally resolved species age-generated proteoforms and use molecularly aged protein states when the exact composition remains uncertain. This Review develops a target-state framework for Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis and frontotemporal dementia, Huntington disease, and multiple sclerosis. It separates detection from age association, causality, brain exposure, proximal target engagement, and clinical evidence. Disease-specific analyses connect tau and amyloid-beta proteoforms, alpha-synuclein and lysosomal or mitochondrial assemblies, TDP-43 loss-of-function states, and persistent myelin or extracellular-matrix states to rational modalities and critical validation experiments. Repair, selective removal, stabilization, state-selective antibodies and small molecules, intrabodies, replacement, and synthesis control are evaluated together with blood-brain barrier transport, cellular and organelle access, pharmacokinetics, and pharmacodynamics. Each class of target state is mapped to the delivery constraint it imposes and the platform for which a precedent exists, and the exposure requirements that state selectivity implies are set out explicitly, including the fraction of a pool that must be engaged, the duration required to move a slowly accumulating state, and the consequences for dosing interval and pharmacodynamic biomarker choice. The aggregate-directed amyloid antibodies are analysed as the existing clinical test of the framework and of its limits. Machine learning remains central to proteoform identification, multimodal prioritization, structure modeling, and molecular design, provided that labels and prospective tests preserve target-state identity. Classical quantum chemistry can address bounded reaction and recognition problems. Quantum computing is treated as an exploratory implementation that requires matched classical baselines and explicit resources. The central requirement is not that an old protein be abnormal, but that a defined disease-relevant state can be selectively engaged while preserving the functional pool.",
+    "category": "Ремиелинизация и восстановление",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43093769/"
+  },
+  {
+    "pmid": "43088948",
+    "title": "CNN-ViT-Based Model Incorporating a Voting-Based Ensemble Method with Future Fusion for Multiple Sclerosis Classification.",
+    "date": "2026 Nov 18",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "authors": [
+      "Ciplak S",
+      "Karaduman M",
+      "Bingol H",
+      "Yildirim M"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088948/"
+  },
+  {
+    "pmid": "43088947",
+    "title": "AI-Assisted Follow-Up MRI Interpretation in Multiple Sclerosis: Radiology Residents' Diagnostic Confidence and Performance.",
+    "date": "2026 Nov 18",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "authors": [
+      "Mastilovic M",
+      "Tomlinson A",
+      "Traore WM",
+      "Alkatheeri M",
+      "Romčević I",
+      "Boban J",
+      "Muñoz-Ramírez V",
+      "Blanchere M",
+      "Heinzlef O",
+      "Edjlali M"
+    ],
+    "abstract": "",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088947/"
   },
   {
     "pmid": "43041155",
@@ -6157,6 +6732,52 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43048833/"
   },
   {
+    "pmid": "43091805",
+    "title": "Positive Allosteric Modulation of mGluR5 by VU0409551 Attenuates Clinical Severity, Anxiety-like Behavior, and Persistent Neuroinflammation in Experimental Autoimmune Encephalomyelitis.",
+    "date": "2026 Nov 13",
+    "journal": "International journal of molecular sciences",
+    "authors": [
+      "Goulart MT",
+      "Fahel JS",
+      "Cardozo PL",
+      "Fantin J",
+      "Maciel EMA",
+      "Oliveira JSB",
+      "Silva EG",
+      "Rezende-Ribeiro J",
+      "Silva NC",
+      "Santos LGP",
+      "Mello THG",
+      "Gorshkov V",
+      "Kjeldsen F",
+      "Verano-Braga T",
+      "Vieira LB",
+      "Ribeiro FM"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic autoimmune, inflammatory, demyelinating disease of the central nervous system, characterized by progressive neurodegeneration and disability. Current disease-modifying therapies primarily target peripheral immune cells and show limited efficacy in halting relapse-independent long-term progression and the resulting neurodegeneration. The type 5 metabotropic glutamate receptor (mGluR5) has emerged as a promising therapeutic target due to its role in regulating neuroinflammation and cell survival. This study evaluated the therapeutic efficacy of VU0409551, a selective mGluR5 positive allosteric modulator (PAM), in the experimental autoimmune encephalomyelitis (EAE) mouse model, the most widely studied animal model of MS. Daily treatment with VU0409551 (10 mg/kg, intraperitoneally) significantly attenuated clinical disease severity and prevented characteristic body weight loss. Proteomic analyses revealed that VU0409551 treatment attenuated molecular signatures associated with immune responses. During remission, VU0409551 ameliorated EAE-associated anxiety-like behavior and attenuated persistent cortical neuroinflammatory alterations, including astrogliosis, microglial accumulation, and increased TNF expression. Notably, treatment also reduced signatures associated with astrocyte and oligodendrocyte reactivity, including C3, C4b, Serpina3n, and H2-D1. These findings demonstrate that VU0409551 exerts robust therapeutic effects, positioning it as a promising and novel disease-modifying candidate for MS.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091805/"
+  },
+  {
+    "pmid": "43088072",
+    "title": "Objective Longitudinal Monitoring of Postural Stability and Gait During Neurorehabilitation: Clinical Application of Instrumented Posturography and Three-Dimensional Motion Analysis.",
+    "date": "2026 Nov 13",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "authors": [
+      "Törő B",
+      "Kóra S",
+      "Kós P",
+      "Prontvai N",
+      "Alföldi V",
+      "Török K",
+      "Haidegger T",
+      "Tollár J"
+    ],
+    "abstract": "Instrumented human-movement assessment can be integrated with neurological examination and clinical scales to objectify functional deficits and quantify rehabilitation-related change. We evaluated a diagnostic-integration pathway in which TecnoBody ProKin posturography and Xsens MVN Awinda gait analysis were embedded in routine hospital neurorehabilitation as objective functional-diagnostic and outcome-monitoring tools. This manuscript reports a secondary exploratory longitudinal analysis of prospectively acquired routine-care measurements. The publication dataset comprised 151 participants with baseline posturography (stroke, n = 90; Parkinson's disease, n = 38; multiple sclerosis [MS], n = 23); baseline gait data were available for 107. Diagnosis-specific Gaussian random-intercept models were fitted by restricted maximum likelihood with categorical time, and global time effects and PRE-to-POST contrasts were controlled using Benjamini-Hochberg False Discovery Rate (FDR) correction. In stroke, dynamic open-eye Total Stability Index (TSI) showed an FDR-significant global time effect (Wald χ Diagnostic integration of ProKin and Xsens into routine neurorehabilitation was feasible and generated objective patient-specific trajectories for balance and gait outcome monitoring. The measurements can objectify rehabilitation-related functional change, but the uncontrolled design does not establish causal treatment efficacy, and clinically meaningful individual-change thresholds remain to be validated.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088072/"
+  },
+  {
     "pmid": "43020595",
     "title": "Tumefactive multiple sclerosis in an adolescent with Evans syndrome and secondary hypogammaglobulinaemia.",
     "date": "2026 Nov 12",
@@ -6347,6 +6968,21 @@
     "abstract": "Rituximab (RTX) is widely used off-label for CNS demyelinating disorders, but long-term discontinuation and safety data remain limited. To characterize RTX discontinuation reasons, describe serious adverse events (SAEs), identify associated risk factors, and evaluate long-term effectiveness and mortality. Observational retrospective study of 282 patients with MS, NMOSD, or MOGAD who received ≥1 RTX cycle at the Neuroimmunology Unit CSUR/ERN-RITA (La Fe University Hospital, Valencia, Spain). SAEs were descriptively characterized by type and frequency. Separate Firth penalized logistic regression models evaluated neoplasms, infections, and MACE as outcomes, adjusting for sex, EDSS, prior immunosuppression at initiation (PI), and age at RTX start. Mortality was compared with an agematched Spanish population to estimate the SMR. After 6 years follow-up (retention 95.9%), 148 patients (52.5%) discontinued RTX. SAEs were the leading cause (43.2%), followed by treatment failure (34.5%): disability progression and relapses. The most frequent SAEs were neoplasms (6.0%), infections (4.6%), and MACE (3.1%). PI was associated with increased neoplasia risk (OR 3.12, 95% CI 1.02-11.23; p = 0.046); higher baseline EDSS with MACE (OR 4.78, 95% CI 2.00-15.01; p < 0.001). Relapse rate was 2.1%. Thirteen deaths were recorded (SMR 2.84). RTX provides sustained disease control in CNS demyelinating disorders.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43044193/"
+  },
+  {
+    "pmid": "43088506",
+    "title": "Autophagic Flux Bottlenecks in Neurodegenerative Disease: From Cell-Specific Failure to Defect-Directed Therapy.",
+    "date": "2026 Nov 12",
+    "journal": "Current issues in molecular biology",
+    "authors": [
+      "Shivhare K",
+      "Nair T",
+      "Shrivastva S",
+      "Singh PK"
+    ],
+    "abstract": "Autophagic dysfunction is a recurrent feature of neurodegenerative disease, but increased pathway activity does not necessarily indicate effective cargo clearance. This review examines autophagic flux as a multistep quality-control process in which cargo recognition, autophagosome formation, intracellular transport, lysosomal fusion, degradation, and metabolite recovery must remain functionally coupled. We discuss how bottlenecks at different stages generate distinct consequences across neurons, microglia, astrocytes, oligodendrocyte-lineage cells, and neural stem or progenitor cells, and compare disease-specific patterns in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal dementia, Huntington's disease, and multiple sclerosis. These disorders exhibit overlapping but context-dependent autophagy-lysosomal defects, including impaired cargo recognition, mitochondrial turnover, autophagosome transport, lysosomal degradation, and cell-specific cargo processing. These mechanistic differences support defect-directed therapeutic strategies, although evidence that correcting individual bottlenecks restores autophagic flux and improves clinical outcomes remains limited. Upstream induction may be ineffective when downstream transport, fusion, or lysosomal degradation is impaired. Therapeutic strategies should therefore be evaluated using mechanism-appropriate measures of target engagement and downstream cargo degradation. Defining autophagic flux at cell- and compartment-specific resolution may help distinguish productive clearance from nonspecific pathway activation across disease stages, genotypes, and clinically distinct patient populations.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088506/"
   },
   {
     "pmid": "43015945",
@@ -6696,6 +7332,35 @@
     "abstract": "Walking impairment affects up to 75% of persons with multiple sclerosis (MS), and the benefits of rehabilitation are constrained by limited capacity for training-induced neuroplasticity. Acute intermittent hypoxia (AIH), brief repeated exposures to low inspired oxygen, triggers serotonin-dependent spinal plasticity that enhances motor output. In spinal cord injury, daily AIH paired with walking training has produced larger walking gains than training alone, positioning AIH as a promising primer for rehabilitation. Before AIH can be combined with training in MS, its safety and stand-alone effects with repeated daily dosing must be established in a population with demyelinating disease. We therefore conducted the first multi-day AIH trial in persons with MS to characterize safety and tolerability and to evaluate preliminary effects on ankle strength and walking. Twenty-three ambulatory adults with MS (Expanded Disability Status Scale [EDSS] 3.0-6.5; 15 relapsing-remitting, 8 secondary-progressive) completed a randomized, double-masked, placebo-controlled crossover trial. Participants received AIH (15 × ~60 s episodes; FiO No serious adverse events related to the intervention were reported, and follow-up MRI showed no new MS activity in either arm. Mean nadir SpO Daily AIH sessions are safe and well tolerated in persons with MS across a clinically heterogeneous disability range and produce significant improvements in ankle plantarflexion strength and walking endurance. These findings support combining AIH with task-specific gait training in future trials.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43059960/"
+  },
+  {
+    "pmid": "43093738",
+    "title": "Shape as an Independent Design Parameter for Blood-Brain Barrier Crossing: Anisotropic Nanoparticles in Neurodegenerative Diseases.",
+    "date": "2026 Nov 10",
+    "journal": "Pharmaceutics",
+    "authors": [
+      "Turovsky EA"
+    ],
+    "abstract": "",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43093738/"
+  },
+  {
+    "pmid": "43091696",
+    "title": "Exercise in Multiple Sclerosis: Mechanisms, Clinical Benefits, Potential Disease-Modifying Effects, and Practical Recommendations.",
+    "date": "2026 Nov 10",
+    "journal": "International journal of molecular sciences",
+    "authors": [
+      "Gklinos P",
+      "Christodoulou G",
+      "Konstantinidou EM",
+      "Spyropoulos D",
+      "Evangelopoulos ME",
+      "Mitsikostas DD"
+    ],
+    "abstract": "The role of exercise in the management of multiple sclerosis (MS) has undergone a remarkable shift. Exercise was once discouraged due to concerns over symptom worsening; this view has since been overturned, and exercise is now recognized as an important component of contemporary MS care. It is increasingly recognized as a safe and effective non-pharmacological, symptomatic intervention improving quality of life, and several disabling symptoms including fatigue, pain, muscle weakness, spasticity, poor balance and cognitive complaints. Beyond its established role in symptomatic management, this review examines the potential role of exercise as a disease-modifying intervention in MS. Mechanistic evidence regarding peripheral immunomodulation, blood-brain barrier integrity, microglial activation, neurotrophic signaling and neuroplasticity is examined, alongside data from clinical trials and meta-analyses on clinical, imaging and biochemical outcomes, suggesting potential effects on disease biology and progression. Finally, based on the available literature and existing published frameworks we provide updated practical recommendations for individualized exercise prescription according to disability level, baseline fitness, individual preferences, and available resources. Together, these recommendations aim to contribute to the integration of exercise into routine MS care, while emerging evidence for its disease-modifying potential provides an important direction for future research.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091696/"
   },
   {
     "pmid": "42952209",
@@ -7395,6 +8060,37 @@
     "abstract": "The molecular and cellular mechanisms underlying neurodegenerative diseases remain incompletely understood, hindering the development of disease-modifying therapies. Therefore, new conceptual frameworks for neurodegeneration are urgently needed. This review examines evidence suggesting that transposable elements (TEs) play a role in these diseases. Aberrant TE activation has been reported in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis, and it is increasingly linked to innate immune activation, genomic instability, and neuronal dysfunction. Due to their repetitive nature, TEs are difficult to study. However, recent advances in sequencing technologies now enable more precise profiling of TE expression and activity in the aging and diseased brain. In this review, we discuss recent findings and key methodological and bioinformatic challenges. We also highlight emerging models that position TEs as potential drivers of chronic neuroinflammation and neurodegeneration, with important implications for the development of novel biomarkers and therapeutic strategies for these currently incurable diseases.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43073025/"
+  },
+  {
+    "pmid": "43080861",
+    "title": "Processing Speed Test vs Symbol Digit Modalities Test: Cognitive Screening in a Canadian Population With Multiple Sclerosis.",
+    "date": "2026 Nov",
+    "journal": "International journal of MS care",
+    "authors": [
+      "Morrow SA",
+      "Hancock LM",
+      "Everest M",
+      "Rosehart H"
+    ],
+    "abstract": "Cognitive impairment is common in persons with multiple sclerosis (MS). The Symbol Digit Modalities Test (SDMT) is recommended as a clinical screening tool; however, it requires in-person administration. The Processing Speed Test (PST), self-administered on an iPad, may be an alternative. It has not been validated in populations outside the United States, nor have longitudinal studies been done. In this study, we compare performance on the SDMT and PST in a Canadian MS population and compare change on both tests over time. Persons with MS were recruited consecutively from the London MS Clinic in Canada. The SDMT and PST were administered in random order in the same visit. Pearson At baseline, there were 100 participants, with a mean age of 46.2 years; 75 were women. SDMT and PST raw scores ( This study demonstrates that the PST may be a valid alternative to the SDMT as a clinical screening tool in a Canadian MS population.",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080861/"
+  },
+  {
+    "pmid": "43080852",
+    "title": "Multiple sclerosis concomitant with a brain tumor, diagnostic and therapeutic approach in a country with low endemicity, democratic republic of Congo: a case report.",
+    "date": "2026 Nov",
+    "journal": "Oxford medical case reports",
+    "authors": [
+      "Medou Zaouil A",
+      "Mwamba K",
+      "Yanda S",
+      "Bumoko G",
+      "Sombo MT"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a demyelinating disease of the central nervous system that remains rare in sub-Saharan Africa. The coexistence of MS with intracranial tumors presents significant diagnostic and therapeutic challenges. We report the case of a 25-year-old male residing in the Democratic Republic of Congo (DRC) who presented with relapsing neurological deficits. Clinical evaluation and magnetic resonance imaging (MRI) based on the revised 2017 McDonald criteria confirmed the concomitant presence of MS and a temporal brain tumor (meningioma). Treatment with methotrexate led to complete disease stabilization without subsequent flare-ups. This rare association highlights the critical role of neuroimaging in resource-limited settings where demyelinating disorders are frequently underdiagnosed.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080852/"
   },
   {
     "pmid": "42953809",
@@ -10262,5 +10958,40 @@
     "abstract": "Autoimmune diseases affect an estimated 4-9% of the global population, yet current therapies remain predominantly non-specific, offering symptom control rather than durable immune correction. The convergence of liver immunology and lipid nanotechnology offers a mechanistically grounded route toward organ-specific, antigen-directed immune tolerance, an approach that aims to reprogram, rather than merely suppress, pathological immune responses. Liver-resident antigen-presenting cells, including Kupffer cells, liver sinusoidal endothelial cells, and tolerogenic dendritic cells can be selectively engaged by engineered lipid nanoparticles (LNPs) to promote the generation of antigen-specific regulatory T cells and reprogram inflammatory networks. Preclinical studies across murine models of autoimmune hepatitis, type 1 diabetes, and multiple sclerosis demonstrate significant disease attenuation, including expansion of FoxP",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43080275/"
+  },
+  {
+    "pmid": "43094511",
+    "title": "Processing speed accounts for the discriminative power of a brief smartphone Go/No-Go task among individuals with multiple sclerosis.",
+    "date": "2026",
+    "journal": "Frontiers in psychology",
+    "authors": [
+      "Kosa P",
+      "Moghadam Ahmadi A",
+      "Kanu M",
+      "Mejia Y",
+      "Mekasha E",
+      "Steltzner C",
+      "Bielekova B"
+    ],
+    "abstract": "Identifying and longitudinally measuring cognitive decline remains challenging because traditional assessments rely largely on episodic, in-person administration of analog scales by trained examiners. Smartphone technology offers a scalable alternative for extracting distinct digital biomarkers from continuous sensor and event streams. Following the integration of several cognitive modules into the self-administered Neurological Functions Test Suite (NeuFun-TS), this study evaluates the clinical utility and incremental validity of a final candidate module: a brief (30 s per hand) equiprobable (50/50) Go/No-Go (50/50GNG) choice-reaction task. We analyzed 3,270 quality-controlled 30-s runs from 303 participants, with primary analyses focused on the first run per hand (488 observations; 18,650 stimuli) across 34 healthy donors (HDs) and 213 multiple sclerosis (MS) participants. From the raw event stream, we screened 16 candidate metrics and retained 10 based on their psychometric properties. Using these 10 metrics, we evaluated diagnostic group separation, test-retest reliability, correlations with clinical and magnetic resonance imaging (MRI) benchmarks, and incremental validity over existing digital modules: the randomized Symbol Digit Modalities Test (rSDMT) and the Motor Sequencing Test (MST), using paired observations. Although nine of the 10 outcomes significantly separated HD from MS and seven separated relapsing-remitting from progressive MS subtypes (all adjusted In this brief implementation, the smartphone Go/No-Go task served as a choice-reaction-time measure reflecting processing-speed impairment in MS; however, its discriminative capability was redundant with reaction-time metrics already implemented on the platform, so the module was excluded from NeuFun-TS. These findings do not generalize to longer continuous performance tests, whose error-based measures require many more stimuli than a 30-s run provides.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094511/"
+  },
+  {
+    "pmid": "43080736",
+    "title": "Exosomes as biomarker-diagnostics and therapeutics for multiple sclerosis: promise, pitfalls, and the rising role of milk-derived exosomes, towards next-generation precision medicine.",
+    "date": "2026",
+    "journal": "Frontiers in immunology",
+    "authors": [
+      "Skarlis C",
+      "Lantzi M",
+      "Papakonstantinou E",
+      "Chrousos GP",
+      "Vlachakis D",
+      "Anagnostouli M"
+    ],
+    "abstract": "Multiple sclerosis (MS) is a chronic, immune-mediated demyelinating disease of the central nervous system (CNS) characterized by inflammation, neurodegeneration, and failed remyelination. Extracellular vesicles (EVs), including exosomes, mediate intercellular communication by shuttling proteins, lipids, and nucleic acids. In MS, EVs participate in antigen presentation, blood-brain barrier (BBB) dysfunction, and neuron-glia crosstalk; their molecular cargo can reflect the cellular state of origin, making them attractive candidates as minimally invasive biomarkers. Parallel advances suggest EVs as promising drug-delivery vehicles capable of targeting the CNS. Mesenchymal stem cell (MSC)-derived exosomes have emerged as particularly promising, suppressing pro-inflammatory microglia, promoting oligodendrocyte maturation, and supporting remyelination in preclinical models. In the broader landscape of neurodegenerative diseases, exosomes exhibit a complex bidirectional regulatory role, serving both as pathological carriers facilitating the transcellular propagation of toxic proteins and as endogenous regulatory systems delivering anti-inflammatory factors and neurotrophic molecules. Among EV sources, milk-derived exosomes (MDEs) are abundant, orally bioavailable, stable in the gastrointestinal tract, and increasingly shown to cross biological barriers and modulate immunity-features that warrant serious consideration for MS diagnostics and therapeutics. Here, we summarize state-of-the-art evidence on the roles of EVs in MS pathobiology, candidate diagnostic signatures, and therapeutic strategies encompassing tolerogenic, anti-inflammatory, and remyelinating approaches. We review MDEs in depth: their composition, isolation rigor, manufacturability from dairy streams, biodistribution, and engineering for CNS targeting. We conclude with a translational roadmap and a critical appraisal of outstanding challenges in standardization, specificity, safety, and regulation, towards next-generation precision medicine in MS.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080736/"
   }
 ]
