@@ -227,6 +227,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42965791/"
   },
   {
+    "pmid": "43099469",
+    "title": "Evaluation of the interthalamic adhesion in patients with multiple sclerosis.",
+    "date": "2026 Sep 5",
+    "journal": "BMC neurology",
+    "authors": [
+      "Özgür ŞÇ",
+      "Özgür A",
+      "Sevim MS",
+      "Örekici Temel G"
+    ],
+    "abstract": "Multiple sclerosis is a chronic demyelinating disease causing atrophy in whole brain and deep gray matter structures resulting in physical and cognitive disability. In this study, we investigated the size of ITA in patients with MS and evaluated the relationship between the size of ITA and CCI, EDSS score and disease duration. The subjects aged 18 to 60 years who had 3D FLAIR images were included to this retrospective study. Patient group consisted of 104 subjects with a diagnosis of MS and the control group consisted of 59 subjects with normal imaging findings. Two operators independently reviewed midsagittal 3D FLAIR images to detect and measure the 'surface area', 'ap' and 'cc' size of ITA and calculated CCI. Clinical data including MS subtype, EDSS score and disease duration were evaluated in patients. P < 0.05 was considered significant. While ITA was present in all subjects of control group, it was absent in 19 MS patients (19/104; % 18,26). The mean values of CCI, 'surface area', 'cc' and 'ap' size of ITA in MS patients were lower than those in control group. The ITA parameters showed positive correlation with CCI and no correlation with EDSS score and disease duration in patient group. The mean values for age, disease duration and EDSS score were higher in patients without ITA than those with an identifiable ITA. Our study shows that the size of ITA may have a potential role in the assessment of the cerebral atrophy in MS patients.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099469/"
+  },
+  {
     "pmid": "42939314",
     "title": "Gyroscopic Radiosurgery for Trigeminal Neuralgia: Results of a Retrospective Series of >50 Patients.",
     "date": "2026 Sep 30",
@@ -1634,6 +1649,24 @@
     "abstract": "Whole-exome sequencing (WES) has been used to investigate rare variation in multiple sclerosis (MS), particularly in multiplex families and selected clinical cohorts. This systematic review examines candidate findings, replication, participant overlap and the distinction between susceptibility, Mendelian causation and diagnostic mimicry. Thirty-six reports published between 2011 and 2026 were included, identified through database and citation searches, a supplementary Embase search and eligibility reassessment during revision. Family-based studies nominate biologically plausible genes and pathways, but independent confirmation is limited. Follow-up studies challenge several prominent claims, including high-penetrance NR1H3 causation and the initial CYP27B1 association. Susceptibility alleles, disease-course modifiers, gene-set burdens and alternative diagnoses require distinct interpretive frameworks; a Mendelian gene-validity grade cannot serve as a common scale. Larger studies provide important negative evidence within their tested populations, genes and outcomes, without excluding all rare-variant contributions to MS. The assembled evidence does not establish a high-penetrance monogenic explanation for typical MS. Genomic testing may nevertheless identify alternative inherited disorders in selected atypical presentations. Heterogeneous designs, incomplete replication and participant overlap limit the strength of inference. Future studies should prioritise independent replication, ancestry-aware analysis, transparent variant-level results and disease-relevant functional validation.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43088421/"
+  },
+  {
+    "pmid": "43096345",
+    "title": "Age-Adjusted Exploratory Analysis of Spectral, Aperiodic, and Microstate Electroencephalography Features in Multiple Sclerosis.",
+    "date": "2026 Oct 27",
+    "journal": "European neurology",
+    "authors": [
+      "Ren Y",
+      "Bi Y",
+      "Wang Y",
+      "Gong L",
+      "Li P",
+      "Kong L",
+      "Guo Y"
+    ],
+    "abstract": "Electroencephalography (EEG) can characterize functional brain alterations in multiple sclerosis (MS), but many EEG features vary with age. We, therefore, examined resting-state EEG associations with MS using age-adjusted models while explicitly accounting for the severe age imbalance in the available dataset. Resting-state 128-channel EEG data from the BrainLat dataset were analyzed. Demographic files included 32 patients with MS and 32 healthy controls (HC); global-feature models included 29 patients with MS and 32 HC, and channel-level sample sizes varied by feature. Diagnosis and age were entered in linear models. Benjamini-Hochberg false discovery rate (FDR) correction was applied separately to five global spectral/aperiodic tests, 16 global microstate tests, and the 128 channel-wise tests within each feature. Within-MS continuous age regression and exploratory age-stratified ANOVA were evaluated with the same family definitions. After correction, diagnosis coefficients were significant for global bandwidth (β = 1.928, q = 0.0287), global aperiodic offset (β = 1.816, q = 3.29 × 10-7), and offset at all 128 channels (β range = 1.52-2.41; q range = 3.56 × 10-8 to 7.43 × 10-5). Global central frequency, exponent, power spectral density, and all 16 microstate measures did not survive FDR correction. No within-MS continuous-age or age-stratified result survived FDR correction. Aperiodic offset showed the strongest diagnosis association under the specified age-adjusted model. However, the MS and HC age ranges did not overlap (21-55 vs. 56-83 years), so the diagnosis coefficient depends on extrapolation and cannot establish an MS-specific effect. The findings are exploratory and require age-matched replication with detailed clinical, vigilance, site, sex, and magnetic resonance imaging characterization.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096345/"
   },
   {
     "pmid": "42934485",
@@ -4496,6 +4529,184 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43019832/"
   },
   {
+    "pmid": "43099265",
+    "title": "Methionine restriction and its underlying molecular mechanisms in brain health and diseases.",
+    "date": "2026 Nov 27",
+    "journal": "Metabolic brain disease",
+    "authors": [
+      "Das A",
+      "Kumar M"
+    ],
+    "abstract": "Sulfur-containing amino acids, particularly methionine, play a central role in brain metabolism and the maintenance of neural homeostasis. Perturbations in brain methionine metabolism have been associated with a wide spectrum of behavioral and neuropsychiatric outcomes, including anxiety- and depression-like phenotypes, as well as cognitive and behavioral impairments relevant to schizophrenia, fear processing, and bipolar disorder. In addition, brain methionine metabolism intersects with multiple molecular pathways implicated in major neurodegenerative diseases, such as Alzheimer's disease, multiple sclerosis, and Parkinson's disease. Accumulating evidence over the past two decades indicates that methionine intake and the integrity of the methionine metabolic network constitute a critical regulatory axis in brain health, capable of exerting both neuroprotective and neurotoxic effects in a context-dependent manner. Moderate dietary methionine restriction induces adaptive metabolic reprogramming in the brain, enhancing learning, memory, adult neurogenesis, and synaptic resilience, while simultaneously strengthening antioxidant defenses and resistance to oxidative stress. In contrast, excessive methionine intake disrupts neuronal homeostasis, promotes microglial activation, and amplifies neuroinflammatory signaling, thereby compromising neural integrity. Notably, these effects exhibit pronounced sex specificity, highlighting the modulatory roles of hormonal and genetic factors in methionine metabolism. Elucidating this duality may enable the development of precision-based dietary and metabolic interventions targeting methionine-related pathways for the prevention and treatment of psychiatric and neurodegenerative disorders. This review summarizes current research on dietary methionine restriction and its effects on neurological function, psychiatric conditions, and neurodegenerative diseases, with a particular focus on the underlying molecular mechanisms.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099265/"
+  },
+  {
+    "pmid": "43099867",
+    "title": "Microstructural MRI characteristics of white matter lesions are associated with clinical disability and retinal layer thicknesses in people with multiple sclerosis.",
+    "date": "2026 Nov 26",
+    "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+    "authors": [
+      "Bacchetti A",
+      "Shin HG",
+      "Zhang J",
+      "Moretti GS",
+      "Lin TY",
+      "McCormack B",
+      "Kinder E",
+      "Lee NJ",
+      "Filippatou AG",
+      "O'Donnell MM",
+      "Lambert C",
+      "Gakis G",
+      "Pellegrini N",
+      "Davis S",
+      "Otero-Duran G",
+      "Gulati A",
+      "Lawrence E",
+      "Didouchevski A",
+      "Inserra M",
+      "Dewey BE",
+      "Li X",
+      "Lu H",
+      "Xu J",
+      "Hua J",
+      "Szczepankiewicz F",
+      "Carass A",
+      "Prince J",
+      "Fitzgerald KC",
+      "Sotirchos ES",
+      "van Zijl P",
+      "Calabresi PA",
+      "Saidha S"
+    ],
+    "abstract": "Quantitative magnetic resonance imaging (qMRI) captures central nervous system microstructural integrity aspects in people with multiple sclerosis (PwMS). To evaluate associations between white matter lesion (WML) qMRI measures, clinical disability, and retinal layer thicknesses in PwMS, and whether these differ between people with progressive (PwPMS) and relapsing MS (PwRMS). This prospective cross-sectional study included 125 participants who underwent 3T brain MRIs to estimate longitudinal relaxation time (T1), intrinsic (R2) and effective (R2*) transverse relaxation rates, microscopic fractional anisotropy (µFA), and paramagnetic/diamagnetic susceptibilities. Optical coherence tomography measured peri-papillary retinal nerve fiber layer (pRNFL) and ganglion cell-inner plexiform layer (GCIPL) thicknesses. Higher WML T1 was associated with greater Expanded Disability Status Scale (standardized β = 0.17, p = 0.04) and lower Symbol Digit Modalities Test (β = -0.29, p = 0.02) scores, as well as lower pRNFL (β = -0.26, p < 0.001) and GCIPL (β = -0.23, p = 0.003) thicknesses. Lower WML R2 and R2* were associated with lower pRNFL thicknesses. PwPMS had lower µFA than PwRMS (p = 0.02). WML qMRI measures, especially T1, are associated with disability and/or retinal layer thicknesses, linking WML microstructure (axonal degeneration/demyelination) to functional/structural outcomes in PwMS. WML microstructural damage appears more pronounced in PwPMS than PwRMS.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099867/"
+  },
+  {
+    "pmid": "43098726",
+    "title": "Age-dependent therapeutic window for early treatment in multiple sclerosis.",
+    "date": "2026 Nov 26",
+    "journal": "Journal of neurology, neurosurgery, and psychiatry",
+    "authors": [
+      "Prosperini L",
+      "Tomassini V",
+      "Cerqua R",
+      "Cruciani A",
+      "Haggiag S",
+      "Ruggieri S",
+      "Tortorella C",
+      "De Luca G",
+      "Graziano F",
+      "Lagonigro E",
+      "Sensi SL",
+      "Carotenuto A",
+      "Lanzillo R",
+      "Petracca M",
+      "Ferraro E",
+      "Cortese A",
+      "De Giglio L",
+      "Quattrucci L",
+      "Di Filippo M",
+      "Gasperini C"
+    ],
+    "abstract": "",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098726/"
+  },
+  {
+    "pmid": "43098722",
+    "title": "Clinical course and risk factors for secondary progression in Japanese multiple sclerosis: the fifth nationwide survey.",
+    "date": "2026 Nov 26",
+    "journal": "Journal of neurology, neurosurgery, and psychiatry",
+    "authors": [
+      "Watanabe M",
+      "Isobe N",
+      "Niino M",
+      "Nakashima I",
+      "Matsushita T",
+      "Sakai Y",
+      "Nakahara J",
+      "Kawachi I",
+      "Ochi H",
+      "Nakatsuji Y",
+      "Nakamura Y",
+      "Nakamura K",
+      "Sakata K",
+      "Matsui M",
+      "Kuwabara S",
+      "Kira JI",
+      "Research Committee of Neuroimmunological Diseases in Japan"
+    ],
+    "abstract": "",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098722/"
+  },
+  {
+    "pmid": "43098720",
+    "title": "Identifying clinical safety risks in large language models with expert-validated simulation of 10,000 multiple sclerosis presentations.",
+    "date": "2026 Nov 26",
+    "journal": "Journal of neurology, neurosurgery, and psychiatry",
+    "authors": [
+      "Auger SD",
+      "Varley J",
+      "Hargovan M",
+      "Scott G"
+    ],
+    "abstract": "",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098720/"
+  },
+  {
+    "pmid": "43098176",
+    "title": "A shared path: How the encounter between Marie Elisabethe Luc and Jean-Martin Charcot shaped the diagnosis of multiple sclerosis.",
+    "date": "2026 Nov 26",
+    "journal": "Journal of the history of the neurosciences",
+    "authors": [
+      "Sanches T",
+      "Alves Dos Santos E",
+      "Brigo F",
+      "Walusinski O",
+      "Boullerne AI"
+    ],
+    "abstract": "The medical world has long celebrated pioneering doctors, whereas patients' stories remain largely hidden. One overlooked figure is Marie Elisabethe Luc (1821-1866), Jean-Martin Charcot's (1825-1893) key patient in defining multiple sclerosis (MS) nosology. This article reexamines parts of her life, drawing from unpublished records, and highlights her central role in shaping MS as a recognized condition. The year 2026 marks the 160th anniversary of the death of this patient.",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098176/"
+  },
+  {
+    "pmid": "43097249",
+    "title": "Neuroimmune pharmacology of dextromethorphan/bupropion (Auvelity): Mechanistic insights into microglial regulation, inflammasome suppression, and therapeutic translation.",
+    "date": "2026 Nov 26",
+    "journal": "Molecular biology reports",
+    "authors": [
+      "Sharma A",
+      "Kumar I",
+      "Ankalgi AD",
+      "Ashawat MS",
+      "Kumar P",
+      "Chodry A"
+    ],
+    "abstract": "Neuroinflammation is increasingly recognized as a central pathogenic mechanism in major depressive disorder and diverse neurological disorders, including Alzheimer's disease, Parkinson's disease, multiple sclerosis, ischemic stroke, traumatic brain injury, and neuropathic pain. Persistent activation of microglia and astrocytes, excessive cytokine production, inflammasome activation, oxidative stress, mitochondrial dysfunction, and glutamate-mediated excitotoxicity can collectively disrupt neuronal homeostasis and promote disease progression. Dextromethorphan/bupropion (Auvelity) is a fixed-dose combination that integrates N-methyl-D-aspartate receptor antagonism, sigma-1 receptor agonism, monoaminergic modulation, and cytochrome P450 2D6 inhibition, thereby producing sustained dextromethorphan exposure and multimodal pharmacological activity. Preclinical studies of dextromethorphan and bupropion individually provide mechanistic evidence suggesting potential effects on microglial activation, Toll-like receptor 4 and nuclear factor kappa B signaling, inflammasome activity, oxidative stress, and mitochondrial function. However, direct evidence demonstrating that these neuroimmune effects are produced by the fixed-dose combination remains limited. This review examines the pharmacological basis of dextromethorphan/bupropion, its potential interactions with major neuroimmune pathways, and available experimental and clinical evidence. Particular emphasis is placed on distinguishing direct combination evidence from component-specific findings and mechanistic extrapolation. The translational relevance of reported mechanisms is considered across major neuroinflammatory disorders, with attention to pharmacokinetic exposure, clinical evidence, biomarker assessment, and future precision neuroimmunopharmacological strategies. Overall, dextromethorphan/bupropion has established antidepressant efficacy and a biologically plausible neuroimmune profile, but combination-specific mechanistic and biomarker-driven studies are required to determine whether these pathways contribute directly to its therapeutic effects. This evidence synthesis also considers exposure-related limitations, disease-specific applicability, and the distinction between therapeutic plausibility and demonstrated neuroimmune target engagement.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097249/"
+  },
+  {
+    "pmid": "43095840",
+    "title": "Referral for knee pain and gait training leads to multiple sclerosis diagnosis: a case report.",
+    "date": "2026 Nov 26",
+    "journal": "The Journal of manual & manipulative therapy",
+    "authors": [
+      "Juan J",
+      "Remis A",
+      "Calabrese E",
+      "Cook C"
+    ],
+    "abstract": "Physical therapists frequently receive referrals to evaluate patients with suspected mechanical knee pain and associated gait dysfunction. However, atypical examination findings may indicate alternative or coexisting etiologies. This case report describes the physical therapist's clinical reasoning and management of a 28-year-old male referred for gait training and chronic left knee pain. While focused musculoskeletal examination findings correlated with the patient's knee pain, this diagnosis did not explain recurrent falls and gait abnormalities, including wide base of support, increased left hip flexion, and forceful foot contact. Neurological examination revealed abnormal upper motor neuron findings, prompting referral for neurological workup. Imaging revealed lesions in the brain and cervical and thoracic spine that were consistent with relapsing-remitting multiple sclerosis. Neurology initiated disease-specific management, including pharmacological infusions and neurological physical therapy. Knee pain resolved after five physical therapy visits, whereas gait and balance deficits persisted and required neurological rehabilitation. The divergent course was consistent with two coexisting contributors rather than a single misattributed diagnosis. This case demonstrates that testing whether a confirmed mechanical diagnosis accounts for all findings reduces premature diagnostic closure, even when the examination provides a plausible mechanical explanation for part of the presentation.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095840/"
+  },
+  {
     "pmid": "42980191",
     "title": "Phytomicronutrients in neurodegeneration: modulating microglial dynamics for neuroprotection.",
     "date": "2026 Nov 25",
@@ -4672,6 +4883,38 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43082018/"
   },
   {
+    "pmid": "43096027",
+    "title": "Vitamin B12 deficiency and neurodegeneration: molecular mechanisms, biomarkers, and therapeutic perspectives.",
+    "date": "2026 Nov 25",
+    "journal": "Metabolic brain disease",
+    "authors": [
+      "Rao S",
+      "Sharma S",
+      "Kumar M",
+      "Joshi R",
+      "Bhargava A",
+      "Kumar M"
+    ],
+    "abstract": "Vitamin B12 is an essential neurotropic vitamin involved in DNA synthesis, one-carbon metabolism, methylation, mitochondrial function, myelin maintenance, and neuronal homeostasis. This review summarizes the etiological factors and molecular mechanisms underlying vitamin B12 deficiency and examines its association with major neurodegenerative disorders (NDDs), including Alzheimer's disease, Parkinson's disease, Huntington's disease, multiple sclerosis, and Neuro-COVID.Emerging evidence suggests that vitamin B12 deficiency contributes to neurodegeneration through multiple interconnected mechanisms, including oxidative stress, mitochondrial dysfunction, impaired methylation, neuroinflammation, homocysteine-mediated neurotoxicity, and myelin breakdown. Alterations in biomarkers such as serum vitamin B12, methylmalonic acid, homocysteine, and holotranscobalamin may facilitate the early detection of deficiency and improve diagnostic precision. Recent studies have also explored the therapeutic potential of methylcobalamin and other vitamin B12-based interventions for reducing neuronal injury, supporting myelin repair, improving mitochondrial function, and attenuating neuroinflammatory processes. However, the clinical translation of these findings remains limited by disease heterogeneity, variability in diagnostic criteria, differences in treatment protocols, and insufficient long-term clinical evidence.Vitamin B12 is a modifiable metabolic factor with significant implications for the pathogenesis and progression of NDDs. Early identification and correction of vitamin B12 deficiency may provide a valuable strategy for neuroprotection and improved clinical outcomes. Further well-designed studies are needed to establish standardized biomarkers, diagnostic criteria, and personalized therapeutic approaches for vitamin B12-associated neurodegeneration.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096027/"
+  },
+  {
+    "pmid": "43095834",
+    "title": "RETRACTED: Çakır et al. Optical Coherence Tomography Angiography Findings in Primary Progressive Multiple Sclerosis Patients Receiving Ocrelizumab Treatment. Diagnostics 2026, 16, 936.",
+    "date": "2026 Nov 25",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "authors": [
+      "Çakır B",
+      "Kaplan Güngördü S",
+      "Özkan Aksoy N",
+      "Kotan D"
+    ],
+    "abstract": "Following publication, the authors contacted the Editorial Office to raise concerns relating to the accuracy of the data presented in this publication [...].",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095834/"
+  },
+  {
     "pmid": "42956390",
     "title": "Establishing Potosi Virus as a Human Pathogen: Fatal Neuroinvasive Disease in a B-Cell-Depleted Patient.",
     "date": "2026 Nov 24",
@@ -4810,6 +5053,19 @@
     "abstract": "Multiple sclerosis (MS) genetics are poorly characterized in North Africa. We examined associations of VDR variants and an HLA-region marker with relapsing-remitting MS (RRMS), their joint effects and interaction with vitamin D status. This case-control study included 72 Libyan adults with RRMS and 83 frequency-matched healthy controls. VDR TaqI (rs731236) and ApaI (rs7975232) were genotyped by PCR-RFLP, and rs3135388, an HLA-region marker not validated as an HLA-DRB1×15:01 tag in Libyans, by TaqMan assay. Per-allele associations used Firth regression adjusted for age, sex and ethnicity (Bonferroni α=0.0167). Gene-gene and genotype-post-diagnosis 25-hydroxyvitamin D [25(OH)D] interactions and an unweighted effect-allele count were exploratory. TaqI-C (OR 1.92, 95% CI 1.18-3.19; P = 0.008) and rs3135388-A (OR 2.17, 95% CI 1.28-3.84; P = 0.003) were associated with RRMS and met the corrected threshold; ApaI-a was not (OR 1.62, 95% CI 0.98-2.70; P = 0.058). The effect-allele count was associated with RRMS (OR 1.93, 95% CI 1.41-2.72 per allele), without rs3135388 (OR 1.80, 95% CI 1.26-2.66). No statistically significant gene-gene or genotype-25(OH)D interaction was detected, but power was low and intervals include large interactions. rs3135388 was stable in ethnicity-based analyses (Arab-only OR 2.73, 95% CI 1.42-5.82), whereas TaqI attenuated among Arab participants (OR 1.51, 95% CI 0.88-2.65). In this small hospital-based sample, rs3135388-A, possibly reflecting broader HLA-region variation, showed the most consistent association; the causal allele or haplotype is unknown. Preliminary findings do not support screening, risk prediction or clinical decisions without replication, calibration and validation; the allele count is not a risk score, and stratification remains possible.",
     "category": "Диагностика и биомаркеры",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43084980/"
+  },
+  {
+    "pmid": "43097883",
+    "title": "Headache at the threshold of multiple sclerosis: prodromal symptom, referral artefact, or diagnostic trap?",
+    "date": "2026 Nov 24",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Alizada S",
+      "Ozakbaş S"
+    ],
+    "abstract": "Headache near the recognition of multiple sclerosis may reflect a prodromal manifestation, shared susceptibility, referral-related ascertainment or diagnostic error. This narrative review evaluates these explanations using pre-onset cohorts, radiologically isolated syndrome studies, diagnostic research and treatment observations. Migraine is associated with a later multiple sclerosis diagnosis, but evidence anchored to the first clinical demyelinating event is limited and conflicting. A Norwegian cohort found an association before symptom onset, whereas an incident case-control study found an association principally around concurrent onset. Differences in headache definitions, temporal anchors and ascertainment constrain biological attribution. Headache frequently prompts imaging that reveals unsuspected demyelination; an imaging indication neither measures headache prevalence nor establishes prognostic value. Detection bias and selection within imaged cohorts are distinct mechanisms. Conversely, nonspecific white matter abnormalities in migraine can be mistaken for demyelination. Clinical history, lesion morphology and targeted biomarkers therefore require assessment independently of headache phenotype. Evidence from progressive disease mechanisms or small treatment series does not establish a migraine-specific prodrome or long-term treatment safety. We propose a clinical framework separating headache assessment, imaging indication and neurological classification, including diagnostic reclassification without a new clinical event. Future studies should distinguish temporal anchors, retain referral denominators and test whether headache adds information beyond established predictors.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097883/"
   },
   {
     "pmid": "43074497",
@@ -4987,6 +5243,19 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43079844/"
   },
   {
+    "pmid": "43097884",
+    "title": "Late-onset neutropenia in a single-center, retrospective cohort of central nervous system autoimmunity patients treated with anti-CD20.",
+    "date": "2026 Nov 23",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Althobaiti AH",
+      "Abanami NA"
+    ],
+    "abstract": "Late-onset neutropenia (LON) is an infrequently reported, unpredictable side effect of anti-CD20 therapy, with incidence varying by agent, diagnosis, and screening protocol. The primary objective of this cross-sectional, retrospective study was to estimate the proportion of patients who developed LON over 13 months (April 2023-April 2024). Consecutive adult patients diagnosed with central nervous system (CNS) autoimmunity who received at least one rituximab(RTX) or ocrelizumab(OCR) infusion between January 2016 and March 2024 were included; patients who switched to another immunotherapy, had no post-treatment blood draw, or had unverifiable infusion records were excluded. LON events were assessed using all post-treatment CBCD blood draws during this period. A total of 171 patients were enrolled: 141 received rituximab and 30 received ocrelizumab. A total of 319 post-treatment blood tests were performed. Sixteen patients (16/171) had neutropenia (9.4%, 95% CI 5.8-14.7): 12 on rituximab (8.5%) and 4 on ocrelizumab (13.3%; p = 0.487). LON occurred at a median of 158 days (130-188) since the last infusion. All patients were asymptomatic, mostly had Grade 1 neutropenia (15/16, 93.8%). BMI was significantly lower in the neutropenia group (22.2 vs. 27.5 kg/m The proportion of patients with LON in this cohort was higher than most previously reported, with all cases asymptomatic. Lower BMI emerged as a potential risk factor, robust to multivariable adjustment and to dosing-related confounding, warranting further investigation. Larger, prospective studies with standardized surveillance are needed to establish the true frequency and risk factors.",
+    "category": "Безопасность лечения",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097884/"
+  },
+  {
     "pmid": "43068647",
     "title": "Retraction notice to \"Redox regulation of cellular stress response in multiple sclerosis\" [Biochem. Pharmacol. 82(10) (2011) 1490-1499].",
     "date": "2026 Nov 22",
@@ -5009,6 +5278,19 @@
     "abstract": "",
     "category": "Другие исследования",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43068647/"
+  },
+  {
+    "pmid": "43097882",
+    "title": "Suzetrigine for pain in multiple sclerosis: A promising mechanism, but for which pain phenotype?",
+    "date": "2026 Nov 22",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Alcántara Montero A",
+      "Holguera Palacios A"
+    ],
+    "abstract": "",
+    "category": "Симптомы и прогрессирование",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097882/"
   },
   {
     "pmid": "43057253",
@@ -5906,6 +6188,25 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/43088969/"
   },
   {
+    "pmid": "43095873",
+    "title": "Combined Physiotherapy and Orthoptic Rehabilitation for Balance Disorders in Multiple Sclerosis: A Case Series.",
+    "date": "2026 Nov 19",
+    "journal": "Revista de neurologia",
+    "authors": [
+      "Miano A",
+      "Marini Padovani A",
+      "Sellitto G",
+      "Berardi A",
+      "Panuccio F",
+      "Conte A",
+      "Galeoto G",
+      "Ruotolo I"
+    ],
+    "abstract": "Balance impairment is common in people with multiple sclerosis (PwMS) and is often compounded by convergence insufficiency, increasing fall risk. Whether adding orthoptic training to balance-oriented physiotherapy provides additional benefit is unclear. We describe a convenience sample of 12 PwMS (2017 McDonald criteria; Expanded Disability Status Scale [EDSS] 1-6.5) with convergence insufficiency (Convergence Insufficiency Treatment Trial criteria) and balance disorders (Berg Balance Scale [BBS] <45), who received physiotherapy (twice weekly) combined with orthoptic rehabilitation (once weekly), 10 sessions each. All 12 were assessed at baseline (T0) and post-treatment (T1), 10 at the 3-month follow-up (T2), and 8 during a subsequent physiotherapy-only phase (T3-T4); 7 had complete orthoptic assessments. The BBS improved by about 12 points after the combined phase (n = 12; r = 0.89, In this small case series, combined physiotherapy and orthoptic rehabilitation was feasible and associated with within-phase improvements in balance. As the non-randomized phases involved the same participants, these hypothesis-generating findings require confirmation in adequately powered randomized trials.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095873/"
+  },
+  {
     "pmid": "43051379",
     "title": "Modulation of the endocannabinoid system through diet, physical activity and microbiome in the new era of multiple sclerosis.",
     "date": "2026 Nov 18",
@@ -6414,6 +6715,30 @@
     "abstract": "Multiple sclerosis (MS) is a chronic neurological condition associated with biochemical alterations, psychological symptoms, and physical impairment that reduce quality of life (QoL). This systematic review and meta-analysis evaluated the effects of Pilates on biochemical, psychological, and physical outcomes in adults with MS compared with control conditions and explored potential moderators beyond control type. Seven databases were searched for randomized controlled trials (RCTs) comparing Pilates with any non-Pilates control conditions. Effect sizes were calculated as standardized mean differences (SMDs) with 95% confidence intervals (CIs) using a multilevel random-effects model. Thirty-one RCTs, involving 1009 participants, were included. Pilates significantly improved fatigue (SMD = -0.73, 95% CI [-1.19, -0.28]), balance (SMD = 0.32, 95% CI [0.09, 0.55]), walking ability (SMD = 0.25, 95% CI [0.04, 0.46]), QoL (SMD = 0.34, 95% CI [0.08, 0.60]), and biochemical factors (SMD = 1.12, 95% CI [0.25, 2.00]) across all control conditions. The effects of Pilates were significant across all outcomes when compared with non-active control conditions, but not when compared with active control conditions. However, the findings for fatigue (I Pilates may improve fatigue, balance, walking ability, QoL, and selected biochemical factors in people with MS, particularly relative to non-active control conditions.",
     "category": "Реабилитация и мобильность",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43063761/"
+  },
+  {
+    "pmid": "43100277",
+    "title": "Pharmacologic IRE1 Activation Rewires Cholesterol Metabolism to Suppress T (H) 17 Differentiation.",
+    "date": "2026 Nov 16",
+    "journal": "bioRxiv : the preprint server for biology",
+    "authors": [
+      "Sánchez Ortiz K",
+      "Chatterjee P",
+      "Dion W",
+      "Pannikkat M",
+      "Kutseikin S",
+      "Basso T",
+      "Sun J",
+      "Mathur P",
+      "Dikiy S",
+      "Saez E",
+      "Thaxton JE",
+      "Wiseman RL",
+      "Mendoza A"
+    ],
+    "abstract": "T helper 17 (T",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100277/"
   },
   {
     "pmid": "43050918",
@@ -7361,6 +7686,20 @@
     "abstract": "The role of exercise in the management of multiple sclerosis (MS) has undergone a remarkable shift. Exercise was once discouraged due to concerns over symptom worsening; this view has since been overturned, and exercise is now recognized as an important component of contemporary MS care. It is increasingly recognized as a safe and effective non-pharmacological, symptomatic intervention improving quality of life, and several disabling symptoms including fatigue, pain, muscle weakness, spasticity, poor balance and cognitive complaints. Beyond its established role in symptomatic management, this review examines the potential role of exercise as a disease-modifying intervention in MS. Mechanistic evidence regarding peripheral immunomodulation, blood-brain barrier integrity, microglial activation, neurotrophic signaling and neuroplasticity is examined, alongside data from clinical trials and meta-analyses on clinical, imaging and biochemical outcomes, suggesting potential effects on disease biology and progression. Finally, based on the available literature and existing published frameworks we provide updated practical recommendations for individualized exercise prescription according to disability level, baseline fitness, individual preferences, and available resources. Together, these recommendations aim to contribute to the integration of exercise into routine MS care, while emerging evidence for its disease-modifying potential provides an important direction for future research.",
     "category": "Лечение и препараты",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43091696/"
+  },
+  {
+    "pmid": "43097881",
+    "title": "Effects of non-invasive brain stimulation combined with physical exercise on physical-related outcomes and quality of life in people with multiple sclerosis: a systematic review and meta-analysis.",
+    "date": "2026 Nov 10",
+    "journal": "Multiple sclerosis and related disorders",
+    "authors": [
+      "Usman JS",
+      "Wong TW",
+      "Ng SSM"
+    ],
+    "abstract": "This systematic review and meta-analysis aimed to determine the scientific evidence on the effects of non-invasive brain stimulation (NIBS) combined with physical exercise (PE) on physical-related outcomes and quality of life in people with multiple sclerosis (MS). PubMed, Web of Science, EMBASE, Cochrane Library, and PEDro databases were searched from inception to October 2026. Randomized controlled trials were included, and the PEDro scale and Cochrane Risk of Bias assessment tool were used to assess the methodological quality and risk of bias of the studies, respectively. Data were analyzed using both quantitative and narrative synthesis. Active/real NIBS with PE probably improves walking endurance (SMD = 0.56, 95% Cl = -0.02 to 1.13, p = 0.06), and functional independence in ADLs (SMD = 0.71, 95% Cl = 0.03 to 1.40, p = 0.04). It may improve functional mobility (SMD = -0.54, 95% Cl = -1.07 to -0.01, p = 0.05), walking speed (SMD = 0.56, 95% Cl = -0.02 to 1.15, p = 0.06), dynamic gait function (SMD = 0.28, 95% Cl = -0.26 to 0.81, p = 0.31), balance performance (SMD = 0.61, 95% Cl = 0.18 to 1.03, p = 0.005), and physical health-related QoL slightly (SMD = 0.45, 95% Cl = -0.04 to 0.95, p = 0.07), compared to sham NIBS with PE or PE in MS. NIBS combined with PE probably improves walking endurance and ADL-related functional independence, and may improve mobility, walking speed, dynamic gait fucntion, balance, and physical HRQoL in people with MS. The evidence is very uncertain for spasticity, falls, and fatigue. It probably has little to no effect on overall stability index and may have little to no effect on mental HRQoL.",
+    "category": "Реабилитация и мобильность",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097881/"
   },
   {
     "pmid": "42952209",
@@ -10993,5 +11332,60 @@
     "abstract": "Multiple sclerosis (MS) is a chronic, immune-mediated demyelinating disease of the central nervous system (CNS) characterized by inflammation, neurodegeneration, and failed remyelination. Extracellular vesicles (EVs), including exosomes, mediate intercellular communication by shuttling proteins, lipids, and nucleic acids. In MS, EVs participate in antigen presentation, blood-brain barrier (BBB) dysfunction, and neuron-glia crosstalk; their molecular cargo can reflect the cellular state of origin, making them attractive candidates as minimally invasive biomarkers. Parallel advances suggest EVs as promising drug-delivery vehicles capable of targeting the CNS. Mesenchymal stem cell (MSC)-derived exosomes have emerged as particularly promising, suppressing pro-inflammatory microglia, promoting oligodendrocyte maturation, and supporting remyelination in preclinical models. In the broader landscape of neurodegenerative diseases, exosomes exhibit a complex bidirectional regulatory role, serving both as pathological carriers facilitating the transcellular propagation of toxic proteins and as endogenous regulatory systems delivering anti-inflammatory factors and neurotrophic molecules. Among EV sources, milk-derived exosomes (MDEs) are abundant, orally bioavailable, stable in the gastrointestinal tract, and increasingly shown to cross biological barriers and modulate immunity-features that warrant serious consideration for MS diagnostics and therapeutics. Here, we summarize state-of-the-art evidence on the roles of EVs in MS pathobiology, candidate diagnostic signatures, and therapeutic strategies encompassing tolerogenic, anti-inflammatory, and remyelinating approaches. We review MDEs in depth: their composition, isolation rigor, manufacturability from dairy streams, biodistribution, and engineering for CNS targeting. We conclude with a translational roadmap and a critical appraisal of outstanding challenges in standardization, specificity, safety, and regulation, towards next-generation precision medicine in MS.",
     "category": "Безопасность лечения",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43080736/"
+  },
+  {
+    "pmid": "43095329",
+    "title": "Effects of a virtual reality-based nature video intervention on sleep quality and mental well-being in patients with multiple sclerosis: a randomized controlled trial.",
+    "date": "2026",
+    "journal": "Turkish journal of medical sciences",
+    "authors": [
+      "Yağci Karamanli H",
+      "Bingöl N"
+    ],
+    "abstract": "Sleep quality and mental health are negatively affected in many patients with multiple sclerosis (MS). The study was conducted to evaluate the effects of virtual reality (VR) on sleep quality and mental well-being. The study was designed as a randomized controlled trial. Data were collected from patients with MS who presented to a hospital in Türkiye. The study was completed by 21 participants in the experimental group and 22 participants in the control group. Participants in the experimental group watched nature videos using VR headsets for 6 weeks. Participants completed the Pittsburgh Sleep Quality Index (PSQI) and the Warwick-Edinburgh Mental Well-Being Scale (WEMWBS). The study was registered at ClinicalTrials.gov (Identifier: NCT06074419). Baseline PSQI and WEMWBS scores were similar between the experimental and control groups (p > 0.05). After the 6-week intervention, the mean total PSQI score was significantly lower in the experimental group than in the control group (p = 0.024), with a moderate-to-large effect size (Cohen's d = 0.679), indicating improved sleep quality. Additionally, the mean WEMWBS score was significantly higher in the experimental group than in the control group (p = 0.047), with a moderate-to-large effect size (Cohen's d = 0.687), indicating improved mental well-being. Overall, the VR-based nature video intervention was associated with improvements in sleep quality and mental well-being. The VR-based nature video intervention may enhance the quality of nursing care for patients with MS. While the VR-based nature video intervention may enhance nursing care for patients with MS, the absence of any intervention in the comparison group prevents the specific effects of VR from being fully distinguished from placebo or novelty effects. Therefore, the findings should be interpreted with caution. Further research is required to confirm these findings and support their implementation in clinical practice.",
+    "category": "Другие исследования",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095329/"
+  },
+  {
+    "pmid": "43095293",
+    "title": "Understanding cognitive impairment in multiple sclerosis using structural and functional network measures and classification algorithms.",
+    "date": "2026",
+    "journal": "Network neuroscience (Cambridge, Mass.)",
+    "authors": [
+      "Jelgerhuis JR",
+      "Broeders TAA",
+      "Ocampo-Pineda M",
+      "Barakovic M",
+      "Noteboom S",
+      "Krijnen EA",
+      "Weigel M",
+      "Wenger A",
+      "Fuchs TA",
+      "Habets PC",
+      "Uitdehaag BMJ",
+      "Steenwijk MD",
+      "Barkhof F",
+      "Strijbis EMM",
+      "Granziera C",
+      "Schoonheim MM"
+    ],
+    "abstract": "Cognitive impairment (CI) is common in multiple sclerosis (MS), yet the network-level mechanisms underlying CI remain poorly understood. This study aimed to clarify how the joint organization of structural and functional brain networks contributes to CI in MS, and how network-derived features change when clinical information and MRI-derived measures are added. We analyzed neuropsychological and multimodal MRI data from the Amsterdam MS cohort (",
+    "category": "Диагностика и биомаркеры",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095293/"
+  },
+  {
+    "pmid": "43095205",
+    "title": "Exploring Meaningful Research Questions on Fatigue Management in Multiple Sclerosis for Patients Living in the Deep South States.",
+    "date": "2026",
+    "journal": "Journal of patient experience",
+    "authors": [
+      "Meador W",
+      "Wheeler Y",
+      "Crawford SM",
+      "Ngorsuraches S"
+    ],
+    "abstract": "The study's objective was to identify and rank meaningful, patient-centered research questions regarding fatigue management in multiple sclerosis (MS) for individuals living in the Deep South states. A two-phase, patient-centered approach was used from October 2024 to September 2025. The study team collaborated with MS patients, family members, and healthcare providers from Alabama and Mississippi, reviewed PCORI-funded studies, and conducted four virtual meetings to generate and prioritize research questions. A best-worst scaling (BWS) survey was administered to rank the importance of these questions. A total of 34 patients and family members contributed to the generation of research questions on MS-related fatigue. Only 23 patients and family members completed the BWS survey. The study identified 21 research questions, categorized into 11 thematic groups, e.g., diet/nutrition/supplements, environmental factors, and physical therapy/exercise. The highest-priority question addressed whether a 12-week mind-body exercise program (such as yoga) leads to greater reductions in fatigue compared to other exercise modalities. This study demonstrates a patient-centered prioritization of research questions by engaging patients and family members from the local community in developing and ranking research agendas for managing MS-related fatigue. The findings inform future patient-centered comparative effectiveness research.",
+    "category": "Лечение и препараты",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095205/"
   }
 ]

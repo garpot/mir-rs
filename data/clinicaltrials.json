@@ -1,5 +1,82 @@
 [
   {
+    "nct_id": "NCT04130997",
+    "title": "An Extension Study of Ublituximab in Participants With Relapsing Multiple Sclerosis",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2019-11-18",
+    "last_update": "2026-11-27",
+    "interventions": [
+      "Ublituximab"
+    ],
+    "summary": "The purpose of this study is to evaluate long-term safety and efficacy of ublituximab therapy in participants with relapsing multiple sclerosis (RMS).",
+    "url": "https://clinicaltrials.gov/study/NCT04130997"
+  },
+  {
+    "nct_id": "NCT06444113",
+    "title": "Concentration of Ofatumumab in the Breast Milk of Lactating Women With Relapsing Forms of Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2024-11-25",
+    "last_update": "2026-11-27",
+    "interventions": [
+      "Ofatunumab"
+    ],
+    "summary": "This study will evaluate whether ofatumumab is excreted at quantifiable levels and at which concentrations in breast milk of lactating women with RMS). The study will include lactating mothers who plan to breastfeed and initiate/re-initiate ofatumumab 2-24 weeks post-partum.",
+    "url": "https://clinicaltrials.gov/study/NCT06444113"
+  },
+  {
+    "nct_id": "NCT07225361",
+    "title": "Ublituximab (Briumvi) for Early Forms of Relapsing Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE4"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-11-28",
+    "last_update": "2026-11-27",
+    "interventions": [
+      "Ublituximab"
+    ],
+    "summary": "In this prospective, open-label, single-arm, single-institution trial, the investigators will accomplish the following two aims:\n\n1. study the safety and tolerability of Ublituximab (Briumvi) twice annually in participants with early MS over a treatment observation period of \\~12 months.\n2. study the pre- and post-treatment change in plasma neurofilament light chain, tested at baseline pre-Ublituximab treatment, and q24 weeks for 96 weeks post Ublituximab treatment initiation.",
+    "url": "https://clinicaltrials.gov/study/NCT07225361"
+  },
+  {
+    "nct_id": "NCT01018537",
+    "title": "NARCOMS Registry: A Multiple Sclerosis Registry",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "1996-01",
+    "last_update": "2026-11-27",
+    "interventions": [],
+    "summary": "This project is based on the idea that we can learn about the complexities of MS by following disease and treatment patterns in a large group of people over several years. The information gathered is used for research only. Results are presented in summary form only. All details submitted by registry participants is strictly confidential.\n\nTo participate in NARCOMS complete the baseline enrollment survey online through www.narcoms.org (or directly using the following link: https://redcap.link/py2rnyyn) or you can request a mail-in survey be sent to you by emailing MSregistry@narcoms.org. You will be asked to update your information, online or by mail, twice a year. Each update survey typically takes less than 20 minutes to complete.\n\nThere is no cost to participate. For your participation you are offered a free subscription to the NARCOMS quarterly magazine, NARCOMS Now. NARCOMS Now provides a reliable source of information about the latest in MS research and disease management. You can stop participating in the registry at any time.\n\nYou may also receive additional surveys or information on clinical trials. You are not obligated to participate and these additional studies will always come directly from NARCOMS. Your contact information will not be shared or sold to other parties.",
+    "url": "https://clinicaltrials.gov/study/NCT01018537"
+  },
+  {
+    "nct_id": "NCT01364246",
+    "title": "Safety and Efficacy of Umbilical Cord Mesenchymal Stem Cell Therapy for Patients With Progressive Multiple Sclerosis and Neuromyelitis Optica",
+    "status": "WITHDRAWN",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2010-01",
+    "last_update": "2026-11-27",
+    "interventions": [
+      "human umbilical cord mesenchymal stem cells"
+    ],
+    "summary": "Multiple sclerosis (MS) has been classically regarded as a chronic inflammatory autoimmune demyelinating disease of the central nervous system, along with a considerable pathological heterogeneity. Neuromyelitis optica (NMO) is a severe inflammatory, demyelinating disease, and its clinical characteristics include recurrent optic neuritis and longitudinally extensive transverse myelitis.\n\nCurrent therapies provide only modest control of progressive Multiple Sclerosis and Neuromyelitis Optica.Stem cell therapy might open a light horizon in approaching to an efficient treatment in progressive MS and NMO. In this study, the safety and efficacy of Human Umbilical Cord Mesenchymal Stem Cells transplantation will be evaluated in patients with progressive MS and NMO.",
+    "url": "https://clinicaltrials.gov/study/NCT01364246"
+  },
+  {
     "nct_id": "NCT07299019",
     "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
     "status": "RECRUITING",
@@ -32,6 +109,58 @@
     ],
     "summary": "The project investigates the effects of non-invasive cervical trans-spinal direct current stimulation combined with rehabilitation therapy in patients with motor impairments caused by stroke or progressive multiple sclerosis. Its main objective is to determine whether this stimulation can amplify descending motor signals and increase spinal motoneuronal excitability to improve functional recovery of the upper limbs. The research evaluates these outcomes through clinical assessments, kinematic movement analysis, and the monitoring of blood biomarkers associated with neural plasticity and oxidative stress.",
     "url": "https://clinicaltrials.gov/study/NCT07959068"
+  },
+  {
+    "nct_id": "NCT07631923",
+    "title": "Acute Intermittent Hypoxia Combined With Gait Training in Multiple Sclerosis",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-06-15",
+    "last_update": "2026-11-25",
+    "interventions": [
+      "Acute Intermittent Hypoxia (AIH)",
+      "Sham Acute Intermittent Hypoxia (AIH)",
+      "Myoelectric Interface Neurorehabilitation Training (MINT)"
+    ],
+    "summary": "This interventional, randomized, sham-controlled study will examine whether Acute Intermittent Hypoxia (AIH) delivered immediately before Myoelectric Interface Neurorehabilitation Training (MINT)-based locomotor training improves gait in people with Multiple Sclerosis. The primary objectives are to evaluate changes in gait speed and endurance, with secondary objectives assessing spatiotemporal gait parameters, fatigue, and safety. Participants will receive AIH or sham priming followed by standardized treadmill and/or overground gait training, with outcome measures collected before and after the intervention across multiple sessions.",
+    "url": "https://clinicaltrials.gov/study/NCT07631923"
+  },
+  {
+    "nct_id": "NCT05447143",
+    "title": "Effect of Home Exercise Program on Various Parameters in Patients With Multiple Sclerosis",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2021-09-30",
+    "last_update": "2026-11-25",
+    "interventions": [
+      "Video-based home exercise program",
+      "Brochure-based home exercise program"
+    ],
+    "summary": "Multiple Sclerosis (MS) is a chronic, inflammatory, neurodegenerative, and autoimmune disease that progresses with progressive neurological dysfunction and affects the central nervous system. A multidisciplinary rehabilitation approach is crucial in the systematic and supportive treatment of MS. Exercise training is a therapeutic approach that minimizes functional capacity loss and slows progression in MS. Randomized controlled studies have shown that exercise training improves physical fitness, reduces motor fatigue, and improves the quality of life and psychological state in individuals with MS.\n\nWhen the literature is examined, it is seen that popular exercises such as pilates, yoga, and Tai-Chi are used in addition to aerobics, strengthening, endurance, and stretching exercises in the treatment of individuals with MS. In order to eliminate the economic burden, which is one of the exercise barriers of individuals, and to gain exercise habits, home exercise programs should be expanded. When the literature is examined, it is emphasized that the importance of home exercise programs is emphasized, and it is very important in the treatment of patients who cannot attend an exercise program, especially by going to any center for various reasons. However, there is little information on the effectiveness and content of home exercise programs in patients with MS. From this point of view, this study is capable of supporting the missing part of the literature.",
+    "url": "https://clinicaltrials.gov/study/NCT05447143"
+  },
+  {
+    "nct_id": "NCT07958730",
+    "title": "IMPROVE: Integration of Patient-Generated Health Data for Value-Based Healthcare",
+    "status": "NOT_YET_RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2026-11-15",
+    "last_update": "2026-11-25",
+    "interventions": [
+      "\"Enhanced support\" intervention in parallel with multidisciplinary rehabilitation",
+      "Multidisciplinary rehabilitation plan"
+    ],
+    "summary": "This study is an experimental, prospective, two-arm randomized study. The objective of this case study is to develop a Value-Based Healthcare framework for people with multiple sclerosis (MS), specifically targeting young patients (≤40 years old) with a relapsing-remitting disease course. Patient Reported Outcome Measures (PROMs) will be collected through national MS Care Unit(s) focused on neurorehabilitation treatments and used together with Patient Reported Experience Measures (PREMs) and Patient Preference Information (PPI) to determine whether a high-performing national MS Care Unit in terms of PROMs and/or PREMS and/or PPI generates an impact on direct or indirect healthcare cost. The investigators aim to collect information about the use of the selected outcomes across MS Care Unit rehabilitation facilities at the national level via a tailored web-survey that can be implemented as a service to maximise access to and increase effectiveness of multidisciplinary rehabilitation in young people with MS. This service allows the seamless accumulation of global data, in a digitized format which can be used as input for digital and statistical analyses. The investigators will engage different stakeholders (healthcare professionals, patients, caregivers, industry and academics) to adopt a framework for meaningful patient and public involvement in improving access to neurorehabilitation treatments and informing service design.",
+    "url": "https://clinicaltrials.gov/study/NCT07958730"
   },
   {
     "nct_id": "NCT01617395",
@@ -188,6 +317,40 @@
     ],
     "summary": "The proposed study is a parallel-group randomized controlled trial (RCT) designed to establish the behavioral mechanism underlying a 16-week physical activity (PA) behavioral intervention through its effects on the Capability-Opportunity-Motivation-Behavior (COM-B) constructs. The success of this study will provide robust evidence for supporting its refinement via refined COM-B constructs and Behavior Change Techniques to facilitate or maximize the intervention effects on PA levels, which will be examined in the subsequent clinical trial. Such an approach will involve an RCT that examines the effects of a 16-week remotely delivered, Internet-based PA behavioral intervention via video behavioral coaching and newsletter compared with a waitlist control (WLC) condition for yielding improvements in the COM-B constructs among persons newly diagnosed with multiple sclerosis (PNDwMS, disease duration ≤ 2 years). The investigators hypothesize that participants in the PA behavioral intervention condition will demonstrate greater improvements in the COM-B constructs than those in the WLC condition. The investigators plan to recruit 50 PNDwMS, with a distribution of 25 participants in the PA behavioral intervention and 25 participants in the WLC condition. The primary outcomes are the self-report COM-B constructs (listed in the Outcomes section), which will be remotely assessed at baseline and post-intervention through an online battery of questionnaires via REDCap.\n\nSpecific Aim 1: to establish mechanisms for the behavior change intervention using a 2-arm pilot randomized controlled trial (RCT) of the intervention compared with the waitlist control (WLC) among PNDwMS. The investigators hypothesize that the 16-week COM-B-based behavioral intervention delivered by one-on-one behavior coaching and newsletters will result in larger changes in COM-B constructs (i.e., knowledge, outcome expectations, goal, intention, behavioral regulation, self-efficacy, fatigue, social support, and social and environmental barriers) than in the WLC group.\n\nSpecific Aim 2: to examine change in self-reported physical activity levels in PNDwMS who received the COM-B-based intervention compared with those who are in the waitlist control condition. The investigators hypothesize that the 16-week COM-B-based behavioral intervention will result in larger changes in self-reported physical activity outcomes than in the WLC group.",
     "url": "https://clinicaltrials.gov/study/NCT07731659"
+  },
+  {
+    "nct_id": "NCT05877963",
+    "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2023-06-13",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Ublituximab",
+      "Placebo"
+    ],
+    "summary": "The primary purpose of this phase 3b study is to assess the efficacy of a modified regimen of ublituximab in participants with relapsing multiple sclerosis (RMS) as measured by T1 Gadolinium (Gd)-enhancing lesions in Part A; PK in Part B along with efficacy of ublituximab as measured by T1 Gd-enhancing lesions in participants who had a suboptimal experience on prior anti-CD20 therapy in Part C. The study consists of 3 parts: Part A is single-armed and open-label, Part B is randomized, double-blind, placebo-controlled, and Part C is single-armed and open-label.",
+    "url": "https://clinicaltrials.gov/study/NCT05877963"
+  },
+  {
+    "nct_id": "NCT07738120",
+    "title": "Immersive Virtual Reality and Exercise Programs in Multiple Sclerosis: ExeRVIEM III",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "start_date": "2025-10-06",
+    "last_update": "2026-11-24",
+    "interventions": [
+      "Virtual Exercise based program",
+      "Standard rehabilitation"
+    ],
+    "summary": "TITLE: Immersive Virtual Reality and Exercise Programs in Multiple Sclerosis: ExeRVIEM III. INTRODUCTION: Multiple sclerosis (MS) is a chronic neuroimmunological and degenerative disease characterized by demyelination within the central nervous system. Its clinical course involves motor impairment, sensory disturbances, cognitive dysfunction, and a progressive decline in functional independence. MS is one of the leading causes of non-traumatic disability in young adults. This highlights the considerable impact of the disease, both in terms of healthcare burden and healthcare expenditure. Within this context, therapeutic exercise has evolved from being considered potentially harmful to being recognized as a safe and effective intervention capable of improving gait, balance, cardiorespiratory fitness, fatigue, and quality of life in people with MS. A model has been proposed for prescribing and progressing exercise at different stages of MS: passive range-of-motion exercises designed for patients with the most severe symptoms, a second stage incorporating active muscle-strengthening exercises, and finally, integrated exercise programs that incorporate strength, endurance, balance, and coordination training. Evidence from systematic reviews and meta-analyses shows that structured exercise (including high-intensity protocols when performed under supervision) is safe and can improve functional outcomes. Our ExeRVIEM III project (Physiotherapy program with High-Intensity Exercise Program and Immersive Virtual Reality in Multiple Sclerosis) represents a novel strategy to facilitate rehabilitation exercise programs using head-mounted virtual reality displays. HYPOTHESIS: The ExeRVIEM III project, based on training physical function in people with MS, is feasible and safe, and could have a potential clinical impact in the motor and cognitive domains, as well as applicability in community settings, such as patient associations. GENERAL OBJECTIVES: 1.1 To design and implement an ExeRVIEM III exercise program/protocol for people with MS. 1.2 To evaluate the safety of the high-intensity virtual reality exercise program. SPECIFIC OBJECTIVES: 2.1 To analyze the possible changes in disability, functional variables, cognitive domains and biomarkers in the short and medium term in people who attend a patient association and carry out the ExeRVIEM III exercise program for people with MS. METHODOLOGY: A randomized controlled trial, double-arm (experimental and control group) study will be conducted at a patient association (Santiago de Compostela, Spain). The intervention will consist of an 6-month supervised virtual rehabilitation program, with two weekly sessions on alternate days, in addition to the standard rehabilitation prescribed by the patient association clinical team (physiotherapy, occupational therapy, and cognitive training sessions). An inmersive virtual reality (IVR) body combat exercise videogame will be used, administered via a virtual reality headset. In accordance with clinical guidelines for IVR, sessions will be intentionally brief (10 minutes) to minimize cybersickness and excessive fatigue. Assessments will be conducted at baseline (week 0) and immediately after the intervention (week 24). Demographic and clinical data will also be collected, including sex, age, comorbidities, disease duration, MS subtype, and pharmacological treatment. Assessments will be conducted at the patient association and in the Neurology Department of the referral hospital. Feasibility, safety, strength parameters, dual-task performance and fatigue levels assessments will be performed at the patient association by physiotherapists, while the remaining assessments will be completed at the hospital by a neurologist specializing in MS. The content of the assessments will be: Patient characteristics that will include data on age, sex, years since diagnosis, MS subtype, and pharmacological treatment. Feasibility: Number of virtual sessions attended by each participant (adherence rate via registration sheet). Rate Perceived Effort using the modified Borg scale, which measures the level of perceived exertion on a scale of 0 to 10 from no effort to maximum effort. Safety: adverse events using the Simulator Sickness Questionnaire (SSQ).Strength parameters using Five times sit to stand test (FTSST) and handgrip test. Functional mobility will be assessed using Timed and Go test (TUG) and with dual task performance using TUG-cog. Level of fatigue using the Fatigue Severity Scale (FSS). Level of disability: using the Expanded Disability Status Scale (EDSS).Gait will be evaluated using the 25Foot Walk Test (25FWT). Manual dexterity will be assessed using 9-Hole Peg Test (9HPT). Cognitive domains evaluated by the Symbol Digit Modalities Test (SDMT)Axonal injury biomarker evaluated by Neurofilament light chain (sNfL) concentrations.",
+    "url": "https://clinicaltrials.gov/study/NCT07738120"
   },
   {
     "nct_id": "NCT00001532",
@@ -388,6 +551,20 @@
     "interventions": [],
     "summary": "This is a monocenter, prospective cohort study. The study investigates the response of patients living with multiple sclerosis (MS) to vaccination against tick-borne viral encephalitis (TBE).\n\nThe prevalence of TBE has increased significantly in Switzerland over the past two decades. Whereas previously only the lowland regions of northern Switzerland and the Aare Valley were considered areas where TBE vaccination was indicated, the disease is now endemic throughout Switzerland (except for Ticino). Since TBE specifically affects the nervous system, there is a clear indication for vaccination, particularly for people whose nervous system is already compromised.\n\nMS is the most common neurological autoimmune disease among young adults in northern latitudes. It is a progressive disease characterized by a gradual deterioration of neurological functions. The course of the disease can be slowed through immunomodulatory therapies. However, these therapies also lead to a certain degree of immunosuppression, which may reduce the immune response to vaccinations. At the same time, some people with MS experience fear or scepticism towards vaccinations, as infections often lead to a worsening of symptoms or can trigger a relapse. Since vaccinations mimic an infection to some extent, this concern is sometimes transferred to vaccinations as well.\n\nThe study hypothesizes that the TBE vaccine in people living with MS on non-B-cell depleting treatment shows adequate immunogenicity.\n\nMoreover, the study will assess the safety of TBE vaccination.",
     "url": "https://clinicaltrials.gov/study/NCT07949916"
+  },
+  {
+    "nct_id": "NCT07202494",
+    "title": "Integrating Metabolism, Connectivity, and Mesoscale Imaging at Ultra-high Field to Decipher Mechanisms of Resilience and Neurodegeneration in Neurological Diseases and Healthy Aging",
+    "status": "RECRUITING",
+    "phase": [],
+    "study_type": "OBSERVATIONAL",
+    "start_date": "2025-05-19",
+    "last_update": "2026-11-19",
+    "interventions": [
+      "Imaging Techniques (MRI 3T & 7T, Functional, Structural, and Metabolic Imaging)"
+    ],
+    "summary": "The MESO7 study is a prospective observational research project designed to investigate the mechanisms of resilience and neurodegeneration in neurological diseases and healthy aging. It leverages advanced multiparametric brain and spinal cord imaging at high (3T) and ultra-high magnetic fields (7T) to assess structural, functional, metabolic, and mesoscale changes in the central nervous system (CNS). Particular emphasis is placed on sodium (23Na-MRI) and phosphorus (31P-MRI) imaging, along with layer-dependent brain connectivity analysis.\n\nThe primary objective is to evaluate the impact of neuronal energy failure, measured via sodium concentration, on functional and structural reorganization in both healthy individuals and patients with various neurological conditions. Directed brain network models will be constructed from MRI data to quantify the connectivity strength (in- and out-degree) of cortical nodes. These connectivity metrics will be correlated with sodium concentrations to assess energy failure and its role in network reorganization. Longitudinal follow-up over two years is planned for subgroups with clinically progressive diseases.\n\nSecondary objectives include decoding metabolic, microstructural, and functional signatures of successful aging at the laminar level; characterizing disease-specific patterns of cortical and spinal microstructure associated with physical and cognitive dysfunction; describing longitudinal mesoscale and metabolic changes; and generating representative normative imaging datasets for the neuroscience community.\n\nThe study plans to enroll a total of 540 patients across 9 neurological conditions:Multiple Sclerosis (MS), Neuromyelitis Optica Spectrum Disorders (NMOSD), MOG Antibody Disease (MOGAD), Alzheimer's disease, Parkinson's disease, Amyotrophic Lateral Sclerosis (ALS), temporal and non-temporal epilepsy, and mild traumatic brain injury (mTBI),in addition to 160 age- and sex-matched healthy controls, totaling 700 participants. Imaging and clinical assessments will be performed at the CEMEREM center at Timone University Hospital, AP-HM, Marseille, France.\n\nEach participant will undergo multiparametric brain and spinal cord MRI, including DTI, BOLD, MP2RAGE, SWI, quantitative sodium and phosphorus imaging, and functional assessments including neuropsychological testing, visual and motor function tests. Disease-specific assessments such as OCT, evoked potentials, and disability scores (e.g., EDSS for MS) will also be included when appropriate.\n\nThe study is expected to improve understanding of CNS adaptation mechanisms and support the development of more accurate diagnostic and prognostic tools for neurodegenerative diseases",
+    "url": "https://clinicaltrials.gov/study/NCT07202494"
   },
   {
     "nct_id": "NCT03816345",
@@ -1811,22 +1988,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06433752"
   },
   {
-    "nct_id": "NCT04130997",
-    "title": "An Extension Study of Ublituximab in Participants With Relapsing Multiple Sclerosis",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2019-11-18",
-    "last_update": "2026-10-30",
-    "interventions": [
-      "Ublituximab"
-    ],
-    "summary": "The purpose of this study is to evaluate long-term safety and efficacy of ublituximab therapy in participants with relapsing multiple sclerosis (RMS).",
-    "url": "https://clinicaltrials.gov/study/NCT04130997"
-  },
-  {
     "nct_id": "NCT06310343",
     "title": "ADAs to Alemtuzumab",
     "status": "COMPLETED",
@@ -2368,23 +2529,6 @@
     ],
     "summary": "The study aims to study the effects of a novel treatment for vestibular symptoms in people with multiple sclerosis. The main objective is to determine whether daily personalized gaze stabilization training is more beneficial than intermittent gaze stability training in people with multiple sclerosis.",
     "url": "https://clinicaltrials.gov/study/NCT06495138"
-  },
-  {
-    "nct_id": "NCT05877963",
-    "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE3"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2023-06-13",
-    "last_update": "2026-10-23",
-    "interventions": [
-      "Ublituximab",
-      "Placebo"
-    ],
-    "summary": "The primary purpose of this phase 3b study is to assess the efficacy of a modified regimen of ublituximab in participants with relapsing multiple sclerosis (RMS) as measured by T1 Gadolinium (Gd)-enhancing lesions in Part A; PK in Part B along with efficacy of ublituximab as measured by T1 Gd-enhancing lesions in participants who had a suboptimal experience on prior anti-CD20 therapy in Part C. The study consists of 3 parts: Part A is single-armed and open-label, Part B is randomized, double-blind, placebo-controlled, and Part C is single-armed and open-label.",
-    "url": "https://clinicaltrials.gov/study/NCT05877963"
   },
   {
     "nct_id": "NCT05391906",
@@ -5816,22 +5960,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07762326"
   },
   {
-    "nct_id": "NCT06444113",
-    "title": "Concentration of Ofatumumab in the Breast Milk of Lactating Women With Relapsing Forms of Multiple Sclerosis",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "phase": [
-      "PHASE4"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2024-11-25",
-    "last_update": "2026-08-12",
-    "interventions": [
-      "Ofatunumab"
-    ],
-    "summary": "This study will evaluate whether ofatumumab is excreted at quantifiable levels and at which concentrations in breast milk of lactating women with RMS). The study will include lactating mothers who plan to breastfeed and initiate/re-initiate ofatumumab 2-24 weeks post-partum.",
-    "url": "https://clinicaltrials.gov/study/NCT06444113"
-  },
-  {
     "nct_id": "NCT07111637",
     "title": "Artificial Intelligence-Assisted Magnetic Resonance Imaging for Quality, Efficiency and Equity in the National Health Service (NHS) Care of Multiple Sclerosis",
     "status": "RECRUITING",
@@ -6439,23 +6567,6 @@
     "interventions": [],
     "summary": "This cross-sectional observational study aims to investigate the relationship between obstacle crossing performance under single-task and dual-task conditions and the levels of fatigue and disability in individuals with Relapsing-Remitting Multiple Sclerosis (RRMS). Walking performance will be assessed under standard walking and obstacle crossing conditions with and without a concurrent cognitive task. The study will examine how increased task complexity affects walking performance and its association with fatigue, disability, cognition, and functional mobility.",
     "url": "https://clinicaltrials.gov/study/NCT07736482"
-  },
-  {
-    "nct_id": "NCT07738120",
-    "title": "Immersive Virtual Reality and Exercise Programs in Multiple Sclerosis: ExeRVIEM III",
-    "status": "RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-10-06",
-    "last_update": "2026-07-31",
-    "interventions": [
-      "Virtual Exercise based program",
-      "Standard rehabilitation"
-    ],
-    "summary": "TITLE: Immersive Virtual Reality and Exercise Programs in Multiple Sclerosis: ExeRVIEM III. INTRODUCTION: Multiple sclerosis (MS) is a chronic neuroimmunological and degenerative disease characterized by demyelination within the central nervous system. Its clinical course involves motor impairment, sensory disturbances, cognitive dysfunction, and a progressive decline in functional independence. MS is one of the leading causes of non-traumatic disability in young adults. This highlights the considerable impact of the disease, both in terms of healthcare burden and healthcare expenditure. Within this context, therapeutic exercise has evolved from being considered potentially harmful to being recognized as a safe and effective intervention capable of improving gait, balance, cardiorespiratory fitness, fatigue, and quality of life in people with MS. A model has been proposed for prescribing and progressing exercise at different stages of MS: passive range-of-motion exercises designed for patients with the most severe symptoms, a second stage incorporating active muscle-strengthening exercises, and finally, integrated exercise programs that incorporate strength, endurance, balance, and coordination training. Evidence from systematic reviews and meta-analyses shows that structured exercise (including high-intensity protocols when performed under supervision) is safe and can improve functional outcomes. Our ExeRVIEM III project (Physiotherapy program with High-Intensity Exercise Program and Immersive Virtual Reality in Multiple Sclerosis) represents a novel strategy to facilitate rehabilitation exercise programs using head-mounted virtual reality displays. HYPOTHESIS: The ExeRVIEM III project, based on training physical function in people with MS, is feasible and safe, and could have a potential clinical impact in the motor and cognitive domains, as well as applicability in community settings, such as patient associations. GENERAL OBJECTIVES: 1.1 To design and implement an ExeRVIEM III exercise program/protocol for people with MS. 1.2 To evaluate the safety of the high-intensity virtual reality exercise program. SPECIFIC OBJECTIVES: 2.1 To analyze the possible changes in disability, functional variables, cognitive domains and biomarkers in the short and medium term in people who attend a patient association and carry out the ExeRVIEM III exercise program for people with MS. METHODOLOGY: A randomized controlled trial, double-arm (experimental and control group) study will be conducted at a patient association (Santiago de Compostela, Spain). The intervention will consist of an 6-month supervised virtual rehabilitation program, with two weekly sessions on alternate days, in addition to the standard rehabilitation prescribed by the patient association clinical team (physiotherapy, occupational therapy, and cognitive training sessions). An inmersive virtual reality (IVR) body combat exercise videogame will be used, administered via a virtual reality headset. In accordance with clinical guidelines for IVR, sessions will be intentionally brief (10 minutes) to minimize cybersickness and excessive fatigue. Assessments will be conducted at baseline (week 0) and immediately after the intervention (week 24). Demographic and clinical data will also be collected, including sex, age, comorbidities, disease duration, MS subtype, and pharmacological treatment. Assessments will be conducted at the patient association and in the Neurology Department of the referral hospital. Feasibility, safety, strength parameters, dual-task performance and fatigue levels assessments will be performed at the patient association by physiotherapists, while the remaining assessments will be completed at the hospital by a neurologist specializing in MS. The content of the assessments will be: Patient characteristics that will include data on age, sex, years since diagnosis, MS subtype, and pharmacological treatment. Feasibility: Number of virtual sessions attended by each participant (adherence rate via registration sheet). Rate Perceived Effort using the modified Borg scale, which measures the level of perceived exertion on a scale of 0 to 10 from no effort to maximum effort. Safety: adverse events using the Simulator Sickness Questionnaire (SSQ).Strength parameters using Five times sit to stand test (FTSST) and handgrip test. Functional mobility will be assessed using Timed and Go test (TUG) and with dual task performance using TUG-cog. Level of fatigue using the Fatigue Severity Scale (FSS). Level of disability: using the Expanded Disability Status Scale (EDSS).Gait will be evaluated using the 25Foot Walk Test (25FWT). Manual dexterity will be assessed using 9-Hole Peg Test (9HPT). Cognitive domains evaluated by the Symbol Digit Modalities Test (SDMT)Axonal injury biomarker evaluated by Neurofilament light chain (sNfL) concentrations.",
-    "url": "https://clinicaltrials.gov/study/NCT07738120"
   },
   {
     "nct_id": "NCT05090033",
@@ -8248,24 +8359,6 @@
     ],
     "summary": "This study aimed to assess the effect of probiotic supplementation on fatigue, quality of life, disability, depression and inflammatory markers in patients with relapsing-remitting multiple sclerosis (RRMS).\n\nPatients were randomized to receive probiotics plus standard therapy The study sought to determine whether modulation of gut microbiota could provide additional clinical and immunological benefits in RRMS management.",
     "url": "https://clinicaltrials.gov/study/NCT07346924"
-  },
-  {
-    "nct_id": "NCT07631923",
-    "title": "Acute Intermittent Hypoxia Combined With Gait Training in Multiple Sclerosis",
-    "status": "NOT_YET_RECRUITING",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2026-06-15",
-    "last_update": "2026-06-08",
-    "interventions": [
-      "Acute Intermittent Hypoxia (AIH)",
-      "Sham Acute Intermittent Hypoxia (AIH)",
-      "Myoelectric Interface Neurorehabilitation Training (MINT)"
-    ],
-    "summary": "This interventional, randomized, sham-controlled study will examine whether Acute Intermittent Hypoxia (AIH) delivered immediately before Myoelectric Interface Neurorehabilitation Training (MINT)-based locomotor training improves gait in people with Multiple Sclerosis. The primary objectives are to evaluate changes in gait speed and endurance, with secondary objectives assessing spatiotemporal gait parameters, fatigue, and safety. Participants will receive AIH or sham priming followed by standardized treadmill and/or overground gait training, with outcome measures collected before and after the intervention across multiple sessions.",
-    "url": "https://clinicaltrials.gov/study/NCT07631923"
   },
   {
     "nct_id": "NCT07510607",
@@ -11443,22 +11536,6 @@
     ],
     "summary": "The primary outcome measure is PIRA (progression independent of relapse activity), based primarily on clinical assessment, dichotomized as present or not.\n\nFor Aim 1, the cohort, patient-derived disability status (PDDS) score, and ambulation score (self-reported) will be the primary endpoints of interest.\n\nFor Aim 2, the clinical trial, PIRA will be measured pre-GLP-1 start and at study end (week 72). A composite score of disability, similar to the ORATORIO13 trial will be constructed including EDSS score, 25-foot timed walk, 9-hole peg test, and SDMT score.",
     "url": "https://clinicaltrials.gov/study/NCT07207148"
-  },
-  {
-    "nct_id": "NCT07225361",
-    "title": "Ublituximab (Briumvi) for Early Forms of Relapsing Multiple Sclerosis",
-    "status": "RECRUITING",
-    "phase": [
-      "PHASE4"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2025-11-28",
-    "last_update": "2026-03-17",
-    "interventions": [
-      "Ublituximab"
-    ],
-    "summary": "In this prospective, open-label, single-arm, single-institution trial, the investigators will accomplish the following two aims:\n\n1. study the safety and tolerability of Ublituximab (Briumvi) twice annually in participants with early MS over a treatment observation period of \\~12 months.\n2. study the pre- and post-treatment change in plasma neurofilament light chain, tested at baseline pre-Ublituximab treatment, and q24 weeks for 96 weeks post Ublituximab treatment initiation.",
-    "url": "https://clinicaltrials.gov/study/NCT07225361"
   },
   {
     "nct_id": "NCT06676618",
@@ -14825,18 +14902,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06564311"
   },
   {
-    "nct_id": "NCT01018537",
-    "title": "NARCOMS Registry: A Multiple Sclerosis Registry",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "1996-01",
-    "last_update": "2025-11-13",
-    "interventions": [],
-    "summary": "This project is based on the idea that we can learn about the complexities of MS by following disease and treatment patterns in a large group of people over several years. The information gathered is used for research only. Results are presented in summary form only. All details submitted by registry participants is strictly confidential.\n\nTo participate in NARCOMS complete the baseline enrollment survey online through www.narcoms.org (or directly using the following link: https://redcap.link/py2rnyyn) or you can request a mail-in survey be sent to you by emailing MSregistry@narcoms.org. You will be asked to update your information, online or by mail, twice a year. Each update survey typically takes less than 20 minutes to complete.\n\nThere is no cost to participate. For your participation you are offered a free subscription to the NARCOMS quarterly magazine, NARCOMS Now. NARCOMS Now provides a reliable source of information about the latest in MS research and disease management. You can stop participating in the registry at any time.\n\nYou may also receive additional surveys or information on clinical trials. You are not obligated to participate and these additional studies will always come directly from NARCOMS. Your contact information will not be shared or sold to other parties.",
-    "url": "https://clinicaltrials.gov/study/NCT01018537"
-  },
-  {
     "nct_id": "NCT07225868",
     "title": "Prepare the Mind: Can Coaching in Goal-directed Behaviour Increase the Success of Cognitive Rehabilitation in People With MS?",
     "status": "RECRUITING",
@@ -15103,20 +15168,6 @@
     "interventions": [],
     "summary": "Multiple sclerosis (MS) is a chronic inflammatory disease characterised by deterioration in the mechanics of the lower extremities and respiratory muscles and a decrease in respiratory function. Fatigue and depression are among the most common symptoms. The aim of this study is to investigate the potential effect of the mechanical properties of the lower extremity and respiratory muscles on respiratory function, fatigue, and anxiety-depression. The sample will consist of 29 MS patients who meet the inclusion and exclusion criteria and volunteer to participate in the study. The sociodemographic data of the individuals will be recorded. Subsequently, the Pulmonary Dysfunction Index (PDI), Modified Medical Research Council Scale (mMRC), Expanded Disability Status Scale (EDSS), Fatigue Severity Scale (FSS), and Hospital Anxiety and Depression Scale (HADS) will be administered to the individuals. The mechanical properties of the accessory respiratory and lower extremity muscles will be recorded using a digital palpation device, and respiratory function and respiratory muscle strength values will be recorded using a portable spirometer. Lower extremity function and strength will be assessed using the 30-second sit-to-stand test. At the end of the study, the level of association between the mechanical properties of the auxiliary respiratory and lower extremity muscles and respiratory function, respiratory muscle strength, fatigue, and depression will be evaluated. The SPSS software package will be used for data analysis. A significance level of p˂0.05 will be accepted. Furthermore, this study will determine the relationship between the mechanical properties of respiratory and lower extremity muscles in MS and provide a different perspective on the clinical management of the disease.",
     "url": "https://clinicaltrials.gov/study/NCT07202780"
-  },
-  {
-    "nct_id": "NCT07202494",
-    "title": "Integrating Metabolism, Connectivity, and Mesoscale Imaging at Ultra-high Field to Decipher Mechanisms of Resilience and Neurodegeneration in Neurological Diseases and Healthy Aging",
-    "status": "RECRUITING",
-    "phase": [],
-    "study_type": "OBSERVATIONAL",
-    "start_date": "2025-05-19",
-    "last_update": "2025-10-01",
-    "interventions": [
-      "Imaging Techniques (MRI 3T & 7T, Functional, Structural, and Metabolic Imaging)"
-    ],
-    "summary": "The MESO7 study is a prospective observational research project designed to investigate the mechanisms of resilience and neurodegeneration in neurological diseases and healthy aging. It leverages advanced multiparametric brain and spinal cord imaging at high (3T) and ultra-high magnetic fields (7T) to assess structural, functional, metabolic, and mesoscale changes in the central nervous system (CNS). Particular emphasis is placed on sodium (23Na-MRI) and phosphorus (31P-MRI) imaging, along with layer-dependent brain connectivity analysis.\n\nThe primary objective is to evaluate the impact of neuronal energy failure, measured via sodium concentration, on functional and structural reorganization in both healthy individuals and patients with various neurological conditions. Directed brain network models will be constructed from MRI data to quantify the connectivity strength (in- and out-degree) of cortical nodes. These connectivity metrics will be correlated with sodium concentrations to assess energy failure and its role in network reorganization. Longitudinal follow-up over two years is planned for subgroups with clinically progressive diseases.\n\nSecondary objectives include decoding metabolic, microstructural, and functional signatures of successful aging at the laminar level; characterizing disease-specific patterns of cortical and spinal microstructure associated with physical and cognitive dysfunction; describing longitudinal mesoscale and metabolic changes; and generating representative normative imaging datasets for the neuroscience community.\n\nThe study plans to enroll a total of 540 patients across 9 neurological conditions:Multiple Sclerosis (MS), Neuromyelitis Optica Spectrum Disorders (NMOSD), MOG Antibody Disease (MOGAD), Alzheimer's disease, Parkinson's disease, Amyotrophic Lateral Sclerosis (ALS), temporal and non-temporal epilepsy, and mild traumatic brain injury (mTBI),in addition to 160 age- and sex-matched healthy controls, totaling 700 participants. Imaging and clinical assessments will be performed at the CEMEREM center at Timone University Hospital, AP-HM, Marseille, France.\n\nEach participant will undergo multiparametric brain and spinal cord MRI, including DTI, BOLD, MP2RAGE, SWI, quantitative sodium and phosphorus imaging, and functional assessments including neuropsychological testing, visual and motor function tests. Disease-specific assessments such as OCT, evoked potentials, and disability scores (e.g., EDSS for MS) will also be included when appropriate.\n\nThe study is expected to improve understanding of CNS adaptation mechanisms and support the development of more accurate diagnostic and prognostic tools for neurodegenerative diseases",
-    "url": "https://clinicaltrials.gov/study/NCT07202494"
   },
   {
     "nct_id": "NCT05658601",
@@ -32303,27 +32354,6 @@
     ],
     "summary": "To provide real world evidence evaluating whether a strategy of early initiation and escalation of disease modifying treatment (DMT) in relapsing-remitting multiple sclerosis (RRMS) affects disease outcome over a 10 year period. Our aim is to provide evidence for clinicians and patients regarding the benefits and risks of early initiation and active escalation of disease modifying treatments (DMTs) in relapsing-remitting multiple sclerosis (RRMS), using real world data.",
     "url": "https://clinicaltrials.gov/study/NCT05446285"
-  },
-  {
-    "nct_id": "NCT05447143",
-    "title": "Effect of Home Exercise Program on Various Parameters in Patients With Multiple Sclerosis",
-    "status": "COMPLETED",
-    "phase": [
-      "NA"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2021-09-30",
-    "last_update": "2022-07-20",
-    "interventions": [
-      "Fatigue Severity Scale",
-      "Berg Balance Test",
-      "Time up and go- 25 steps walking test",
-      "Multiple Sclerosis Quality of Life",
-      "Brief International Cognitive Assessment for MS (BICAMS)",
-      "Beck Depression and Anxiety Scale"
-    ],
-    "summary": "Multiple Sclerosis (MS) is a chronic, inflammatory, neurodegenerative, and autoimmune disease that progresses with progressive neurological dysfunction and affects the central nervous system. A multidisciplinary rehabilitation approach is crucial in the systematic and supportive treatment of MS. Exercise training is a therapeutic approach that minimizes functional capacity loss and slows progression in MS. Randomized controlled studies have shown that exercise training improves physical fitness, reduces motor fatigue, and improves the quality of life and psychological state in individuals with MS.\n\nWhen the literature is examined, it is seen that popular exercises such as pilates, yoga, and Tai-Chi are used in addition to aerobics, strengthening, endurance, and stretching exercises in the treatment of individuals with MS. In order to eliminate the economic burden, which is one of the exercise barriers of individuals, and to gain exercise habits, home exercise programs should be expanded. When the literature is examined, it is emphasized that the importance of home exercise programs is emphasized, and it is very important in the treatment of patients who cannot attend an exercise program, especially by going to any center for various reasons. However, there is little information on the effectiveness and content of home exercise programs in patients with MS. From this point of view, this study is capable of supporting the missing part of the literature.",
-    "url": "https://clinicaltrials.gov/study/NCT05447143"
   },
   {
     "nct_id": "NCT04891341",
@@ -59144,23 +59174,6 @@
     ],
     "summary": "The purpose of the study is to determine if Interferon-alfa is effective and safe in multiple sclerosis patients who developed neutralizing antibodies for Interferon-beta.",
     "url": "https://clinicaltrials.gov/study/NCT01171209"
-  },
-  {
-    "nct_id": "NCT01364246",
-    "title": "Safety and Efficacy of Umbilical Cord Mesenchymal Stem Cell Therapy for Patients With Progressive Multiple Sclerosis and Neuromyelitis Optica",
-    "status": "UNKNOWN",
-    "phase": [
-      "PHASE1",
-      "PHASE2"
-    ],
-    "study_type": "INTERVENTIONAL",
-    "start_date": "2010-01",
-    "last_update": "2012-11-28",
-    "interventions": [
-      "human umbilical cord mesenchymal stem cells"
-    ],
-    "summary": "Multiple sclerosis (MS) has been classically regarded as a chronic inflammatory autoimmune demyelinating disease of the central nervous system, along with a considerable pathological heterogeneity. Neuromyelitis optica (NMO) is a severe inflammatory, demyelinating disease, and its clinical characteristics include recurrent optic neuritis and longitudinally extensive transverse myelitis.\n\nCurrent therapies provide only modest control of progressive Multiple Sclerosis and Neuromyelitis Optica.Stem cell therapy might open a light horizon in approaching to an efficient treatment in progressive MS and NMO. In this study, the safety and efficacy of Human Umbilical Cord Mesenchymal Stem Cells transplantation will be evaluated in patients with progressive MS and NMO.",
-    "url": "https://clinicaltrials.gov/study/NCT01364246"
   },
   {
     "nct_id": "NCT00206635",
